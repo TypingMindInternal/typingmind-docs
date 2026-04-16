@@ -1,0 +1,43 @@
+# Branding and Customizations
+
+## Custom branding
+
+[Custom branding](Branding%20and%20Customizations/Custom%20branding%2047cf8f83f0a44f0082408a8c90d25a9a.md)
+
+[Custom domain](Branding%20and%20Customizations/Custom%20domain%20a139bfd412074501917497e8e070b0c0.md)
+
+[Customize the chat interface](Branding%20and%20Customizations/Customize%20the%20chat%20interface%20989e22d13f7d4628888297cbf1ffaa14.md)
+
+[Custom Email Sender via SMTP](Branding%20and%20Customizations/Custom%20Email%20Sender%20via%20SMTP%2065a55823d0a4412e8dd2354dc7ad8b04.md)
+
+## Build shared resources
+
+[Build a Shared Prompt Library](Branding%20and%20Customizations/Build%20a%20Shared%20Prompt%20Library%2014c8456cf11843c88e429abe1e64c7c0.md)
+
+[Build a Shared AI Agent collection](Branding%20and%20Customizations/Build%20a%20Shared%20AI%20Agent%20collection%20829eed7850f647dc9b072036107d3939.md)
+
+## Connect your internal data
+
+[Four levels of data integrations](Branding%20and%20Customizations/Four%20levels%20of%20data%20integrations%2091f313344d634701875e22ecb6ddd530.md)
+
+[System Prompts on Admin Panel](Branding%20and%20Customizations/System%20Prompts%20on%20Admin%20Panel%20efd91f599aea4426b825648b9cb527ba.md)
+
+[Get started with Knowledge Base](Branding%20and%20Customizations/Get%20started%20with%20Knowledge%20Base%20a4c12cd101e2431793ccaa9e638006e2.md)
+
+[How Knowledge Base works in TypingMind Team](Branding%20and%20Customizations/How%20Knowledge%20Base%20works%20in%20TypingMind%20Team%20a6c7bf8992714f489e169e74c17106a2.md)
+
+[Training Files vs Knowledge Base ](Branding%20and%20Customizations/Training%20Files%20vs%20Knowledge%20Base%20458c5f7e42f64dfe979b8304d18340c1.md)
+
+[Connect with your Notion pages](Branding%20and%20Customizations/Connect%20with%20your%20Notion%20pages%2080292de96bcc428b83a5abd59d6dc905.md)
+
+[Connect knowledge base to your AI Agents ](Branding%20and%20Customizations/Connect%20knowledge%20base%20to%20your%20AI%20Agents%208e18df9644914dbf96b83c8a4b2e6123.md)
+
+## Usage Limits
+
+[Restrict Model Access](Branding%20and%20Customizations/Restrict%20Model%20Access%202a87c3f1757a80d5bf46f52ee697925b.md)
+
+[Restrict Prompt Access](Branding%20and%20Customizations/Restrict%20Prompt%20Access%206c7993b8f2074e189f8787b689784242.md)
+
+[Restrict AI Agents Access](Branding%20and%20Customizations/Restrict%20AI%20Agents%20Access%20f7aacc2dda124f02b6f0cddda2a38fc2.md)
+
+[Enable LLMs to cite sources when using RAG](Branding%20and%20Customizations/Enable%20LLMs%20to%20cite%20sources%20when%20using%20RAG%2082bc40f07e2f426fa0a1085ad46f3863.md)

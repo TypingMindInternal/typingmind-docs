@@ -1,0 +1,165 @@
+# Terms of Service
+
+Last updated: March 30, 2026
+
+## 1. Introduction
+
+Please read these Terms of Service carefully before using our Services. These Terms of Service govern your use of all products and services provided by Devuap LLC ("we," "us," or "our"), including but not limited to all features, functionalities, tools, platforms, subscriptions, add-ons, personal license products, self-hosted versions, and any other services made available through the TypingMind application, website, or any associated domains (collectively, "Services").
+
+It is extremely important that you understand your rights and responsibilities so our cooperation goes smoothly and you are satisfied with our Services. You may use our Services if you satisfy the conditions referred to in these Terms of Service, in particular if you have the full legal capacity to enter into binding contracts; then you are a "User."
+
+Acceptance of these Terms of Service is voluntary, but it is a prerequisite for accessing and using the Services. By creating an account ("Account"), using any of our Services, or accessing any of our websites, you are agreeing to be bound by and comply with these Terms of Service. If you do not agree to these terms, do not use the Services.
+
+---
+
+## 2. Scope of Services
+
+The specific scope, features, limitations, and descriptions of each Service are presented within the user interface of the applicable Service at the time of your use or purchase. The Services may include, but are not limited to: Client-side applications that run locally in your browser or on your device; Downloadable, self-hostable versions of the application; Cloud-based data backup and synchronization across devices; Online, cloud-hosted SaaS platforms for individual or team use; Subscription management and add-on purchases (e.g., additional seats, increased usage limits, storage, or other configurable options); Team administration and member management; Integration with third-party AI models and APIs. You acknowledge and agree that: We may introduce new Services, modify existing Services, or discontinue Services from time to time, with or without notice; The description of each Service as presented in the user interface at the time of your use or purchase shall be considered part of this Agreement; Your continued use of any Service after such changes constitutes your acceptance of the updated scope of that Service; We make no guarantee that any particular feature or functionality will remain available indefinitely.
+
+---
+
+## 3. Account Registration and Requirements
+
+3.1 Eligibility: To use our Services you must be a natural person or legal entity with full legal capacity, provide your valid email address and any other information requested during signup, and agree to these Terms of Service.
+3.2 Individual Accounts: Unless otherwise specified for a particular Service, your Account can only be used by one individual. A single login shared by multiple users is not permitted.
+3.3 Team and Multi-User Accounts: Certain Services may offer team or multi-user functionality. Where applicable: A team account is created by an organization or individual (the "Team Administrator") who manages the team workspace; The Team Administrator is responsible for managing team members, seats, add-ons, and configurations within the team workspace; Each team member must have their own individual seat, determined by the number of seats purchased under the applicable Plan.
+3.4 Account Security: You are responsible for maintaining the security of your Account, and you are fully responsible for all activities that occur under your Account. You must immediately notify us at [**support@typingmind.com**](mailto:support@typingmind.com) of any unauthorized uses of your Account or any other breaches of security. We will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions.
+
+---
+
+## 4. Payments and Billing
+
+4.1 Fees and Pricing: You may view the fees for the Services ("Fees") in the pricing available on our website or within the user interface of the applicable Service ("Pricing"). The Pricing determines plans ("Plan"), which define the scope of the Services and their duration.
+
+4.3 Personal License Terms: A personal license grants you the right to use the personal version of TypingMind, including the online version hosted on [www.typingmind.com](http://www.typingmind.com/) and the downloadable static self-host version. A personal license is valid forever and does not require renewal. The features unlocked by the personal license are based on the plan you selected and are described on our pricing page. The personal version is limited to one user and a limited number of devices, depending on the plan you selected, as defined on our pricing page. Personal license fees are paid in advance and are refundable within 14 days of purchase, except for specific rights granted to Consumers by mandatory law.
+
+4.4 Team License Terms: A team license grants you the right to use the team version of TypingMind for a limited term and automatically renews at the end of the license period. The team version of TypingMind includes the online, cloud-hosted version on [custom.typingmind.com](http://custom.typingmind.com/) and the downloadable, self-hosted team version provided after purchase. Pricing for the team version varies based on the plan and the add-ons you select from our pricing page. All purchases in the team version are non-refundable, except for specific rights granted to Consumers by mandatory law.
+
+4.3 Subscription Terms: A "Subscription Term" is the period of Service provision whose length is determined by the Plan you selected. A Subscription Term expires upon the end of the day which corresponds with its commencement date in the following month or year (e.g., monthly or annual periods). Fees are paid in advance and are non-refundable, save for specific rights granted to Consumers by mandatory law.
+
+4.4 Recurring Payments: Some Plans and add-ons are subject to recurring payments. By providing your payment data, you authorize us to automatically charge the applicable Fees on a monthly or annual basis. To stop recurring payments, you must cancel your Plan on your Account's subscription page before the end of the current Subscription Term.
+
+4.5 Non-Payment: If you fail to pay the Fee, we may block your Account. If you fail to settle the amounts due within a subsequent period set by us, we have the right to terminate the Agreement, delete your Account, and permanently remove your Content. We may also downgrade your Plan to a free version (if available) and delete data that exceeds the free Plan's limits.
+
+4.6 Plan Changes and Add-Ons: You may upgrade your Plan or purchase add-ons (e.g., additional seats, usage limits) at any time. Changes take effect immediately upon successful payment. Downgrades for annual plans take effect at the start of the next annual Subscription Term.
+
+4.7 Pricing Changes: We may amend the Pricing. Such changes will not affect your current Subscription Term but will become binding at the commencement of your next Subscription Term unless you cancel your subscription.
+
+---
+
+## 5. Content and Acceptable Use
+
+5.1 User Content: "Content" means every electronic file, data, text, conversation, configuration, prompt, output, or other material that you upload, store, generate, transmit, or process through the Services. You retain ownership of your Content, but you are entirely responsible for it.
+5.2 Prohibited Use: You are prohibited from using the Services to store, share, or process Content that: Is illegal, racist, offensive, pornographic, libelous, or defamatory; Infringes the intellectual property, privacy, or personal rights of any third party; Contains viruses, malware, trojan horses, or destructive code; Constitutes spam, phishing, or misleading commercial content.
+5.3 Our Rights: We have the right (though not the obligation) to, in our sole discretion: (i) refuse or remove any Content that violates these Terms or is otherwise objectionable; and (ii) suspend or terminate access to the Services for any User who violates these rules, without refund or prior notice.
+
+---
+
+## 6. AI-Generated Content and Third-Party Services
+
+6.1 AI Content Disclaimer: The Services may facilitate access to third-party AI models. You acknowledge and agree that: We do not warrant or assume responsibility for the accuracy, reliability, completeness, or suitability of any AI-generated output; AI outputs may contain errors, inaccuracies, biases, or misleading information. You agree not to rely on such outputs without independent human verification; You are solely responsible for how you use, distribute, or act upon any AI-generated content.
+6.2 Third-Party Integrations: The Services may include links to, or integrations with, third-party APIs, libraries, payment processors, or websites. We are not responsible for these Third-Party Services. You access and use them at your own risk, subject to the third party's terms and conditions.
+6.3 Bring-Your-Own API Keys: Certain Services may require or allow you to provide your own API keys from third-party providers (e.g., OpenAI, Anthropic, Google, or others). When you use your own API keys: (a) you are solely responsible for obtaining, managing, and securing those keys in accordance with the third-party provider's terms; (b) all usage charges from the third-party provider are your sole responsibility — we do not sell, resell, or broker API keys; (c) API requests made using your keys may be sent directly from your device to the third-party provider without passing through our servers; and (d) we are not liable for any costs, service interruptions, or issues arising from your use of third-party API keys.
+
+---
+
+## 7. Data Backup and Assumption of Risk
+
+7.1 Not a Primary Backup: Where the Services provide data storage, backup, or synchronization, this is provided as a convenience and is **not** a primary or sole data storage solution. You are solely responsible for maintaining independent backups of all your Content. We shall have no liability for any loss, corruption, or destruction of data, regardless of the cause.
+7.2 Assumption of Risk: You expressly acknowledge that your use of the Services is at your sole risk. You assume full responsibility for any damages to your computer systems, loss of data, or other harm resulting from your use of the Services.
+7.3 Not for Critical Use: The Services are not designed or authorized for use in environments requiring fail-safe performance (e.g., medical, legal, financial, nuclear, aviation, or safety-critical applications) where failure could lead to death, injury, or severe financial or environmental damage. We disclaim all liability arising from such use.
+7.4 Automatic Data Deletion: If you have no active paid subscription with us and your Account has no activity for ninety (90) consecutive days, we may automatically delete your Content and Account data. You are solely responsible for exporting or backing up your Content before any such deletion.
+7.5 Client-Side Data Storage: Certain Services store data locally on your device (e.g., in your browser's local storage). Such locally stored data — including but not limited to chat conversations, settings, API keys, and configurations — is under your sole custody and control. We have no ability to access, recover, or restore locally stored data. You are solely responsible for backing up any locally stored Content, and we shall have no liability for loss of data due to device failure, browser data clearing, or any other cause.
+
+---
+
+## 8. Intellectual Property
+
+8.1 Ownership: The Services, including software, layouts, trademarks, logos, databases, texts, and graphics, are our intellectual property (or that of our licensors) and are protected by law. Using the Services does not grant you any ownership rights to our intellectual property.
+
+8.2 Self-Hosted and Downloadable Versions: Where we provide a downloadable or self-hostable version of the Services, your license grants you the right to use and deploy the provided compiled code only. You may not modify, reverse-engineer, decompile, disassemble, or redistribute the code. The source code is proprietary and is not made available to licensees. Any unauthorized use, copying, or distribution of the software constitutes a violation of these Terms and applicable intellectual property laws.
+
+8.3 Copyright Complaints: If you believe material on the Services violates your copyright, please notify us at [**support@typingmind.com**](mailto:support@typingmind.com). We will respond by removing or disabling access to infringing material where appropriate.
+
+---
+
+## 9. Disclaimer of Warranties
+
+9.1 No Warranty: THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE." WE DO NOT REPRESENT OR WARRANT THAT THE OPERATION OF THE SERVICES (OR ANY PORTION THEREOF) WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT THE SERVICES (OR ANY PORTION THEREOF) WILL OPERATE IN COMBINATION WITH OTHER HARDWARE, SOFTWARE, SYSTEMS, OR DATA NOT PROVIDED BY US. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE AND OUR AFFILIATES, SUPPLIERS, AND LICENSORS HEREBY EXPRESSLY DISCLAIM AND EXCLUDE ANY AND ALL EXPRESS OR IMPLIED REPRESENTATIONS OR WARRANTIES, WHETHER UNDER COMMON LAW, STATUTE, OR OTHERWISE, INCLUDING WITHOUT LIMITATION ANY AND ALL WARRANTIES AS TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SATISFACTORY QUALITY, TITLE, NON-INFRINGEMENT OF THIRD-PARTY RIGHTS, AND ANY WARRANTIES ARISING FROM COURSE OF DEALING OR USAGE OF TRADE.
+
+9.2 Trial and Free-Tier Disclaimer: Without limiting the generality of Section 9.1, if you are accessing or making use of the Services on a trial, beta, or free-tier basis, you acknowledge and agree that such access is made available on an "as-is" basis without support, warranty, or indemnification, and we shall have no liability or obligation with respect to any such trial or free-tier use.
+
+9.3 Assumption of Risk: You expressly acknowledge that your use of the Services is at your sole risk. You assume full responsibility for any damages to your computer systems, loss of data, or other harm resulting from your use of the Services.
+
+---
+
+## 10. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WE OR OUR SUPPLIERS BE LIABLE FOR ANY LOST PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, REPLACEMENT SERVICE, OR OTHER SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR INDIRECT DAMAGES, HOWEVER CAUSED AND REGARDLESS OF THEORY OF LIABILITY, WHETHER ARISING OUT OF OR RELATING TO: (A) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICES; (B) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE SERVICES; (C) UNAUTHORIZED ACCESS, USE, OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT; OR (D) ANY OTHER MATTER RELATING TO THE SERVICES.
+
+OUR TOTAL CUMULATIVE LIABILITY FOR ALL CLAIMS ARISING UNDER OR IN CONNECTION WITH THESE TERMS, WHETHER IN CONTRACT, TORT, OR OTHERWISE, SHALL NOT EXCEED THE AMOUNT OF FEES ACTUALLY PAID BY YOU FOR THE SERVICES DURING THE TWELVE (12) MONTH PERIOD PRECEDING THE EVENT GIVING RISE TO THE CLAIM.
+
+THESE LIMITATIONS APPLY EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY FAILS OF ITS ESSENTIAL PURPOSE. THE LIMITATIONS IN THIS SECTION 10 SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY PROVIDED HEREIN.
+
+---
+
+## 11. Indemnification
+
+11.1 Indemnification by You: You will defend, indemnify, and hold Devuap LLC, its affiliates, suppliers, and licensors harmless, and each of their respective officers, directors, employees, and representatives, from and against any claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or relating to any third-party claim with respect to: (a) your Content; (b) breach of these Terms of Service or violation of applicable law by you; (c) alleged infringement or misappropriation of a third party's intellectual property rights resulting from your Content; or (d) your use of or access to the Services in violation of these Terms.
+
+11.2 Notice of Claim and Indemnity Procedure: In the event of a claim for which a party seeks indemnity or reimbursement under this Section 11 (the "Indemnified Party"), the Indemnified Party shall, as conditions of the indemnity: (a) notify the indemnifying party in writing as soon as practicable, but in no event later than thirty (30) days after receipt of such claim, together with such further information as is necessary for the indemnifying party to evaluate such claim; and (b) allow the indemnifying party to assume full control of the defense of the claim, including retaining counsel of its own choosing. Upon the assumption by the indemnifying party of the defense of a claim with counsel of its choosing, the indemnifying party will not be liable for the fees and expenses of additional counsel retained by any Indemnified Party. The Indemnified Party shall cooperate with the indemnifying party in the defense of any such claim. The indemnifying party shall have no obligation to indemnify or reimburse for any losses, damages, costs, disbursements, expenses, settlement liability of a claim, or other sums paid by any Indemnified Party voluntarily, and without the indemnifying party's prior written consent, to settle a claim.
+
+11.3 Entire Indemnification Understanding: Subject to the maximum liability set forth in Section 10, the provisions of this Section 11 constitute the entire understanding of the parties regarding indemnification liability, including but not limited to infringement claims and related claims for breach of warranty, and each party's sole obligation to indemnify and reimburse any Indemnified Party.
+
+---
+
+## 12. Time Limitation on Claims
+
+To the maximum extent permitted by applicable law, any cause of action or claim you may have arising out of or relating to these Terms of Service or the Services must be commenced within one (1) year after the cause of action accrues. Otherwise, such cause of action or claim is permanently barred.
+
+---
+
+## 13. Dispute Resolution and Arbitration
+
+13.1 For Non-Consumer Users: Any dispute, controversy, or claim arising out of or relating to these Terms of Service, or the breach, termination, or invalidity thereof, shall be settled by binding arbitration in accordance with the arbitration rules of the the state of Wyoming, United States. The language of arbitration shall be English. You agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated, or representative action. You waive any right to participate in a class action lawsuit or class-wide arbitration against us.
+13.2 For Consumers: A Consumer may take advantage of alternative dispute resolution (ADR) methods, including mediation or arbitration. EU Consumers may submit complaints through the EU ODR platform at [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr). If a Consumer declines ADR, disputes will be settled by a competent court with jurisdiction determined according to mandatory consumer protection laws applicable to the Consumer.
+
+---
+
+## 14. Term, Termination, and Cancellation
+
+We may terminate or suspend your access to the Services immediately, without prior notice or liability, for any reason, including without limitation if you breach these Terms of Service.
+
+You may terminate your Agreement with us at any time by ceasing to use the Services and deleting your Account. Upon termination, your right to use the Services will immediately cease, and your Content may be permanently deleted. All provisions of these Terms which by their nature should survive termination (including ownership provisions, warranty disclaimers, indemnity, and limitations of liability) shall survive.
+
+---
+
+## 15. Consumer Rights
+
+A "Consumer" means any natural person who enters into transactions for purposes outside their trade, business, craft, or profession. We respect consumer rights. Any provisions of these Terms of Service that are less favorable to a Consumer than the mandatory laws of the Consumer's jurisdiction shall be deemed invalid and replaced by those statutory provisions. Specifically, exclusions or severe limitations of liability for intentional misconduct or gross negligence do not apply to Consumers where prohibited by law.
+
+---
+
+## 16. General Provisions
+
+16.1 Governing Law: These Terms of Service shall be governed by and construed in accordance with the laws of the state of Wyoming, United States, without regard to its conflict of law provisions. Where mandatory consumer protection laws of your jurisdiction provide a higher level of protection, those laws shall apply.
+
+16.2 Force Majeure: We shall not be liable for any failure or delay in performance due to circumstances beyond our reasonable control, including acts of God, natural disasters, pandemics, war, terrorism, government actions, internet outages, or failures of third-party AI providers.
+
+16.3 Export Compliance: You agree to comply with all applicable export and re-export control laws, including those of the EU and the USA. You warrant you are not located in a comprehensively sanctioned country or on any restricted parties list.
+
+16.4 Privacy: Your use of the Services is subject to our Privacy Policy and Data Processing Addendum, which govern how we collect and process your personal data.
+
+16.5 Severability & Waiver: If any provision of these Terms is held to be unenforceable, the remaining provisions will remain in full force. Our failure to enforce any right or provision will not be considered a waiver of those rights.
+
+16.6 Amendments: We reserve the right to modify these Terms at any time due to legal, technical, or operational reasons. We will notify you of material changes via email or through the Services at least 14 days prior to them taking effect. Continued use of the Services after changes become effective constitutes acceptance.
+
+16.7 Assignment: You may not assign or transfer your rights under these Terms without our prior written consent. We may freely assign our rights and obligations.
+
+16.8 Entire Agreement: These Terms of Service constitute the entire agreement between you and Devuap LLC regarding the Services and supersede all prior agreements.
+
+---
+
+## 17. Contact Information
+
+If you have any questions, concerns, or complaints about these Terms of Service or the Services, please contact us at [support@typingmind.com](mailto:support@typingmind.com)

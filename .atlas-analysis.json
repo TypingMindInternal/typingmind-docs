@@ -1,0 +1,176 @@
+{
+  "projectType": "saas",
+  "projectName": "TypingMind",
+  "projectDescription": "A powerful AI chat interface that lets you use any AI model (GPT, Claude, Gemini, and more) with your own API keys, plus advanced features like AI agents, plugins, MCP integrations, and team workspaces.",
+  "theme": "almond",
+  "primaryColor": "#e5cbbf",
+  "lightColor": "#96b4c2",
+  "darkColor": "#453947",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Documentation",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "introduction",
+              "quickstart/get-started-with-typingmind",
+              "quickstart/typingmind-license-plans",
+              "install-typingmind-app",
+              "quickstart/typingmind-vs-chatgpt-plus-vs-other-chatgpt-uis"
+            ]
+          },
+          {
+            "group": "AI Models",
+            "pages": [
+              "manage-and-connect-ai-models/set-up-api-keys",
+              "manage-and-connect-ai-models/manage-ai-models",
+              "manage-and-connect-ai-models/which-ai-models-should-you-use",
+              "manage-and-connect-ai-models/activate-multi-model-responses",
+              "manage-and-connect-ai-models/openai-api",
+              "manage-and-connect-ai-models/anthropic-claude",
+              "manage-and-connect-ai-models/google-gemini",
+              "manage-and-connect-ai-models/openrouter",
+              "manage-and-connect-ai-models/azure-openai",
+              "manage-and-connect-ai-models/ollama-local-models",
+              "manage-and-connect-ai-models/model-context-length"
+            ]
+          },
+          {
+            "group": "AI Agents",
+            "pages": [
+              "ai-agents/ai-agents-overview",
+              "ai-agents/write-effective-instruction-for-ai-agent",
+              "ai-agents/ai-agent-examples",
+              "ai-agents/train-agent-with-custom-knowledge",
+              "ai-agents/build-multi-agent-workflows",
+              "ai-agents/dynamic-context-via-api"
+            ]
+          },
+          {
+            "group": "Plugins & MCP",
+            "pages": [
+              "plugins/use-typingmind-plugin",
+              "plugins/build-a-typingmind-plugin",
+              "plugins/web-search-and-image-search",
+              "plugins/deep-research",
+              "plugins/interactive-canvas-artifacts",
+              "plugins/dall-e-3-image-generation",
+              "model-context-protocol-mcp-in-typingmind",
+              "model-context-protocol-mcp-in-typingmind/use-mcp-with-private-mcp-connector"
+            ]
+          },
+          {
+            "group": "Chat & Settings",
+            "pages": [
+              "chat-management/organize-chats",
+              "chat-management/project-folders",
+              "chat-management/shareexport-chats",
+              "prompts/use-prompt-library",
+              "system-prompt/system-instruction",
+              "parameter-settings/parameter-settings",
+              "general-settings/customize-app-appearance",
+              "general-settings/keyboard-shortcuts"
+            ]
+          },
+          {
+            "group": "Data & Voice",
+            "pages": [
+              "upload-and-chat-with-files/chat-with-documents",
+              "rag-knowledge-base",
+              "cloud-sync-and-backup/cloud-sync-and-backup-overview",
+              "voice-input-speech-to-text",
+              "text-to-speech/use-text-to-speech"
+            ]
+          },
+          {
+            "group": "Self-host",
+            "pages": [
+              "static-self-host",
+              "static-self-host/static-self-host-package-and-updates",
+              "static-self-host/static-self-host-faqs"
+            ]
+          },
+          {
+            "group": "Help",
+            "pages": [
+              "general-faqs",
+              "troubleshooting/common-issues",
+              "security-and-compliance",
+              "changelog"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "TypingMind Team",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "typingmind-team/getting-started",
+              "quickstart/typingmind-vs-typingmind-team",
+              "typingmind-team/use-cases"
+            ]
+          },
+          {
+            "group": "Setup & Admin",
+            "pages": [
+              "typingmind-team/user-management",
+              "typingmind-team/user-management/oauth-2.0",
+              "typingmind-team/account-management",
+              "typingmind-team/analytics"
+            ]
+          },
+          {
+            "group": "Customization",
+            "pages": [
+              "typingmind-team/branding-and-customizations",
+              "typingmind-team/branding-and-customizations/build-a-shared-prompt-library",
+              "typingmind-team/branding-and-customizations/connect-knowledge-base-to-your-ai-agents",
+              "typingmind-team/branding-and-customizations/restrict-prompt-access"
+            ]
+          },
+          {
+            "group": "Integrations & Hosting",
+            "pages": [
+              "typingmind-team/integrations",
+              "typingmind-team/self-host-guides",
+              "typingmind-team/reseller-program"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Connect any AI model (OpenAI, Claude, Gemini, Ollama, OpenRouter, and 20+ more) with your own API keys",
+    "AI Agents with custom instructions, knowledge bases, and multi-agent workflows",
+    "Extensible plugin system with built-in plugins (web search, image generation, Zapier, etc.) and custom plugin builder",
+    "Model Context Protocol (MCP) support for connecting to external tools and services",
+    "Rich chat management: projects, folders, threads, fork/edit, canvas editor, share/export",
+    "Prompt library with templates and variables",
+    "RAG knowledge base for document-grounded AI responses",
+    "Voice input (speech-to-text) and text-to-speech with ElevenLabs support",
+    "Cloud sync and backup across devices",
+    "TypingMind Team: white-labeled workspace with user management, analytics, and SSO",
+    "Static self-hosting option for maximum privacy",
+    "LLM automated workflows",
+    "Interactive Canvas (Artifacts) for code and document editing",
+    "Deep Research plugin for comprehensive AI-powered research"
+  ],
+  "publicApiSurface": [
+    "AI model API key configuration (OpenAI, Anthropic, Google Gemini)",
+    "Custom model endpoint / proxy configuration",
+    "Plugin JSON schema for building custom plugins",
+    "Plugin server URL (HTTP action, JavaScript Code, MCP)",
+    "OAuth 2.0 authentication for plugins",
+    "Dynamic context API for AI agents",
+    "MCP server connection (remote via HTTP, local via npx/uvx/Docker)",
+    "Private MCP Connector (@typingmind/mcp npm package)",
+    "Cloud storage sync API",
+    "Pre-fill chat data via URL parameters",
+    "TypingMind Extensions (custom JavaScript injection)"
+  ]
+}

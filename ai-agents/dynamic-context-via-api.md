@@ -1,0 +1,63 @@
+# Dynamic Context via API
+
+When building an AI agent or setting up a Project Folder, **Dynamic Context** allows you to retrieve content from an API and inject it into the system prompt. This can be used to add live information to the AI or implement Retrieval-Augmented Generation (RAG) from your own data sources (e.g., vector store database).
+
+## Use cases
+
+- Connect to a vector store database and make use of the `lastUserMessage` parameter to inject useful/relevant content into the AI agent/Project.
+- Inject “Latest newsletter post” to your AI agent/Project context.
+- Add “Latest 10 tweets from my account” to the AI agent/Project.
+
+![Untitled](dynamic-context-via-api/Untitled.png)
+
+## How it works
+
+For AI Agent: 
+
+- Go to **AI Agents** → Create or edit an AI Agent → Set up a Dynamic Context via API.
+
+For [Project Folders](../Chat%20Management/Project%20Folders%20a95fbc7ad192418c969f9271b404a635.md):
+
+- Create a new folder in the left sidebar → Click on Project Settings → Set up Dynamic Context
+
+Here’s how it works:
+
+- When the user chats with the AI Agent/starts a conversation within Project Folders, the API endpoint will be called.
+- The response of the API endpoint will be added to the AI Agent’s system prompt or the Project Folder Context and Instructions.
+- The AI agent / AI model within Projects will use this additional context to answer the user's questions better.
+
+## Compared to adding Knowledge Base
+
+Compared to [the knowledge base (TypingMind Custom](../TypingMind%20Team/Branding%20and%20Customizations/How%20Knowledge%20Base%20works%20in%20TypingMind%20Team%20a6c7bf8992714f489e169e74c17106a2.md)), the Dynamic Context will inject the content directly into the AI Agent/Project Context. This means the AI will not need to perform a lookup in order to get the desired content.
+
+- **Pros:** The AI has access to the context at all times in full and no delay.
+- **Cons:** More context length will be used.
+
+## Flexibility
+
+- You can include additional information to the request headers/body like chat ID, AI Agent ID, last user message, etc.
+- Set up a cache policy so that the AI assistant doesn’t call your API continuously for every message.
+- You can set up your Dynamic Context Endpoint to call your private server or any API you have access to.
+
+## Limitations
+
+- The API response will be added to the system prompt, this means the context length will increase. You should keep your API response short and concise.
+- The maximum API response length that will be accepted is 15% of the model token context limit. Any text that exceeds the 15% limit will be truncated.
+- The best format to respond in your API is Formatted JSON (not minified) or Markdown.
+
+## Common issues and Troubleshooting
+
+- **For macOS app users (including the Setapp macOS app):** the API endpoint must be served via the HTTPS protocol. This is Apple’s security measure for all macOS app. You can workaround this by using a local SSL proxy.
+- **CORS related issue:** your API endpoint must allow requests from Typing Mind, with the origins as follow:
+    - The official Typing Mind Web app and macOS app: https://www.typingmind.com
+    - The Setapp version: `https://setapp.typingcloud.com`
+    - For static self-host version: enter the origin of your hosted page.
+
+## Available Variables
+
+The following variables are available to be used in the Request Header and Request Body. The variables will be replaced when the API is called.
+
+- `{chatID}` (string) is the unique ID assigned to the current chat.
+- `{characterID}` (string) is the unique ID of the AI Agent that the user is chatting with.
+- `{lastUserMessage}` (string) is the content of the last message from the user.
+- For **Typing Mind Custom:** `{userID}` (string) is the ID of the currently logged-in user.

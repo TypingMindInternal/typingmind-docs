@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="Page-1" id="tfuKF9XHlBRjp-AT2hQi">
+    <mxGraphModel dx="2193" dy="1173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nIesPxcrk4994yK2Y4WB-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="300" width="280" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="690" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-3" value="Isolated running environment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="770" y="310" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-4" value="This can also be your own device (laptop) or a remote private server" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="330" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nIesPxcrk4994yK2Y4WB-5" target="nIesPxcrk4994yK2Y4WB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nIesPxcrk4994yK2Y4WB-5" target="nIesPxcrk4994yK2Y4WB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nIesPxcrk4994yK2Y4WB-5" target="nIesPxcrk4994yK2Y4WB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.396;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nIesPxcrk4994yK2Y4WB-5" target="nIesPxcrk4994yK2Y4WB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.369;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nIesPxcrk4994yK2Y4WB-5" target="nIesPxcrk4994yK2Y4WB-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-5" value="TypingMind MCP Connector&lt;div&gt;(open source)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="480" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nIesPxcrk4994yK2Y4WB-7" target="nIesPxcrk4994yK2Y4WB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-7" value="Filesystem MCP Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="380" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nIesPxcrk4994yK2Y4WB-8" target="nIesPxcrk4994yK2Y4WB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-8" value="Puppeter MCP Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="450" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nIesPxcrk4994yK2Y4WB-9" target="nIesPxcrk4994yK2Y4WB-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-30" value="via internet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nIesPxcrk4994yK2Y4WB-16">
+          <mxGeometry x="-0.2157" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-9" value="GitHub MCP Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="520" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nIesPxcrk4994yK2Y4WB-10" target="nIesPxcrk4994yK2Y4WB-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-31" value="via internet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nIesPxcrk4994yK2Y4WB-17">
+          <mxGeometry x="-0.3456" y="-4" relative="1" as="geometry">
+            <mxPoint x="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-10" value="Google Drive MCP Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="590" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-12" value="Interact with local files, folders, apps within the isolated environment" style="ellipse;whiteSpace=wrap;html=1;spacing=12;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="400" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-15" value="External services" style="ellipse;whiteSpace=wrap;html=1;spacing=12;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="510" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-24" value="...(other MCP servers)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="660" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nIesPxcrk4994yK2Y4WB-26" target="nIesPxcrk4994yK2Y4WB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-29" value="HTTP requests" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nIesPxcrk4994yK2Y4WB-27">
+          <mxGeometry x="-0.0283" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-26" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;TypingMind" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="500" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-38" value="Your device" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="275" y="310" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-39" value="Your laptop or mobile device where you use TypingMind" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nIesPxcrk4994yK2Y4WB-40" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=http://localhost:8151/logo.png;" vertex="1" parent="1">
+          <mxGeometry x="360" y="508" width="42" height="42" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

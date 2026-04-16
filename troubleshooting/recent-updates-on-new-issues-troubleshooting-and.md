@@ -1,0 +1,31 @@
+# Recent updates on new issues, troubleshooting, and incidents
+
+This page will documents all recent issues or incidents of TypingMind for both the personal and the team version with resolutions.
+
+### Anthropic Claude Sonnet 3.7 Thinking and Plugin / Function call error (Mar 19, 2025)
+
+We’ve received reports that plugins aren’t working in Thinking Mode (Claude Sonnet 3.7). The error message looks like this:
+
+```
+"Request failed. Error details: messages.1.content.0.type: Expected `thinking` or `redacted_thinking`, but found `text`. When `thinking` is enabled, a final `assistant` message must start with a thinking block (preceeding the lastmost set of `tool_use` and `tool_result` blocks). We recommend you include thinking blocks from previous turns. To avoid this requirement, disable `thinking`. Please consult our documentation at https://docs.anthropic.com/en/docs/build-with-claude/extended-thinking"
+```
+
+The issue is now resolved, simply reload your app and try again.
+
+### Anthropic Function calling / Plugins Error (Mar 18, 2025)
+
+We’ve received reports that plugins sometimes aren’t working with Anthropic models (Claude). The error message looks like this:
+
+```
+"Request failed. Error details: messages.3: `tool_use` ids were found without `tool_result` blocks immediately after: .... Each `tool_use` block must have a corresponding `tool_result` block in the next message."
+```
+
+This is due to an incompatible change Anthropic API.
+
+The issue is now resolved, simply reload your app and try again.
+
+### Anthropic CORS Error (Mar 15, 2025)
+
+CORS issue when entering Claude API Key: "Invalid API key. Please make sure your API key is still working properly. Error details: CORS requests are not allowed for this Organization because of its settings. If you believe this in error, contact support at [https://support.anthropic.com/."](https://support.anthropic.com/.%22)
+
+**Answer:** Anthropic changed the CORS policy for some accounts but we have a proxy to resolve this. For this issue, simply remove your anthropic API key and enter again in TypingMind.

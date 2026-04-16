@@ -1,0 +1,95 @@
+---
+title: "Static self-hosting: run TypingMind on your own server"
+description: "Deploy TypingMind on your own hosting infrastructure for personal use. Download the static package and host it anywhere — including locally."
+sidebarTitle: "Static self-host"
+---
+
+TypingMind is a static web application with no backend server, which makes it straightforward to self-host. When you purchase a TypingMind license, you receive the compiled static package that you can deploy on any web server or static hosting service — so you have your own private instance of TypingMind running on your own domain.
+
+## What is self-hosting?
+
+Self-hosting means you take the same TypingMind application available at typingmind.com and deploy it on infrastructure you control: your own server, a cloud hosting service, or even your local machine. The self-hosted version is functionally identical to typingmind.com.
+
+## Why self-host?
+
+Self-hosting gives you:
+
+- **Control over availability** — your instance continues working even if typingmind.com is inaccessible
+- **Custom domain** — access TypingMind from your own URL
+- **Privacy** — the app is served from your infrastructure
+- **Offline or local use** — run TypingMind on localhost without any internet dependency
+
+## Where can you deploy?
+
+Because TypingMind is a static app (HTML, CSS, and JavaScript only), it can be deployed anywhere that can serve static files:
+
+- **GitHub Pages**
+- **Cloudflare Pages**
+- **AWS S3 + CloudFront**
+- **Vercel**
+- **Netlify**
+- **Heroku**
+- **Any standard web server** (Apache, Nginx)
+- **Localhost** — run it as a local desktop-like app
+
+## Getting the self-host package
+
+The self-host static package is available to all licensed TypingMind users. See the [Static Self-host Package & Updates](/static-self-host/static-self-host-package-and-updates) page for download links and version history.
+
+## What you need
+
+- A valid **TypingMind license key** — the self-hosted app requires a license key to unlock premium features, just as typingmind.com does
+- An **AI API key** (e.g., OpenAI API key) — to make requests to AI models
+- A hosting environment to serve the static files
+
+<Warning>
+  The license key and API key are entered in the app at runtime, stored locally in the browser. Do **not** embed your license key or API key in the static files and never share them publicly.
+</Warning>
+
+## Deploying the self-host package
+
+<Steps>
+  <Step title="Download the package">
+    Download the latest self-host ZIP package from the [package and updates page](/static-self-host/static-self-host-package-and-updates).
+  </Step>
+  <Step title="Unzip the files">
+    Extract the contents of the ZIP file to your local machine. You will find an `index.html` and associated static assets.
+  </Step>
+  <Step title="Upload to your hosting provider">
+    Upload the extracted files to your chosen hosting provider. For GitHub Pages, push to a repository with Pages enabled. For Vercel or Netlify, connect the folder or repository and deploy.
+  </Step>
+  <Step title="Visit your deployment URL">
+    Open your deployment URL in a browser. The TypingMind interface will load.
+  </Step>
+  <Step title="Enter your license key and API key">
+    On first load, enter your TypingMind license key and AI API key. These are stored locally in your browser.
+  </Step>
+</Steps>
+
+<Note>
+  No code changes are required. The self-host package is pre-built and ready to deploy as-is. You do not need to modify any files before deployment.
+</Note>
+
+## Updates
+
+The self-host version is updated after the hosted typingmind.com version. To update your self-hosted instance, download the latest package and re-deploy it. See [Static Self-host Package & Updates](/static-self-host/static-self-host-package-and-updates) for the latest version.
+
+## Permissions and restrictions
+
+The self-host package comes with specific usage permissions:
+
+- You **can** deploy and use the compiled code on your own server
+- You **can** use it for personal access
+- You **cannot** modify or redistribute the compiled code
+- You **cannot** share or resell the package
+- You **cannot** embed the app as a white-label product for your customers
+
+<Warning>
+  The static self-host version is intended for **personal use only**. If you want to deploy TypingMind for a team, community, or customers without requiring each user to supply their own license key and API key, see [TypingMind Team](https://typingmind.com/custom) instead.
+</Warning>
+
+## Technical support
+
+The self-host package is provided free with a license purchase. Because there are countless possible hosting configurations, TypingMind does not offer technical support for self-hosted deployments. If you are not comfortable setting up a static web server, the hosted version at typingmind.com is the recommended option.
+
+For common questions, see the [Static Self-host FAQs](/static-self-host/static-self-host-faqs).

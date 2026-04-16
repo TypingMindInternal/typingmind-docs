@@ -1,0 +1,149 @@
+---
+title: "Voice input: speak your messages with speech-to-text"
+description: "Dictate messages in TypingMind using your microphone. Choose from Web Speech API (free), OpenAI Whisper, Groq Whisper, or Azure Speech for transcription."
+sidebarTitle: "Voice input"
+---
+
+TypingMind supports voice input so you can dictate messages instead of typing them. Spoken audio is automatically transcribed into text and placed in the message input, ready to send. This is especially useful for longer prompts, hands-free workflows, or accessibility needs.
+
+TypingMind offers four speech-to-text providers:
+
+| Provider | Cost | Best for |
+|---|---|---|
+| Web API | Free | Quick setup, no API key needed |
+| OpenAI Whisper | Pay-as-you-go | High accuracy, file uploads |
+| Groq Whisper | Pay-as-you-go | Fast transcription |
+| Azure Whisper | Pay-as-you-go | Enterprise or Azure customers |
+
+## 1. Web API (free)
+
+The Web API option uses your browser's built-in speech recognition — no API key required.
+
+<Steps>
+  <Step title="Open Settings">
+    Go to **Settings** in the workspace sidebar.
+  </Step>
+  <Step title="Select Voice Input">
+    Click on the **Voice Input** section.
+  </Step>
+  <Step title="Choose Web API">
+    Select **Web API** from the speech-to-text provider dropdown.
+  </Step>
+  <Step title="Start recording">
+    Click the microphone icon in the message input area to begin speaking. Your speech is automatically transcribed as you talk.
+  </Step>
+</Steps>
+
+<Note>
+  The Web API uses your browser's built-in speech recognition engine, which varies by browser. Chrome and Edge typically provide the best results. Safari and Firefox support may be limited.
+</Note>
+
+<Warning>
+  Your browser will ask for microphone permission the first time you use voice input. You must grant this permission for voice input to work. If you accidentally denied it, go to your browser's site settings and re-enable microphone access for typingmind.com.
+</Warning>
+
+## 2. OpenAI Whisper
+
+OpenAI Whisper provides high-accuracy transcription across many languages. It requires an OpenAI API key and charges are billed to your OpenAI account based on audio duration.
+
+<Steps>
+  <Step title="Add your OpenAI API key">
+    Go to your **Profile → API Keys** and enter your OpenAI API key. If you do not have one, create one at platform.openai.com.
+  </Step>
+  <Step title="Open Voice Input settings">
+    Go to **Settings → Voice Input**.
+  </Step>
+  <Step title="Select OpenAI Whisper">
+    Choose **OpenAI Whisper** from the provider dropdown.
+  </Step>
+  <Step title="Start recording">
+    Click the microphone icon to begin dictating. Your speech is sent to the OpenAI Whisper API and transcribed.
+  </Step>
+</Steps>
+
+<Tip>
+  With OpenAI Whisper, you can also upload pre-recorded audio files for transcription — for example, meeting recordings or webinars. The uploaded file must not exceed **25 MB**.
+</Tip>
+
+## 3. Groq Whisper
+
+Groq Whisper uses the Groq API to deliver fast transcriptions. You need a Groq API key.
+
+<Steps>
+  <Step title="Add your Groq API key">
+    Go to **Settings → Voice Input** and enter your Groq API key in the Groq Whisper section.
+  </Step>
+  <Step title="Select Groq Whisper">
+    Choose **Groq Whisper** from the provider dropdown.
+  </Step>
+  <Step title="Start recording">
+    Click the microphone icon to begin dictating.
+  </Step>
+</Steps>
+
+<Note>
+  If you are using **TypingMind Team**, your workspace administrator can set the Groq API key in the Admin Portal's **API Keys** page so individual users do not need to configure it themselves.
+</Note>
+
+## 4. Azure Whisper
+
+Azure Whisper is suitable for organisations already using Microsoft Azure's OpenAI services. It requires both an Azure Whisper API key and an API endpoint.
+
+<Steps>
+  <Step title="Add your Azure credentials">
+    Go to **Settings → Voice Input** and enter your **Azure Whisper API key** and **API endpoint** in the Azure Whisper section.
+  </Step>
+  <Step title="Select Azure Whisper">
+    Choose **Azure Whisper** from the provider dropdown.
+  </Step>
+  <Step title="Start recording">
+    Click the microphone icon to begin dictating.
+  </Step>
+</Steps>
+
+<Note>
+  If you are using **TypingMind Team**, your administrator can configure the Azure API key and endpoint centrally in the Admin Portal so team members do not need to set it up individually.
+</Note>
+
+### How to get your Azure Whisper API key and endpoint
+
+<Steps>
+  <Step title="Create an Azure OpenAI account">
+    If you do not already have one, create an account at oai.azure.com.
+  </Step>
+  <Step title="Navigate to Deployments">
+    In the Azure Portal, go to the **Deployments** section.
+  </Step>
+  <Step title="Create a Whisper deployment">
+    Click **Create** and select a **Whisper** model from the model list.
+  </Step>
+  <Step title="Copy your credentials">
+    Click on the newly created deployment to view its details. Copy the **API Endpoint (Target URI)** and **API Key** — you will need both for TypingMind.
+  </Step>
+</Steps>
+
+## Language support
+
+Language support varies by provider:
+
+- **Web API**: Supports the languages recognised by your browser's speech engine. You may be able to configure the language in your OS or browser settings.
+- **OpenAI Whisper**: Supports over 50 languages with high accuracy, including automatic language detection.
+- **Groq Whisper**: Follows Whisper model language support.
+- **Azure Whisper**: Follows Azure's Whisper deployment language support.
+
+## Tips for better transcription accuracy
+
+<AccordionGroup>
+  <Accordion title="Use a quality microphone">
+    A headset or dedicated microphone significantly improves transcription accuracy compared to a built-in laptop mic, especially in noisy environments.
+  </Accordion>
+  <Accordion title="Speak clearly and at a moderate pace">
+    Whisper-based providers handle natural speech well, but speaking clearly and avoiding rapid speech can reduce errors.
+  </Accordion>
+  <Accordion title="Minimise background noise">
+    Background noise, music, or other voices can degrade transcription quality. Use a quiet environment when possible.
+  </Accordion>
+  <Accordion title="Review before sending">
+    Always review the transcribed text before sending. The AI cannot correct transcription errors on its own.
+  </Accordion>
+</AccordionGroup>

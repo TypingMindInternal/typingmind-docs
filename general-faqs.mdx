@@ -1,0 +1,218 @@
+---
+title: "General FAQs: everything you need to know about TypingMind"
+description: "Answers to the most frequently asked questions about TypingMind — pricing, API keys, devices, data privacy, self-hosting, and more."
+sidebarTitle: "General FAQs"
+---
+
+This page answers the most common questions about TypingMind. Use the sections below to jump to the topic you need.
+
+## General
+
+<AccordionGroup>
+  <Accordion title="What is TypingMind?">
+    TypingMind is a feature-rich chat interface for large language models. It connects directly to AI APIs — such as OpenAI, Anthropic Claude, and others — using your own API key. On top of the raw chat experience, TypingMind adds productivity features including:
+
+    - Initial system instructions
+    - Web search and live data
+    - A prompt library
+    - AI agents
+    - Text-to-speech and voice input
+    - Self-hosting and PWA support
+    - Advanced chat management
+    - Plugins and integrations
+
+    You can try it at typingmind.com.
+  </Accordion>
+
+  <Accordion title="How does TypingMind work?">
+    TypingMind is a static web application with no backend server. When you enter your API key, it is stored locally and securely in your browser. All API requests go directly from your browser to the AI provider's servers (e.g., OpenAI). Think of it as a powerful HTTP client for AI APIs that adds many convenience features on top.
+  </Accordion>
+
+  <Accordion title="Is TypingMind free?">
+    TypingMind.com is free to use with basic features. You will need a working AI API key (e.g., an OpenAI API key) to use the app — TypingMind does not sell API credits.
+
+    Premium features (chat search history, full prompt library, plugins, and more) can be unlocked with a one-time license purchase.
+  </Accordion>
+
+  <Accordion title="What are the premium features?">
+    Premium features include chat history search, access to the full prompt library, plugins, AI agents, and more. See the [feature list](https://www.typingmind.com/) and pricing page for a complete breakdown.
+  </Accordion>
+
+  <Accordion title="What are the limitations of the free plan?">
+    On the free plan, chat history is not saved and a reminder popup appears periodically. Some other features are also limited or unavailable without a license.
+  </Accordion>
+
+  <Accordion title="How do I get support?">
+    Email the support team at support@typingmind.com. Expected response time is 2–3 business days.
+  </Accordion>
+</AccordionGroup>
+
+## Account and setup
+
+<AccordionGroup>
+  <Accordion title="How do I get an OpenAI API key?">
+    1. Sign up at platform.openai.com if you do not already have an account.
+    2. Go to **Profile → View API Keys**.
+    3. Create a new secret key.
+    4. Copy the key and paste it into TypingMind.
+  </Accordion>
+
+  <Accordion title="How is my API key handled? Is it safe?">
+    Your API key is stored locally in your browser's local storage and is never sent to TypingMind's servers. TypingMind is a static app — there is no backend that could intercept your key. All API calls go directly from your browser to the AI provider.
+
+    For additional protection, TypingMind offers optional AES encryption for your API key. Enable it in the API key settings by selecting **Encrypt API key** and setting a password.
+  </Accordion>
+
+  <Accordion title="Do I need a ChatGPT Plus subscription?">
+    No. ChatGPT Plus ($20/month) is not required. You only need an OpenAI API key, which is separate from ChatGPT Plus. The API uses the same underlying models.
+  </Accordion>
+
+  <Accordion title="How much does the OpenAI API cost?">
+    The ChatGPT API costs very little for typical usage. A typical conversation of around 1,000 characters costs roughly $0.001 (less than a tenth of a cent). You can have thousands of conversations for around $1. See OpenAI's official pricing at openai.com/pricing.
+  </Accordion>
+
+  <Accordion title="How do I set up my profile picture?">
+    Click your profile picture in TypingMind and enter an image URL to set your avatar.
+  </Accordion>
+
+  <Accordion title="How do I migrate chats from ChatGPT to TypingMind?">
+    Go to **App Settings → All data → Import From OpenAI**. This imports your exported ChatGPT conversation history into TypingMind.
+  </Accordion>
+</AccordionGroup>
+
+## License and devices
+
+<AccordionGroup>
+  <Accordion title="How many devices can I use with one license?">
+    Each license key works on up to **5 devices**. A "device" is counted as each browser and device combination where the license key is entered and chat history is stored. For example:
+
+    - Chrome on your laptop = 1 device
+    - Chrome on your phone = 2nd device
+    - Firefox on your laptop = 3rd device (separate from Chrome on the same machine)
+  </Accordion>
+
+  <Accordion title="How do I manage or remove devices from my license?">
+    See the [Manage Licenses & Devices](/quickstart/typingmind-license-plans) page for full instructions. You can deactivate old devices through the Lemon Squeezy My Orders portal without needing access to the old device.
+  </Accordion>
+
+  <Accordion title="I forgot my license key. How do I get it back?">
+    Go to typingmind.com/license and enter the email address you used to purchase. Your license key will be retrieved. Alternatively, go to app.lemonsqueezy.com/my-orders and log in with your purchase email.
+  </Accordion>
+
+  <Accordion title="Do I need to re-enter my keys on each device?">
+    Yes. Your license key and API key are stored locally per browser. If you switch to a new browser or device, you must enter them again. To sync your keys across devices automatically, enable [Cloud Sync](/cloud-sync-and-backup/cloud-sync-and-backup-overview).
+  </Accordion>
+
+  <Accordion title="Does the license key expire?">
+    No. The license key is valid indefinitely.
+  </Accordion>
+
+  <Accordion title="Do future updates cost extra?">
+    No. All future updates are included with your one-time license purchase. Certain optional add-ons (such as expanded cloud storage) may be purchased separately.
+  </Accordion>
+</AccordionGroup>
+
+## Refund policy
+
+<AccordionGroup>
+  <Accordion title="Can I get a refund?">
+    Yes. TypingMind offers a **14-day money-back guarantee**. If you are not satisfied, contact support@typingmind.com within 14 days of purchase for a full refund.
+  </Accordion>
+</AccordionGroup>
+
+## Usage and cost
+
+<AccordionGroup>
+  <Accordion title="Where can I see the cost or token count for my chats?">
+    In a chat, click on the cost indicator near the message input to toggle between displaying the estimated cost and the context length (token count).
+  </Accordion>
+
+  <Accordion title="What is a token?">
+    A token is roughly 4 characters of text. API models process input and output in tokens. Each model has a maximum context length — the total number of tokens that can be in a single conversation (including the system prompt, all messages, and the AI's response).
+
+    - GPT-3.5: up to 4,096 tokens
+    - GPT-4: up to 8,192 tokens (8K model) or 32,768 tokens (32K model)
+
+    If you reach the context limit, delete some older messages or start a new chat.
+  </Accordion>
+
+  <Accordion title="How is the cost calculated?">
+    Cost is estimated based on the tokens used in the conversation, including the system prompt, all messages, AI responses, and any enhanced features (chat title generation, web search, AI agents, file uploads, etc.). Costs are estimates — refer to your OpenAI dashboard for precise usage figures.
+  </Accordion>
+</AccordionGroup>
+
+## Web search
+
+<AccordionGroup>
+  <Accordion title="How does web search work?">
+    When you enable web search, TypingMind adds instructions to the AI model that teach it to issue search queries when needed. The model decides when to search, runs the query via the configured search engine API, and incorporates the results into its answer. Search requests go directly from your browser to the search API — TypingMind's servers are not involved.
+  </Accordion>
+
+  <Accordion title="What search engines are supported?">
+    Google is currently supported. Additional search engines will be added in future updates.
+  </Accordion>
+
+  <Accordion title="How many searches can I do?">
+    Google's Programmable Search Engine free tier includes 100 searches per day. For higher volumes, you can enable billing in the Google Cloud Console.
+  </Accordion>
+</AccordionGroup>
+
+## Text-to-speech
+
+<AccordionGroup>
+  <Accordion title="How do I enable text-to-speech?">
+    Go to **Settings → Text-to-Speech** and select a provider: Web Speech (free, browser-native) or ElevenLabs. See the [text-to-speech guide](/text-to-speech/use-text-to-speech) for full setup instructions.
+  </Accordion>
+
+  <Accordion title="How do I get an ElevenLabs API key?">
+    Register at elevenlabs.io to create an account and access your API key from the account dashboard.
+  </Accordion>
+</AccordionGroup>
+
+## Self-hosting
+
+<AccordionGroup>
+  <Accordion title="Can I self-host TypingMind?">
+    Yes. The static self-host package is available to all licensed users. See the [static self-host overview](/static-self-host) for instructions.
+  </Accordion>
+
+  <Accordion title="What are the benefits of self-hosting?">
+    Self-hosting gives you your own private instance under your own domain, ensures availability independent of typingmind.com, and allows local use without relying on the hosted service.
+  </Accordion>
+
+  <Accordion title="Can I use the self-hosted version for my team?">
+    Your team members can use your self-hosted instance, but each person will need their own TypingMind license key and API key. For a managed team deployment where users do not need their own keys, see [TypingMind Team](https://typingmind.com/custom).
+  </Accordion>
+</AccordionGroup>
+
+## Data privacy
+
+<AccordionGroup>
+  <Accordion title="Does TypingMind access or store my data?">
+    By default, all data (chats, API keys, settings) is stored locally in your browser and never sent to TypingMind's servers. TypingMind Cloud sync is entirely opt-in. Even when cloud sync is enabled, your data is encrypted in transit and at rest.
+  </Accordion>
+
+  <Accordion title="Is my API key encrypted?">
+    TypingMind offers optional AES encryption for your API key. Enable it via **API key settings → Encrypt API key** and set a password. Chat messages and other data use standard browser local storage, which may or may not be encrypted depending on your browser and OS.
+  </Accordion>
+
+  <Accordion title="Who can see my search queries?">
+    Search requests go directly from your browser to the search engine API. TypingMind's servers are not involved and cannot see your queries. Only you and the search engine see the query.
+  </Accordion>
+</AccordionGroup>
+
+## TypingMind Team
+
+<AccordionGroup>
+  <Accordion title="What is TypingMind Team?">
+    TypingMind Team is a custom-branded, cloud-hosted version of TypingMind designed for businesses and teams. As an admin, you configure the API key, system prompts, and access controls centrally — your users simply log in and chat without needing their own API keys or license keys.
+  </Accordion>
+
+  <Accordion title="How does TypingMind Team differ from TypingMind.com?">
+    TypingMind.com is for individual users who supply their own API key and license. TypingMind Team includes an admin panel where you manage all configuration for your team, set usage limits, customise branding, and add or remove users.
+  </Accordion>
+
+  <Accordion title="Where can I find more information about TypingMind Team?">
+    Visit typingmind.com/custom for pricing, features, and to start a new team deployment.
+  </Accordion>
+</AccordionGroup>
