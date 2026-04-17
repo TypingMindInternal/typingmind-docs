@@ -1,5 +1,6 @@
-# UI change for upload docs / upload multi-docs
-
+---
+title: "UI change for upload docs / upload multi-docs"
+---
 ### **🚀 What's New?**
 
 Just updated the UI for the Upload Document feature on [TypingMind.com](http://typingmind.com/)

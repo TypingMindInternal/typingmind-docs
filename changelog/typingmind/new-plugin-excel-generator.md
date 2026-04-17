@@ -1,5 +1,6 @@
-# New Plugin: Excel Generator
-
+---
+title: "New Plugin: Excel Generator"
+---
 ## 🔥 What’s new?
 
 This plugin allows you to **generate and customize your Excel files** quickly.

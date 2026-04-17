@@ -1,5 +1,6 @@
-# New Analytics dashboard
-
+---
+title: "New Analytics dashboard"
+---
 ### **🚀 What's New?**
 
 New Analytics Dashboard is now live on [custom.typingmind.com](http://custom.typingmind.com/)! 📊

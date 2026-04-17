@@ -1,5 +1,6 @@
-# Manage your instance
-
+---
+title: "Manage your instance"
+---
 ### **🚀 What's New?**
 
 🚀  We've just made it a lot easier to manage your Chat instances at [http://typingmind.com/custom](http://typingmind.com/custom)!

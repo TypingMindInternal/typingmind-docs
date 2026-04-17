@@ -1,5 +1,6 @@
-# User Management
-
+---
+title: "User Management"
+---
 ## Manage and Group users
 
 [Invite team members](User%20Management/Invite%20team%20members%20965ec539da0d4e1fbacdb7c0c86ee0e1.md)

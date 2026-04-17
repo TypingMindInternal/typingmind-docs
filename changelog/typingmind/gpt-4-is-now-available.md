@@ -1,5 +1,6 @@
-# GPT-4 is now available!
-
+---
+title: "GPT-4 is now available!"
+---
 ### **🚀 What's New?**
 
 You can use GPT-4 on [typingmind.com](http://typingmind.com/) now!

@@ -1,5 +1,6 @@
-# Added Image Search plugin!
-
+---
+title: "Added Image Search plugin!"
+---
 ### **🚀 What's New?**
 
 Added Image Search 🌅 Plugin to [typingmind.com](http://typingmind.com/) 👀

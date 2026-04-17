@@ -1,5 +1,6 @@
-# Gemini Experimental 1114 is now available!
-
+---
+title: "Gemini Experimental 1114 is now available!"
+---
 ## 🔥 What’s new?
 
 - 32k context window

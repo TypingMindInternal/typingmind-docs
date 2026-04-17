@@ -1,5 +1,6 @@
-# Organize your chats into folders
-
+---
+title: "Organize your chats into folders"
+---
 🧩 New Gemini Models are now available on TypingMind!
 
 ### **🚀 What's New?**

@@ -1,5 +1,6 @@
-# OpenAI o1 is now available!
-
+---
+title: "OpenAI o1 is now available!"
+---
 ## 🔥 What’s new?
 
 OpenAI o1 is now available on TypingMind!

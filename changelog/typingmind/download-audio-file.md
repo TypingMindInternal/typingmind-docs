@@ -1,5 +1,6 @@
-# Download audio file
-
+---
+title: "Download audio file"
+---
 ### **🚀 What's New?**
 
 Added an audio download button to TypingMind AI's response. 

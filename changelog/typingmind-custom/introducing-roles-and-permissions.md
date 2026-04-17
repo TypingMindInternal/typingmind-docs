@@ -1,5 +1,6 @@
-# Introducing Roles and Permissions
-
+---
+title: "Introducing Roles and Permissions"
+---
 We are excited to share with your our new Roles and Permissions system - the advanced system that allows you to add team members to your chat instance, assign specific roles and permissions, and enable them to access the Admin Panel to support you in their designated functions.
 
 ## 🔥 What’s new?

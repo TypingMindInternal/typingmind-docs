@@ -1,5 +1,6 @@
-# Pin chats or messages
-
+---
+title: "Pin chats or messages"
+---
 You can pin important messages or conversations on [TypingMind.com](http://TypingMind.com) for later use or reference.
 
 ## Pin a conversation

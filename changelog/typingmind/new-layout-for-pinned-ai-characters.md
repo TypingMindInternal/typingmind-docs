@@ -1,5 +1,6 @@
-# New layout for pinned AI Characters
-
+---
+title: "New layout for pinned AI Characters"
+---
 ## **🚀 What's New?**
 
 New layout for pinned AI Characters.

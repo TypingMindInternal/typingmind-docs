@@ -1,5 +1,6 @@
-# Delete chats in bulk
-
+---
+title: "Delete chats in bulk"
+---
 ### **🚀 What's New?**
 
 New feature added: Select and delete multiple chats. 

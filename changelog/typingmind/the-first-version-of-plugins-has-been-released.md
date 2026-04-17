@@ -1,5 +1,6 @@
-# The first version of plugins has been released!
-
+---
+title: "The first version of plugins has been released!"
+---
 ### **🚀 What's New?**
 
 Just released the first version of TypingMind plugins 🧩

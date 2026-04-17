@@ -1,5 +1,6 @@
-# Added “Clear context” button
-
+---
+title: "Added “Clear context” button"
+---
 ### **🚀 What's New?**
 
 Added "🧹 Clear Context" button.

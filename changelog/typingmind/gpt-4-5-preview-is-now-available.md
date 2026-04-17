@@ -1,5 +1,6 @@
-# GPT-4.5 Preview is now available!
-
+---
+title: "GPT-4.5 Preview is now available!"
+---
 ## 🔥 What’s new?
 
 GPT-4.5 Preview is now available on TypingMind.com!

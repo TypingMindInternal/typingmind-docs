@@ -1,5 +1,6 @@
-# Sidebar Style Options
-
+---
+title: "Sidebar Style Options"
+---
 ### **🚀 What's New?**
 
 ### ✨ Stay updated

@@ -1,5 +1,6 @@
-# Added Max token setting
-
+---
+title: "Added Max token setting"
+---
 ## **🚀 What's New?**
 
 Now, you can control the maximum number of tokens generated!

@@ -1,5 +1,6 @@
-# Directory Sync (SCIM v2)
-
+---
+title: "Directory Sync (SCIM v2)"
+---
 Directory Sync allows you to sync the user’s account from your identity providers (Okta, Azure, etc.) to TypingMind without having to manage the user account manually.
 
 TypingMind supports the SCIM v2 protocol, which means you can connect TypingMind with any Identity providers that support SCIM v2.

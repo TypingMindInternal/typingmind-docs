@@ -1,5 +1,6 @@
-# Transfer Ownership
-
+---
+title: "Transfer Ownership"
+---
 ### **🚀 What's New?**
 
 New in [custom.typingmind.com](http://custom.typingmind.com/): **Transfer ownership**

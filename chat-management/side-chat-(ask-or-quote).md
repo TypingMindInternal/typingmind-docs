@@ -1,5 +1,6 @@
-# Side Chat (Ask or Quote)
-
+---
+title: "Side Chat (Ask or Quote)"
+---
 The **Side Chat** feature allows you to dive deeper into specific parts of an AI response without interrupting your main conversation.
 
 ## **How It Works**

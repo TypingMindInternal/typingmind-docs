@@ -1,5 +1,6 @@
-# TypingMind MCP + Todoist
-
+---
+title: "TypingMind MCP + Todoist"
+---
 This guide will help you set up the **Todoist MCP server**, enabling your AI assistant in **TypingMind** to connect with Todoist to read, create, and update your tasks & projects seamlessly.
 
 ### Step 1: Add Todoist as custom MCP connection

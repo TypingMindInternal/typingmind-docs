@@ -1,5 +1,6 @@
-# Plugin’s user settings
-
+---
+title: "Plugin’s user settings"
+---
 ### **🚀 What's New?**
 
 👏 Added "User Settings" field when creating a plugin!

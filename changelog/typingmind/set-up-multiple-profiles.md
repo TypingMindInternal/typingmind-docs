@@ -1,5 +1,6 @@
-# Set up Multiple Profiles
-
+---
+title: "Set up Multiple Profiles"
+---
 ## **🚀 What's New?**
 
 Set up Multiple Profiles on TypingMind:

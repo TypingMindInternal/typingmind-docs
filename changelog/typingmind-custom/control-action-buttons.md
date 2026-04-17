@@ -1,5 +1,6 @@
-# Control Action Buttons
-
+---
+title: "Control Action Buttons"
+---
 ### **🚀 What's New?**
 
 📌 Admin now can select which action buttons are shown on the chat UI.

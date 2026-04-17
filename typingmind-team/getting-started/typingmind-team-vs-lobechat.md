@@ -1,5 +1,6 @@
-# TypingMind Team vs LobeChat
-
+---
+title: "TypingMind Team vs LobeChat"
+---
 A comparison between [TypingMind Teams](https://custom.typingmind.com/) and LobeChat:
 
 | **Feature / Category** | **TypingMind Teams** | **LobeChat** |

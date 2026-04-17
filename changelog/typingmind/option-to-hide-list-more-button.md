@@ -1,5 +1,6 @@
-# Option to hide List More button
-
+---
+title: "Option to hide List More button"
+---
 ## 🔥 What’s News?
 
 We have just added an option to hide List more button. Please note that this option only appears if the AI response includes a list of items.

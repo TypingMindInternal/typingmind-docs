@@ -1,5 +1,6 @@
-# Manage your subscription
-
+---
+title: "Manage your subscription"
+---
 # 1. Upgrade your subscription
 
 You can upgrade your subscription any time to open access to more functionalities within your chat instance.

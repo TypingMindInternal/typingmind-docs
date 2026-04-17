@@ -1,5 +1,6 @@
-# New Plugin: Word Generator
-
+---
+title: "New Plugin: Word Generator"
+---
 ## 🔥 What’s new?
 
 The Word Generator Plugin simplifies and speeds up document creation by automating the generation of professional Word files using the AI-generated responses.

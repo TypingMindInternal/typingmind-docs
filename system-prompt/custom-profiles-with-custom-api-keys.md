@@ -1,5 +1,6 @@
-# Custom Profiles with Custom API keys
-
+---
+title: "Custom Profiles with Custom API keys"
+---
 Setting up your profile in TypingMind allows the AI to deliver more personalized, relevant responses according to your specific interests and work context. Let’s check out how to set it up on TypingMind!
 
 ## Set up your profile

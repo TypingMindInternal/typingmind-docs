@@ -1,5 +1,6 @@
-# Add tags to your chats
-
+---
+title: "Add tags to your chats"
+---
 ## **🚀 What's New?**
 
 Add tags to your chat to better organize your workspace.

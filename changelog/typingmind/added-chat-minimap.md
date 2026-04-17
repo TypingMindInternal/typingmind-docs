@@ -1,5 +1,6 @@
-# Added chat minimap
-
+---
+title: "Added chat minimap"
+---
 ## 🔥 What’s new?
 
 We have just added Chat Minimap to TypingMind so you can navigate your old messages within a conversation quickly.

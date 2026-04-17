@@ -1,5 +1,6 @@
-# We’ve moved our changelog page to the new platform!
-
+---
+title: "We’ve moved our changelog page to the new platform!"
+---
 ## 🔥 What’s new?
 
 We've **moved our changelog to the new platform**!

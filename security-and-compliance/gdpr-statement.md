@@ -1,5 +1,6 @@
-# GDPR Statement
-
+---
+title: "GDPR Statement"
+---
 We take our responsibility to protect the data of our customers very seriously. Europe’s General Data Protection Regulation (GDPR) came into effect on 25 May 2018. This broad reaching regulation is designed to ensure the privacy, security, and confidentiality of data.
 
 ## **Terms of Service**

@@ -1,5 +1,6 @@
-# Train AI with your data + Welcome message
-
+---
+title: "Train AI with your data + Welcome message"
+---
 ### **🚀 What's New?**
 
 Updates to the Custom Deployment on Typingmind:

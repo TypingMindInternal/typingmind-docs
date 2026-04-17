@@ -1,5 +1,6 @@
-# TypingMind Extensions
-
+---
+title: "TypingMind Extensions"
+---
 TypingMind Extension is an advanced feature for developers to expand Typing Mind functionality by loading custom scripts to the app.
 
 ## ⚙️ How it works?

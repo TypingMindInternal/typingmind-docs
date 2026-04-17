@@ -1,5 +1,6 @@
-# A fully revamped AI character on TypingMind
-
+---
+title: "A fully revamped AI character on TypingMind"
+---
 ### **🚀 What's New?**
 
 A brand-new UI for AI characters on [typingmind.com](http://typingmind.com/) 🥳

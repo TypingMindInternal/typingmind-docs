@@ -1,5 +1,6 @@
-# Set up API keys
-
+---
+title: "Set up API keys"
+---
 TypingMind Team allows admins to preset API keys from their Admin Panel, which enables:
 
 - Users to use the chat instance without manually entering an API key.

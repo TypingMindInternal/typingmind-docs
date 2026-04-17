@@ -1,5 +1,6 @@
-# Firecrawl Web Page Reader
-
+---
+title: "Firecrawl Web Page Reader"
+---
 Firecrawl Web Page Reader allows you to read and analyze a web page by scraping its content using the [**Firecrawl Scrape API**](https://docs.firecrawl.dev/api-reference/endpoint/scrape).
 
 Here’s how to set up on TypingMind.

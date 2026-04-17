@@ -1,5 +1,6 @@
-# 3 new built-in plugins: Web Reader, Stable Diffusion Image, Market News
-
+---
+title: "3 new built-in plugins: Web Reader, Stable Diffusion Image, Market News"
+---
 ### **🚀 What's New?**
 
 **Added 3 new built-in plugins:**

@@ -1,5 +1,6 @@
-# Sort your chats
-
+---
+title: "Sort your chats"
+---
 You can now sort your chat history on the left side panel!
 
 ## 🔥 What’s new?

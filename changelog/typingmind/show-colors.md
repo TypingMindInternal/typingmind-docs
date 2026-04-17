@@ -1,5 +1,6 @@
-# Show colors!
-
+---
+title: "Show colors!"
+---
 ### **🚀 What's New?**
 
 A small improvement for [typingmind.com](http://typingmind.com/): show colors

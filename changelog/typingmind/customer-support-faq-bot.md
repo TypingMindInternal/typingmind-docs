@@ -1,5 +1,6 @@
-# Customer support FAQ bot
-
+---
+title: "Customer support FAQ bot"
+---
 ### **🚀 What's New?**
 
 Added a Customer Support FAQ bot to [typingmind.com](http://typingmind.com/)

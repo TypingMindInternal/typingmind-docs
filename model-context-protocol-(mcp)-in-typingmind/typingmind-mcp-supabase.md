@@ -1,5 +1,6 @@
-# TypingMind MCP + Supabase
-
+---
+title: "TypingMind MCP + Supabase"
+---
 This guide will help you set up the **Supabase MCP server**, enabling your AI assistant in **TypingMind** to perform tasks like launching databases, managing tables, fetching config, and querying data on your behalf.
 
 ### Step 1: Add Supabase as custom MCP connection

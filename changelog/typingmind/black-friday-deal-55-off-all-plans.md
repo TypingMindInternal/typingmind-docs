@@ -1,5 +1,6 @@
-# Black Friday Deal: 55% OFF All Plans
-
+---
+title: "Black Friday Deal: 55% OFF All Plans"
+---
 ## 🔥 What’s new?
 
 It’s here - the biggest deal of the year! 🎉

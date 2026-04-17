@@ -1,5 +1,6 @@
-# Azure OpenAI support
-
+---
+title: "Azure OpenAI support"
+---
 ### **🚀 What's New?**
 
 Azure OpenAI support!

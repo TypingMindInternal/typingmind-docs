@@ -1,5 +1,6 @@
-# Add training examples within the AI character
-
+---
+title: "Add training examples within the AI character"
+---
 ### **🚀 What's New?**
 
 You can now add Training Examples to the AI characters in [typingmind.com](http://typingmind.com/) 😄

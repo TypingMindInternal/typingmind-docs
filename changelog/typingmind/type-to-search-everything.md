@@ -1,5 +1,6 @@
-# Type / to search everything
-
+---
+title: "Type / to search everything"
+---
 ### **🚀 What's New?**
 
 Type "/" to search everything! 🔍

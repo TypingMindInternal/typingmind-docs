@@ -1,5 +1,6 @@
-# Chat Logs
-
+---
+title: "Chat Logs"
+---
 ### **🚀 What's New?**
 
 Big feature release: Chat Logs 💬

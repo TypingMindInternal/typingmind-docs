@@ -1,5 +1,6 @@
-# Show estimated tokens will be used before sending message
-
+---
+title: "Show estimated tokens will be used before sending message"
+---
 ✨ Added an option to view the estimated tokens
 
 ### **🚀 What's New?**

@@ -1,5 +1,6 @@
-# Added Custom AI Models
-
+---
+title: "Added Custom AI Models"
+---
 ### **🚀 What's New?**
 
 Typing Mind now supports custom AI models

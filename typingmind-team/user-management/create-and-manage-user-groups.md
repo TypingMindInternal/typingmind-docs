@@ -1,5 +1,6 @@
-# Create and manage User Groups
-
+---
+title: "Create and manage User Groups"
+---
 If you were concerned that managing users on TypingMind would be a challenge, you should now be able to set those concerns aside with **TypingMind User Groups**.
 
 TypingMind User Group is built to help you organize and manage users more effectively in your AI workspace.

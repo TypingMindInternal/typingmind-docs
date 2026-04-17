@@ -1,5 +1,6 @@
-# Enforce chat model for a certain AI character
-
+---
+title: "Enforce chat model for a certain AI character"
+---
 ### **🚀 What's New?**
 
 Set default model for character can also be done at Admin level of [http://custom.typingmind.com](http://custom.typingmind.com/)!

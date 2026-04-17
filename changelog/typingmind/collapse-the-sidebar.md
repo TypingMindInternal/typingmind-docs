@@ -1,5 +1,6 @@
-# Collapse the sidebar
-
+---
+title: "Collapse the sidebar"
+---
 ### **🚀 What's New?**
 
 You can now collapse the sidebar on [typingmind.com](http://typingmind.com/). This creates a wider screen for chats!

@@ -1,5 +1,6 @@
-# Share your AI chats with friends
-
+---
+title: "Share your AI chats with friends"
+---
 ### **🚀 What's New?**
 
 You can now share your AI chat with friends 😄

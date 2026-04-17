@@ -1,5 +1,6 @@
-# New Youtube channel
-
+---
+title: "New Youtube channel"
+---
 ### **🚀 What's New?**
 
 We’ve launched a new Youtube channel.

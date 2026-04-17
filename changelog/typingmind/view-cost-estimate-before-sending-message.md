@@ -1,5 +1,6 @@
-# View cost estimate before sending message
-
+---
+title: "View cost estimate before sending message"
+---
 ✅ You can now see the initial cost estimation before sending a prompt.
 
 ### **🚀 What's New?**

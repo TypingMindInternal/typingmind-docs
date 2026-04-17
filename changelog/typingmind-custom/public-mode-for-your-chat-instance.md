@@ -1,5 +1,6 @@
-# Public mode for your chat instance
-
+---
+title: "Public mode for your chat instance"
+---
 ### **🚀 What's New?**
 
 Public Mode now on TypingMind Custom!

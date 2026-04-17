@@ -1,5 +1,6 @@
-# Added "Academic Researcher" and "Customer Support Agent" characters
-
+---
+title: "Added \"Academic Researcher\" and \"Customer Support Agent\" characters"
+---
 ### **🚀 What's New?**
 
 We have added new AI character into our collection: 

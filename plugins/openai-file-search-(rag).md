@@ -1,5 +1,6 @@
-# OpenAI File Search (RAG)
-
+---
+title: "OpenAI File Search (RAG)"
+---
 <aside>
 💡
 

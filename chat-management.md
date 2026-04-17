@@ -1,5 +1,6 @@
-# Chat Management
-
+---
+title: "Chat Management"
+---
 [Organize chats](Chat%20Management/Organize%20chats%20788fcb21625846f9af8f8d7861f0db43.md)
 
 [Share/Export chats](Chat%20Management/Share%20Export%20chats%20c6f64439fab54748b4eecc3da293be1e.md)

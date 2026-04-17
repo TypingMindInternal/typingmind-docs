@@ -1,5 +1,6 @@
-# New sidebar design
-
+---
+title: "New sidebar design"
+---
 ## **🚀 What's New?**
 
 We just updated our sidebar with a new design: cleaner and easier to navigate!

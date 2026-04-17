@@ -1,5 +1,6 @@
-# Safety settings for Gemini models
-
+---
+title: "Safety settings for Gemini models"
+---
 🧩 Now you can configure the Safety settings for Gemini models on [typingmind.com](http://typingmind.com/)!
 
 ### **🚀 What's New?**

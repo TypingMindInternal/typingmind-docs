@@ -1,5 +1,6 @@
-# New UI for the setting panel
-
+---
+title: "New UI for the setting panel"
+---
 New UI for the setting panel!
 
 ## ✨ Stay updated

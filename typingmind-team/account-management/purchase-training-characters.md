@@ -1,5 +1,6 @@
-# Purchase training characters
-
+---
+title: "Purchase training characters"
+---
 When uploading the knowledge base for your chat instance, you will have 1M training characters to upload by default.
 
 If you mostly exceeds this number and want to upload more data, you also have the option to purchase extra training characters. Here’s how to do it:

@@ -1,5 +1,6 @@
-# Redesign plugin page
-
+---
+title: "Redesign plugin page"
+---
 Improve UX / UI for our plugin setting page!
 
 ## 🔥 What’s News?

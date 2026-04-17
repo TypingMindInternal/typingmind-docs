@@ -1,5 +1,6 @@
-# Include / Exclude “Message attachments” when syncing
-
+---
+title: "Include / Exclude “Message attachments” when syncing"
+---
 ## **🚀 What's New?**
 
 Choose to include or exclude "Message Attachments" when syncing to save cloud space.

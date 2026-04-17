@@ -1,5 +1,6 @@
-# Import members
-
+---
+title: "Import members"
+---
 ### **🚀 What's New?**
 
 ⬆️ Admins now can quickly import members to your chat instance via your CSV file.

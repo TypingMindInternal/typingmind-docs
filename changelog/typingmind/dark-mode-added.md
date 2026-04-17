@@ -1,5 +1,6 @@
-# Dark mode added
-
+---
+title: "Dark mode added"
+---
 ### **🚀 What's New?**
 
 We have just updated the Dark mode for TypingMind!

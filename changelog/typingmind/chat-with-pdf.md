@@ -1,5 +1,6 @@
-# Chat with PDF!
-
+---
+title: "Chat with PDF!"
+---
 ### **🚀 What's New?**
 
 Here comes the most requested feature in [typingmind.com](http://typingmind.com/): Chat with PDF 🎉

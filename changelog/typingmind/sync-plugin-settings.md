@@ -1,5 +1,6 @@
-# Sync “Plugin Settings”
-
+---
+title: "Sync “Plugin Settings”"
+---
 ### **🚀 What's New?**
 
 Sync "Plugin Settings" across devices!

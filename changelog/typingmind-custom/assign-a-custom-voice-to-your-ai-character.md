@@ -1,5 +1,6 @@
-# Assign a custom voice to your AI character
-
+---
+title: "Assign a custom voice to your AI character"
+---
 ### **🚀 What's New?**
 
 Bring your AI Characters to life....

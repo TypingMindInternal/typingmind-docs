@@ -1,5 +1,6 @@
-# Suggested parameter combinations
-
+---
+title: "Suggested parameter combinations"
+---
 Here are some suggested combination parameters for specific use cases that might be helpful. 
 
 ## **Customer support**

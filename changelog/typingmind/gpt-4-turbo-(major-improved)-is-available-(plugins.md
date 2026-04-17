@@ -1,5 +1,6 @@
-# GPT-4 Turbo (major improved) is available (Plugins + Vision supported)
-
+---
+title: "GPT-4 Turbo (major improved) is available (Plugins + Vision supported)"
+---
 🧩 New GPT-4 Turbo are now available on TypingMind!
 
 ## **🚀 What's New?**

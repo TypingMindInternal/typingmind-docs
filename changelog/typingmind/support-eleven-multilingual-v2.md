@@ -1,5 +1,6 @@
-# Support Eleven Multilingual v2
-
+---
+title: "Support Eleven Multilingual v2"
+---
 ## **🚀 What's New?**
 
 TypingMind now supports Eleven Multilingual v2!

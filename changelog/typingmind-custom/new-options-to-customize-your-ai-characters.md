@@ -1,5 +1,6 @@
-# New options to customize your AI characters
-
+---
+title: "New options to customize your AI characters"
+---
 ### **🚀 What's New?**
 
 Two new options to customize your AI characters in [custom.typingmind.com](http://custom.typingmind.com/):

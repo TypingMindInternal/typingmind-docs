@@ -1,5 +1,6 @@
-# Gemini 1.5 Flash is now available!
-
+---
+title: "Gemini 1.5 Flash is now available!"
+---
 🧩 Gemini 1.5 Flash is now available on [typingmind.com](http://typingmind.com/)!!!
 
 ### **🚀 What's New?**

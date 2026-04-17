@@ -1,5 +1,6 @@
-# Prompts
-
+---
+title: "Prompts"
+---
 [Use Prompt Library](Prompts/Use%20Prompt%20Library%20a4fc26777d12484eb3d185c8f95862ff.md)
 
 [Prompt Examples ](Prompts/Prompt%20Examples%20253408b40d1843ad86e7df99e43abda2.md)

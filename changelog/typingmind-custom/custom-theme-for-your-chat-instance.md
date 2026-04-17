@@ -1,5 +1,6 @@
-# Custom theme for your chat instance
-
+---
+title: "Custom theme for your chat instance"
+---
 ### **🚀 What's New?**
 
 Tip: Admin can customize chat's look & feel to match your brand identity!

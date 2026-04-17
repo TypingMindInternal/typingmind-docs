@@ -1,5 +1,6 @@
-# Thinking message for reasoning models
-
+---
+title: "Thinking message for reasoning models"
+---
 ## 🔥 What’s new?
 
 TypingMind now can show "thinking" text in its own collapsible block.

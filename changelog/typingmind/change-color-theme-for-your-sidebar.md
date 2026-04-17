@@ -1,5 +1,6 @@
-# Change color theme for your sidebar
-
+---
+title: "Change color theme for your sidebar"
+---
 ## **🚀 What's New?**
 
 🎨 Select a color theme for your sidebar!

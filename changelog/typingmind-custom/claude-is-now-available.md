@@ -1,5 +1,6 @@
-# Claude is now available!
-
+---
+title: "Claude is now available!"
+---
 **Claude** is now available!
 
 ### ⚙️ How it works?

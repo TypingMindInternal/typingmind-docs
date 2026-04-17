@@ -1,5 +1,6 @@
-# System Prompts on Admin Panel
-
+---
+title: "System Prompts on Admin Panel"
+---
 System prompts are instructions given to an AI model at the start of a session to define its behavior, tone, and knowledge scope throughout a conversation. 
 
 These prompts are key to shaping how the AI responds, interacts, and manages context. Creating effective system prompts is crucial for ensuring that the AI aligns with the intended objectives.

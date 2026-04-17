@@ -1,5 +1,6 @@
-# Invite team members
-
+---
+title: "Invite team members"
+---
 Managing seats and member roles in your chat instance is crucial for effective operation and control.
 
 ## **Available Seats in a Chat Instance**

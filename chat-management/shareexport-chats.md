@@ -1,5 +1,6 @@
-# Share/Export chats
-
+---
+title: "Share/Export chats"
+---
 Have a cool conversation and want to:
 
 - Share it with your friends and your community?

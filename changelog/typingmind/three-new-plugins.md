@@ -1,5 +1,6 @@
-# Three new plugins!
-
+---
+title: "Three new plugins!"
+---
 ## **🚀 What's New?**
 
 Our Plugin Store just got more powerful!

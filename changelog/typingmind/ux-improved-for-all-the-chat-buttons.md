@@ -1,5 +1,6 @@
-# UX improved for all the chat buttons
-
+---
+title: "UX improved for all the chat buttons"
+---
 ### **🚀 What's New?**
 
 The number of buttons is getting out of control...

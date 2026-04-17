@@ -1,5 +1,6 @@
-# Search bar in Admin Panel
-
+---
+title: "Search bar in Admin Panel"
+---
 ### **🚀 What's New?**
 
 Search bar in Admin Panel ([custom.typingmind.com](http://custom.typingmind.com/))!

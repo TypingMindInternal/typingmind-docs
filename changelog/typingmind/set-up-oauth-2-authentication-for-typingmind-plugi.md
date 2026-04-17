@@ -1,5 +1,6 @@
-# Set up OAuth 2 Authentication for TypingMind plugins
-
+---
+title: "Set up OAuth 2 Authentication for TypingMind plugins"
+---
 🟢 TypingMind Plugins now support OAuth 2.0 authentication! 
 
 This means you can now create plugins that use the user's account to authenticate instead of your fixed API key. 

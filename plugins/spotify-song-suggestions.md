@@ -1,5 +1,6 @@
-# Spotify Song Suggestions
-
+---
+title: "Spotify Song Suggestions"
+---
 ## Overview
 
 In this tutorial, we'll create a **Spotify Song Suggestions** plugin that recommends a list of songs from Spotify. By the end, you'll have built a plugin similar to the one shown in the screenshot below:

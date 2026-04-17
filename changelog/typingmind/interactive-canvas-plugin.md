@@ -1,5 +1,6 @@
-# Interactive Canvas plugin
-
+---
+title: "Interactive Canvas plugin"
+---
 ✅ We’ve launched a new plugin: Interactive Canvas
 
 ### **🚀 What's New?**

@@ -1,5 +1,6 @@
-# Customize keyboard shortcuts
-
+---
+title: "Customize keyboard shortcuts"
+---
 ### **🚀 What's New?**
 
 You can now customize keyboard shortcuts on [TypingMind.com](http://typingmind.com/). 

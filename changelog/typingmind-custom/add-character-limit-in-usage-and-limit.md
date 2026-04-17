@@ -1,5 +1,6 @@
-# Add character limit in Usage & Limit
-
+---
+title: "Add character limit in Usage & Limit"
+---
 ### **🚀 What's New?**
 
 Added character limit to TypingMind Custom:

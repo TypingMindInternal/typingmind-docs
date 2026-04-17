@@ -1,5 +1,6 @@
-# Enable LLMs to cite sources when using RAG
-
+---
+title: "Enable LLMs to cite sources when using RAG"
+---
 Large language models (LLMs) have emerged as a widely-used tool for information seeking, but their generated outputs are prone to hallucination.
 
 That’s why getting the AI models to provide sources and citations is the key to improving their factual correctness and verifiability and also making them more reliable to your customers and clients. 

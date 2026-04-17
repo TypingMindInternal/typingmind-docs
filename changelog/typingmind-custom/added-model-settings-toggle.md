@@ -1,5 +1,6 @@
-# Added Model settings toggle
-
+---
+title: "Added Model settings toggle"
+---
 ### **🚀 What's New?**
 
 🟢 Added the Model Settings toggle for Custom Deployment!

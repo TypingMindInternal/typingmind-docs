@@ -1,5 +1,6 @@
-# Auto-archive and auto-delete archived chats
-
+---
+title: "Auto-archive and auto-delete archived chats"
+---
 🧩 Now you can easily auto-archive and auto-delete archived chats.
 
 ### **🚀 What's New?**

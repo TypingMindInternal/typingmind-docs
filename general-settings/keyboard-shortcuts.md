@@ -1,5 +1,6 @@
-# Keyboard shortcuts
-
+---
+title: "Keyboard shortcuts"
+---
 Using the right keyboard shortcuts can make your tasks faster and more efficient. TypingMind provides you with a handful of keyboard shortcut options, which you can easily customize to your preferences.
 
 Let's see how to do that.

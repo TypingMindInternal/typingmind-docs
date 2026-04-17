@@ -1,5 +1,6 @@
-# Cloud Storage
-
+---
+title: "Cloud Storage"
+---
 By default, you will have 50MB of free cloud storage (typically enough for 5000 chats).
 
 If you find that your default cloud storage is not sufficient, you have the options to upgrade your storage capacity.

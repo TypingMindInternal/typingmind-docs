@@ -1,5 +1,6 @@
-# Context length improvement
-
+---
+title: "Context length improvement"
+---
 ### **🚀 What's New?**
 
 Just improved the context length issue on [TypingMind.com](http://typingmind.com/)

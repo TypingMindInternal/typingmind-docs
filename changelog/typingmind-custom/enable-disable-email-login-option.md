@@ -1,5 +1,6 @@
-# Enable / Disable Email Login Option
-
+---
+title: "Enable / Disable Email Login Option"
+---
 🔑You now have the option to enable or disable the Email Login for your members!
 
 ### **🚀 What's New?**

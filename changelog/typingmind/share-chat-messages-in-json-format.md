@@ -1,5 +1,6 @@
-# Share chat messages in JSON format
-
+---
+title: "Share chat messages in JSON format"
+---
 ## **🚀 What's New?**
 
 As OpenAI now supports fine-tuning...

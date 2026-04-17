@@ -1,5 +1,6 @@
-# New Plugin: Powerpoint Generator
-
+---
+title: "New Plugin: Powerpoint Generator"
+---
 ## 🔥 What’s new?
 
 This plugin allows you to quickly create PowerPoint slides with customizable layouts, fonts, and colors. 

@@ -1,5 +1,6 @@
-# Use OpenAI API Org ID.
-
+---
+title: "Use OpenAI API Org ID."
+---
 ### **🚀 What's New?**
 
 If your OpenAI API key is tied to an organization, you can configure TypingMind to use that Org ID.

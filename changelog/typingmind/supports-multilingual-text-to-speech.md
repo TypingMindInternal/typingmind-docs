@@ -1,5 +1,6 @@
-# Supports multilingual text-to-speech
-
+---
+title: "Supports multilingual text-to-speech"
+---
 ### **🚀 What's New?**
 
 🥳 TypingMind x @elevenlabsio: Multilingual text-to-speech now available!

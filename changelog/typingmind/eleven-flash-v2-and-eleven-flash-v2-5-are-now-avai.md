@@ -1,5 +1,6 @@
-# Eleven Flash v2 and Eleven Flash v2.5 are now available!
-
+---
+title: "Eleven Flash v2 and Eleven Flash v2.5 are now available!"
+---
 ## 🔥 What’s new?
 
 **Eleven Flash v2 and Eleven Flash v2.5** can now be accessed on TypingMind via Text-to-Speech!

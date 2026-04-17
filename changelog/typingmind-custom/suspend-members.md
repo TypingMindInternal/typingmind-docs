@@ -1,5 +1,6 @@
-# Suspend members
-
+---
+title: "Suspend members"
+---
 ### **🚀 What's New?**
 
 New in [custom.typingmind.com](http://custom.typingmind.com/): Suspend members🛑

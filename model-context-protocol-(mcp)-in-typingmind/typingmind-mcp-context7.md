@@ -1,5 +1,6 @@
-# TypingMind MCP + Context7
-
+---
+title: "TypingMind MCP + Context7"
+---
 This guide will help you set up the **Context7 MCP server**, enabling your AI assistant in **TypingMind** to fetch and inject the most up-to-date documentation and code examples for major libraries into your LLM prompt context.
 
 ## Why uses Context7?

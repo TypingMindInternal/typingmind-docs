@@ -1,5 +1,6 @@
-# Set up your profile
-
+---
+title: "Set up your profile"
+---
 ### **🚀 What's New?**
 
 You can now set your profile, ChatGPT will remember it for all future chats 🥳

@@ -1,5 +1,6 @@
-# How to Monetize With TypingMind?
-
+---
+title: "How to Monetize With TypingMind?"
+---
 **TypingMind** offers a great opportunity not only to help you adopt AI at the forefront but also to make money by reselling the product. With [TypingMind’s Reseller Program](../Reseller%20Program%2041051738ee5a41c69a09578bb14ae964.md), you can build your own business by adding value to the TypingMind AI Platform and reselling it at any price you choose.
 
 In this article, we'll explore different ways to monetize TypingMind with comprehensive examples to help you get started.

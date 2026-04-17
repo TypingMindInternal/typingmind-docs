@@ -1,5 +1,6 @@
-# Sending emails using your own SMTP config
-
+---
+title: "Sending emails using your own SMTP config"
+---
 ### **🚀 What's New?**
 
 Custom Deployment now supports sending emails using your own SMTP config 😄

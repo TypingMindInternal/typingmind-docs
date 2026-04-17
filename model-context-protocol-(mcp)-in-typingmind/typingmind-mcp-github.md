@@ -1,5 +1,6 @@
-# TypingMind MCP + Github
-
+---
+title: "TypingMind MCP + Github"
+---
 Using TypingMind with GitHub via MCP gives you developer-grade GitHub control with conversational AI simplicity. Whether you’re maintaining docs, managing issues, or coding collaboratively, this integration unlocks a smoother, more productive workflow.
 
 Let’s see how to do that on TypingMind!

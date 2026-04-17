@@ -1,5 +1,6 @@
-# New usage limits system!
-
+---
+title: "New usage limits system!"
+---
 ### **🚀 What's New?**
 
 The Usage Limits system for [custom.typingmind.com](http://custom.typingmind.com/) has been revamped! 🚀

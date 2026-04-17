@@ -1,5 +1,6 @@
-# Multiple languages for voice input!
-
+---
+title: "Multiple languages for voice input!"
+---
 ### **🚀 What's New?**
 
 Voice input on [typingmind.com](http://typingmind.com/) now supports multiple languages 🎙️

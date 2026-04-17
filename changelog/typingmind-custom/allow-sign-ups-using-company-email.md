@@ -1,5 +1,6 @@
-# Allow sign-ups using company email
-
+---
+title: "Allow sign-ups using company email"
+---
 ### **🚀 What's New?**
 
 Admins now can allow sign-ups using company email!

@@ -1,5 +1,6 @@
-# Stable Diffusion v3 is available!
-
+---
+title: "Stable Diffusion v3 is available!"
+---
 🧩 Stable Diffusion v3 Image is now available on [typingmind.com](http://typingmind.com/)!
 
 ### **🚀 What's New?**

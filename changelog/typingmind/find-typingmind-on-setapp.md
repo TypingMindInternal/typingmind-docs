@@ -1,5 +1,6 @@
-# Find TypingMind on Setapp!
-
+---
+title: "Find TypingMind on Setapp!"
+---
 ### **🚀 What's New?**
 
 TypingMind is now available on Setapp: [setapp.com/apps/typingmind](http://setapp.com/apps/typingmind)   

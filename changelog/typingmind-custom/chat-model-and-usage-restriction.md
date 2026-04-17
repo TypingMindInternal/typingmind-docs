@@ -1,5 +1,6 @@
-# Chat model and usage restriction
-
+---
+title: "Chat model and usage restriction"
+---
 ### **🚀 What's New?**
 
 🌟Big Update: Restrict Model Availability and Usage for certain users!

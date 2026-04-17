@@ -1,5 +1,6 @@
-# Custom training data and Custom System Instructions
-
+---
+title: "Custom training data and Custom System Instructions"
+---
 ### **🚀 What's New?**
 
 Typing Mind now supports custom training data & custom system instructions.

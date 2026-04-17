@@ -1,5 +1,6 @@
-# Launched a new pricing!
-
+---
+title: "Launched a new pricing!"
+---
 ### **🚀 What's New?**
 
 📣 Important update: TypingMind launched a new pricing!

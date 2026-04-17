@@ -1,5 +1,6 @@
-# Set categories for AI Agent
-
+---
+title: "Set categories for AI Agent"
+---
 ✅ Now you can set categories for your AI Agents to better organize them for specific tasks! 
 
 ### **🚀 What's New?**

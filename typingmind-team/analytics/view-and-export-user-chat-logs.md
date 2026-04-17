@@ -1,5 +1,6 @@
-# View and Export User Chat Logs
-
+---
+title: "View and Export User Chat Logs"
+---
 TypingMind Team allows Admins to review chat logs by all users to understand use cases, detect issues, and adjust prompts to better handle user queries.
 
 ![Untitled](view-and-export-user-chat-logs/Untitled.png)

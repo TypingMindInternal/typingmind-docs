@@ -1,5 +1,6 @@
-# AI Agents Overview
-
+---
+title: "AI Agents Overview"
+---
 TypingMind app allows you to build your own **AI Agent collection** so you can turn your chat model into an expert to implement a specific task. 
 
 The AI Agent works as an enhanced version of the [initial system instructions](https://blog.typingmind.com/unlocking-the-power-of-chatgpt's-system-instruction-on-typingmind) for AI models.

@@ -1,5 +1,6 @@
-# Added delete button
-
+---
+title: "Added delete button"
+---
 ### **🚀 What's New?**
 
 Added Delete button to [typingmind.com](http://typingmind.com/)!

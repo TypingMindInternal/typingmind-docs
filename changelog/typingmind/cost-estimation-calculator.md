@@ -1,5 +1,6 @@
-# Cost Estimation Calculator
-
+---
+title: "Cost Estimation Calculator"
+---
 🧩 The cost estimation calculator is now available!
 
 ### **🚀 What's New?**

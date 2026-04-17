@@ -1,5 +1,6 @@
-# Custom endpoints
-
+---
+title: "Custom endpoints"
+---
 ### **🚀 What's New?**
 
 [TypingMind.com](http://typingmind.com/) now supports custom endpoints.

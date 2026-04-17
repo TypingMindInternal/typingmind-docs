@@ -1,5 +1,6 @@
-# TypingMind MCP + Zapier
-
+---
+title: "TypingMind MCP + Zapier"
+---
 This guide will help you set up the **Zapier MCP server**, enabling your AI assistant in **TypingMind** to connect with Zapier to connect with 6000+ apps and do 30000+ actions in a single dashboard
 
 ## **What is Zapier MCP?**

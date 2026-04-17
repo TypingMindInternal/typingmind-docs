@@ -1,5 +1,6 @@
-# Roles and Permissions
-
+---
+title: "Roles and Permissions"
+---
 Running and managing a chat instance on your own can be challenging. Beyond managing users, you also need to train AI agents, monitor interactions, and ensure that AI responses are consistently high quality.
 
 That’s where our advanced **Roles and Permissions** system comes in. This feature allows you to add team members to your chat instance, assign specific roles and permissions, and enable them to access the Admin Panel to support you in their designated functions.

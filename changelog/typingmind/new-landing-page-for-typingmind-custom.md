@@ -1,5 +1,6 @@
-# New landing page for TypingMind custom
-
+---
+title: "New landing page for TypingMind custom"
+---
 ### **🚀 What's New?**
 
 New landing page update:

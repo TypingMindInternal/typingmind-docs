@@ -1,5 +1,6 @@
-# Setup external connectors for Knowledge Base
-
+---
+title: "Setup external connectors for Knowledge Base"
+---
 When you enabled the **Knowledge Base Module** for your TypingMind instance in the self-host environment, the only data source available is File Upload.
 
 Here is how to enable external data source connectors like GitHub, Dropbox, Notion, etc.

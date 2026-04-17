@@ -1,5 +1,6 @@
-# You can now share plugins with a URL
-
+---
+title: "You can now share plugins with a URL"
+---
 ### **🚀 What's New?**
 
 Big update: you can now share your Plugins with a URL!

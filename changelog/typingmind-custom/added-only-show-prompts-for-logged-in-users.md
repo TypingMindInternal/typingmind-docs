@@ -1,5 +1,6 @@
-# Added “Only show prompts for logged-in users”
-
+---
+title: "Added “Only show prompts for logged-in users”"
+---
 ### **🚀 What's New?**
 
 ⛔️Want to to make your shared prompts visible only to logged-in users?

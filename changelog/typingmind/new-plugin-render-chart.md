@@ -1,5 +1,6 @@
-# New plugin: Render chart
-
+---
+title: "New plugin: Render chart"
+---
 🧩 A new plugin is now available: Render Chart!
 
 ### **🚀 What's New?**

@@ -1,5 +1,6 @@
-# Security & Compliance
-
+---
+title: "Security & Compliance"
+---
 <aside>
 🔰 We take data privacy and security seriously. We are SOC 2 Type 2 certified and GDPR. 
 

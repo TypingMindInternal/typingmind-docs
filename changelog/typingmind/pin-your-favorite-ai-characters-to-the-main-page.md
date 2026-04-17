@@ -1,5 +1,6 @@
-# Pin your favorite AI characters to the main page
-
+---
+title: "Pin your favorite AI characters to the main page"
+---
 ## **🚀 What's New?**
 
  Pin your favorite AI characters to the main page of [t](https://t.co/kx5nDaaCO2)ypingmind.com!

@@ -1,5 +1,6 @@
-# Big update for plugin system
-
+---
+title: "Big update for plugin system"
+---
 🧩 We’ve made a major improvement around the plugin system for plugin developers and Typing Mind Custom users!
 
 ### **🚀 What's New?**

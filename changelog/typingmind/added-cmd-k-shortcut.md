@@ -1,5 +1,6 @@
-# Added CMD + K shortcut
-
+---
+title: "Added CMD + K shortcut"
+---
 ### **🚀 What's New?**
 
 Added CMD + K shortcut to [typingmind.com](http://typingmind.com/)! (iOs)

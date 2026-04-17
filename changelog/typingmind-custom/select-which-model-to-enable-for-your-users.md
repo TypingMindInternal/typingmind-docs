@@ -1,5 +1,6 @@
-# Select which model to enable for your users
-
+---
+title: "Select which model to enable for your users"
+---
 ### **🚀 What's New?**
 
 You can now select which model to enable for your users in Typing Mind Custom Deployment: [https://typingmind.com/custom](https://typingmind.com/custom)

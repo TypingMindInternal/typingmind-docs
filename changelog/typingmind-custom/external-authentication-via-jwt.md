@@ -1,5 +1,6 @@
-# External Authentication via JWT
-
+---
+title: "External Authentication via JWT"
+---
 ### **🚀 What's New?**
 
 Typing Mind Custom now supports external authentication using JWT:

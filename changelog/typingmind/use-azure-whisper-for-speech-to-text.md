@@ -1,5 +1,6 @@
-# Use Azure Whisper for Speech-to-text
-
+---
+title: "Use Azure Whisper for Speech-to-text"
+---
 ## 🔥 What’s new?
 
 Use Azure Whisper as speech-to-text provider on TypingMind!

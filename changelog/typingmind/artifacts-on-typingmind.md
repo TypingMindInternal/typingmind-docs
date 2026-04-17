@@ -1,5 +1,6 @@
-# Artifacts on TypingMind
-
+---
+title: "Artifacts on TypingMind"
+---
 ✅ We have just implemented Artifacts in TypingMind - a new feature built to simplify and enhance your workflow!
 
 ### **🚀 What's New?**

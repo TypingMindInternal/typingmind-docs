@@ -1,5 +1,6 @@
-# Custom parameters for each model
-
+---
+title: "Custom parameters for each model"
+---
 You can now set up Custom Parameters for Specific Models!
 
 Customizing parameters for each AI model allows you to optimize their performance based on their specific strengths and your needs. This allows you get the best possible results from each model.

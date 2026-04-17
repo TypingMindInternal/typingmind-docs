@@ -1,5 +1,6 @@
-# View Console Logs
-
+---
+title: "View Console Logs"
+---
 When working with TypingMind, we may sometimes ask you to capture a screenshot of your Console logs for troubleshooting to figure out what's causing the problem.
 
 # If you are using Web App…

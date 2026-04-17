@@ -1,5 +1,6 @@
-# Custom branding
-
+---
+title: "Custom branding"
+---
 Personalize your chat instance to match your brand identity. From branding elements to custom messages and themes, gain control over how your chat interface should look and feel.
 
 ## **1. Brand Your Chat Instance**

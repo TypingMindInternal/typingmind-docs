@@ -1,5 +1,6 @@
-# Voice input added
-
+---
+title: "Voice input added"
+---
 ### **🚀 What's New?**
 
 Added voice input to [typingmind.com](http://typingmind.com/)

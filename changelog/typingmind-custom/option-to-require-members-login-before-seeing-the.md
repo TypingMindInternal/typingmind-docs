@@ -1,5 +1,6 @@
-# Option to require members login before seeing the chat UI
-
+---
+title: "Option to require members login before seeing the chat UI"
+---
 ### **🚀 What's New?**
 
 Added an option to hide the chat interface behind the login screen for [custom.typingmind.com](http://custom.typingmind.com/)!

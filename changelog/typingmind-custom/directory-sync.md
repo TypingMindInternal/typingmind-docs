@@ -1,5 +1,6 @@
-# Directory sync
-
+---
+title: "Directory sync"
+---
 ### **🚀 What's New?**
 
 🔄Directory Sync (SCIM v2) is now available on [custom.typingmind.com](http://custom.typingmind.com/)

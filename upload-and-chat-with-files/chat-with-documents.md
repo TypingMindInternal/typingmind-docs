@@ -1,5 +1,6 @@
-# Chat with Documents
-
+---
+title: "Chat with Documents"
+---
 A step-by-step on how to upload your training documents on TypingMind and let the AI model to interact with your data to answer your queries.
 
 <aside>

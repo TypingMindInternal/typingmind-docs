@@ -1,5 +1,6 @@
-# Added Top P parameter
-
+---
+title: "Added Top P parameter"
+---
 ## **🚀 What's New?**
 
 Adjust the top P parameter on TypingMind.

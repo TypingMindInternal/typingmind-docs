@@ -1,5 +1,6 @@
-# OpenAI’s model updates! (gpt-4-0125-preview + gpt-3.5-turbo-0125)
-
+---
+title: "OpenAI’s model updates! (gpt-4-0125-preview + gpt-3.5-turbo-0125)"
+---
 ## **🚀 What's New?**
 
 OpenAI’s model updates for GPT-4 Turbo and GPT-3.5 (0125)

@@ -1,5 +1,6 @@
-# Add “Stop” button
-
+---
+title: "Add “Stop” button"
+---
 ### **🚀 What's New?**
 
 Added "Stop" button to [typingmind.com](http://typingmind.com/)

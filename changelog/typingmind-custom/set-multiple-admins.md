@@ -1,5 +1,6 @@
-# Set multiple admins
-
+---
+title: "Set multiple admins"
+---
 ### **🚀 What's New?**
 
 New in TypingMind Custom: you can set multiple admins for better management now!

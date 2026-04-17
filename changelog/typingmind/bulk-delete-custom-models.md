@@ -1,5 +1,6 @@
-# Bulk delete custom models
-
+---
+title: "Bulk delete custom models"
+---
 ## 🔥 What’s new?
 
 Delete custom models in bulk!

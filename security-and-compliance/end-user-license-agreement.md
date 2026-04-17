@@ -1,5 +1,6 @@
-# End-User License Agreement
-
+---
+title: "End-User License Agreement"
+---
 Last updated: March 08, 2026
 
 Please read this End-User License Agreement ("Agreement") carefully before clicking the "Pay" button, downloading, or using TypingMind ("Application").

@@ -1,5 +1,6 @@
-# Embed specific AI Agent as chat widget
-
+---
+title: "Embed specific AI Agent as chat widget"
+---
 ### **🚀 What's New?**
 
 Now you can embed specific AI Agents as chat widgets using [custom.typingmind.com](http://custom.typingmind.com/)

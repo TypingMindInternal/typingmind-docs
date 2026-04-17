@@ -1,5 +1,6 @@
-# Sidebar Improvement
-
+---
+title: "Sidebar Improvement"
+---
 🧩 We have just improved the sidebar to make it easier for you to navigate your settings on [typingmind.com](http://typingmind.com/)!!
 
 ### **🚀 What's New?**

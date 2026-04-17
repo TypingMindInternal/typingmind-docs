@@ -1,5 +1,6 @@
-# Re-order pinned AI Agents
-
+---
+title: "Re-order pinned AI Agents"
+---
 ## 🔥 What’s new?
 
 Re-arrange the pinned AI Agent on the chat interface. 

@@ -1,5 +1,6 @@
-# Added Conversation Starters
-
+---
+title: "Added Conversation Starters"
+---
 ## **🚀 What's New?**
 
 Add the conversation starters while setting up AI Characters to avoid the cold start when interacting with the AI model.

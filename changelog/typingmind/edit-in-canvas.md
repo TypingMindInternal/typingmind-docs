@@ -1,5 +1,6 @@
-# Edit in Canvas
-
+---
+title: "Edit in Canvas"
+---
 **TypingMind Edit in Canvas** is here to streamline your workflow by allowing you to directly refine responses in a dedicated canvas, especially when you need to edit, collaborate, or review your work. 
 
 ## 🔥 What’s New?

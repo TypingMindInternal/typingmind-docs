@@ -1,5 +1,6 @@
-# New design for AI Agent page
-
+---
+title: "New design for AI Agent page"
+---
 We have just improved UX/UI for our AI Agent page to help you better navigate the AI Agents!
 
 ## ✨ Changes

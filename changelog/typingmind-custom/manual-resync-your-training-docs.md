@@ -1,5 +1,6 @@
-# Manual resync your training docs
-
+---
+title: "Manual resync your training docs"
+---
 ### **🚀 What's New?**
 
 Admins can now manually re-sync (in bulk) your training data 🔁

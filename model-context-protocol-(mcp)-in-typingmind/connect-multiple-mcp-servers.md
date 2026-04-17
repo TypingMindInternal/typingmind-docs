@@ -1,5 +1,6 @@
-# Connect Multiple MCP Servers
-
+---
+title: "Connect Multiple MCP Servers"
+---
 Once you have finished setting up [MCP connectors](https://docs.typingmind.com/model-context-protocol-(mcp)-in-typingmind), you can connect multiple MCP servers to TypingMind.
 
 ## **Step 1: Edit the server configuration**

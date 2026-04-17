@@ -1,5 +1,6 @@
-# New models: GPT-4o (2024-11-20) and Gemini Experimental 1206
-
+---
+title: "New models: GPT-4o (2024-11-20) and Gemini Experimental 1206"
+---
 ## 🔥 What’s new?
 
 Two new models:

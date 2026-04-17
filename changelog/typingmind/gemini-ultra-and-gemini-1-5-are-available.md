@@ -1,5 +1,6 @@
-# Gemini Ultra and Gemini 1.5 are available!
-
+---
+title: "Gemini Ultra and Gemini 1.5 are available!"
+---
 ## 🚀 What's New?
 
 Gemini Ultra and Gemini 1.5 Pro are now available on [http://typingmind.com](http://typingmind.com/)! 🥳

@@ -1,5 +1,6 @@
-# o1-preview and o1-mini are now available!
-
+---
+title: "o1-preview and o1-mini are now available!"
+---
 🧩 The new OpenAI models O1 Preview and O1 Mini are now available on [typingmind.com](http://typingmind.com/) 🔥
 
 ![image.png](o1-preview-and-o1-mini-are-now-available/image.png)

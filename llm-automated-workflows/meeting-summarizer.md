@@ -1,5 +1,6 @@
-# Meeting Summarizer
-
+---
+title: "Meeting Summarizer"
+---
 Meetings matter, but handling the details afterward can be tedious. Writing minutes, sharing summaries on Slack, and scheduling the next meeting all take up valuable time.
 
 What if you could automate all of it?

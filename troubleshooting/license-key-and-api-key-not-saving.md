@@ -1,5 +1,6 @@
-# License key and API key not saving?
-
+---
+title: "License key and API key not saving?"
+---
 If you're repeatedly asked to enter your license key and API, then this article will give you a better understanding of what causing this issue and how to prevent it.
 
 ![Untitled](license-key-and-api-key-not-saving/Untitled.png)

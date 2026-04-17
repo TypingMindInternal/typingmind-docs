@@ -1,5 +1,6 @@
-# Change text size on TypingMind
-
+---
+title: "Change text size on TypingMind"
+---
 ### **🚀 What's New?**
 
 Change text size on TypingMind from small to extra large.

@@ -1,5 +1,6 @@
-# External Authentication via JWT
-
+---
+title: "External Authentication via JWT"
+---
 You can authenticate your users using the following methods:
 
 - Email login (default)

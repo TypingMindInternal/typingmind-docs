@@ -1,5 +1,6 @@
-# Press “tab” to switch between variables in a prompt
-
+---
+title: "Press “tab” to switch between variables in a prompt"
+---
 ### **🚀 What's New?**
 
 For more complicated prompt templates, you can press [Tab] to switch between variable!

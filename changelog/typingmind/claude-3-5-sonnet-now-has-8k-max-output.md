@@ -1,5 +1,6 @@
-# Claude 3.5 Sonnet now has 8k max output!
-
+---
+title: "Claude 3.5 Sonnet now has 8k max output!"
+---
 ✅ Claude 3.5 Sonnet max output has been doubled!
 
 ### **🚀 What's New?**

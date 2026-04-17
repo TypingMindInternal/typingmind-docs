@@ -1,5 +1,6 @@
-# Changelog to 🚀
-
+---
+title: "Changelog to 🚀"
+---
 ### **🚀 What's New?**
 
 Added a little rocket icon 🚀 to show the changelog.

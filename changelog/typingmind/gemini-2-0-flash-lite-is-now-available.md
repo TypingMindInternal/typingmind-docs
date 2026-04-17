@@ -1,5 +1,6 @@
-# Gemini 2.0 Flash-Lite is now available!
-
+---
+title: "Gemini 2.0 Flash-Lite is now available!"
+---
 ## 🔥 What’s new?
 
 The lates Gemini model - Gemini 2.0 Flash Lite is now available on TypingMind!

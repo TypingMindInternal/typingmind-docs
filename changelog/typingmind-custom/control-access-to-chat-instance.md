@@ -1,5 +1,6 @@
-# Control access to chat instance
-
+---
+title: "Control access to chat instance"
+---
 ### **🚀 What's New?**
 
 Allow "authorized" use for your chat instance!

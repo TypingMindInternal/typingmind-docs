@@ -1,5 +1,6 @@
-# All plugins are now run on the server by default
-
+---
+title: "All plugins are now run on the server by default"
+---
 ### **🚀 What's New?**
 
 New in [custom.typingmind.com](http://custom.typingmind.com/):

@@ -1,5 +1,6 @@
-# Custom Email Sender via SMTP
-
+---
+title: "Custom Email Sender via SMTP"
+---
 To set up a custom email sender, you will need to obtain SMTP credentials from an online service. There are several providers, both free and paid, that you can choose from.
 
 ![Untitled](custom-email-sender-via-smtp/Untitled.png)

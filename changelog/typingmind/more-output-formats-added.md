@@ -1,5 +1,6 @@
-# More output formats added!
-
+---
+title: "More output formats added!"
+---
 ### **🚀 What's New?**
 
 Added 35 output formats to [TypingMind.com](http://typingmind.com/) so you can easily configure the AI assistant output🤩

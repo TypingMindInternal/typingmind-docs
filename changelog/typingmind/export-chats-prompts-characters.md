@@ -1,5 +1,6 @@
-# Export chats, prompts, characters
-
+---
+title: "Export chats, prompts, characters"
+---
 ### **🚀 What's New?**
 
 You can now export chats, prompts, and characters separately on [typingmind.com](http://typingmind.com/)

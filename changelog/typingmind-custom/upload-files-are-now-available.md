@@ -1,5 +1,6 @@
-# Upload files are now available
-
+---
+title: "Upload files are now available"
+---
 ### **🚀 What's New?**
 
 Upload files are now available (PDF, CSV, TXT)

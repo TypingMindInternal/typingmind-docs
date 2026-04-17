@@ -1,5 +1,6 @@
-# Better scrolling behavior
-
+---
+title: "Better scrolling behavior"
+---
 ## **🚀 What's New?**
 
 Better scrolling behavior.

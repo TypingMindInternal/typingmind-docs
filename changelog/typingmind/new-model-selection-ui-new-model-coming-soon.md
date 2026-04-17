@@ -1,5 +1,6 @@
-# New model selection UI + New model coming soon
-
+---
+title: "New model selection UI + New model coming soon"
+---
 ### **🚀 What's New?**
 
 New design for model selection UI + new model coming soon on [typingmind.com](http://typingmind.com/) 👀

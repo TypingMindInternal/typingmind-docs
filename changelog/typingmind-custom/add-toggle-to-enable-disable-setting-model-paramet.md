@@ -1,5 +1,6 @@
-# Add toggle to enable/disable setting model parameters
-
+---
+title: "Add toggle to enable/disable setting model parameters"
+---
 ## 🔥 What’s new?
 
 When this option is disabled, your users can only switch among models but can not adjust the custom parameters.

@@ -1,5 +1,6 @@
-# Restrict Model Access
-
+---
+title: "Restrict Model Access"
+---
 With TypingMind Team, you can restrict the visibility and usage of specific AI models for certain groups of users. 
 
 Here's how to do that:

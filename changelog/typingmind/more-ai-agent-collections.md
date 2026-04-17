@@ -1,5 +1,6 @@
-# More AI Agent collections
-
+---
+title: "More AI Agent collections"
+---
 ✅ Added more AI Agent collections on [typingmind.com](http://typingmind.com/)!
 
 ## **🚀 What’s new?**

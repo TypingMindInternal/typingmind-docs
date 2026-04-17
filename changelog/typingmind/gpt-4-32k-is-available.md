@@ -1,5 +1,6 @@
-# GPT-4-32K is available!
-
+---
+title: "GPT-4-32K is available!"
+---
 ### **🚀 What's New?**
 
 Added the "GPT-4-32K" option to [typingmind.com](http://typingmind.com/) today.

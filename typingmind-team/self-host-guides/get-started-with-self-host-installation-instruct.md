@@ -1,5 +1,6 @@
-# Get started with self-host - Installation Instruction (Docker)
-
+---
+title: "Get started with self-host - Installation Instruction (Docker)"
+---
 <aside>
 ℹ️
 

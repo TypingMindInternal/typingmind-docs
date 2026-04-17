@@ -1,5 +1,6 @@
-# Export / import data
-
+---
+title: "Export / import data"
+---
 You can easily export / import your data for manual backup. 
 
 - Go to Settings on the left side panel

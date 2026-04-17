@@ -1,5 +1,6 @@
-# Custom Body Params
-
+---
+title: "Custom Body Params"
+---
 ## **🚀 What's New?**
 
 Added Custom Body Params in Custom Model!

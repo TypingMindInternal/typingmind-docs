@@ -1,5 +1,6 @@
-# Control the response quality
-
+---
+title: "Control the response quality"
+---
 Useful tips to help you improve the response quality for your chat instance, especially in the case of uploading training data.
 
 # 1. Improve the System Instructions for Your Chat Model

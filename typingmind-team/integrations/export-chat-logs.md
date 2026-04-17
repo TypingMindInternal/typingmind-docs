@@ -1,5 +1,6 @@
-# Export chat logs
-
+---
+title: "Export chat logs"
+---
 You can export all of your chat logs to an external system. The chat logs contain all the user messages in your chat instance.
 
 This is useful for:

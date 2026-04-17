@@ -1,5 +1,6 @@
-# Customize app appearance
-
+---
+title: "Customize app appearance"
+---
 TypingMind allows you to customize how the app interface looks on screen, which controls the visual style of the app, including the overall theme, sidebar appearance, text size, and chat layout width. 
 
 ## Access the Appearance settings

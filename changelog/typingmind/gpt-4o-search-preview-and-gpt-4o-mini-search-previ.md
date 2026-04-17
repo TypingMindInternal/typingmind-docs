@@ -1,5 +1,6 @@
-# GPT-4o Search Preview and GPT-4o mini Search preview
-
+---
+title: "GPT-4o Search Preview and GPT-4o mini Search preview"
+---
 ## 🔥 What’s new?
 
 GPT-4o Search Preview and GPT-4o mini Search Preview are now available on TypingMind!

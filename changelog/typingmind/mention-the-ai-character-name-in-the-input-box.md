@@ -1,5 +1,6 @@
-# Mention @ the AI Character name in the input box
-
+---
+title: "Mention @ the AI Character name in the input box"
+---
 ## **🚀 What's New?**
 
 Brings multiple AI agents into one chat!

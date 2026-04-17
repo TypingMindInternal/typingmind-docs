@@ -1,5 +1,6 @@
-# OAuth 2.0
-
+---
+title: "OAuth 2.0"
+---
 Users can log in to your chat instance with Google, Facebook, and other accounts. In order to do this, you need to set up OAuth 2.0 as a user authentication method in your TypingMind instance.
 
 This page will guide you on how to set up OAuth 2.0 for user authentication.

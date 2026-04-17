@@ -1,5 +1,6 @@
-# License upgrade is available!
-
+---
+title: "License upgrade is available!"
+---
 ### **🚀 What's New?**
 
 License Upgrade is now available in [typingmind.com](https://www.typingmind.com/)!

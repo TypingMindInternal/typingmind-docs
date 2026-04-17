@@ -1,5 +1,6 @@
-# Context length indicator
-
+---
+title: "Context length indicator"
+---
 ## **🚀 What's New?**
 
 Track current context length usage to see how many tokens left in your conversation.

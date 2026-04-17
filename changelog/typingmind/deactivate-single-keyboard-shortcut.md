@@ -1,5 +1,6 @@
-# Deactivate single keyboard shortcut
-
+---
+title: "Deactivate single keyboard shortcut"
+---
 ## **🚀 What's New?**
 
 Added an option to deactivate individual keyboard shortcuts!

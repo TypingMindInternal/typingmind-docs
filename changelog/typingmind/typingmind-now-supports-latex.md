@@ -1,5 +1,6 @@
-# TypingMind now supports LaTeX
-
+---
+title: "TypingMind now supports LaTeX"
+---
 ### **🚀 What's New?**
 
 TypingMind now supports LaTeX!!!

@@ -1,5 +1,6 @@
-# Queue Multiple Inputs
-
+---
+title: "Queue Multiple Inputs"
+---
 ✅ You can now create a workflow with multiple queued messages for AI agents on [typingmind.com](http://typingmind.com/):
 
 ### **🚀 What's New?**

@@ -1,5 +1,6 @@
-# AI Agent Examples
-
+---
+title: "AI Agent Examples"
+---
 Some ready-to-use AI Agents that are built by our team or collected from multiple sources
 
 ## AI Agent Generator v3 (use with Claude 3 Sonnet)

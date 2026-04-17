@@ -1,5 +1,6 @@
-# TypingMind Free Tools
-
+---
+title: "TypingMind Free Tools"
+---
 ### **🚀 What's New?**
 
 We introduced some TypingMind free tools:

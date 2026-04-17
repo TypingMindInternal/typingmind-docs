@@ -1,5 +1,6 @@
-# Darkmode in Code blocks
-
+---
+title: "Darkmode in Code blocks"
+---
 ### **🚀 What's New?**
 
 Typing Mind now supports dark mode in code blocks 

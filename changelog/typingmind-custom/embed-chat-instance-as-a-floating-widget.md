@@ -1,5 +1,6 @@
-# Embed chat instance as a floating widget
-
+---
+title: "Embed chat instance as a floating widget"
+---
 ### **🚀 What's New?**
 
 🔗 Embed TypingMind chat widget on your website!

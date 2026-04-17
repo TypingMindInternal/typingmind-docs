@@ -1,5 +1,6 @@
-# Claude Instant 1.2 is available!
-
+---
+title: "Claude Instant 1.2 is available!"
+---
 ### **🚀 What's New?**
 
 Claude Instant 1.2 is available!

@@ -1,5 +1,6 @@
-# TypingMind MCP + FileSystem
-
+---
+title: "TypingMind MCP + FileSystem"
+---
 This guide walks you through setting up the **FileSystem MCP server** so your AI assistant in **TypingMind** can read and interact with files stored locally on your computer.
 
 ## Why access your local files?

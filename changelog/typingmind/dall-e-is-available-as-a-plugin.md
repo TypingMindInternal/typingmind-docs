@@ -1,5 +1,6 @@
-# Dall-E is available as a plugin!
-
+---
+title: "Dall-E is available as a plugin!"
+---
 ## **🚀 What's New?**
 
 Use Dall-E to generate images from text.

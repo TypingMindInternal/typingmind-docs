@@ -1,5 +1,6 @@
-# Your chat data is lost? Causes and Solutions
-
+---
+title: "Your chat data is lost? Causes and Solutions"
+---
 If you accidentally lose your data, such as chat history, AI Agent collection, or Prompt library, this article will help you understand what causes this issue and how to resolve it.
 
 # How do we store your data?

@@ -1,5 +1,6 @@
-# New plugin: OpenAI File Search
-
+---
+title: "New plugin: OpenAI File Search"
+---
 ## 🔥 What’s new?
 
 This plugin lets your system search internal training data using the OpenAI File Search tool. It retrieves relevant information from your uploaded files.

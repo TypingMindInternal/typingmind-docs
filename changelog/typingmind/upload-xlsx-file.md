@@ -1,5 +1,6 @@
-# Upload XLSX File
-
+---
+title: "Upload XLSX File"
+---
 ## **🚀 What's New?**
 
 TypingMind now supports uploading XLSX files!

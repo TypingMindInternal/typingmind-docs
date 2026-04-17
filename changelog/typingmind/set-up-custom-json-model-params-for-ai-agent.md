@@ -1,5 +1,6 @@
-# Set up Custom JSON model params for AI Agent
-
+---
+title: "Set up Custom JSON model params for AI Agent"
+---
 Now you can set up Custom JSON model parameters for AI Agents!
 
 ## **🚀 What's New?**

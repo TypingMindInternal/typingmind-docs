@@ -1,5 +1,6 @@
-# API Integration Overview
-
+---
+title: "API Integration Overview"
+---
 The **TypingMind Custom API** is a REST API that lets you interact with data in the TypingMind system. It uses JSON-formatted data for requests and responses.
 
 Now, let's explore what our API can do and how it can be used in different business cases.

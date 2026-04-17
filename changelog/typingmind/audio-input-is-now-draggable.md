@@ -1,5 +1,6 @@
-# Audio input is now draggable!
-
+---
+title: "Audio input is now draggable!"
+---
 ## **🚀 What's New?**
 
 The audio input pop-up is now draggable.

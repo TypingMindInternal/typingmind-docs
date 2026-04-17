@@ -1,5 +1,6 @@
-# TypingMind MCP + n8n
-
+---
+title: "TypingMind MCP + n8n"
+---
 This guide will help you set up the **n8n MCP server**, provides AI assistants on TypingMind with comprehensive access to n8n node documentation, properties, and operations so you can create or manage n8n workflows effortlessly on TypingMind.
 
 ## **Why setting up n8n MCP on TypingMind?**

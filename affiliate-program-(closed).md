@@ -1,5 +1,6 @@
-# Affiliate Program (Closed)
-
+---
+title: "Affiliate Program (Closed)"
+---
 <aside>
 🚨
 

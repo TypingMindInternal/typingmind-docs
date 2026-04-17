@@ -1,5 +1,6 @@
-# Add three new Gemini models
-
+---
+title: "Add three new Gemini models"
+---
 ## 🔥 What’s new?
 
 Added 3 new Gemini models on [http://TypingMind.com](http://typingmind.com/)!

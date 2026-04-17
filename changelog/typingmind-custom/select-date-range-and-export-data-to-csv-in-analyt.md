@@ -1,5 +1,6 @@
-# Select date range and export data to CSV in Analytics page
-
+---
+title: "Select date range and export data to CSV in Analytics page"
+---
 New updates for Analytics Page on [custom.typingmind.com](http://custom.typingmind.com/)!
 
 ### **🚀 What's New?**

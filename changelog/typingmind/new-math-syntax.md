@@ -1,5 +1,6 @@
-# New Math Syntax
-
+---
+title: "New Math Syntax"
+---
 We have just improved math syntax display on TypingMind!
 
 ### **🚀 What's New?**

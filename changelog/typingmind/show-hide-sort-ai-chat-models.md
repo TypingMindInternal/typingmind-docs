@@ -1,5 +1,6 @@
-# Show / hide / sort AI chat models
-
+---
+title: "Show / hide / sort AI chat models"
+---
 ## **🚀 What's New?**
 
 AI model management on [http://typingmind.com](http://typingmind.com/) is sooo much better now!

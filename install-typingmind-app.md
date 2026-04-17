@@ -1,5 +1,6 @@
-# Install TypingMind App
-
+---
+title: "Install TypingMind App"
+---
 TypingMind offers a flexible option where you can install the app as PWA on every platform from MacOS, Windows, Linux, to Android, iOS. 
 
 You will need to access to [typingmind.com](http://typingmind.com) first then Install or Add to homescreen as follows:

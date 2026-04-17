@@ -1,5 +1,6 @@
-# Add training examples in Training Data
-
+---
+title: "Add training examples in Training Data"
+---
 ### **🚀 What's New?**
 
 Added Training Messages to Typing Mind Custom. 

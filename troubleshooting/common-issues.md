@@ -1,5 +1,6 @@
-# Common Issues
-
+---
+title: "Common Issues"
+---
 Experiencing issues with our app? Below, you'll find some common issues and our suggested solutions to help you resolve them quickly.
 
 <aside>

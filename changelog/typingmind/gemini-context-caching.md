@@ -1,5 +1,6 @@
-# Gemini Context Caching
-
+---
+title: "Gemini Context Caching"
+---
 Gemini Context Caching is now available on TypingMind! 🔥
 
 Supported models:

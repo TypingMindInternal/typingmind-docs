@@ -1,5 +1,6 @@
-# Internal Prompts
-
+---
+title: "Internal Prompts"
+---
 Internal prompts are background instructions that TypingMind sends to the AI for certain built-in features. These prompts are not your normal chat messages. Instead, they control how the app handles tasks like naming chat titles or summarizing long conversations.
 
 ![image.png](internal-prompts/image.png)

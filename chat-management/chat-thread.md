@@ -1,5 +1,6 @@
-# Chat thread
-
+---
+title: "Chat thread"
+---
 ## What Is the Chat Thread Feature?
 
 **Chat Thread** allows you to view, switch between, and continue chatting with multiple versions of your current chat session.

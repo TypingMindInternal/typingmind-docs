@@ -1,5 +1,6 @@
-# 30+ Voices for ElevenLabs’s Text-to-Speech
-
+---
+title: "30+ Voices for ElevenLabs’s Text-to-Speech"
+---
 ### **🚀 What's New?**
 
 Added 30+ voices to ElevenLabs' Voice library on TypingMind!

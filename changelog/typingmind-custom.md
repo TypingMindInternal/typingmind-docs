@@ -1,5 +1,6 @@
-# TypingMind Custom
-
+---
+title: "TypingMind Custom"
+---
 <aside>
 🚨
 

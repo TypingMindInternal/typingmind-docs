@@ -1,5 +1,6 @@
-# Improve Autofill content with AI for AI character
-
+---
+title: "Improve Autofill content with AI for AI character"
+---
 ## **🚀 What's New?**
 
 Improved "AutoFill Content with AI" for AI Characters!

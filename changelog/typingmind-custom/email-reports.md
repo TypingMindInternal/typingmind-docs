@@ -1,5 +1,6 @@
-# Email Reports
-
+---
+title: "Email Reports"
+---
 ### **🚀 What's New?**
 
 📩 New Email Reports for [custom.typingmind.com](http://custom.typingmind.com/)!

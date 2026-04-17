@@ -1,5 +1,6 @@
-# More options to share your chat GPT conversation
-
+---
+title: "More options to share your chat GPT conversation"
+---
 ### **🚀 What's New?**
 
 We have just added more options to share your ChatGPT conversation on [typingmind.com](http://typingmind.com/) 😄 

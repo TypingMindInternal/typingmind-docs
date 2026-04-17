@@ -1,5 +1,6 @@
-# Use AWS Bedrock Anthropic
-
+---
+title: "Use AWS Bedrock Anthropic"
+---
 We are thrilled to announce that you can now seamlessly integrate and deploy Anthropic AI models using **AWS Bedrock** directly within **TypingMind**! This powerful integration allows you to harness advanced AI capabilities to enhance your applications and workflows.
 
 ### **🚀 What's New?**

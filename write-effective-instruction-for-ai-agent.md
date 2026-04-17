@@ -1,5 +1,6 @@
-# Write Effective Instruction for AI Agent
-
+---
+title: "Write Effective Instruction for AI Agent"
+---
 Writing a clear and structured instruction is the foundation for building a useful and reliable AI Agent. Even when you're creating a customer service assistant, a career coach, or an MBTI expert, the instruction acts as the brain and behavioral blueprint for your Agent.
 
 Let’s check out!

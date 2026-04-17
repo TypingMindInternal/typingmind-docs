@@ -1,5 +1,6 @@
-# Pin messages
-
+---
+title: "Pin messages"
+---
 ## **🚀 What's New?**
 
 📌 Pin messages in a conversation!

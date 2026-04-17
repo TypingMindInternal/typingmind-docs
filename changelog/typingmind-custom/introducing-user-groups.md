@@ -1,5 +1,6 @@
-# Introducing User Groups
-
+---
+title: "Introducing User Groups"
+---
 ## 🔥 What’s new?
 
 TypingMind User Group is an enhanced version of TypingMind’s user tags at [custom.typingmind.com](http://custom.typingmind.com/).

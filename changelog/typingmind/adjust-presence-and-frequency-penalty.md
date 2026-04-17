@@ -1,5 +1,6 @@
-# Adjust Presence & Frequency Penalty
-
+---
+title: "Adjust Presence & Frequency Penalty"
+---
 ### **🚀 What's New?**
 
 [TypingMind.com](http://typingmind.com/) now supports Presence Penalty and Frequency Penalty parameters!

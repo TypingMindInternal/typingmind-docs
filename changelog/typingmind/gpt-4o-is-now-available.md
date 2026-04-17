@@ -1,5 +1,6 @@
-# GPT-4o is now available!
-
+---
+title: "GPT-4o is now available!"
+---
 🧩 GPT-4o is now available on TypingMind!
 
 ### **🚀 What's New?**

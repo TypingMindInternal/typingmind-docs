@@ -1,5 +1,6 @@
-# TypingMind cloud - sync chats on multiple devices
-
+---
+title: "TypingMind cloud - sync chats on multiple devices"
+---
 ### **🚀 What's New?**
 
 You can now sync your chats between multiple devices on [typingmind.com](http://typingmind.com/)! 

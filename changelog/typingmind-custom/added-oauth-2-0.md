@@ -1,5 +1,6 @@
-# Added OAuth 2.0!
-
+---
+title: "Added OAuth 2.0!"
+---
 ### **🚀 What's New?**
 
 Added OAuth 2.0 to [custom.typingmind.com](http://custom.typingmind.com/) 😄

@@ -1,5 +1,6 @@
-# OpenAI Whisper for TypingMind custom
-
+---
+title: "OpenAI Whisper for TypingMind custom"
+---
 ### **🚀 What's New?**
 
 🎤 Added OpenAI Whisper for Voice Input on [custom.typingmind.com](http://custom.typingmind.com/)!

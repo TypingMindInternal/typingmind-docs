@@ -1,5 +1,6 @@
-# Keyboard shortcut for New chat
-
+---
+title: "Keyboard shortcut for New chat"
+---
 ### **🚀 What's New?**
 
 Added new keyboard shortcuts on [typingmind.com](http://typingmind.com/) so you can quickly create new chats with your own shortcut!

@@ -1,5 +1,6 @@
-# New sidebar layout + UX
-
+---
+title: "New sidebar layout + UX"
+---
 ### **🚀 What's New?**
 
 New sidebar layout + UX for [typingmind.com](http://typingmind.com/) 👇 

@@ -1,5 +1,6 @@
-# Add Post-message Reminder in Training Data
-
+---
+title: "Add Post-message Reminder in Training Data"
+---
 ### **🚀 What's New?**
 
 Also added Post-Message Reminder to [custom.typingmind.com](http://custom.typingmind.com/)

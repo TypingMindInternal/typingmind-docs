@@ -1,5 +1,6 @@
-# Ad Creative Generator
-
+---
+title: "Ad Creative Generator"
+---
 Creating strong ad visuals isn’t just about using AI - it’s about giving AI the right instructions.
 
 Many e-commerce owners try image generators and end up disappointed. The visuals look unrealistic, off-brand, or simply not aligned with their campaign goals.

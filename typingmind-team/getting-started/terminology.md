@@ -1,5 +1,6 @@
-# Terminology
-
+---
+title: "Terminology"
+---
 | Terms | Definition |
 | --- | --- |
 | **Chat instance** | The chat interface is set up to be used by one team. When you register on our cloud, you will create a new chat instance. You can create multiple instances for different purposes. Each instance has a separate environment and data: members, chats, prompts, plugins, chat preferences, themes, etc. A self-host setup can be configured to create multiple instances if needed. |

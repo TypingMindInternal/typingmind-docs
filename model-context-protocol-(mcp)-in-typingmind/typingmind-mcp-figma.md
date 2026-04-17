@@ -1,5 +1,6 @@
-# TypingMind MCP + Figma
-
+---
+title: "TypingMind MCP + Figma"
+---
 Using TypingMind with Figma via MCP allows you to access your Figma files so you can automate tasks, streamline collaboration, and bridge design-to-dev workflows
 
 ## Why use TypingMind MCP + Figma?

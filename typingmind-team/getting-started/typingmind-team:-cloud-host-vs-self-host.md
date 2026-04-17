@@ -1,5 +1,6 @@
-# TypingMind Team: Cloud-host vs Self-host
-
+---
+title: "TypingMind Team: Cloud-host vs Self-host"
+---
 TypingMind Custom provides two hosting options:
 
 - [Cloud-hosted version](https://custom.typingmind.com/features/get-started-on-our-cloud)

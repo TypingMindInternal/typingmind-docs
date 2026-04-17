@@ -1,5 +1,6 @@
-# TypingMind MCP + Slack
-
+---
+title: "TypingMind MCP + Slack"
+---
 This guide will help you set up the Slack **MCP server**, provides AI assistants on TypingMind with the ability to interact with Slack workspaces. This integration allows you to list channels, post messages, reply to threads, add reactions, get channel history, and manage users on Slack via TypingMind.
 
 ## Step-by-step to install Slack MCP on TypingMind

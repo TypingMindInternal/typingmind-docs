@@ -1,5 +1,6 @@
-# Export all TypingMind’s settings to JSON file
-
+---
+title: "Export all TypingMind’s settings to JSON file"
+---
 ### **🚀 What's New?**
 
 You can now export all the TypingMind settings into JSON file.

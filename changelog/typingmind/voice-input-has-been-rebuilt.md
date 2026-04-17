@@ -1,5 +1,6 @@
-# Voice input has been rebuilt!
-
+---
+title: "Voice input has been rebuilt!"
+---
 ### **🚀 What's New?**
 
 The Voice Input feature on [typingmind.com](http://typingmind.com/) has been completely rebuilt!

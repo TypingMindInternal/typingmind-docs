@@ -1,5 +1,6 @@
-# Added “Reset chat” button
-
+---
+title: "Added “Reset chat” button"
+---
 ### **🚀 What's New?**
 
 Added "Reset Chat" button to [typingmind.com](http://typingmind.com/) so you can roll back to the beginning of the chat with a and edit the prompt without creating a new one!

@@ -1,5 +1,6 @@
-# Train Agent With Custom Knowledge
-
+---
+title: "Train Agent With Custom Knowledge"
+---
 When building a custom AI Agent for your business or product, one of the most critical steps is training it with your **domain-specific knowledge**. Whether that’s product documentation, internal SOPs, support guides, or live system data—your Agent needs access to the right information to give accurate and helpful responses.
 
 ![image.png](train-agent-with-custom-knowledge/image.png)

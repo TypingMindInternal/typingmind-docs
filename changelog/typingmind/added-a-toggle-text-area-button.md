@@ -1,5 +1,6 @@
-# Added a “Toggle text area” button
-
+---
+title: "Added a “Toggle text area” button"
+---
 ### **🚀 What's New?**
 
 ➡️⬅️ Added a "Toggle Text Area" button to [typingmind.com](http://typingmind.com/)

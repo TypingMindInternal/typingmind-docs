@@ -1,5 +1,6 @@
-# TypingMind MCP + Firecrawl
-
+---
+title: "TypingMind MCP + Firecrawl"
+---
 This guide will help you integrates Firecrawl for web scraping capabilities via Firecrawl MCP server.
 
 ## Why uses Firecrawl?

@@ -1,5 +1,6 @@
-# Data Usage and Model Training Policy
-
+---
+title: "Data Usage and Model Training Policy"
+---
 **All of your conversations on the TypingMind system are strictly confidential and never used for training purposes.**
 
 However, as TypingMind Custom primarily offers the chat interface and management system for different AI Service Providers, the data usage and model training policy are also determined by the AI providers you select.

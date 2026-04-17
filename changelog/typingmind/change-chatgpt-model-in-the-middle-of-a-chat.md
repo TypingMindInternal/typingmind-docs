@@ -1,5 +1,6 @@
-# Change ChatGPT model in the middle of a chat
-
+---
+title: "Change ChatGPT model in the middle of a chat"
+---
 ### **🚀 What's New?**
 
 You can now also change the ChatGPT model in the middle of a chat on [typingmind.com](http://typingmind.com/)!

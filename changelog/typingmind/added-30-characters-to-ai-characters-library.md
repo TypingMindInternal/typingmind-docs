@@ -1,5 +1,6 @@
-# Added 30+ characters to AI characters library
-
+---
+title: "Added 30+ characters to AI characters library"
+---
 ### **🚀 What's New?**
 
 Added 30+ characters to [typingmind.com](http://typingmind.com/)

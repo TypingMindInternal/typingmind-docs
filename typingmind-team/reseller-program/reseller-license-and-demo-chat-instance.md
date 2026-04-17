@@ -1,5 +1,6 @@
-# Reseller License & Demo Chat Instance
-
+---
+title: "Reseller License & Demo Chat Instance"
+---
 By joining our Reseller Program, you will get a **Reseller License and** **Free Demo Instance with 50 users available.** 
 
 This demo instance allows resellers to showcase the platform to their potential customers effectively and experience its capabilities firsthand. Here’s what you need to know about this offer.

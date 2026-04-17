@@ -1,5 +1,6 @@
-# Branding and Customizations
-
+---
+title: "Branding and Customizations"
+---
 ## Custom branding
 
 [Custom branding](Branding%20and%20Customizations/Custom%20branding%2047cf8f83f0a44f0082408a8c90d25a9a.md)

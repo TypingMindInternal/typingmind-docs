@@ -1,5 +1,6 @@
-# Latest OpenAI chat models updated
-
+---
+title: "Latest OpenAI chat models updated"
+---
 ### **🚀 What's New?**
 
 Updated TypingMind to the latest models from OpenAI. 🥳

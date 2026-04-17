@@ -1,5 +1,6 @@
-# Modify Custom model settings
-
+---
+title: "Modify Custom model settings"
+---
 ## **🚀 What's New?**
 
 Edit your custom model settings for quick update. 

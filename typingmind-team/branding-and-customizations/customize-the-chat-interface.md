@@ -1,5 +1,6 @@
-# Customize the chat interface
-
+---
+title: "Customize the chat interface"
+---
 TypingMind Custom lets you customize the appearance of your instance user-facing app to match your preferences.
 
 ## 1. Basic customization

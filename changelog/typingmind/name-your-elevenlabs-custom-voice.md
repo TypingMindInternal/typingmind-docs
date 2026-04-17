@@ -1,5 +1,6 @@
-# Name your ElevenLabs’ custom voice
-
+---
+title: "Name your ElevenLabs’ custom voice"
+---
 ### **🚀 What's New?**
 
 You can name your ElevenLabs custom voice on TypingMind!

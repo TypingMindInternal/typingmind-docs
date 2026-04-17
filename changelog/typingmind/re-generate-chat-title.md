@@ -1,5 +1,6 @@
-# Re-generate chat title
-
+---
+title: "Re-generate chat title"
+---
 ## 🔥 What’s new?
 
 You can now regenerate chat titles to match your conversation better.

@@ -1,5 +1,6 @@
-# New dashboard UI
-
+---
+title: "New dashboard UI"
+---
 ### **🚀 What's New?**
 
 New dashboard UI

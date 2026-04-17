@@ -1,5 +1,6 @@
-# New help center!
-
+---
+title: "New help center!"
+---
 ### **🚀 What's New?**
 
 Introducing our Help Center!

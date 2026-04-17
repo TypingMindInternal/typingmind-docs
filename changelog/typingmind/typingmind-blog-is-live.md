@@ -1,5 +1,6 @@
-# TypingMind blog is live!
-
+---
+title: "TypingMind blog is live!"
+---
 ### **🚀 What's New?**
 
 🥳 Say hi to the new TypingMind blog!

@@ -1,5 +1,6 @@
-# Connect knowledge base to your AI Agents
-
+---
+title: "Connect knowledge base to your AI Agents"
+---
 Connect knowledge base to your AI Agents allows you to create multiple AI agents within a single chat instance with its own domain-specific knowledge.
 
 By customizing each AI agent with specific datasets, you can get a wide range of conversational chatbots dedicated to different contexts, or user needs. Here’s how to set this up easily.

@@ -1,5 +1,6 @@
-# Introducing Server Plugins
-
+---
+title: "Introducing Server Plugins"
+---
 ### **🚀 What's New?**
 
 ✨ Introducing Server Plugins on [custom.typingmind.com](http://custom.typingmind.com/)

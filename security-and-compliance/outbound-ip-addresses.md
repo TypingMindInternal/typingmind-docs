@@ -1,5 +1,6 @@
-# Outbound IP addresses
-
+---
+title: "Outbound IP addresses"
+---
 These are the stable IP addresses that TypingMind uses for outbound requests (for example, when making MCP tool calls to external servers).
 
 <aside>

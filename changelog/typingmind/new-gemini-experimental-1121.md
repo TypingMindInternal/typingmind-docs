@@ -1,5 +1,6 @@
-# New Gemini Experimental 1121
-
+---
+title: "New Gemini Experimental 1121"
+---
 ## 🔥 What’s new?
 
 The latest experimental Gemini model - **Gemini Experimental 1121** is now available on TypingMind!

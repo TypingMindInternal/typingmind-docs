@@ -1,5 +1,6 @@
-# New Model Setting Page
-
+---
+title: "New Model Setting Page"
+---
 ✅ We have launched a new Model Settings page for [typingmind.com](http://typingmind.com/)! 
 
 ### **🚀 What's New?**

@@ -1,5 +1,6 @@
-# TypingMind is officially launched!
-
+---
+title: "TypingMind is officially launched!"
+---
 🧩 TypingMind is officially launched!
 
 ### ✨ Stay updated

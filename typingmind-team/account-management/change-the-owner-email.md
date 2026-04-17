@@ -1,5 +1,6 @@
-# Change the Owner email
-
+---
+title: "Change the Owner email"
+---
 As of now, you can change the owner email following the steps below:
 
 - Log into the Admin Panel

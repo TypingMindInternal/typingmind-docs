@@ -1,5 +1,6 @@
-# Added custom characters
-
+---
+title: "Added custom characters"
+---
 ### **🚀 What's New?**
 
 Huge upgrade for Custom Deployment users:

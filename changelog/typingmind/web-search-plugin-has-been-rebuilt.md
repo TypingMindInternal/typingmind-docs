@@ -1,5 +1,6 @@
-# Web search plugin has been rebuilt!
-
+---
+title: "Web search plugin has been rebuilt!"
+---
 ### **🚀 What's New?**
 
 The Web Search plugin has been rebuilt to use the latest Function feature of OpenAI API:

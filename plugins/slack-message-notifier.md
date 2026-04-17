@@ -1,5 +1,6 @@
-# Slack Message Notifier
-
+---
+title: "Slack Message Notifier"
+---
 ## Overview
 
 Let's create a **Slack Message Notifier** plugin. This plugin allows you to send messages from TypingMind to a Slack channel. By the end of this tutorial, you'll be able to build a plugin that looks like the one in the screenshot below:

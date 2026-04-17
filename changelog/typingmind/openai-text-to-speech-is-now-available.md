@@ -1,5 +1,6 @@
-# OpenAI Text-to-speech is now available!
-
+---
+title: "OpenAI Text-to-speech is now available!"
+---
 ### **🚀 What's New?**
 
 OpenAI Text-to-speech is now available as speech provider on TypingMind (along with ElevenLabs, Web Speech API)

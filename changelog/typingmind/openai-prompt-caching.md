@@ -1,5 +1,6 @@
-# OpenAI Prompt Caching
-
+---
+title: "OpenAI Prompt Caching"
+---
 OpenAI Prompt Caching is now available on TypingMind!
 
 Prompt Caching allows users to make repeated API calls more efficiently by reusing context from recent prompts.

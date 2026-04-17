@@ -1,5 +1,6 @@
-# Add more integration sources for Knowledge Base
-
+---
+title: "Add more integration sources for Knowledge Base"
+---
 ## 🔥 What’s new?
 
 **New sources** have just been added to the knowledge base within your Admin Panel, including Freshdesk, GitHub, Salesforce, Zendesk, S3, Zotero, and more!

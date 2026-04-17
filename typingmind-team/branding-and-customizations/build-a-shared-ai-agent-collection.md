@@ -1,5 +1,6 @@
-# Build a Shared AI Agent collection
-
+---
+title: "Build a Shared AI Agent collection"
+---
 Admins have the option to build AI Agent collection for your chat interface that is shared across your team members. 
 
 - Go to **AI Agents**

@@ -1,5 +1,6 @@
-# Perplexity plugin is now available!
-
+---
+title: "Perplexity plugin is now available!"
+---
 🔍 Perplexity Search plugin is now available!
 
 ### **🚀 What's New?**

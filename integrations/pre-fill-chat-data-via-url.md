@@ -1,5 +1,6 @@
-# Pre-Fill Chat Data via URL
-
+---
+title: "Pre-Fill Chat Data via URL"
+---
 You can now pre-fill chat data on [TypingMind](http://typingmind.com/) using URL parameters. Follow the guide below to configure your chat sessions.
 
 ## 1. Pre-Fill Initial System Message

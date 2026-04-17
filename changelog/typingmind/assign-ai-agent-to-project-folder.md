@@ -1,5 +1,6 @@
-# Assign AI Agent to Project Folder
-
+---
+title: "Assign AI Agent to Project Folder"
+---
 Now you can assign a specific AI Agent to your Project folder to enhance the productivity by minimizing the steps to select AI Agent within Project. 
 
 ## ⚙️ How it works?

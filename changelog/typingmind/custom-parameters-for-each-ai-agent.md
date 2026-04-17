@@ -1,5 +1,6 @@
-# Custom parameters for each AI Agent
-
+---
+title: "Custom parameters for each AI Agent"
+---
 🧩 Now you can set up Custom Parameters for each AI Agent on [typingmind.com](http://typingmind.com/) 🥳
 
 ### **🚀 What's New?**

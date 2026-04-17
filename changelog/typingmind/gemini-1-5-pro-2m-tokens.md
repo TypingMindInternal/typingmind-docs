@@ -1,5 +1,6 @@
-# Gemini 1.5 Pro 2M tokens
-
+---
+title: "Gemini 1.5 Pro 2M tokens"
+---
 Google Gemini 1.5 Pro with 2M tokens is now available!
 
 ## **🚀 What's New?**

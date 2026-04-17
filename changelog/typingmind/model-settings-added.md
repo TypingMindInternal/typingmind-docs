@@ -1,5 +1,6 @@
-# Model settings added!
-
+---
+title: "Model settings added!"
+---
 ### **🚀 What's New?**
 
 Added Model Settings to [typingmind.com](http://typingmind.com/).

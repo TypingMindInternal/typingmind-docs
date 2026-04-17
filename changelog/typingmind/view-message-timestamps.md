@@ -1,5 +1,6 @@
-# View message timestamps
-
+---
+title: "View message timestamps"
+---
 ## **🚀 What's New?**
 
 View message timestamps for your chats!

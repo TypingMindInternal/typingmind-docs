@@ -1,5 +1,6 @@
-# Add custom HTML/JS/CSS code to your chat instance
-
+---
+title: "Add custom HTML/JS/CSS code to your chat instance"
+---
 ### **🚀 What's New?**
 
 Add custom HTML/JS/CSS code to your chat instance

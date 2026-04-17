@@ -1,5 +1,6 @@
-# UI improvement for AI character
-
+---
+title: "UI improvement for AI character"
+---
 ## **🚀 What's New?**
 
 Some minor UI improvements:

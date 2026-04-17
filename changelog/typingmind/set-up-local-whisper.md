@@ -1,5 +1,6 @@
-# Set up Local Whisper
-
+---
+title: "Set up Local Whisper"
+---
 Set your local Whisper endpoint for voice input on [http://typingmind.com](http://typingmind.com/)!
 
 ## **🏁 How it works**

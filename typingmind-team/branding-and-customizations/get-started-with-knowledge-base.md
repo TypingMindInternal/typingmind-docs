@@ -1,5 +1,6 @@
-# Get started with Knowledge Base
-
+---
+title: "Get started with Knowledge Base"
+---
 The Knowledge Base system on TypingMind allows you to integrate your internal data from multiple sources to your AI workspace and implement Retrieval-Augmented Generation (RAG) so that the AI model can generate relevant and accurate response to domain-specific questions.
 
 ## **What can you do with the Knowledge Base system?**

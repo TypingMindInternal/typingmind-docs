@@ -1,5 +1,6 @@
-# GPT-3,5-16K supports plugins now!
-
+---
+title: "GPT-3,5-16K supports plugins now!"
+---
 ### **🚀 What's New?**
 
 Great news: the GPT-3.5 16K can use plugins now!

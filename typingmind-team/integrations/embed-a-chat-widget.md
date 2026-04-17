@@ -1,5 +1,6 @@
-# Embed a chat widget
-
+---
+title: "Embed a chat widget"
+---
 ![Untitled](embed-a-chat-widget/Untitled.png)
 
 One effective way to boost engagement and provide immediate value to your visitors is by embedding a chat widget on your website. Not only does this offer an interactive element to your site, but it also provides a hub for instant communication and assistance.

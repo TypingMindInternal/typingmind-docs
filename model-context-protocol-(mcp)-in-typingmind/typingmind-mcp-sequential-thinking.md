@@ -1,5 +1,6 @@
-# TypingMind MCP + Sequential Thinking
-
+---
+title: "TypingMind MCP + Sequential Thinking"
+---
 This guide will help you set up the **Sequential Thinking MCP server**, enabling your AI assistant in **TypingMind** to reason through tasks and problems using a structured, step-by-step approach.
 
 ## Why uses Sequential Thinking?

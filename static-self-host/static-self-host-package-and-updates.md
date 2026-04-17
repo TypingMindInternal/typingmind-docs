@@ -1,5 +1,6 @@
-# Static Self-host Package & Updates
-
+---
+title: "Static Self-host Package & Updates"
+---
 ## Latest Feature Update:
 
 <aside>

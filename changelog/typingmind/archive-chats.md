@@ -1,5 +1,6 @@
-# Archive chats
-
+---
+title: "Archive chats"
+---
 ## **🚀 What's New?**
 
 Archive chats to reduce chat clutter on your chat list:

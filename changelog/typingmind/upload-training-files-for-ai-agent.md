@@ -1,5 +1,6 @@
-# Upload training files for AI Agent
-
+---
+title: "Upload training files for AI Agent"
+---
 Upload documents to help the AI agent understand your domain knowledge better!
 
 ## **🚀 How it works?**

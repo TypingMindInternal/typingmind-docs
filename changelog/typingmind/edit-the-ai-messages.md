@@ -1,5 +1,6 @@
-# Edit the AI messages
-
+---
+title: "Edit the AI messages"
+---
 ### **🚀 What's New?**
 
 Edit the AI message (and system message)  to "train" the chat models so that it can give better results!

@@ -1,5 +1,6 @@
-# Edit in Canvas
-
+---
+title: "Edit in Canvas"
+---
 **TypingMind Edit in Canvas** is here to streamline your workflow by allowing you to directly refine responses in a dedicated canvas, especially when you need to edit, collaborate, or review your work. 
 
 One interesting thing with Edit in Canvas on TypingMind that you can work with your favorite AI models, not just ChatGPT, but also with Claude 3.5 Sonnet, Gemini 1.5 Pro 002, and more! 

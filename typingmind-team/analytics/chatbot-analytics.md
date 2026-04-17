@@ -1,5 +1,6 @@
-# Chatbot analytics
-
+---
+title: "Chatbot analytics"
+---
 As of now, TypingMind Custom provides insights through several key metrics:
 
 - Token usage per member

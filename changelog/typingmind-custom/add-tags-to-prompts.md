@@ -1,5 +1,6 @@
-# Add tags to prompts
-
+---
+title: "Add tags to prompts"
+---
 ### **🚀 What's New?**
 
 Now you can add tags to prompt 🏷️

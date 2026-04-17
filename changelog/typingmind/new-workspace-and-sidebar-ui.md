@@ -1,5 +1,6 @@
-# New workspace and sidebar UI
-
+---
+title: "New workspace and sidebar UI"
+---
 ## 🔥 What’s new?
 
 A brand new look for TypingMind sidebar and workspace bar: Sleeker, more intuitive!

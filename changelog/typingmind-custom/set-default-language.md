@@ -1,5 +1,6 @@
-# Set default language
-
+---
+title: "Set default language"
+---
 ### **🚀 What's New?**
 
 🌍 Customize the chat UI in your preferred language!

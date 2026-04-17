@@ -1,5 +1,6 @@
-# TypingMind is SOC 2 Compliant!
-
+---
+title: "TypingMind is SOC 2 Compliant!"
+---
 TypingMind is now SOC2 compliant! 🛡️
 
 ### **🚀 What's New?**

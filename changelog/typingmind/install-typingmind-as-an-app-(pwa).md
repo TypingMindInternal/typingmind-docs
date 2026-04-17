@@ -1,5 +1,6 @@
-# Install TypingMind as an app (PWA)
-
+---
+title: "Install TypingMind as an app (PWA)"
+---
 ### **🚀 What's New?**
 
 You can now install [typingmind.com](http://typingmind.com/) as an app (PWA)

@@ -1,5 +1,6 @@
-# Citations for Perplexity Custom Model
-
+---
+title: "Citations for Perplexity Custom Model"
+---
 ## 🔥 What’s new?
 
 Now, when you set up Perplexity as a custom model on TypingMind, you can view the citations directly within the chat.

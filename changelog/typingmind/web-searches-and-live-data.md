@@ -1,5 +1,6 @@
-# Web searches & live data
-
+---
+title: "Web searches & live data"
+---
 ### **🚀 What's New?**
 
 ChatGPT can access web searches & live data via [TypingMind.com](http://typingmind.com/) 

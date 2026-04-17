@@ -1,5 +1,6 @@
-# Google Calendar
-
+---
+title: "Google Calendar"
+---
 **Google Calendar** plugin allows the AI to access the user’s calendar via Google API. By the end of this tutorial, you will be able to create a plugin like the screenshot below:
 
 ![image.png](google-calendar/image.png)

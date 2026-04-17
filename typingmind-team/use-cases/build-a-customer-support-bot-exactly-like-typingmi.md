@@ -1,5 +1,6 @@
-# Build a Customer Support bot exactly like TypingMind Support Bot?
-
+---
+title: "Build a Customer Support bot exactly like TypingMind Support Bot?"
+---
 Just so you know, we have built a **Support bot for [TypingMind.com](http://TypingMind.com)** to help resolve user queries directly through a chat widget on our website.
 
 ![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled.png)

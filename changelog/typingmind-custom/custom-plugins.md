@@ -1,5 +1,6 @@
-# Custom plugins
-
+---
+title: "Custom plugins"
+---
 ### **🚀 What's New?**
 
 🧩 Set up Custom Plugins from Admin Panel!

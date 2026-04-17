@@ -1,5 +1,6 @@
-# Set up HTTPs for Private MCP Connector
-
+---
+title: "Set up HTTPs for Private MCP Connector"
+---
 This guide will walk you through setting up the TypingMind Model Context Protocol (MCP) connector to run securely over HTTPS on your local machine, which is often required for browsers like Safari.
 
 ## **Ph**ase 1: Environment Setup

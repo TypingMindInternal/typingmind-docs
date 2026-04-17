@@ -1,5 +1,6 @@
-# RAG is now available on TypingMind natively!
-
+---
+title: "RAG is now available on TypingMind natively!"
+---
 ## 🔥 What’s new?
 
 🎉Good news: RAG is now available on TypingMind natively!

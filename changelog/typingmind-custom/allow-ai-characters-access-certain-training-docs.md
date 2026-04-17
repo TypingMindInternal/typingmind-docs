@@ -1,5 +1,6 @@
-# Allow AI Characters access certain training docs
-
+---
+title: "Allow AI Characters access certain training docs"
+---
 ### **🚀 What's New?**
 
 🥳 GREAT NEWS: Train AI Characters with your custom data on [http://custom.typingmind.com](http://custom.typingmind.com/)!

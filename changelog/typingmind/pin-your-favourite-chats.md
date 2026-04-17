@@ -1,5 +1,6 @@
-# Pin your favourite chats
-
+---
+title: "Pin your favourite chats"
+---
 ### **🚀 What's New?**
 
 You now can pin your favorite ChatGPT conversations to the top with the pin feature.

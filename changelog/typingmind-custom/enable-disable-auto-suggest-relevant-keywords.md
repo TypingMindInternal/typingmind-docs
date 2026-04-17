@@ -1,5 +1,6 @@
-# Enable / Disable Auto suggest relevant keywords
-
+---
+title: "Enable / Disable Auto suggest relevant keywords"
+---
 ### **🚀 What's New?**
 
 Turn on/off Auto suggest relevant keywords from Admin Panel!

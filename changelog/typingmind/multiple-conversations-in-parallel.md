@@ -1,5 +1,6 @@
-# Multiple conversations in parallel
-
+---
+title: "Multiple conversations in parallel"
+---
 ### **🚀 What's New?**
 
 You can now have multiple conversations with ChatGPT in parallel! 

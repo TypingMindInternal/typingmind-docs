@@ -1,5 +1,6 @@
-# Cost estimation for Gemini
-
+---
+title: "Cost estimation for Gemini"
+---
 Cost estimation for Gemini models is now available!
 
 ## ⚙️ How it works?

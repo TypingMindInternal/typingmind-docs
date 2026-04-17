@@ -1,5 +1,6 @@
-# Translation collaboration
-
+---
+title: "Translation collaboration"
+---
 We are working on support multi-language on [TypingMind.com](http://TypingMind.com).
 
 If you can help with translation, please contact **support@typingmind.com** and we’ll share more details.

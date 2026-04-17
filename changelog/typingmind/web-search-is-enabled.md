@@ -1,5 +1,6 @@
-# Web search is enabled!
-
+---
+title: "Web search is enabled!"
+---
 ### **🚀 What's New?**
 
 New plugin available: **Web search**

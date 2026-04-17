@@ -1,5 +1,6 @@
-# API access
-
+---
+title: "API access"
+---
 ### **🚀 What's New?**
 
 We have released an API for TypingMind Custom!

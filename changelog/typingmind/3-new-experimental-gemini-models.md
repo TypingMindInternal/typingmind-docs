@@ -1,5 +1,6 @@
-# 3 New Experimental Gemini models
-
+---
+title: "3 New Experimental Gemini models"
+---
 ✅ New experimental Gemini models are now available on [typingmind.com](http://typingmind.com/)!
 
 ### **🚀 What's New?**

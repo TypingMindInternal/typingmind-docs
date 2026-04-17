@@ -1,5 +1,6 @@
-# New sidebar
-
+---
+title: "New sidebar"
+---
 ### **🚀 What's New?**
 
 New sidebar on [custom.typingmind.com](http://custom.typingmind.com/)!

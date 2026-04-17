@@ -1,5 +1,6 @@
-# Upload XLSX file
-
+---
+title: "Upload XLSX file"
+---
 ### **🚀 What's New?**
 
 We now support uploading XLSX files!

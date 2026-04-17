@@ -1,5 +1,6 @@
-# Queue inputs
-
+---
+title: "Queue inputs"
+---
 No more waiting for AI replies because now you have Queue inputs on TypingMind. 
 
 Once the current AI response is finished, the AI assistant will automatically process each input one by one.

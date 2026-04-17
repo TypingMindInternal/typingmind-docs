@@ -1,5 +1,6 @@
-# TypingMind MCP + Make.com
-
+---
+title: "TypingMind MCP + Make.com"
+---
 This guide will help you set up the **Make MCP server**, enabling your AI assistant in **TypingMind** to connect with Make to connect with thousands apps and run automation workflows.
 
 ## **What is Make MCP?**

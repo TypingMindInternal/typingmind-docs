@@ -1,5 +1,6 @@
-# Recent updates on new issues, troubleshooting, and incidents
-
+---
+title: "Recent updates on new issues, troubleshooting, and incidents"
+---
 This page will documents all recent issues or incidents of TypingMind for both the personal and the team version with resolutions.
 
 ### Anthropic Claude Sonnet 3.7 Thinking and Plugin / Function call error (Mar 19, 2025)

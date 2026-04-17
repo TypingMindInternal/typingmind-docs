@@ -1,5 +1,6 @@
-# General Settings
-
+---
+title: "General Settings"
+---
 [General settings](General%20Settings/General%20settings%20fcb9c3b431154ffc9c8277334aab2021.md)
 
 [Customize app appearance](General%20Settings/Customize%20app%20appearance%2055a335826d8b4f7eb4ea1900f05abde3.md)

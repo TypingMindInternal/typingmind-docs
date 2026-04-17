@@ -1,5 +1,6 @@
-# Assign plugins for an AI character
-
+---
+title: "Assign plugins for an AI character"
+---
 ## **🚀 What's New?**
 
 Assign a specific plugin for an AI character to make it always work with an AI model that can bring best results.

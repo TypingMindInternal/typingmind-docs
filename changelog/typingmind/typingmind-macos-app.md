@@ -1,5 +1,6 @@
-# TypingMind MacOS app
-
+---
+title: "TypingMind MacOS app"
+---
 ### **🚀 What's New?**
 
 You now can use [typingmind.com](http://typingmind.com/) on MacOS!

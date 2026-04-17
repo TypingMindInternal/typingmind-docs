@@ -1,5 +1,6 @@
-# Customize login email
-
+---
+title: "Customize login email"
+---
 ### **🚀 What's New?**
 
 📧 Customize the login email sent when members log into your chat instance.

@@ -1,5 +1,6 @@
-# Use plugins with Claude models
-
+---
+title: "Use plugins with Claude models"
+---
 ## **🚀 What's New?**
 
 ![image.png](use-plugins-with-claude-models/image.png)

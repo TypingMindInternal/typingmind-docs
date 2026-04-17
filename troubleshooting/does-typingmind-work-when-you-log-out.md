@@ -1,5 +1,6 @@
-# Does TypingMind work when you log out?
-
+---
+title: "Does TypingMind work when you log out?"
+---
 If you're using TypingMind, you may be wondering: **“Do I need to stay logged in for it to work?”** The short answer is **no**—TypingMind continues to work normally even after you log out.
 
 In this article, we’ll explain why TypingMind works independently of your login status, how your data is managed, and when logging in *does* make a difference.

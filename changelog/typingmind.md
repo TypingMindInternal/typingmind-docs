@@ -1,5 +1,6 @@
-# TypingMind
-
+---
+title: "TypingMind"
+---
 <aside>
 🚨
 

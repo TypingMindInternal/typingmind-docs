@@ -1,5 +1,6 @@
-# Introducing Plugin Server
-
+---
+title: "Introducing Plugin Server"
+---
 Plugins Server provides a proxy server for Typing Mind's Plugins. A proxy server is needed for complex use cases where a server is required for processing data that cannot be done from the client side in Typing Mind.
 
 ## ⚙️ How it works?

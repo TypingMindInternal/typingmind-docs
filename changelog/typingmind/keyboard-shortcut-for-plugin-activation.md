@@ -1,5 +1,6 @@
-# Keyboard shortcut for plugin activation
-
+---
+title: "Keyboard shortcut for plugin activation"
+---
 ## **🚀 What's New?**
 
 A new keyboard shortcut for activating and deactivating plugins.

@@ -1,5 +1,6 @@
-# Upload various file type (beyond PDF)
-
+---
+title: "Upload various file type (beyond PDF)"
+---
 ## **🚀 What's New?**
 
 TypingMind now supports uploading various file types (DOCX, TXT, JSON, Markdown, CSV, HTML) and chatting with the AI assistant! 🥳

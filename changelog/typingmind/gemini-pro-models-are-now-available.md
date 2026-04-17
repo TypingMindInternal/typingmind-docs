@@ -1,5 +1,6 @@
-# Gemini Pro models are now available!
-
+---
+title: "Gemini Pro models are now available!"
+---
 ### **🚀 What's New?**
 
 Gemini Pro and Gemini Pro Vision.

@@ -1,5 +1,6 @@
-# Cost estimation for custom models
-
+---
+title: "Cost estimation for custom models"
+---
 ## 🔥 What’s new?
 
 Cost estimation for custom models is now supported!

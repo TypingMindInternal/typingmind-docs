@@ -1,5 +1,6 @@
-# UI tweak: move chat management action buttons to a more menu
-
+---
+title: "UI tweak: move chat management action buttons to a more menu"
+---
 ## **🚀 What's New?**
 
 Small UI improvement: Chat management action buttons are now under the More Menu (three dots)!

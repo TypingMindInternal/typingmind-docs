@@ -1,5 +1,6 @@
-# Cloud Sync & Backup
-
+---
+title: "Cloud Sync & Backup"
+---
 [Cloud Sync & Backup Overview](Cloud%20Sync%20&%20Backup/Cloud%20Sync%20&%20Backup%20Overview%20eb531bc4034e4e77824944ade959891e.md)
 
 [Cloud Storage ](Cloud%20Sync%20&%20Backup/Cloud%20Storage%202285cd1e776348efb6ff367cd3d934fc.md)

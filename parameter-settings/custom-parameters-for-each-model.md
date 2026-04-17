@@ -1,5 +1,6 @@
-# Custom parameters for each model
-
+---
+title: "Custom parameters for each model"
+---
 Each AI model may perform best with its own settings. Good news—you now have the option to customize the parameter settings for each AI model individually!
 
 Let’s see how to do that!

@@ -1,5 +1,6 @@
-# Whisper Prompt
-
+---
+title: "Whisper Prompt"
+---
 ## **🚀 What's New?**
 
 Now, you can add Prompt for OpenAI Whisper to improve the quality of generated transcripts.

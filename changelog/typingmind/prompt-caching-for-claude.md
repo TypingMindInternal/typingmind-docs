@@ -1,5 +1,6 @@
-# Prompt Caching for Claude
-
+---
+title: "Prompt Caching for Claude"
+---
 Automatic Prompt Caching for Claude is now available on [typingmind.com](http://typingmind.com/)!
 
 ### **🚀 What's New?**

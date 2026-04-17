@@ -1,5 +1,6 @@
-# New Chat logs UI
-
+---
+title: "New Chat logs UI"
+---
 ### **🚀 What's New?**
 
 New in [custom.typingmind.com](http://custom.typingmind.com/): Improved UI for Chat Logs!

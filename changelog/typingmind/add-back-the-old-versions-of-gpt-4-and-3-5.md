@@ -1,5 +1,6 @@
-# Add back the old versions of GPT-4 & 3.5
-
+---
+title: "Add back the old versions of GPT-4 & 3.5"
+---
 ### **🚀 What's New?**
 
 Some people have feedback that the new GPT-4 model doesn't work well with old prompts.

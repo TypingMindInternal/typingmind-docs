@@ -1,5 +1,6 @@
-# GPT-4o mini is now available
-
+---
+title: "GPT-4o mini is now available"
+---
 ✅ GPT-4o mini is now available on [TypingMind.com](http://typingmind.com/) 🥳
 
 ### **🚀 What's New?**

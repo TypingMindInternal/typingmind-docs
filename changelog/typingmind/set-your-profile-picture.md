@@ -1,5 +1,6 @@
-# Set your profile picture
-
+---
+title: "Set your profile picture"
+---
 ### **🚀 What's New?**
 
 You can set your profile picture on [typingmind.com](http://typingmind.com/) now!

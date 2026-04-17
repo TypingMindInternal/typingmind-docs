@@ -1,5 +1,6 @@
-# OpenAI o3 mini is now available!
-
+---
+title: "OpenAI o3 mini is now available!"
+---
 ## 🔥 What’s new?
 
 o3 mini - the newest, most cost-efficient model from OpenAI is now available on TypingMind:

@@ -1,5 +1,6 @@
-# API Key encryption
-
+---
+title: "API Key encryption"
+---
 ### **🚀 What's New?**
 
 Added API Key encryption to [typingmind.com](http://typingmind.com/). It’s safer!!!

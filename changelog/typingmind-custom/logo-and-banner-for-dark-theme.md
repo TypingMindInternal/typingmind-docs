@@ -1,5 +1,6 @@
-# Logo and Banner for Dark theme
-
+---
+title: "Logo and Banner for Dark theme"
+---
 ### **🚀 What's New?**
 
 🌙 Now you can add logo and banner for Dark theme in [custom.typingmind.com](http://custom.typingmind.com/)!

@@ -1,5 +1,6 @@
-# New AI characters
-
+---
+title: "New AI characters"
+---
 ### **🚀 What's New?**
 
 Technician Wizard Troubleshooting to help you debug any technical issues by asking you questions and then step-by-step debugging and resolve it.

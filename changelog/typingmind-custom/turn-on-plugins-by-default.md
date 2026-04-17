@@ -1,5 +1,6 @@
-# Turn on plugins by default
-
+---
+title: "Turn on plugins by default"
+---
 ### **🚀 What's New?**
 
 🧩 Turn on plugins by default

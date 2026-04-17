@@ -1,5 +1,6 @@
-# Added context limit
-
+---
+title: "Added context limit"
+---
 ### **🚀 What's New?**
 
 Added "Context Limit" to [typingmind.com](http://typingmind.com/). This will be helpful if you want to limit the amount of tokens usage. 

@@ -1,5 +1,6 @@
-# TypingMind now supports Claude!
-
+---
+title: "TypingMind now supports Claude!"
+---
 ### **🚀 What's New?**
 
 🎉 HUGE UPDATE: Typing Mind now supports Claude! 🥳

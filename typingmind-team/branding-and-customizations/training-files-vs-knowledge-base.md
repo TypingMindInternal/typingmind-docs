@@ -1,5 +1,6 @@
-# Training Files vs Knowledge Base
-
+---
+title: "Training Files vs Knowledge Base"
+---
 **When setting up [AI Agents](https://docs.typingmind.com/ai-agents/ai-agents-overview) in TypingMind Custom, you might wonder: what’s the difference between “Training Files” and “Knowledge Base Access”?**
 
 These two options help you customize your AI Agent responses with higher quality and more relevant, but they work differently. Let’s see the differences.

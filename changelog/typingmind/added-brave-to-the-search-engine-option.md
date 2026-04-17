@@ -1,5 +1,6 @@
-# Added Brave to the search engine option
-
+---
+title: "Added Brave to the search engine option"
+---
 ### **🚀 What's New?**
 
 Added [@Brave](https://twitter.com/brave) to the search engine option on [typingmind.com](http://typingmind.com/)

@@ -1,5 +1,6 @@
-# Gemini Pro models supported
-
+---
+title: "Gemini Pro models supported"
+---
 ### **🚀 What's New?**
 
 Gemini models are now natively supported in [typingmind.com](http://typingmind.com/)!

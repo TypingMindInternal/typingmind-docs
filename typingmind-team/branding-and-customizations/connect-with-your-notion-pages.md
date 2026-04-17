@@ -1,5 +1,6 @@
-# Connect with your Notion pages
-
+---
+title: "Connect with your Notion pages"
+---
 When setting up a **TypingMind Custom** chat instance, you can seamlessly connect your Notion database. This integration allows the AI chatbot to learn from your specific content and make its responses more relevant and personalized to your company's needs. 
 
 By leveraging your Notion pages, your AI chatbot will deliver context-aware answers and efficiently handle detailed queries related to your business, team, or community.

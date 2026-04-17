@@ -1,5 +1,6 @@
-# Word Generator
-
+---
+title: "Word Generator"
+---
 <aside>
 💡
 

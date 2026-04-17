@@ -1,5 +1,6 @@
-# Fork chats
-
+---
+title: "Fork chats"
+---
 Forking a chat in our app allows you to create a new conversation branch from any specific point in an existing conversation. 
 
 This is particularly useful for exploring different ideas, testing various prompts, or organizing complex discussions with the current context being kept.

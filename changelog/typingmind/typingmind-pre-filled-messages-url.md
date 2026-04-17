@@ -1,5 +1,6 @@
-# TypingMind pre-filled messages URL
-
+---
+title: "TypingMind pre-filled messages URL"
+---
 ### **🚀 What's New?**
 
 You can now prefill the message on [typingmind.com](http://typingmind.com/) with ?message= URL parameter 😄

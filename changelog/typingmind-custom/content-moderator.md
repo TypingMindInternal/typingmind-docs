@@ -1,5 +1,6 @@
-# Content Moderator
-
+---
+title: "Content Moderator"
+---
 ### **🚀 What's New?**
 
 🌟New role for your chat instance: Content Moderator!

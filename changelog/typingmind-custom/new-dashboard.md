@@ -1,5 +1,6 @@
-# New dashboard
-
+---
+title: "New dashboard"
+---
 ### **🚀 What's New?**
 
 ✨New dashboard for [typingmind.com/custom](http://typingmind.com/custom)

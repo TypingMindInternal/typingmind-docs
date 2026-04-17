@@ -1,5 +1,6 @@
-# Access Control: Private and Authorized Mode
-
+---
+title: "Access Control: Private and Authorized Mode"
+---
 In this guide, we will walk you through the process of setting up the access mode for your chat instance.
 
 ## **Step 1: Log into Your Chat Instance**

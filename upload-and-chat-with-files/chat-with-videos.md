@@ -1,5 +1,6 @@
-# Chat with Videos
-
+---
+title: "Chat with Videos"
+---
 TypingMind allows you to upload your videos and utilize AI models to analyze video content seamlessly.
 
 <aside>

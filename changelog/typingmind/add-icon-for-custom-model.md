@@ -1,5 +1,6 @@
-# Add Icon for Custom model
-
+---
+title: "Add Icon for Custom model"
+---
 ## **🚀 What's New?**
 
 Add icon for your custom model by entering the icon URL while setting up the model.

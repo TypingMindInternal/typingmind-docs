@@ -1,5 +1,6 @@
-# Setapp Limitation
-
+---
+title: "Setapp Limitation"
+---
 ![Untitled](setapp-limitation/Untitled.png)
 
 “**Sorry, Setapp has rejected your request. Here is the error message from Setapp: You have exceed your monthly usage limit for current model.”** 

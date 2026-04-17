@@ -1,5 +1,6 @@
-# GPT-4 Vision (preview) is now available!
-
+---
+title: "GPT-4 Vision (preview) is now available!"
+---
 ## **🚀 What's New?**
 
 GPT-4 Vision is now available! This supports vision - which allows you to upload images to the AI model and let it analyze.

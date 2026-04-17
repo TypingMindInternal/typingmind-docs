@@ -1,5 +1,6 @@
-# New Gemini Models
-
+---
+title: "New Gemini Models"
+---
 🧩 New Gemini Models are now available on TypingMind!
 
 ### **🚀 What's New?**

@@ -1,5 +1,6 @@
-# Create Custom Prompts
-
+---
+title: "Create Custom Prompts"
+---
 ### **🚀 What's New?**
 
 Added custom prompts for the Custom Deployment version of [http://TypingMind.com](http://typingmind.com/) 😄

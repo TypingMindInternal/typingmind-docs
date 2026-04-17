@@ -1,5 +1,6 @@
-# Submit your plugins/extensions
-
+---
+title: "Submit your plugins/extensions"
+---
 ## 🔥 What’s new?
 
 Submit your useful plugins/extensions to our repository at [http://github.com/TypingMind/awesome-typingmind](http://github.com/TypingMind/awesome-typingmind)!

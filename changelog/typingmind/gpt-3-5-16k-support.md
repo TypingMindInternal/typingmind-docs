@@ -1,5 +1,6 @@
-# GPT-3.5-16K support
-
+---
+title: "GPT-3.5-16K support"
+---
 ### **🚀 What's New?**
 
 [TypingMind.com](http://typingmind.com/) now supports the new GPT-3.5 16K context tokens model!!!

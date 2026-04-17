@@ -1,5 +1,6 @@
-# Option “enter to send messages” on mobile
-
+---
+title: "Option “enter to send messages” on mobile"
+---
 ### **🚀 What's New?**
 
 Added an option for mobile users to send message immediately when tap Enter!

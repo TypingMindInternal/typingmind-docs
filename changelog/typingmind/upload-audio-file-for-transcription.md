@@ -1,5 +1,6 @@
-# Upload audio file for transcription
-
+---
+title: "Upload audio file for transcription"
+---
 ## **🚀 What's New?**
 
 Upload your audio files for transcription with OpenAI Whisper at [http://typingmind.com](http://typingmind.com/)!

@@ -1,5 +1,6 @@
-# Usage Limits: Set Limits Per AI Model, Agent, and User
-
+---
+title: "Usage Limits: Set Limits Per AI Model, Agent, and User"
+---
 Managing AI resources effectively for your chat instance is more important than ever. 
 
 That’s why we've revamped our Usage Limits system which provides you with better control over your AI resources! 

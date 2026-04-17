@@ -1,5 +1,6 @@
-# New model: Gemini 2.0 Flash
-
+---
+title: "New model: Gemini 2.0 Flash"
+---
 ## 🔥 What’s new?
 
 The new Gemini 2.0 Flash model is now available on [http://typingmind.com](https://t.co/1jg8bUlhab) 

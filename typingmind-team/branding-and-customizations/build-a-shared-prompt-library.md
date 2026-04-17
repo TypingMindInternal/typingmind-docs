@@ -1,5 +1,6 @@
-# Build a Shared Prompt Library
-
+---
+title: "Build a Shared Prompt Library"
+---
 You can create an exclusive built-in prompt for your team members so they can quickly access to the resources without manual creating it from the chat interface.
 
 Go to **Prompts Library** > Click ‘**Add Prompt**’

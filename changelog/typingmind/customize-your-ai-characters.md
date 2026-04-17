@@ -1,5 +1,6 @@
-# Customize your AI Characters
-
+---
+title: "Customize your AI Characters"
+---
 ### **🚀 What's New?**
 
 You can now add new custom AI characters on [typingmind.com](http://typingmind.com/). It’s easy and improve user experience to the fullest!

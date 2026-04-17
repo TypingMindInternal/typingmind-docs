@@ -1,5 +1,6 @@
-# Improve UI for cost estimation and token usage
-
+---
+title: "Improve UI for cost estimation and token usage"
+---
 ### **🚀 What's New?**
 
 We’ve added some more clarity to the cost estimation & token usage on [typingmind.com](http://typingmind.com/)'s UI.

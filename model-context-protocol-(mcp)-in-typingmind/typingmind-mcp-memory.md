@@ -1,5 +1,6 @@
-# TypingMind MCP + Memory
-
+---
+title: "TypingMind MCP + Memory"
+---
 This guide will help you set up the **Memory MCP server**, enabling your AI assistant in **TypingMind** to remember your preferences, chat history so it can refer to and always provide relevant answers even when you start a new conversation.
 
 ## Why uses Memory?

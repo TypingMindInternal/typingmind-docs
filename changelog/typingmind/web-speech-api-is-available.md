@@ -1,5 +1,6 @@
-# Web Speech API is available!
-
+---
+title: "Web Speech API is available!"
+---
 ### **🚀 What's New?**
 
 Added Web Speech API to [typingmind.com](http://typingmind.com/) to make ChatGPT talks

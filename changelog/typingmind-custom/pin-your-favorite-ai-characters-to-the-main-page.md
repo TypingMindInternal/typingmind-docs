@@ -1,5 +1,6 @@
-# Pin your favorite AI characters to the main page
-
+---
+title: "Pin your favorite AI characters to the main page"
+---
 ### **🚀 What's New?**
 
 You can now pin your favorite AI characters to the main page of [typingmind.com](http://typingmind.com/)

@@ -1,5 +1,6 @@
-# General FAQs
-
+---
+title: "General FAQs"
+---
 ## **Do I need an OpenAI API key to use Typing Mind on Setapp?**
 
 → No. You don't need an OpenAI API key. Setapp provides free models (GPT-3.5 and GPT-4) for free. Optionally, you can choose to enter your own API key and use it instead.

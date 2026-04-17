@@ -1,5 +1,6 @@
-# Character limits per time period
-
+---
+title: "Character limits per time period"
+---
 ### **🚀 What's New?**
 
 ⏰ Added an option to limit number of characters members can send within a certain time frame!

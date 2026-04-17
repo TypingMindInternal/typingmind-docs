@@ -1,5 +1,6 @@
-# Auto send for voice input
-
+---
+title: "Auto send for voice input"
+---
 ### **🚀 What's New?**
 
 You can now enable auto-send for voice input on [typingmind.com](http://typingmind.com/) 

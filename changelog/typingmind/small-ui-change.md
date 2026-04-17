@@ -1,5 +1,6 @@
-# Small UI change
-
+---
+title: "Small UI change"
+---
 ### **🚀 What's New?**
 
 Small UI change for TypingMind for better experience!

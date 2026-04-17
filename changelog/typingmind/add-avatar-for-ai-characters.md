@@ -1,5 +1,6 @@
-# Add avatar for AI characters
-
+---
+title: "Add avatar for AI characters"
+---
 ### **🚀 What's New?**
 
 Added profile picture for AI characters on [typingmind.com](http://typingmind.com/), the conversation feel so much better!

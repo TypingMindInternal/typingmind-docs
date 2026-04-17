@@ -1,5 +1,6 @@
-# Reopen previous chat when app open
-
+---
+title: "Reopen previous chat when app open"
+---
 ## **🚀 What's New?**
 
 Continue where you left off with “Reopen previous chat when app open.

@@ -1,5 +1,6 @@
-# OpenAI's API working status
-
+---
+title: "OpenAI's API working status"
+---
 ### **🚀 What's New?**
 
 Just added a status check to [typingmind.com](http://typingmind.com/) to check your OpenAI's API status.

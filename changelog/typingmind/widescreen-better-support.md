@@ -1,5 +1,6 @@
-# Widescreen better support
-
+---
+title: "Widescreen better support"
+---
 ### **🚀 What's New?**
 
 Better support for wide screens on [typingmind.com](http://typingmind.com/)!

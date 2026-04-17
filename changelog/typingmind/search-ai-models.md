@@ -1,5 +1,6 @@
-# Search AI models
-
+---
+title: "Search AI models"
+---
 Now you can search the AI model you want to start a conversation with quickly. 
 
 ## ⚙️ How it works?

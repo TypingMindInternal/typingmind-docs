@@ -1,5 +1,6 @@
-# Static Self-host FAQs
-
+---
+title: "Static Self-host FAQs"
+---
 ## **What is self-hosting?**
 
 Self-host means you deploy the same version of TypingMind.com on your own web hosting server and domain name for your personal use.

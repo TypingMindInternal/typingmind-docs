@@ -1,5 +1,6 @@
-# Export a single chat or multiple chats as JSON
-
+---
+title: "Export a single chat or multiple chats as JSON"
+---
 You now can export a single chat or multiple selected chats (at once)!
 
 ### **🏁 How it works:**

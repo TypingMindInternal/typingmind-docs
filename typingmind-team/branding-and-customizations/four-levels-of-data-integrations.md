@@ -1,5 +1,6 @@
-# Four levels of data integrations
-
+---
+title: "Four levels of data integrations"
+---
 **ChatGPT and Large Language Models (LLMs)** like Anthropic Claude and Gemini are powerful tools for brainstorming ideas, creating content, generating images, and enhancing daily workflows. 
 
 However, they have a major limitation: **LLMs perform best with their training data only.** 

@@ -1,5 +1,6 @@
-# Eleven Turbo v2.5 and Eleven Turbo v2
-
+---
+title: "Eleven Turbo v2.5 and Eleven Turbo v2"
+---
 New ElevenLabs Text-to-speech models - Eleven Turbo v2.5 and Eleven Turbo v2 are now available!
 
 ## 🔥 What’s New?

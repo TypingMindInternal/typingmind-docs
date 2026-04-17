@@ -1,5 +1,6 @@
-# Dynamic Context via API
-
+---
+title: "Dynamic Context via API"
+---
 When building an AI agent or setting up a Project Folder, **Dynamic Context** allows you to retrieve content from an API and inject it into the system prompt. This can be used to add live information to the AI or implement Retrieval-Augmented Generation (RAG) from your own data sources (e.g., vector store database).
 
 ## Use cases

@@ -1,5 +1,6 @@
-# Send Emails via Zapier
-
+---
+title: "Send Emails via Zapier"
+---
 TypingMind can be integrated with Zapier to automate various tasks through custom plugins. Common use cases include:
 
 - Send emails

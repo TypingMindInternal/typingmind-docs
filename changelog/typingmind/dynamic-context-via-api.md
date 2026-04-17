@@ -1,5 +1,6 @@
-# Dynamic Context via API
-
+---
+title: "Dynamic Context via API"
+---
 ## **🚀 What's New?**
 
 Introducing Dynamic Context via API! 

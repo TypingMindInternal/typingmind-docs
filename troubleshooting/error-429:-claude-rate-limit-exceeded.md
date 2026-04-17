@@ -1,5 +1,6 @@
-# Error 429: Claude Rate Limit Exceeded
-
+---
+title: "Error 429: Claude Rate Limit Exceeded"
+---
 When using Claude models, you may occasionally see the following error message:
 
 > `Claude has rejected your request with error code 429. Here are the possible reasons: 1. You are sending requests too quickly; 2. You have hit your maximum monthly spend (hard limit); 3. The model is currently overloaded. Here is the error message from Claude: This request would exceed your organization’s rate limit of x0,000 input tokens per minute. For details, refer to: [https://docs.anthropic.com/en/api/rate-limits](https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at [https://www.anthropic.com/contact-sales](https://www.anthropic.com/contact-sales) to discuss your options for a rate limit increase.`

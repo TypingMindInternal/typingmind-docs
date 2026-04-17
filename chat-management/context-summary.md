@@ -1,5 +1,6 @@
-# Context Summary
-
+---
+title: "Context Summary"
+---
 ## **What Is the Context Summary Feature?**
 
 **Context Summary** allows TypingMind to automatically condense older messages in long conversations so the chat stays within your model's context limit.

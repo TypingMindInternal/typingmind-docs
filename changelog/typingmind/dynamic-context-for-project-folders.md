@@ -1,5 +1,6 @@
-# Dynamic Context for Project Folders
-
+---
+title: "Dynamic Context for Project Folders"
+---
 ## 🔥 What’s new?
 
 Connect with your data sources for your Project Folder using Dynamic Context.

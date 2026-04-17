@@ -1,5 +1,6 @@
-# Temperature setting
-
+---
+title: "Temperature setting"
+---
 ### **🚀 What's New?**
 
 We’ve added temperature setting on [typingmind.com](http://typingmind.com/). It’s still ChatGPT, but you can control the response to be more creative or more precise!

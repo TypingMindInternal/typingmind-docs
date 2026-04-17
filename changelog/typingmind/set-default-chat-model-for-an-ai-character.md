@@ -1,5 +1,6 @@
-# Set default chat model for an AI character
-
+---
+title: "Set default chat model for an AI character"
+---
 ## **🚀 What's New?**
 
 🔒Now you can set the default chat model for a certain AI character!

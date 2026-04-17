@@ -1,5 +1,6 @@
-# TypingMind MCP + Airbnb
-
+---
+title: "TypingMind MCP + Airbnb"
+---
 This guide will help you set up the Airbnb **MCP server**, provides AI assistants on TypingMind with the ability to search Airbnb listings with advanced filtering capabilities and detailed property information retrieval.
 
 ## Why setting Airbnb MCP on TypingMind?

@@ -1,5 +1,6 @@
-# Support streaming response
-
+---
+title: "Support streaming response"
+---
 ### **🚀 What's New?**
 
 [typingmind.com](http://typingmind.com/) now supports streaming responses

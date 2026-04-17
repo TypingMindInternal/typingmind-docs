@@ -1,5 +1,6 @@
-# Prompt chaining with multiple AI Agents - “Flow”
-
+---
+title: "Prompt chaining with multiple AI Agents - “Flow”"
+---
 🧩 TypingMind now allows you to create "flows" that involve multi-step, multi-agents in a single conversation to achieve a specific task.
 
 ### **🚀 What's New?**

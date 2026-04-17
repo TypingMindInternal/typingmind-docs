@@ -1,5 +1,6 @@
-# Access to your license manager
-
+---
+title: "Access to your license manager"
+---
 ### **🚀 What's New?**
 
 🔑 Added "Manage License & Devices" to [typingmind.com](http://typingmind.com/)!

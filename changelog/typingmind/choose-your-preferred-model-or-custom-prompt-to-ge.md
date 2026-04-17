@@ -1,5 +1,6 @@
-# Choose your preferred model or custom prompt to generate titles
-
+---
+title: "Choose your preferred model or custom prompt to generate titles"
+---
 ## 🔥 What’s new?
 
 Now you can:

@@ -1,5 +1,6 @@
-# Add “Continue this chat” to a shared link
-
+---
+title: "Add “Continue this chat” to a shared link"
+---
 ### **🚀 What's New?**
 
 Just added a "Continue this chat" button to a shared link.

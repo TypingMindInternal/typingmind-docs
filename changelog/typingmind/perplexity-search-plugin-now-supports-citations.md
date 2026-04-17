@@ -1,5 +1,6 @@
-# Perplexity Search Plugin now supports citations!
-
+---
+title: "Perplexity Search Plugin now supports citations!"
+---
 Perplexity Search Plugin on TypingMind now supports citations - which provides sources of information that the AI model generates within the response, ensuring more accurate and relevant answers.
 
 ## ⚙️ How it works?

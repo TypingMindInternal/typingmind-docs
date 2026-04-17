@@ -1,5 +1,6 @@
-# Edit & “fork” a chat message
-
+---
+title: "Edit & “fork” a chat message"
+---
 ### **🚀 What's New?**
 
 You can now edit and "fork" a chat message on [typingmind.com](http://typingmind.com/) 😄

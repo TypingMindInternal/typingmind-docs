@@ -1,5 +1,6 @@
-# Improve Analytics Dashboard
-
+---
+title: "Improve Analytics Dashboard"
+---
 ## 🔥 What’s new?
 
 We have just added **3 new widgets on the Analytics Dashboard** for [custom.typingmind.com](https://custom.typingmind.com/).

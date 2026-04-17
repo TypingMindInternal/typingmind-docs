@@ -1,5 +1,6 @@
-# EU data center is now ready!
-
+---
+title: "EU data center is now ready!"
+---
 ### **🚀 What's New?**
 
 The new EU data center is now ready!

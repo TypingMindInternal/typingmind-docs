@@ -1,5 +1,6 @@
-# New Claude 3.5 Sonnet
-
+---
+title: "New Claude 3.5 Sonnet"
+---
 We have just added the new Claude 3.5 Sonnet model (claude-3-5-sonnet-20241022)!
 
 ## **🏁 What’s new?**

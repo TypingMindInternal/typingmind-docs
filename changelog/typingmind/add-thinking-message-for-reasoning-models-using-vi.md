@@ -1,5 +1,6 @@
-# Add thinking message for reasoning models using via OpenRouter or Azure AI Foundry
-
+---
+title: "Add thinking message for reasoning models using via OpenRouter or Azure AI Foundry"
+---
 ## 🔥 What’s new?
 
 TypingMind now support rendering `<think>` tags from OpenRouter and Azure AI Foundry models!

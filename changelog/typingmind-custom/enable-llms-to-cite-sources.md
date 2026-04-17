@@ -1,5 +1,6 @@
-# Enable LLMs to cite sources
-
+---
+title: "Enable LLMs to cite sources"
+---
 ### **🚀 What's New?**
 
 Enable LLMs to generate citations in their responses on [custom.typingmind.com](http://custom.typingmind.com/)!

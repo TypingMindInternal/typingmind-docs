@@ -1,5 +1,6 @@
-# Groq Whisper for Speech-to-text
-
+---
+title: "Groq Whisper for Speech-to-text"
+---
 **Groq Whisper for Speech-to-Text (Audio Input)** is now available on TypingMind!
 
 Supported models:

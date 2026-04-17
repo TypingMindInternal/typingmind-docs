@@ -1,5 +1,6 @@
-# How Knowledge Base works in TypingMind Team
-
+---
+title: "How Knowledge Base works in TypingMind Team"
+---
 <aside>
 🔥 **Note:** The Knowledge Base feature is currently in **Early Access**. Many more changes will be made in the near future on how the knowledge base is done for the AI assistant.
 We’ll make announcements via email, [our Blog](https://blog.typingmind.com), and via our [Discord channel](https://typingmind.com/discord) when there is any change in this document.

@@ -1,5 +1,6 @@
-# Shift+Click to select multiple chats
-
+---
+title: "Shift+Click to select multiple chats"
+---
 ## **🚀 What's New?**
 
 **Use Shift + Click** to quickly select multiple chats for bulk actions (delete/archive/move to folder)

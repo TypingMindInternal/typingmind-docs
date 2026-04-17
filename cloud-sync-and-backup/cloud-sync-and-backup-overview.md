@@ -1,5 +1,6 @@
-# Cloud Sync & Backup Overview
-
+---
+title: "Cloud Sync & Backup Overview"
+---
 ## What is Cloud Sync & Backup on TypingMind?
 
 **TypingMind Cloud** is an **opt-in only** service we provide to help you conveniently:

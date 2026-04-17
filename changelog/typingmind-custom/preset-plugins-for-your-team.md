@@ -1,5 +1,6 @@
-# Preset plugins for your team
-
+---
+title: "Preset plugins for your team"
+---
 ### **🚀 What's New?**
 
 🥳Pre-configure plugins for your team with TypingMind custom!

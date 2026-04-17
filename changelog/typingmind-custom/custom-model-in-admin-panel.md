@@ -1,5 +1,6 @@
-# Custom model in Admin Panel
-
+---
+title: "Custom model in Admin Panel"
+---
 ### **🚀 What's New?**
 
 Typing Mind Custom now supports custom models.

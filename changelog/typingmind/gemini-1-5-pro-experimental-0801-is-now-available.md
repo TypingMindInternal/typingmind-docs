@@ -1,5 +1,6 @@
-# Gemini 1.5 Pro Experimental 0801 is now available
-
+---
+title: "Gemini 1.5 Pro Experimental 0801 is now available"
+---
 ✅ Gemini 1.5 Pro Experimental 0801 is now available on [TypingMind.com](http://typingmind.com/) 🔥 
 
 ### **🚀 What's New?**

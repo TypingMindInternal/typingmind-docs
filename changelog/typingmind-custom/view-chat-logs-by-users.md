@@ -1,5 +1,6 @@
-# View chat logs by users
-
+---
+title: "View chat logs by users"
+---
 ## 🔥 What’s new?
 
 Easily access and review chat logs filtered by individual users.

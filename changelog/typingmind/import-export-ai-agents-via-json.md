@@ -1,5 +1,6 @@
-# Import / Export AI Agents via JSON
-
+---
+title: "Import / Export AI Agents via JSON"
+---
 Now you can export an AI Agent as JSON file so you or your team can easily import it to their workplace.
 
 ## ⚙️ How it works?

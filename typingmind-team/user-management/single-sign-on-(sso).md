@@ -1,5 +1,6 @@
-# Single Sign-On (SSO)
-
+---
+title: "Single Sign-On (SSO)"
+---
 [https://www.youtube.com/watch?v=zL05zONJJec](https://www.youtube.com/watch?v=zL05zONJJec)
 
 ## Enable SSO for your chat instance

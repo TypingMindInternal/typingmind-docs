@@ -1,5 +1,6 @@
-# Chat with videos (Gemini models)
-
+---
+title: "Chat with videos (Gemini models)"
+---
 ## 🔥 What’s new?
 
 Now you can Chat with Videos on [TypingMind.com](http://typingmind.com/)! 🎬

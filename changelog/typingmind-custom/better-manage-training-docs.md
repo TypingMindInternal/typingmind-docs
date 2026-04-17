@@ -1,5 +1,6 @@
-# Better manage training docs
-
+---
+title: "Better manage training docs"
+---
 ### **🚀 What's New?**
 
 Better manage your training documents on [custom.typingmind.com](http://custom.typingmind.com/):

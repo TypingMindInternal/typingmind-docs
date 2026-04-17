@@ -1,5 +1,6 @@
-# TypingMind x ElevenLabs: Text to speech
-
+---
+title: "TypingMind x ElevenLabs: Text to speech"
+---
 ### **🚀 What's New?**
 
 TypingMind 🤝 ElevenLabs!

@@ -1,5 +1,6 @@
-# Getting Started with TypingMind Team (Cloud-host)
-
+---
+title: "Getting Started with TypingMind Team (Cloud-host)"
+---
 **TypingMind Team** is an ultimate AI solution designed for teams, businesses, and communities.
 
 With TypingMind Team, you can create a chat instance under your domain with custom branding, connect it to your training data, and gain full control and customization via the Admin Panel, all while ensuring maximum privacy and security.

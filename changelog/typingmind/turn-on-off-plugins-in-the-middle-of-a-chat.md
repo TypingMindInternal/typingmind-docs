@@ -1,5 +1,6 @@
-# Turn on/off plugins in the middle of a chat
-
+---
+title: "Turn on/off plugins in the middle of a chat"
+---
 ### **🚀 What's New?**
 
 You can now turn on/off plugins in a middle of a chat.

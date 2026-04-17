@@ -1,5 +1,6 @@
-# Firecrawl Web Page Reader
-
+---
+title: "Firecrawl Web Page Reader"
+---
 New plugin added to our plugin store: Firecrawl Web Page Reader. 
 
 ## 🔥 What’s News?

@@ -1,5 +1,6 @@
-# MacOS app v1.15.0
-
+---
+title: "MacOS app v1.15.0"
+---
 ## **🚀 What's New?**
 
 Just released a quick update for TypingMind MacOS app!

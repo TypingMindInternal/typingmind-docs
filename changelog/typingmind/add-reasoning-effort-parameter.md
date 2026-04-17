@@ -1,5 +1,6 @@
-# Add reasoning effort parameter
-
+---
+title: "Add reasoning effort parameter"
+---
 ## 🔥 What’s new?
 
 You can now select the reasoning effort from "low" to "high" for better output of the o3 models

@@ -1,5 +1,6 @@
-# Enter shared plugin URL and import directly
-
+---
+title: "Enter shared plugin URL and import directly"
+---
 ### **🚀 What's New?**
 
 ⬇️ Now you can enter the plugin URL and import directly to TypingMind app.

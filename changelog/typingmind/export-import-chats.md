@@ -1,5 +1,6 @@
-# Export / Import chats
-
+---
+title: "Export / Import chats"
+---
 ### **🚀 What's New?**
 
 New feature available: export/import chats to [typingmind.com](http://typingmind.com/)

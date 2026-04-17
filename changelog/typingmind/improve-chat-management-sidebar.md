@@ -1,5 +1,6 @@
-# Improve chat management sidebar
-
+---
+title: "Improve chat management sidebar"
+---
 ### **🚀 What's New?**
 
 We’ve improved chat management sidebar. 

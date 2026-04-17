@@ -1,5 +1,6 @@
-# Single Sign-On is now available!
-
+---
+title: "Single Sign-On is now available!"
+---
 ### **🚀 What's New?**
 
 Single Sign-On is now available on [custom.typingmind.com](http://custom.typingmind.com/) 🥳

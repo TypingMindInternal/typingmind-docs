@@ -1,5 +1,6 @@
-# Pre-set ElevenLabs API Key from Admin Panel
-
+---
+title: "Pre-set ElevenLabs API Key from Admin Panel"
+---
 ### **🚀 What's New?**
 
 🔑 Now you can set up your ElevenLabs API Key from the Admin Panel. 

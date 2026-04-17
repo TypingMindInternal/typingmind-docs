@@ -1,5 +1,6 @@
-# Account Management
-
+---
+title: "Account Management"
+---
 [Manage your subscription](Account%20Management/Manage%20your%20subscription%20d9358a5511f14a469f084c01a75699cc.md)
 
 [Change the Owner email](Account%20Management/Change%20the%20Owner%20email%204f19e0687271440db7fb972a4f042f2d.md)

@@ -1,5 +1,6 @@
-# Set up HTTPS for Custom Models on TypingMind MacApp
-
+---
+title: "Set up HTTPS for Custom Models on TypingMind MacApp"
+---
 For the macOS version and Setapp version, due to **Apple’s security policy**, requests to `http`  protocol are blocked. If you want to connect the local custom models to the macOS app, you will need to **setup HTTPS.** 
 
 Here are the step-by-step to set up HTTPS to get the Local AI Models such as Ollama, LMStudio, etc. to work on TypingMind Mac App:

@@ -1,5 +1,6 @@
-# Better integration with OpenRouter
-
+---
+title: "Better integration with OpenRouter"
+---
 ## **🚀 What's New?**
 
 Import all models from OpenRouter to your app within just a few clicks:

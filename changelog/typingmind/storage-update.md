@@ -1,5 +1,6 @@
-# Storage update
-
+---
+title: "Storage update"
+---
 ### **🚀 What's New?**
 
 Storage update for [TypingMind.com](http://typingmind.com/):

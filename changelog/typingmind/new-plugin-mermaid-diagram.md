@@ -1,5 +1,6 @@
-# New plugin: Mermaid diagram
-
+---
+title: "New plugin: Mermaid diagram"
+---
 ✅ We’ve updated a new plugin on TypingMind: **Mermaid diagram**
 
 ### **🚀 What's New?**

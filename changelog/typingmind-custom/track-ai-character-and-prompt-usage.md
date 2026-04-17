@@ -1,5 +1,6 @@
-# Track AI Character and Prompt Usage
-
+---
+title: "Track AI Character and Prompt Usage"
+---
 ### **🚀 What's New?**
 
 Track AI Characters and Prompts Usage on [custom.typingmind.com](http://custom.typingmind.com/)

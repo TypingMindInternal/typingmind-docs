@@ -1,5 +1,6 @@
-# Set up SSO via JumpCloud
-
+---
+title: "Set up SSO via JumpCloud"
+---
 Follow this guide to integrate Single Sign-On (SSO) for your instance by creating an application in JumpCloud and configuring the SSO connection.
 
  

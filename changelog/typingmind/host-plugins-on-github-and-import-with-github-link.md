@@ -1,5 +1,6 @@
-# Host plugins on Github and import with Github link
-
+---
+title: "Host plugins on Github and import with Github link"
+---
 🧩 We’ve added new feature for users to host their own plugins on Github!
 
 ### **🚀 What's New?**

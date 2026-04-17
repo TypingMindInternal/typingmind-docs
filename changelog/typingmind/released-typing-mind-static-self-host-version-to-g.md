@@ -1,5 +1,6 @@
-# Released Typing Mind Static self-host version to GitHub
-
+---
+title: "Released Typing Mind Static self-host version to GitHub"
+---
 ### **🚀 What's New?**
 
 ### ✨ Stay updated

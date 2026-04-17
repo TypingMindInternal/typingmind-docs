@@ -1,5 +1,6 @@
-# Prompt library updates: Search, Favourite, Edit, Keyboads & Mobile friendly
-
+---
+title: "Prompt library updates: Search, Favourite, Edit, Keyboads & Mobile friendly"
+---
 ### **🚀 What's New?**
 
 Huge update for the Prompt Library on [typingmind.com](http://typingmind.com/):

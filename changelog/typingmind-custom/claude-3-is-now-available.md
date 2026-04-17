@@ -1,5 +1,6 @@
-# Claude 3 is now available!
-
+---
+title: "Claude 3 is now available!"
+---
 ### **🚀 What's New?**
 
 CLAUDE 3 IS NOW AVAILABLE!

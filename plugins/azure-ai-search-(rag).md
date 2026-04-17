@@ -1,5 +1,6 @@
-# Azure AI Search (RAG)
-
+---
+title: "Azure AI Search (RAG)"
+---
 The Azure AI Search plugin allows you to connect TypingMind to your training data in Azure AI Search (Cognitive Search). When you ask the AI a question but the AI does not have the answer, the AI will query the training data in Azure AI Search to find the answer.
 
 <aside>

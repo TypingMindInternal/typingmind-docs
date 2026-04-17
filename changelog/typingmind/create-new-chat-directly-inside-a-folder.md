@@ -1,5 +1,6 @@
-# Create new chat directly inside a folder
-
+---
+title: "Create new chat directly inside a folder"
+---
 ### **🚀 What's New?**
 
 Added a "+" buttton to create a chat directly inside a folder!

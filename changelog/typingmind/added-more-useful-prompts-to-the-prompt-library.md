@@ -1,5 +1,6 @@
-# Added more useful prompts to the Prompt Library
-
+---
+title: "Added more useful prompts to the Prompt Library"
+---
 ## 🔥 What’s new?
 
 We have just added more prompts to the prompt library!

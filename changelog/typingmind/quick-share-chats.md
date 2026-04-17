@@ -1,5 +1,6 @@
-# Quick share chats
-
+---
+title: "Quick share chats"
+---
 We have just added a Share button right next to your chat activity in the left panel so you can quickly share chats.
 
 ## 🔥 What’s New?

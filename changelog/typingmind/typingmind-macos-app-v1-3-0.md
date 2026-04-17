@@ -1,5 +1,6 @@
-# TypingMind MacOS app v1.3.0
-
+---
+title: "TypingMind MacOS app v1.3.0"
+---
 ### **🚀 What's New?**
 
 A small new update for the [typingmind.com](http://typingmind.com/) on macOS app 👇

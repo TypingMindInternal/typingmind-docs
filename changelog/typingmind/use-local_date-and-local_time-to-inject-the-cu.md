@@ -1,5 +1,6 @@
-# Use {local_date} and {local_time} to inject the current date/time into the system instruction
-
+---
+title: "Use {local_date} and {local_time} to inject the current date/time into the system instruction"
+---
 ### **🚀 What's New?**
 
 ### ❓**Why This Matters**

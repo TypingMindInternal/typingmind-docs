@@ -1,5 +1,6 @@
-# Change Assistant title
-
+---
+title: "Change Assistant title"
+---
 ### **🚀 What's New?**
 
 From "Assistant is typing..."

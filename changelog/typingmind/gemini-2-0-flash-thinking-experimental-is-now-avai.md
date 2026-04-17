@@ -1,5 +1,6 @@
-# Gemini 2.0 Flash Thinking Experimental is now available!
-
+---
+title: "Gemini 2.0 Flash Thinking Experimental is now available!"
+---
 ## 🔥 What’s new?
 
 Gemini 2.0 Flash Thinking Experimental is now available on TypingMind!

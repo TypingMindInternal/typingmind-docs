@@ -1,5 +1,6 @@
-# Sync API keys
-
+---
+title: "Sync API keys"
+---
 🧩 You can now sync API keys across devices!
 
 ### **🚀 What's New?**

@@ -1,5 +1,6 @@
-# Organize chats
-
+---
+title: "Organize chats"
+---
 TypingMind allows you to manage your chat history easily. An organized workspace will promote an enhanced productivity and streamline workflow. Here’s how you can organize the chats with TypingMind:
 
 ## **1. Update the chat title**

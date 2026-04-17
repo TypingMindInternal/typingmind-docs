@@ -1,5 +1,6 @@
-# Customize Sidebar Width
-
+---
+title: "Customize Sidebar Width"
+---
 ✅ You can now customize the left sidebar's width to better suit your workspace preferences!
 
 ### **🚀 What's New?**

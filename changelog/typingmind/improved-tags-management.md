@@ -1,5 +1,6 @@
-# Improved tags management
-
+---
+title: "Improved tags management"
+---
 ## **🚀 What's New?**
 
 Click on tags to filter chats more easily.

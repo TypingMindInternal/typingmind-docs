@@ -1,5 +1,6 @@
-# Added 161 community prompts
-
+---
+title: "Added 161 community prompts"
+---
 ### **🚀 What's New?**
 
 We’ve added 161 community prompts to [typingmind.com](http://typingmind.com/). 

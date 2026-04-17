@@ -1,5 +1,6 @@
-# Added "Negative Prompts" for Stable Diffusion v3 Image!
-
+---
+title: "Added \"Negative Prompts\" for Stable Diffusion v3 Image!"
+---
 🧩 We’ve added "Negative Prompts" for Stable Diffusion v3 Image!
 
 ### **🚀 What's New?**

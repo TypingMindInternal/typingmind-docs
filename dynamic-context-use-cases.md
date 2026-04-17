@@ -1,5 +1,6 @@
-# Dynamic Context Use Cases
-
+---
+title: "Dynamic Context Use Cases"
+---
 [TypingMind Dynamic Context](https://docs.typingmind.com/ai-agents/dynamic-context-via-api) allows AI models to access real-time data from external sources, thus making responses more accurate, relevant, and up to date. 
 
 Instead of relying solely on pre-trained knowledge of the AI model, AI can fetch information from APIs to provide users with the latest details on various topics such as weather, movies, exchange rates, and job listings.

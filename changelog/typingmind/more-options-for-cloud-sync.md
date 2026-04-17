@@ -1,5 +1,6 @@
-# More options for Cloud Sync
-
+---
+title: "More options for Cloud Sync"
+---
 ### **🚀 What's New?**
 
 You can now sync your settings across devices on [typingmind.com](http://typingmind.com/) 👀

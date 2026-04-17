@@ -1,5 +1,6 @@
-# Save your draft while switching chats
-
+---
+title: "Save your draft while switching chats"
+---
 ### **🚀 What's New?**
 
 [typingmind.com](http://typingmind.com/) now saves your draft when you switch between chats!

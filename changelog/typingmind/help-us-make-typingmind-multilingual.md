@@ -1,5 +1,6 @@
-# Help us make TypingMind Multilingual
-
+---
+title: "Help us make TypingMind Multilingual"
+---
 ### **🚀 What's New?**
 
 Just released multilingual on [TypingMind.com](http://typingmind.com/)

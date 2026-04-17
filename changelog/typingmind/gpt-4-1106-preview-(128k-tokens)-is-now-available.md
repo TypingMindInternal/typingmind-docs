@@ -1,5 +1,6 @@
-# GPT-4-1106-preview (128k tokens) is now available!
-
+---
+title: "GPT-4-1106-preview (128k tokens) is now available!"
+---
 ## **🚀 What's New?**
 
 GPT-4-1106-preview (128k tokens) is now available!

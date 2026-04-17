@@ -1,5 +1,6 @@
-# Bulk archive
-
+---
+title: "Bulk archive"
+---
 ## **🚀 What's New?**
 
 Archive chats in bulk.

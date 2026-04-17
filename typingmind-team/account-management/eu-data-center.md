@@ -1,5 +1,6 @@
-# EU Data Center
-
+---
+title: "EU Data Center"
+---
 When creating a cloud host instance on [Typing Mind Custom](https://custom.typingmind.com), you can opt-in to have all of your data hosted in EU data center.
 
 ## How it works

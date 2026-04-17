@@ -1,5 +1,6 @@
-# Landing Page Conversion Optimizer
-
+---
+title: "Landing Page Conversion Optimizer"
+---
 Let’s be honest: most landing pages suck. Not because founders and CMOs don’t care, but because when you’re too close to your own product, you stop seeing the cracks. The boring headline, the confusing call-to-action, the design that feels like it was pulled out of a 2015 template.
 
 That’s why we built this flow. You don’t need another fluffy “10 best tips for higher conversions” article. You need someone to roast your landing page *brutally*, then hand you **specific, battle-tested conversion optimization ideas** you can actually deploy. 

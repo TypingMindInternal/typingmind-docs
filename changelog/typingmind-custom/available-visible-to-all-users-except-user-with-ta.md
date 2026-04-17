@@ -1,5 +1,6 @@
-# Available / Visible to all users except user with tags
-
+---
+title: "Available / Visible to all users except user with tags"
+---
 ### **🚀 What's New?**
 
 ⛔️🏷️ Admins can now select user tags that they want to EXCLUDE from accessing certain:

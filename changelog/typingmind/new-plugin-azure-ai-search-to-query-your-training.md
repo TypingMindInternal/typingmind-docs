@@ -1,5 +1,6 @@
-# New plugin: Azure AI Search to query your training data!
-
+---
+title: "New plugin: Azure AI Search to query your training data!"
+---
 🧩 New "Query Training Data - Azure AI Search" plugin!
 
 ### **🚀 What's New?**

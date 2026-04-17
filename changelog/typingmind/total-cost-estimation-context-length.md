@@ -1,5 +1,6 @@
-# Total cost estimation 🔁 Context length
-
+---
+title: "Total cost estimation 🔁 Context length"
+---
 ### **🚀 What's New?**
 
 Added a Customer Support FAQ bot to [typingmind.com](http://typingmind.com/)

@@ -1,5 +1,6 @@
-# Added Top K for Claude
-
+---
+title: "Added Top K for Claude"
+---
 ## **🚀 What's New?**
 
 Added "Top K" parameter for Claude!

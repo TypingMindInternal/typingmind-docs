@@ -1,5 +1,6 @@
-# Parameter settings
-
+---
+title: "Parameter settings"
+---
 GPT models have important parameters that you can adjust to fine-tune the model's responses. Let’s check out some key parameters that you can adjust on TypingMind.
 
 To find the model parameter settings:

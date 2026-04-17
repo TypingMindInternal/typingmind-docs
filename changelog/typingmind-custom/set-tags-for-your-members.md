@@ -1,5 +1,6 @@
-# Set tags for your members
-
+---
+title: "Set tags for your members"
+---
 ### **🚀 What's New?**
 
 Admins now can add tags for team members in [custom.typingmind.com](http://custom.typingmind.com/):

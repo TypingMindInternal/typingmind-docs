@@ -1,5 +1,6 @@
-# Claude 3.7 Sonnet is now available!
-
+---
+title: "Claude 3.7 Sonnet is now available!"
+---
 ## 🔥 What’s new?
 
 TypingMind now supports Claude 3.7 Sonnet! (reload the app to update!)

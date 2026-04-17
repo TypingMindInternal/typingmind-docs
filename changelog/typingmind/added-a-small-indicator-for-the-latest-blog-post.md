@@ -1,5 +1,6 @@
-# Added a small indicator for the latest blog post
-
+---
+title: "Added a small indicator for the latest blog post"
+---
 ### **🚀 What's New?**
 
 Added a small indicator for the latest blog post in the main app for quick move to our blogs to update more information!

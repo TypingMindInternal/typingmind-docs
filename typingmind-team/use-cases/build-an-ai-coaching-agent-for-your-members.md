@@ -1,5 +1,6 @@
-# Build an AI Coaching Agent for your members
-
+---
+title: "Build an AI Coaching Agent for your members"
+---
 If you are looking to develop an AI Coaching agent and want to sell memberships to your users, follow these step-by-step instructions to get started:
 
 <aside>

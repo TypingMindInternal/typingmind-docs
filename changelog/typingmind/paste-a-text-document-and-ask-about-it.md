@@ -1,5 +1,6 @@
-# Paste a text document and ask about it
-
+---
+title: "Paste a text document and ask about it"
+---
 ### **🚀 What's New?**
 
 You can now paste a text document to [TypingMind.com](http://typingmind.com/) and ask ChatGPT to answer questions about it. 

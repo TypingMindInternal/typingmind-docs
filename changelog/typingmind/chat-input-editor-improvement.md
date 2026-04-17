@@ -1,5 +1,6 @@
-# Chat Input Editor Improvement
-
+---
+title: "Chat Input Editor Improvement"
+---
 🧩 We’ve just improved UX/UI for the Chat Input Editor to bring you a better chat experience!
 
 ### **🚀 What's New?**

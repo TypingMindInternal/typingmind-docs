@@ -1,5 +1,6 @@
-# Turn off Community Prompt
-
+---
+title: "Turn off Community Prompt"
+---
 ### **🚀 What's New?**
 
 Added an option to turn off Community Prompts for Custom Deployment ([http://typingmind.com/custom](http://typingmind.com/custom))

@@ -1,5 +1,6 @@
-# Project Folders
-
+---
+title: "Project Folders"
+---
 We have just released the **Project Folders** for TypingMind to help you manage and organize your work much more easily.
 
 ## 🔥 What’s News?

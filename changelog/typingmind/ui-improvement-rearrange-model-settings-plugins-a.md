@@ -1,5 +1,6 @@
-# UI Improvement: rearrange Model Settings, Plugins and Your Profile
-
+---
+title: "UI Improvement: rearrange Model Settings, Plugins and Your Profile"
+---
 ## **🚀 What's New?**
 
 Rearrange Your Profile, Models and Plugins for better navigation.

@@ -1,5 +1,6 @@
-# Use Kagi for search suggestion link
-
+---
+title: "Use Kagi for search suggestion link"
+---
 Use the search engine Kagi (kagi.com) as Search Suggestion Link!
 
 ## ⚙️ How it works?

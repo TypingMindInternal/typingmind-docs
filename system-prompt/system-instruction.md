@@ -1,5 +1,6 @@
-# System Instruction
-
+---
+title: "System Instruction"
+---
 # What is initial system instruction?
 
 The system prompt, often referred to as the "system message" or "initial prompt," is a predefined input that guides and sets the context for how the AI, such as GPT-4, should respond. It typically includes instructions on tone, style, limitations, and objectives for the AI interaction.

@@ -1,5 +1,6 @@
-# Cost estimation calculator
-
+---
+title: "Cost estimation calculator"
+---
 ### **🚀 What's New?**
 
 This calculator help you estimates how much will it cost to use ChatGPT via the API key for your team: https://custom.typingmind.com/tools/estimate-llm-usage-costs

@@ -1,5 +1,6 @@
-# Move chats to folder in bulk
-
+---
+title: "Move chats to folder in bulk"
+---
 ### **🚀 What's New?**
 
 ❌ You don't need to move chat to folder ONE-BY-ONE...

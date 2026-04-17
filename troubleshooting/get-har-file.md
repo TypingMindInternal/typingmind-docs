@@ -1,5 +1,6 @@
-# Get HAR file
-
+---
+title: "Get HAR file"
+---
 When working with TypingMind, we may sometimes ask you to collect a network capture for troubleshooting, which can be used to record the HTTP data traffic of the affected application. We will use this information to figure out what's causing the problem.
 
 [export har.mp4](Get%20HAR%20file/export_har.mp4)

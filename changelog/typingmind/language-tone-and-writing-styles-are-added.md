@@ -1,5 +1,6 @@
-# Language, tone and writing styles are added!
-
+---
+title: "Language, tone and writing styles are added!"
+---
 ### **🚀 What's New?**
 
 Added Language, Tone, and Writing Style to [typingmind.com](http://typingmind.com/)!

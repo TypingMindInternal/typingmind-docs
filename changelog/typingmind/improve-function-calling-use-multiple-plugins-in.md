@@ -1,5 +1,6 @@
-# Improve function calling - use multiple plugins in parallel
-
+---
+title: "Improve function calling - use multiple plugins in parallel"
+---
 ## **🚀 What's New?**
 
 Function calling has been improved! Now you can have multiple plugins running in parallel. 

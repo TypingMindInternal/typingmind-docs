@@ -1,5 +1,6 @@
-# Claude 2 is available
-
+---
+title: "Claude 2 is available"
+---
 ### **🚀 What's New?**
 
 Just added support for the new model Claude 2.

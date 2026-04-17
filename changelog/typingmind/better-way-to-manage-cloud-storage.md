@@ -1,5 +1,6 @@
-# Better way to manage cloud storage
-
+---
+title: "Better way to manage cloud storage"
+---
 ### **🚀 What's New?**
 
 - Manage your data in one place.

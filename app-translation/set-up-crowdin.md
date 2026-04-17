@@ -1,5 +1,6 @@
-# Set up Crowdin
-
+---
+title: "Set up Crowdin"
+---
 The collaboration process will be done via [https://crowdin.com/](https://crowdin.com/)
 
 ## Join crowdin

@@ -1,5 +1,6 @@
-# Claude 3.5 Haiku is now available!
-
+---
+title: "Claude 3.5 Haiku is now available!"
+---
 Claude 3.5 Haiku is now available on TypingMind!
 
 ## 🔥 What’s New?
