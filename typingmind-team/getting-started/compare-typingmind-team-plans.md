@@ -3,8 +3,6 @@ title: "Compare TypingMind Team Plans"
 description: "Find the right TypingMind Custom plan for your team."
 ---
 
-# Compare TypingMind Team Plans
-
 TypingMind Custom offers **4 different plans** starting at **$99/month**. Compare the plans below to find the best fit for your team.
 
 <CardGroup cols={3}>
