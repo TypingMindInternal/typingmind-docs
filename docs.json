@@ -13,6 +13,7 @@
       {
         "tab": "Documentation",
         "pages": [
+          "introduction",
           "install-typingmind-app",
           {
             "group": "Get Started",
