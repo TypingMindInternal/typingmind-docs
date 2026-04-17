@@ -1,5 +1,7 @@
 # Quickstart
 
+Get started with TypingMind in a few simple steps.
+
 ## App Guide
 
 [Get started with TypingMind](Quickstart/Get%20started%20with%20TypingMind%20fa103fd29211485f8fad739f24e9bd0a.md)

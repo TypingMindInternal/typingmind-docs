@@ -19,12 +19,12 @@
     "tabs": [
       {
         "tab": "Documentation",
-        "groups": [
+        "pages": [
+          "install-typingmind-app",
           {
             "group": "Get Started",
-            "icon": "hourglass-start",
+            "icon": "rocket",
             "pages": [
-              "install-typingmind-app",
               "quickstart",
               "quickstart/get-started-with-typingmind",
               "quickstart/typingmind-license-plans",
@@ -358,7 +358,7 @@
     }
   },
   "icons": {
-    "library": "fontawesome"
+    "library": "lucide"
   },
   "logo": "https://www.typingmind.com/logo.png"
 }

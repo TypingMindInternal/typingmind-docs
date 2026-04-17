@@ -1,6 +1,6 @@
 # Get started with TypingMind
 
-# **What is TypingMind?**
+## What is TypingMind?
 
 [TypingMind.com](http://TypingMind.com) is a dedicated chat interface designed to make working with large language models (LLMs) like ChatGPT, Claude, Gemini or open-source models easier, more flexible, and more organized. Instead of switching between different apps or websites, you can connect your own API keys and access everything in one unified platform.
 
@@ -55,13 +55,13 @@
 
 ![image.png](get-started-with-typingmind/image%205.png)
 
-# Get started with TypingMind
+## Get started with TypingMind
 
 Get started with TypingMind in just a few simple steps!
 
-## **Step 1: Activate License key and enter API keys to get the app working**
+### **Step 1: Activate License key and enter API keys to get the app working**
 
-### **1. Activate your License Key**
+#### **1. Activate your License Key**
 
 You can use the app without a license key, but you won't have access to advanced features, such as:
 
@@ -86,16 +86,15 @@ To start chatting with AI models on TypingMind, you'll need to enter your API ke
 
 TypingMind supports a variety of AI models, including:
 
-- [Models from OpenAI](../Manage%20&%20Connect%20AI%20Models/OpenAI%20(GPT-5,%20GPT-4%201)%2097b6ce8cbb6642a9934e81f7b7365575.md): o1-preview, o1-mini, GPT-4o, GPT-4 Mini, GPT-4 family, GPT-3.5 family and other latest OpenAI models.
+- [Models from OpenAI](../Manage%20&%20Connect%20AI%20Models/OpenAI%20\(GPT-5,%20GPT-4%201\)%2097b6ce8cbb6642a9934e81f7b7365575.md): o1-preview, o1-mini, GPT-4o, GPT-4 Mini, GPT-4 family, GPT-3.5 family and other latest OpenAI models.
 - [Models from Anthropic](../Manage%20&%20Connect%20AI%20Models/Anthropic%20Claude%20a13efc63000c4dbcb1629507a52e4cf9.md): Claude 3.5 Sonnet, Claude 3 family, and other latest Claude models.
 - [Models from Google](Get%20started%20with%20TypingMind%20fa103fd29211485f8fad739f24e9bd0a.md): Gemini 1.5 Flash 002, Gemini 1.5 Pro 002, and all other latest models from Google.
 - [Models from other AI providers](https://docs.typingmind.com/manage-and-connect-ai-models): Mistral, DeepSeek, Grok, etc. (need custom setup - official support soon)
 
 <aside>
-💡
+  💡
 
-**Note**: You get the API key directly from the AI provider, not for each specific model. For example, if you want to use all GPT models, you only need to enter the API key from OpenAI.
-
+  **Note**: You get the API key directly from the AI provider, not for each specific model. For example, if you want to use all GPT models, you only need to enter the API key from OpenAI.
 </aside>
 
 After obtaining the API keys for these models, head over to [TypingMind.com](http://typingmind.com/) and follow these steps to enter them:
@@ -110,14 +109,14 @@ After obtaining the API keys for these models, head over to [TypingMind.com](htt
 ![image.png](get-started-with-typingmind/image%209.png)
 
 <aside>
-💡 **Important notes:**
+  💡 **Important notes:**
 
-- You will need to top up API credits within each AI provider's console to activate a paid account and use their API key.
-- You can check here: [https://docs.typingmind.com/manage-and-connect-ai-models](https://docs.typingmind.com/manage-and-connect-ai-models) for detailed guide on how to add API keys from the models you want to use.
-- Note that:
-    - An OpenAI API paid account is different from a ChatGPT Plus subscription. [Learn more](https://blog.typingmind.com/higher-usage-cap-for-gpt-4/).
-    - Claude API paid account is also separate from the Claude AI subscription. [Learn more](https://blog.typingmind.com/bypass-claude-ai-usage-limit/).
-    - You **do not** need a ChatGPT Plus or Claude AI subscription to use TypingMind.
+  * You will need to top up API credits within each AI provider's console to activate a paid account and use their API key.
+  * You can check here: [https://docs.typingmind.com/manage-and-connect-ai-models](https://docs.typingmind.com/manage-and-connect-ai-models) for detailed guide on how to add API keys from the models you want to use.
+  * Note that:
+    * An OpenAI API paid account is different from a ChatGPT Plus subscription. [Learn more](https://blog.typingmind.com/higher-usage-cap-for-gpt-4/).
+    * Claude API paid account is also separate from the Claude AI subscription. [Learn more](https://blog.typingmind.com/bypass-claude-ai-usage-limit/).
+    * You **do not** need a ChatGPT Plus or Claude AI subscription to use TypingMind.
 </aside>
 
 ## **Step 2: Sync & Backup your data (optional)**
@@ -161,13 +160,13 @@ Once your API keys and License key are set up, you can start interacting with AI
 These instructions are configured at the start of a session and are **persistent**, meaning the AI will follow them even when old messages are forgotten due to context length limitations.
 
 <aside>
-💡
+  💡
 
-Unlike prompts, when you set up the system instruction, the AI model will always remember it through out the conversation, even when your context length is reached.
+  Unlike prompts, when you set up the system instruction, the AI model will always remember it through out the conversation, even when your context length is reached.
 
-- **Context length** refers to the amount of information (tokens, words, or characters) that an AI model can "remember" or process in a single conversation or interaction. In other words, it defines the maximum amount of input data (including both the user’s messages and the AI’s responses) that the model can consider when generating a response.
-- Each model has its own context length limit. The longer the context length, the more information the AI can retain in a conversation.
-- For example: If GPT-4o has a context length of 128,000 tokens, it can only take into account the last 128,000 tokens of conversation. Anything beyond this limit will be automatically "forgotten" by the model unless it's reintroduced by the user in the current interaction.
+  * **Context length** refers to the amount of information (tokens, words, or characters) that an AI model can "remember" or process in a single conversation or interaction. In other words, it defines the maximum amount of input data (including both the user’s messages and the AI’s responses) that the model can consider when generating a response.
+  * Each model has its own context length limit. The longer the context length, the more information the AI can retain in a conversation.
+  * For example: If GPT-4o has a context length of 128,000 tokens, it can only take into account the last 128,000 tokens of conversation. Anything beyond this limit will be automatically "forgotten" by the model unless it's reintroduced by the user in the current interaction.
 </aside>
 
 ![image.png](get-started-with-typingmind/image%2013.png)
@@ -190,10 +189,9 @@ Learn more about [Prompts](../Prompts/Use%20Prompt%20Library%20a4fc26777d12484eb
 Creating a prompt library allows you to save time on recurring queries and makes sure consistent responses across similar tasks.
 
 <aside>
-💡
+  💡
 
-**Tip:** When creating custom prompts, be specific with instructions. For example, instead of asking *"Explain machine learning,"* a more detailed prompt like *"Explain the basics of machine learning with examples of supervised and unsupervised learning"* will provide a richer and more focused response.
-
+  **Tip:** When creating custom prompts, be specific with instructions. For example, instead of asking *"Explain machine learning,"* a more detailed prompt like *"Explain the basics of machine learning with examples of supervised and unsupervised learning"* will provide a richer and more focused response.
 </aside>
 
 ### 2. Upload and chat with your documents/videos
@@ -209,10 +207,9 @@ When you upload a document, the AI reads and analyzes it, allowing you to ask qu
 Providing the AI with your own documents makes it easier to get personalized and context-aware answers, especially when dealing with complex data.
 
 <aside>
-💡
+  💡
 
-**Tip:** To get the most accurate results, make sure the document you upload is well-structured and relevant to the task you want the AI to help with. This approach is highly effective for knowledge-based tasks, like analyzing reports or summarizing long texts.
-
+  **Tip:** To get the most accurate results, make sure the document you upload is well-structured and relevant to the task you want the AI to help with. This approach is highly effective for knowledge-based tasks, like analyzing reports or summarizing long texts.
 </aside>
 
 Learn more about [Chat with Files or Videos](../Upload%20and%20Chat%20with%20Files%203712c130aaad48d6985385575ae33137.md)
@@ -228,7 +225,7 @@ Some plugins may require set up, you can refer to [Plugins](https://docs.typingm
 - Search the internet: [Web Search](https://docs.typingmind.com/plugins/web-search-and-image-search)
 - Generate images: [GPT Image Editor](https://docs.typingmind.com/plugins/gpt-image-editor)
 - Deep research your complexed tasks: [Deep Research](https://docs.typingmind.com/plugins/deep-research)
-- Render charts or code: [Interactive Canvas](https://docs.typingmind.com/plugins/interactive-canvas-(artifacts))
+- Render charts or code: [Interactive Canvas](https://docs.typingmind.com/plugins/interactive-canvas-\(artifacts\))
 
 You can also connect your own third party systems or MCP servers via our [Custom Plugins](https://docs.typingmind.com/plugins/build-a-typingmind-plugin)
 
@@ -256,7 +253,7 @@ Similar to the system instruction but AI Agent provides a more in-depth level of
 - Connect with your knowledge base or upload specific training data.
 - Use few-shot learning to provide example prompts and responses to train the agent.
 
-You can get started with our prebuilt AI Agents for your needs or your can choose to build with your own custom AI Agent. 
+You can get started with our prebuilt AI Agents for your needs or your can choose to build with your own custom AI Agent.
 
 ![image.png](get-started-with-typingmind/image%2019.png)
 
