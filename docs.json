@@ -8,13 +8,6 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "navbar": {
-    "primary": {
-      "type": "github",
-      "href": "https://github.com/TypingMind/awesome-typingmind"
-    },
-    "links": []
-  },
   "navigation": {
     "tabs": [
       {
