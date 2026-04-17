@@ -1,5 +1,5 @@
 ---
-title: "Model Context Protocol (MCP) in TypingMind"
+title: "Overview"
 ---
 
 ![mcp-typingmind.jpg](model-context-protocol-\(mcp\)-in-typingmind/mcp-typingmind.jpg)
