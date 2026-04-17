@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # TypingMind Team
 
 [Getting started ](TypingMind%20Team/Getting%20started%20b17ecec0ab68414192dccf84eddaec13.md)

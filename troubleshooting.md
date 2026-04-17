@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Troubleshooting
 
 [Get HAR file](Troubleshooting/Get%20HAR%20file%204e9c7db5fa3d40e3ad1be9d47d33ce0f.md)

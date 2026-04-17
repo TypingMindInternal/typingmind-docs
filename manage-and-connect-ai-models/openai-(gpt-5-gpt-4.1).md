@@ -1,14 +1,15 @@
-# OpenAI (GPT-5, GPT-4.1)
+---
+title: "OpenAI (GPT-5, GPT-4.1)"
+---
 
 To use the ChatGPT models on TypingMind, you will need to have a paid API key from OpenAI.
 
 Follow the steps below to see how to do this.
 
 <aside>
-💡 The ChatGPT Plus subscription is different from the OpenAI API paid account. They are billed separately.
+  💡 The ChatGPT Plus subscription is different from the OpenAI API paid account. They are billed separately.
 
-To use TypingMind with your paid API key, you will need to have an OpenAI API paid account, which can be set up at [https://platform.openai.com/account/billing/overview](https://platform.openai.com/account/billing/overview)
-
+  To use TypingMind with your paid API key, you will need to have an OpenAI API paid account, which can be set up at [https://platform.openai.com/account/billing/overview](https://platform.openai.com/account/billing/overview)
 </aside>
 
 ## **Step 1: Create an OpenAI account‍**
@@ -26,7 +27,7 @@ After signing up, you will need to top up your credit to use the API key:
 ![image.png](aws-bedrock-anthropic/image%201.png)
 
 1. Click "Add payment details" and enter your payment details
-2. Choose the initial amount of credits you want to purchase. The minimum purchase is $5.
+2. Choose the initial amount of credits you want to purchase. The minimum purchase is \$5.
 
 You can enable the option Automatic recharge so OpenAI can charge you automatically once your credit balance is lower than a specific threshold to keep your workflow going without any interruption.
 
@@ -43,8 +44,7 @@ You can enable the option Automatic recharge so OpenAI can charge you automatica
 - Click Create a new secret key.
 
 <aside>
-💡 Within the Permissions section, please do not set restrictions for Models and Model Capabilities. Recommend setting the Permissions to All.
-
+  💡 Within the Permissions section, please do not set restrictions for Models and Model Capabilities. Recommend setting the Permissions to All.
 </aside>
 
 - Give the API key a name and click “Create secret key”
@@ -73,10 +73,9 @@ You can enable the option Automatic recharge so OpenAI can charge you automatica
 - **Custom endpoint:** Use the direct endpoint [**`https://api.openai.com/v1/chat/completions`**](https://api.openai.com/v1/chat/completions) or configure your own custom chat completions endpoint.
 
 <aside>
-💡
+  💡
 
-If you use a customized endpoint, the endpoint must be 100% compatible with OpenAI's Chat Completion endpoint; otherwise, the app functionalities may not work properly.
-
+  If you use a customized endpoint, the endpoint must be 100% compatible with OpenAI's Chat Completion endpoint; otherwise, the app functionalities may not work properly.
 </aside>
 
 ![image.png](aws-bedrock-anthropic/image%207.png)

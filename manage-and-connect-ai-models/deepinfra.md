@@ -1,4 +1,6 @@
-# DeepInfra
+---
+title: "DeepInfra"
+---
 
 DeepInfra allows you to access Open-source AI models such as Meta LLaMA 3, Mistral AI, Gemma, etc. at low cost.
 
@@ -12,7 +14,7 @@ Go to [https://deepinfra.com/](https://deepinfra.com/) and Log into DeepInfra vi
 
 # Step 2: Generate an API key
 
-- Go to DeepInfra API Key page at [https://deepinfra.com/dash/api_keys](https://deepinfra.com/dash/api_keys)
+- Go to DeepInfra API Key page at [https://deepinfra.com/dash/api\_keys](https://deepinfra.com/dash/api_keys)
 - Click on “**New API Key**”
 - Enter your API Key Name and click “**Generate API Key**”
 
@@ -29,13 +31,11 @@ You will need to set up DeepInfra as a custom model on TypingMind. Here’s how:
 - Go to **Manage Models**
 - **Add Custom Models**
 - Updates the following information to set up DeepInfra models:
-    - **Name**: LLaMA 3 70B via DeepInfra (or you can give it any name you want)
-    - **Endpoint**: [`https://api.deepinfra.com/v1/openai/chat/completions`](https://api.deepinfra.com/v1/openai/chat/completions)
-    - **Model ID**: `meta-llama/Meta-Llama-3-70B-Instruct` or you can find all model IDs [here](https://deepinfra.com/models)
-    - **Add Custom Headers**:
-    
-    `Authorization`: `Bearer {{YOUR_API_KEY}}` (enter the copied API key)
-    
+  - **Name**: LLaMA 3 70B via DeepInfra (or you can give it any name you want)
+  - **Endpoint**: [`https://api.deepinfra.com/v1/openai/chat/completions`](https://api.deepinfra.com/v1/openai/chat/completions)
+  - **Model ID**: `meta-llama/Meta-Llama-3-70B-Instruct` or you can find all model IDs [here](https://deepinfra.com/models)
+  - **Add Custom Headers**:
+  `Authorization`: `Bearer {{YOUR_API_KEY}}` (enter the copied API key)
 
 ![Untitled](deepinfra/Untitled%203.png)
 

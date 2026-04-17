@@ -1,4 +1,6 @@
-# Novita AI
+---
+title: "Novita AI"
+---
 
 It’s easy to setup Typing Mind for using the available models on Novita AI ([https://novita.ai/](https://novita.ai/)). Here is a quick guide.
 

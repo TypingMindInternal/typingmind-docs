@@ -1,4 +1,6 @@
-# Manage License & Devices
+---
+title: "Manage License & Devices"
+---
 
 Each license key allows you to use Typing Mind on 5 devices, which is typically enough for one user. Team license keys can be used on more devices.
 
@@ -13,8 +15,7 @@ Each license key allows you to use Typing Mind on 5 devices, which is typically 
 1. Go to the **My Orders** ([https://app.lemonsqueezy.com/my-orders/](https://app.lemonsqueezy.com/my-orders/)) page and login with your purchase email.
 
 <aside>
-👉 [Go to My Orders Page](https://app.lemonsqueezy.com/my-orders)
-
+  👉 [Go to My Orders Page](https://app.lemonsqueezy.com/my-orders)
 </aside>
 
 1. Click on the order you purchased.

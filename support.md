@@ -1,8 +1,10 @@
-# Support
+---
+title: "Contact Us"
+---
 
 ## 📧 Customer Support
 
-If you have any questions, please free to reach us at **support@typingmind.com**
+If you have any questions, please free to reach us at [**support@typingmind.com**](mailto:support@typingmind.com)
 
 ## **💡 Feature Requests**
 

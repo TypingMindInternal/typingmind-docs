@@ -1,6 +1,8 @@
-# Which AI models should you use?
+---
+title: "Which AI models should you use?"
+---
 
-Hey there! Choosing the right AI model in 2025 can feel like picking the perfect tool from a crowded toolbox. Even when you’re writing a blog, coding an app, researching for a project, or diving into social media trends, each AI model has its own pros and cons. 
+Hey there! Choosing the right AI model in 2025 can feel like picking the perfect tool from a crowded toolbox. Even when you’re writing a blog, coding an app, researching for a project, or diving into social media trends, each AI model has its own pros and cons.
 
 We have done a deep dive into the top players—OpenAI’s GPT models, Anthropic’s Claude, Google’s Gemini, Perplexity, Meta AI’s Llama, DeepSeek, and xAI’s Grok—to help you find the best fit for your needs.
 
@@ -12,8 +14,8 @@ Here’s a snapshot of the top AI models to help you compare at a glance. ✅ me
 
 | **Task** | **GPT Models** | **Claude Models** | **Gemini Models** | **Perplexity** | **Grok** | **Llama Models** | **DeepSeek** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **API Available** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅  | ✅ |
-| **API Pricing** | $0.0001-$0.01/1K input tokens
+| **API Available** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **API Pricing** | $0.0001-$ 0.01/1K input tokens |  |  |  |  |  |  |
 
 $0.0004-$0.04/1K output tokens | $0.00025 – $0.015/ 1K input tokens
 
@@ -29,17 +31,7 @@ $0.0006-$0.003/1K input tokens
 
 $0.0005-$0.025/1K output tokens | Free to use. | $0.00014-$0.000055/1K input tokens
 
-$0.00028-$0.00219/1K output tokens |
-| **Everyday Answers** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Writing** | ✅ | 👍 | ✅ | ❌ | ✅ | ✅ | ❌ |
-| **Coding** | ✅ | 👍 | ✅ | ❌ | ✅ | ✅ | ✅ |
-| **Math** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Reasoning** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Web Search** | ✅ | ✅ | ✅ | 👍 | ✅ | ❌ | ✅ |
-| **Deep Research** | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ |
-| **Native Image Generation** | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ |
-| **Video Analysis** | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| **Computer Use** | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+$0.00028-$0.00219/1K output tokens | | **Everyday Answers** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | **Writing** | ✅ | 👍 | ✅ | ❌ | ✅ | ✅ | ❌ | | **Coding** | ✅ | 👍 | ✅ | ❌ | ✅ | ✅ | ✅ | | **Math** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | **Reasoning** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | **Web Search** | ✅ | ✅ | ✅ | 👍 | ✅ | ❌ | ✅ | | **Deep Research** | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | | **Native Image Generation** | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | | **Video Analysis** | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | | **Computer Use** | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 ## Deep Dive: Which AI Should You Use?
 
@@ -49,7 +41,7 @@ $0.00028-$0.00219/1K output tokens |
 
 **Best for**: General-purpose use, content creation, conversational interfaces, productivity.
 
-OpenAI’s GPT family is still the most widely deployed and user-friendly line of models. GPT-4.5 (`o3`) delivers smooth, emotionally intelligent conversations and excels in content-heavy workflows. 
+OpenAI’s GPT family is still the most widely deployed and user-friendly line of models. GPT-4.5 (`o3`) delivers smooth, emotionally intelligent conversations and excels in content-heavy workflows.
 
 However, it's **not the top performer when it comes to serious coding tasks**—often trailing behind Claude in code correctness, explanation clarity, and multi-step logic.
 
@@ -202,8 +194,7 @@ The best way to find the right model? Try them out yourself on TypingMind - comp
 ![image.png](which-ai-models-should-you-use/image%207.png)
 
 <aside>
-💡
+  💡
 
-All above models can be set up on TypingMind: [https://docs.typingmind.com/manage-and-connect-ai-models](https://docs.typingmind.com/manage-and-connect-ai-models)
-
+  All above models can be set up on TypingMind: [https://docs.typingmind.com/manage-and-connect-ai-models](https://docs.typingmind.com/manage-and-connect-ai-models)
 </aside>

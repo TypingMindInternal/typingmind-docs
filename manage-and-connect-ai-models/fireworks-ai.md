@@ -1,4 +1,6 @@
-# Fireworks AI
+---
+title: "Fireworks AI"
+---
 
 You can integrate AI models from **Fireworks AI** into **TypingMind.** This guide provides step-by-step instructions to help you set up and use Fireworks AI models within TypingMind seamlessly.
 
@@ -24,17 +26,17 @@ Once you have your Fireworks AI API key, you need to configure a **custom model*
 
 1. Open **TypingMind** and navigate to **Models → Add Custom Models**.
 2. Enter the following details in the respective fields:
-    - **Endpoint:** `https://api.fireworks.ai/inference/v1/chat/completions`
-    - **Model ID:**
-        - Example: `accounts/fireworks/models/llama-v3p1-405b-instruct`
-        - You can find a list of available models here: [**Fireworks AI Model Library**](https://fireworks.ai/models)
+   - **Endpoint:** `https://api.fireworks.ai/inference/v1/chat/completions`
+   - **Model ID:**
+     - Example: `accounts/fireworks/models/llama-v3p1-405b-instruct`
+     - You can find a list of available models here: [**Fireworks AI Model Library**](https://fireworks.ai/models)
 
 <aside>
-💡
+  💡
 
-Important notes: 
+  Important notes:
 
-- Some models in the **Fireworks AI library** require **manual deployment** before they can be used. This applies to models **without serverless support**.
+  * Some models in the **Fireworks AI library** require **manual deployment** before they can be used. This applies to models **without serverless support**.
 </aside>
 
 - Under the **Custom Headers** section, add the following:

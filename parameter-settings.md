@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Parameter Settings
 
 [Parameter settings](Parameter%20Settings/Parameter%20settings%20bee0dab52cc847b4b1504ef8c195436f.md)

@@ -1,4 +1,6 @@
-# Zero Tolerance Policy
+---
+title: "Zero Tolerance Policy"
+---
 
 ## Purpose
 
@@ -37,4 +39,4 @@ All support staff are empowered and authorized to enforce this policy. Managemen
 
 ---
 
-*Last Updated: February 2026*
+_Last Updated: February 2026_

@@ -1,4 +1,6 @@
-# Connect to LlamaIndex
+---
+title: "Connect to LlamaIndex"
+---
 
 You can connect your **LlamaIndex data sources** to **TypingMind** to look up and query information directly from your own data. This integration uses **MCP (Model Context Protocol)** to act as a bridge between TypingMind and LlamaIndex.
 
@@ -12,7 +14,7 @@ When connected to TypingMind, you can ask questions and run deep research across
 
 ## How to set up LlamaIndex on TypingMind
 
-You can connect LlamaIndex on TypingMind using MCP server. 
+You can connect LlamaIndex on TypingMind using MCP server.
 
 ### Step 1: Create an Index in LlamaIndex
 
@@ -23,9 +25,9 @@ You can connect LlamaIndex on TypingMind using MCP server.
 
 1. Connect your index to your data sources (e.g., Google Drive, Notion, databases, here are [the details](../../TypingMind%20Docs%20377cf9a0f1b14674a4fb9015a8f5c80a.md))
 2. Once created, note down your:
-    - **Index name**
-    - **Project name**
-    - **Organization ID**
+   - **Index name**
+   - **Project name**
+   - **Organization ID**
 
 👉 If you already have an index, click into it to review its details and data source connections.
 
@@ -40,7 +42,7 @@ You can connect LlamaIndex on TypingMind using MCP server.
 
 ### Step 3: Set up MCP Connectors on TypingMind
 
-In TypingMind, go to Settings → Advanced Settings → Model Context Protocol to start setup your MCP connector. The MCP Connector acts as the bridge between TypingMind and the MCP servers. 
+In TypingMind, go to Settings → Advanced Settings → Model Context Protocol to start setup your MCP connector. The MCP Connector acts as the bridge between TypingMind and the MCP servers.
 
 MCP servers require a server to run on. TypingMind allows you to connect to the MCP servers via:
 
@@ -96,7 +98,7 @@ Add the following JSON configuration under **MCP Servers** in TypingMind setting
 
 ![image.png](connect-to-llamaindex/image%206.png)
 
-More information about [LlamaCloud MCP](https://github.com/run-llama/mcp-server-llamacloud) 
+More information about [LlamaCloud MCP](https://github.com/run-llama/mcp-server-llamacloud)
 
 ### Step 5: Enable and Use LlamaIndex in TypingMind
 

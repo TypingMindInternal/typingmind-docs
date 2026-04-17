@@ -1,4 +1,6 @@
-# OpenRouter
+---
+title: "Openrouter"
+---
 
 [OpenRouter](https://openrouter.ai/) is a platform/API layer that lets yoiu access many different AI models from different providers such as OpenAI, Anthropic Claude, Minimax, Moonshot, Deepseek, etc.
 
@@ -22,7 +24,7 @@ Enter “Typing Mind” to the name field. Leave the “Credit limit” empty to
 
 ## 3. Add Credits
 
-Go to **Account** > **Settings**, scroll down to the credit section to **Add Credits** so you can use the generated API keys.
+Go to **Account** \> **Settings**, scroll down to the credit section to **Add Credits** so you can use the generated API keys.
 
 ![Untitled](openrouter/Untitled%203.png)
 

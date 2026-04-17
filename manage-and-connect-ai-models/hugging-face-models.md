@@ -1,12 +1,13 @@
-# Hugging Face models
+---
+title: "Hugging Face models"
+---
 
-Hugging Face is a platform that hosts a wide range of AI models, which allows users to share and discover thousands of pre-trained models contributed by the community. 
+Hugging Face is a platform that hosts a wide range of AI models, which allows users to share and discover thousands of pre-trained models contributed by the community.
 
 This article will walk you through deploying your own open-source language models (LLMs) from Hugging Face on TypingMind.
 
 <aside>
-💡 Please note: you can apply this guide to add your text-to-image or text-to-speed models that are available on HuggingFace too.
-
+  💡 Please note: you can apply this guide to add your text-to-image or text-to-speed models that are available on HuggingFace too.
 </aside>
 
 [https://www.youtube.com/watch?v=RGlATRjmgdc](https://www.youtube.com/watch?v=RGlATRjmgdc)
@@ -37,7 +38,7 @@ This article will walk you through deploying your own open-source language model
 
 - To manage costs, set the model to automatically **scale to zero after a specified period of inactivity.**
 
-***Example**: Set the endpoint to scale to zero after 2 hours of inactivity. This means the endpoint will shut down after being idle, which helps save on usage costs. Be aware that restarting the endpoint after it scales to zero may take a few minutes.*
+**_Example_**_: Set the endpoint to scale to zero after 2 hours of inactivity. This means the endpoint will shut down after being idle, which helps save on usage costs. Be aware that restarting the endpoint after it scales to zero may take a few minutes._
 
 ![image.png](hugging-face-models/image%205.png)
 
@@ -45,8 +46,7 @@ This article will walk you through deploying your own open-source language model
 - Click **Create Endpoint**. Note that it may take a few minutes to create the endpoint.
 
 <aside>
-💡 Some models may require specific adjustments. For example, if you encounter an error like “rope scaling must be a dictionary with two fields,” you'll need to modify the source code accordingly. Upload the corrected code to Hugging Face and redeploy the model.
-
+  💡 Some models may require specific adjustments. For example, if you encounter an error like “rope scaling must be a dictionary with two fields,” you'll need to modify the source code accordingly. Upload the corrected code to Hugging Face and redeploy the model.
 </aside>
 
 - Once **the endpoint is created**, it is ready for use.
@@ -69,8 +69,8 @@ This article will walk you through deploying your own open-source language model
 
 - **Token Name**: you can give your token a descriptive name, such as “typingmind”.
 - For general use, ensure the following permissions are checked:
-    - “Make calls to the serverless inference API”
-    - “Make calls to inference endpoints”
+  - “Make calls to the serverless inference API”
+  - “Make calls to inference endpoints”
 
 ![image.png](hugging-face-models/image%2010.png)
 
@@ -85,16 +85,12 @@ This article will walk you through deploying your own open-source language model
 - Click on the **Model** button and then select **Manage Models**.
 - Click on **Add Custom Model**.
 - Fill in the following required fields:
-    - **Name**: enter a name for your model.
-    - **Icon URL**: optionally, provide a URL for an icon that represents your model.
-    - **Endpoint**: copy the endpoint URL from your Hugging Face model page that you created in step 2 and paste it into the appropriate field.
-        
-        Make sure you append `/v1/chat/completions` at the end of the endpoint URL to make it compatible.
-        
-    - **Model ID**: this can be copied directly from the model page on Hugging Face.
-        
-        ![image.png](hugging-face-models/image%2012.png)
-        
+  - **Name**: enter a name for your model.
+  - **Icon URL**: optionally, provide a URL for an icon that represents your model.
+  - **Endpoint**: copy the endpoint URL from your Hugging Face model page that you created in step 2 and paste it into the appropriate field.
+    Make sure you append `/v1/chat/completions` at the end of the endpoint URL to make it compatible.
+  - **Model ID**: this can be copied directly from the model page on Hugging Face.
+    ![image.png](hugging-face-models/image%2012.png)
 - Click **Add** **Custom Headers**, type `Authorization` in the first box.
 - In the second box, type `Bearer [Your API Key]`, replacing `[Your API Key]` with the actual key you generated earlier.
 - Click **“Test”** to verify if the setup is working correctly.

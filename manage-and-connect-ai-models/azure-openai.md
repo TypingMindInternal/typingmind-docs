@@ -1,4 +1,6 @@
-# Azure OpenAI
+---
+title: "Azure OpenAI"
+---
 
 You can use Azure OpenAI on TypingMind by adding a Custom Model as follow:
 

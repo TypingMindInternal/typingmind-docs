@@ -1,17 +1,18 @@
-# AWS Bedrock Anthropic
+---
+title: "AWS Bedrock Anthropic"
+---
 
 You can use AWS Bedrock Claude models on TypingMind Custom by adding a Custom Model using the following steps:
 
 <aside>
-📌
+  📌
 
-Please note that this is only available for [TypingMind Custom](http://custom.typingmind.com/) Admin users for now. We are actively working on updates to make it accessible to all users soon!
-
+  Please note that this is only available for [TypingMind Custom](http://custom.typingmind.com/) Admin users for now. We are actively working on updates to make it accessible to all users soon!
 </aside>
 
 # 1. Create an AWS account
 
-If you do not have an account yet, register for an AWS account here: [https://signin.aws.amazon.com/signup?request_type=register](https://signin.aws.amazon.com/signup?request_type=register)
+If you do not have an account yet, register for an AWS account here: [https://signin.aws.amazon.com/signup?request\_type=register](https://signin.aws.amazon.com/signup?request_type=register)
 
 ![image.png](aws-bedrock-anthropic/image.png)
 
@@ -35,18 +36,14 @@ Once you complete signup, move to the next steps.
 
 ![image.png](aws-bedrock-anthropic/image%204.png)
 
-- Click on that and select the Anthropic models you want to access → click “Next”  → click “Submit” to submit the model request access.
-    
-    It might take a few minutes to get approved and access to the chosen models.
-    
+- Click on that and select the Anthropic models you want to access → click “Next”  → click “Submit” to submit the model request access. It might take a few minutes to get approved and access to the chosen models.
 
 ![image.png](aws-bedrock-anthropic/image%205.png)
 
 <aside>
-📌
+  📌
 
-Please check your model quotas to know your limits. If your region is `us-east-1`, you can check it here: [https://us-east-1.console.aws.amazon.com/servicequotas/home/services/bedrock/quotas?region=us-east-1](https://us-east-1.console.aws.amazon.com/servicequotas/home/services/bedrock/quotas?region=us-east-1)
-
+  Please check your model quotas to know your limits. If your region is `us-east-1`, you can check it here: [https://us-east-1.console.aws.amazon.com/servicequotas/home/services/bedrock/quotas?region=us-east-1](https://us-east-1.console.aws.amazon.com/servicequotas/home/services/bedrock/quotas?region=us-east-1)
 </aside>
 
 # 3. Create access and secret keys
@@ -94,7 +91,7 @@ Please check your model quotas to know your limits. If your region is `us-east-1
 
 # 4. Create a custom model on TypingMind
 
-Access your [Admin Panel](https://custom.typingmind.com/manage), navigate to the Models page, and create a new custom model. 
+Access your [Admin Panel](https://custom.typingmind.com/manage), navigate to the Models page, and create a new custom model.
 
 Fill in all required information as follows:
 
@@ -103,9 +100,9 @@ Fill in all required information as follows:
 - Model ID: provide the copied model ID in step 3, for example, `anthropic.claude-3-haiku-20240307-v1:0`
 - Content length: can set up to 200k tokens
 - Click Add Custom Headers and add the following info:
-    - `awsAccesskey` : `your_access_key` (copied in step 3)
-    - `awsSecretkey` : `your_secret_access_key` (copied in step 3)
-    - `awsRegion` : `your_aws_region` (for example: ap-southeast-2)
+  - `awsAccesskey` : `your_access_key` (copied in step 3)
+  - `awsSecretkey` : `your_secret_access_key` (copied in step 3)
+  - `awsRegion` : `your_aws_region` (for example: ap-southeast-2)
 
 ![image.png](aws-bedrock-anthropic/image%2016.png)
 

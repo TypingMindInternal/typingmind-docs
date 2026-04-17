@@ -1,4 +1,6 @@
-# Chutes AI
+---
+title: "Chutes AI"
+---
 
 Chutes is the leading open-source, decentralized compute provider for deploying, scaling and running open-source models in production.
 
@@ -11,8 +13,8 @@ This guide will walk you through connecting your Chutes AI models to TypingMind 
 ![image.png](chutes-ai/image.png)
 
 - To use models via Chutes, you need to access to [https://chutes.ai/app/api/billing-balance](https://chutes.ai/app/api/billing-balance) to:
-    - Top up API credits
-    - or Subscribe to a Chutes subscription
+  - Top up API credits
+  - or Subscribe to a Chutes subscription
 
 ![image.png](chutes-ai/image%201.png)
 
@@ -32,12 +34,12 @@ Copy your API key and keep it in a secure place - you will need it in the next s
 Fill in the following fields:
 
 - **Name:** Chutes AI (or any name you prefer)
-- **Endpoint:** *(enter your Chutes model endpoint)*
+- **Endpoint:** _(enter your Chutes model endpoint)_
 - **Model ID:** for example, `deepseek-ai/DeepSeek-R1-0528` , `Qwen/Qwen2.5-Coder-32B-Instruct`. You can explore more models at [**https://chutes.ai/app**](https://chutes.ai/app)
 - **Custom Header:**
-    - `Authentication: Bearer YOUR_API_KEY`
+  - `Authentication: Bearer YOUR_API_KEY`
 
-Replace **YOUR_API_KEY** with the key you copied in Step 2.
+Replace **YOUR\_API\_KEY** with the key you copied in Step 2.
 
 ![image.png](chutes-ai/image%203.png)
 

@@ -1,8 +1,10 @@
-# Feature List
+---
+title: "Feature List"
+---
 
 Below are all available features on [TypingMind.com](http://TypingMind.com)
 
-![feature list (5).png](feature-list/feature_list_(5).png)
+![feature list (5).png](feature-list/feature_list_\(5\).png)
 
 ## Available AI Models
 
@@ -61,14 +63,14 @@ Configuring the temperature value can make the output more random, or focused an
 
 ### 💦 Presence Penalty & Frequency Penalty Control
 
-- Frequency_penalty: discourage the model from repeating the same words or phrases too frequently within the generated text.
-- Presence_penalty: encourage the model to include a diverse range of tokens in the generated text.
+- Frequency\_penalty: discourage the model from repeating the same words or phrases too frequently within the generated text.
+- Presence\_penalty: encourage the model to include a diverse range of tokens in the generated text.
 
 ![Untitled](feature-list/Untitled%203.png)
 
 ### 🌴 Top P
 
-An alternative to sampling with temperature, called nucleus sampling, where the model considers the results of the tokens with top_p probability mass. So 0.1 means only the tokens comprising the top 10% probability mass are considered.
+An alternative to sampling with temperature, called nucleus sampling, where the model considers the results of the tokens with top\_p probability mass. So 0.1 means only the tokens comprising the top 10% probability mass are considered.
 
 ![Untitled](feature-list/Untitled%204.png)
 
@@ -80,10 +82,9 @@ Limit the maximum number of tokens the AI should generate before stopping.
 
 ### ⚡️ Prompt Caching
 
-Prompt Caching allows users to make repeated API calls more efficiently by reusing context from recent prompts, resulting in a reduction in input token costs and faster response times.
-The Prompt Caching option is now available for Claude, OpenAI and Google Gemini models.
+Prompt Caching allows users to make repeated API calls more efficiently by reusing context from recent prompts, resulting in a reduction in input token costs and faster response times. The Prompt Caching option is now available for Claude, OpenAI and Google Gemini models.
 
-Learn more: https://docs.typingmind.com/prompts/automatic-prompt-caching
+Learn more: [https://docs.typingmind.com/prompts/automatic-prompt-caching](https://docs.typingmind.com/prompts/automatic-prompt-caching)
 
 ![image.png](feature-list/image%205.png)
 
@@ -134,7 +135,7 @@ On TypingMind, you can chat with multiple AI models and bring those models to on
 
 ### 🦹 Built-in AI Agents
 
-Specialized AI Agents work as GPT Assistants on ChatGPT Plus with more customization options. 
+Specialized AI Agents work as GPT Assistants on ChatGPT Plus with more customization options.
 
 We have more than 60 pre-built AI Agents such as “Stand-up Comedian”, “Backend Software Engineer”, “Academic Researcher”, etc. that can help you answer your questions better.
 
@@ -222,7 +223,7 @@ Make use of your ultra-wide screen when chatting with the AI assistant!
 
 ### ⌨️ Hotkey & Shortcuts
 
-Using the right keyboard shortcuts can make your tasks faster and more efficient. 
+Using the right keyboard shortcuts can make your tasks faster and more efficient.
 
 ![image.png](feature-list/image%2019.png)
 
@@ -288,7 +289,7 @@ Instantly search your previous chats and messages
 
 ### 📂 Chat Folders
 
-Just drag and drop chats into folders, create a new chat directly in your folder (+) or quickly select and move chats (in bulk).
+Just drag and drop chats into folders, create a new chat directly in your folder (\+) or quickly select and move chats (in bulk).
 
 ![image.png](feature-list/image%2025.png)
 

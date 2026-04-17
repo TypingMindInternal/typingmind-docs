@@ -1,10 +1,14 @@
+---
+hidden: true
+---
+
 # Getting started
 
 ## Quickstart
 
 [Compare TypingMind Team Plans](Getting%20started/Compare%20TypingMind%20Team%20Plans%20256d15dbe3c74d74b6434aa8ebf9c89a.md)
 
-[Getting Started with TypingMind Team (Cloud-host) ](Getting%20started/Getting%20Started%20with%20TypingMind%20Team%20(Cloud-host)%208ae8dd11845d4aefab024d69fd33862a.md)
+[Getting Started with TypingMind Team (Cloud-host) ](Getting%20started/Getting%20Started%20with%20TypingMind%20Team%20\(Cloud-host\)%208ae8dd11845d4aefab024d69fd33862a.md)
 
 [Terminology ](Getting%20started/Terminology%20a0f56e7fbee344b4ad32302f8da951ad.md)
 

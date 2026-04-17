@@ -1,4 +1,6 @@
-# OpenAI Fine-tuning Models
+---
+title: "OpenAI Fine-tuning Models"
+---
 
 OpenAI's fine-tuning model can be used on TypingMind. Here are 3 simple steps to set it up:
 
@@ -18,7 +20,7 @@ Upload the .jsonl file to use for training, please follow the [OpenAI instructio
 
 ## 3. Get the model ID and API key
 
-Once you're done with all of that, you'll get the **model ID**. 
+Once you're done with all of that, you'll get the **model ID**.
 
 Copy it along with your OpenAI API key to a safe place, you will need them soon.
 
@@ -43,6 +45,6 @@ Here is what it looks like:
 
 ![Untitled](openai-fine-tuning-models/Untitled%201.png)
 
-Hit “**Test**” to make sure the model work well and then click “**Add Model**”. 
+Hit “**Test**” to make sure the model work well and then click “**Add Model**”.
 
 That's it! You're all set!

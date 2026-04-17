@@ -1,4 +1,6 @@
-# Activate multi-model responses
+---
+title: "Activate multi-model responses"
+---
 
 On TypingMind, you can chat with multiple AI models and bring those models to one conversation.
 
@@ -28,7 +30,7 @@ This ensures that the conversation with each model remains coherent and contextu
 
 ### 2. Selecting a Primary Response
 
-If you prefer one model's response over the others, you can **select it as the primary response**. 
+If you prefer one model's response over the others, you can **select it as the primary response**.
 
 ![image.png](activate-multi-model-responses/image%202.png)
 
@@ -55,7 +57,7 @@ Click on your currently active model (for example, **GPT-4.1**) at the bottom le
 
 - **Add Additional Models**
 
-In the model list, you’ll see a **“+” button** next to each model. Hover over it and it will display a tooltip: **“Activate multi-model”**.
+In the model list, you’ll see a **“\+” button** next to each model. Hover over it and it will display a tooltip: **“Activate multi-model”**.
 
 Click this button to add the model to your current conversation.
 

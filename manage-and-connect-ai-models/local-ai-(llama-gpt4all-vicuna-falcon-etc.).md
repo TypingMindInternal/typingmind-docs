@@ -1,10 +1,12 @@
-# Local AI (LLama, GPT4All, Vicuna, Falcon, etc.)
+---
+title: "Local AI (LLama, GPT4All, Vicuna, Falcon, etc.)"
+---
 
 ## Overview
 
 Typing Mind allows you to connect the app with any model you want.
 
-![Untitled](groq-api-(llama-3-mixtral-8x7b-gemma-7b)/Untitled.png)
+![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled.png)
 
 **Requirement:**
 
@@ -16,8 +18,7 @@ Below is a short instruction on how to setup Typing Mind with a popular local AI
 ## Setup LocalAI on your device
 
 <aside>
-👉 If you already have another setup for the local AI model endpoint, you can skip this step.
-
+  👉 If you already have another setup for the local AI model endpoint, you can skip this step.
 </aside>
 
 Go to [https://github.com/go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) and follow their instruction to run a model on your device.
@@ -29,23 +30,22 @@ docker run -p 8080:8080 -ti --rm -v /Users/tonydinh/Desktop/models:/app/models q
 ```
 
 <aside>
-💡 Note that we added the `--cors true` parameter to the command to make sure the local server is accessible from the browser. Typing Mind will send requests to the local model directly from the browser.
-
+  💡 Note that we added the `--cors true` parameter to the command to make sure the local server is accessible from the browser. Typing Mind will send requests to the local model directly from the browser.
 </aside>
 
 If you’re doing it correctly, you should see a message like this:
 
-![Untitled](groq-api-(llama-3-mixtral-8x7b-gemma-7b)/Untitled%201.png)
+![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled%201.png)
 
 Now you can go to [http://localhost:8080/v1/models](http://localhost:8080/v1/models) and confirm that the model is ready:
 
-![Untitled](groq-api-(llama-3-mixtral-8x7b-gemma-7b)/Untitled%202.png)
+![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled%202.png)
 
 ## Setup Custom Model on Typing Mind
 
 Open Typing Mind and open the Model Setting button, then click “Add Custom Model”.
 
-![Untitled](groq-api-(llama-3-mixtral-8x7b-gemma-7b)/Untitled%203.png)
+![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled%203.png)
 
 Enter all the details, then click “Test” to check if your custom model is working correctly.
 
@@ -63,6 +63,6 @@ Enter all the details, then click “Test” to check if your custom model is wo
 
 Once the model is tested and added successfully, you can select the custom model and chat with it normally.
 
-![Untitled](lmstudio-(phi-3-llama-3-falcon-gemma-gpt-neo-x)/Untitled%205.png)
+![Untitled](lmstudio-\(phi-3-llama-3-falcon-gemma-gpt-neo-x\)/Untitled%205.png)
 
 ![Untitled](azure-openai/Untitled%206.png)

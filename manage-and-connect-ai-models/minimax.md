@@ -1,4 +1,6 @@
-# MiniMax
+---
+title: "Minimax"
+---
 
 Learn how to set up MiniMax models on TypingMind.
 
@@ -29,12 +31,11 @@ On TypingMind, go to Models → Add Custom Models and enter the following detail
 ![image.png](minimax/image%202.png)
 
 <aside>
-💡
+  💡
 
-MiniMax M2 is currently available for free, so you don’t need to top up any API credits at this time.
+  MiniMax M2 is currently available for free, so you don’t need to top up any API credits at this time.
 
-In the future, you may need to add credits at [https://platform.minimax.io/user-center/payment/balance](https://platform.minimax.io/user-center/payment/balance) to continue using the models via API.
-
+  In the future, you may need to add credits at [https://platform.minimax.io/user-center/payment/balance](https://platform.minimax.io/user-center/payment/balance) to continue using the models via API.
 </aside>
 
 ## Step 4: Use MiniMax M2 via TypingMind

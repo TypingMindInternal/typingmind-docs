@@ -1,160 +1,143 @@
 ---
-title: "RAG knowledge base: connect and query your documents"
-description: "Upload documents or connect external sources to TypingMind's built-in RAG knowledge base, then ask questions and get AI answers grounded in your content."
-sidebarTitle: "Knowledge base"
+title: "RAG Knowledge Base"
 ---
 
-TypingMind's Knowledge Base feature lets you build a persistent, searchable library of documents and data sources that your AI agents can draw from during conversations. Using Retrieval-Augmented Generation (RAG), the system dynamically retrieves only the most relevant passages from your uploaded content and injects them into the AI's context — so you can ask questions about large document sets without hitting token limits.
+The Knowledge Base feature allows you to upload and connect your data sources and ask questions about your documents.
 
-## What is RAG?
+## Getting started
 
-Retrieval-Augmented Generation (RAG) enhances large language models by giving them access to external knowledge at query time. Instead of loading an entire document into the context window, the system converts your documents into vector embeddings and retrieves only the chunks most relevant to each question. This makes it practical to work with large corpora of documents that would otherwise exceed any model's context limit.
+Retrieval-Augmented Generation (RAG) is a technique that enhances Large Language Models (LLMs) by allowing them to access and incorporate external knowledge sources, like databases or documents, to generate more accurate and contextually relevant responses. 
 
-TypingMind's built-in Knowledge Base handles all the embedding, indexing, and retrieval automatically — you just upload your files and start asking questions.
+TypingMind supports a built-in RAG system with the **Knowledge Base** feature. You can upload files to TypingMind and then allow AI agents to access these files and get more context to answer your questions more accurately during the conversation.
 
-## Uploading files
+![image.png](RAG%20Knowledge%20Base/image.png)
 
-<Steps>
-  <Step title="Open the Knowledge Base tab">
-    In TypingMind, click the **KB** tab in the workspace sidebar.
-  </Step>
-  <Step title="Add a data source">
-    Click **Add Data Source** to begin uploading files or connecting an external source.
-  </Step>
-  <Step title="Select your files">
-    Choose the files you want to upload. Currently supported file types for direct upload: **Text files, PDF, CSV, Excel, Word**.
-  </Step>
-  <Step title="Add tags (optional but recommended)">
-    Assign tags to your documents. Tags let you organise the Knowledge Base into topics or categories, and later restrict individual AI agents to only the documents relevant to their purpose.
-  </Step>
-</Steps>
+## Upload your files
 
-<Tip>
-  Use descriptive tags like `legal`, `finance`, or `onboarding` to keep your Knowledge Base organised. When you connect an agent to the Knowledge Base you can filter by tag so the agent only retrieves documents that are appropriate for its role.
-</Tip>
+- Open TypingMind, then click the “KB” (Knowledge Base) tab.
+- Click Add Data Source and start uploading your files.
+- Currently supported files are: Text files, PDF, CSV, Excel, Word. We will continue to support more file types.
 
-## Connecting external sources
+![Xnapper-2025-03-18-07.51.38.png](RAG%20Knowledge%20Base/Xnapper-2025-03-18-07.51.38.png)
 
-In addition to file uploads, you can connect external data sources directly to your Knowledge Base:
+You can tag your documents to be used by AI agents later. This helps you split your KB into different topics/categories that can later be used by different AI agents.
 
-- **Google Drive** — sync documents and folders from your Drive
-- **Notion** — pull in pages and databases from your Notion workspace
-- **GitHub** — index repositories and documentation
-- **Web scraping** — index content from public URLs
+![Xnapper-2025-03-18-08.00.52.png](RAG%20Knowledge%20Base/Xnapper-2025-03-18-08.00.52.png)
 
-Click on the source you want to connect in the Knowledge Base tab and follow the prompts to complete the connection.
+## Connect External Sources
 
-<Note>
-  More external source integrations are being added. Check the Knowledge Base tab for the latest options available in your account.
-</Note>
+Beside uploading your internal documents, you can also connect other sources such as Github, Notion, Google Drive or Web Scraping.
 
-## Using the knowledge base in chat
+Click on the source you want to connect and follow the prompts to complete connecting the expected sources.
 
-To query your Knowledge Base in a conversation, you need to enable KB access for that chat.
+![image.png](RAG%20Knowledge%20Base/image%201.png)
 
-### Option 1: Direct chat
+## Use Knowledge Base in Chat
 
-<Steps>
-  <Step title="Enable Knowledge Base access">
-    In the message input area, toggle the **Knowledge Base** button to enable it for the current conversation.
-  </Step>
-  <Step title="Ask your question">
-    Ask any question related to your uploaded data. The system automatically retrieves relevant information and includes it in the AI's response.
-  </Step>
-</Steps>
+You will need to toggle the Knowledge Base access button within the message area to enable knowledge base access for your chat.
 
-<Note>
-  Knowledge Base source references (citations showing which document a piece of information came from) are only available when using OpenAI or Anthropic Claude models that support tool/plugin use.
-</Note>
+![image.png](RAG%20Knowledge%20Base/image%202.png)
 
-### Option 2: Access via AI agent
+### 1. Direct chat
 
-Assigning Knowledge Base access to an AI agent means every conversation with that agent automatically has retrieval capability — no need to toggle it manually each time.
+You can access knowledge base by initiating a conversation with any AI models. Just need to ask questions related to your data and the system will help look up relevant information to provide answer.
 
-<Steps>
-  <Step title="Open Agents settings">
-    Go to **Agents** in the sidebar, then edit or create an AI agent.
-  </Step>
-  <Step title="Configure Knowledge Base access">
-    Scroll to the **Knowledge Base Access** section in the agent settings.
-  </Step>
-  <Step title="Choose access scope">
-    Select one of the following:
-    - **All data** — the agent can search the entire Knowledge Base
-    - **Specific tags** — the agent can only search documents that have the specified tags
-  </Step>
-  <Step title="Save the agent">
-    Save your changes. The agent will now use the Knowledge Base for every conversation.
-  </Step>
-</Steps>
+![image.png](RAG%20Knowledge%20Base/image%203.png)
 
-<Warning>
-  Tags are matched by name. If you rename or change document tags in the Knowledge Base, you must also update the corresponding tag filters in the affected AI agents.
-</Warning>
+<aside>
+💡
 
-When you configure multiple tags for an agent, the agent searches documents that have **any** of those tags (OR logic, not AND).
+Please note that the Knowledge Base source reference is only available via OpenAI/Claude models that support plugins.
 
-## Connecting your own knowledge base
+</aside>
 
-If you already have a custom RAG system or want more control over the underlying infrastructure, you can connect it to TypingMind rather than using the built-in Knowledge Base:
+### 2. Access via Agent
 
-- **Plugins**: Create a plugin that provides a lookup endpoint your AI agents can call to retrieve information from your own vector store.
-- **Dynamic Context**: Use [Dynamic Context via API](/ai-agents/dynamic-context-via-api) to tell the agent what data it has access to and how to query it. This improves retrieval accuracy by giving the model structured guidance before it decides to invoke the plugin.
+Once the data is uploaded, assign the KB access to your AI agents by going to **Agents → Edit or create an AI agent → Knowledge Base Access**
 
-### Built-in vs custom knowledge base
+![Xnapper-2025-03-18-07.52.44.png](RAG%20Knowledge%20Base/Xnapper-2025-03-18-07.52.44.png)
 
-| | Built-in Knowledge Base | Custom knowledge base |
-|---|---|---|
-| **Setup complexity** | None — upload files and use immediately | Complex — requires plugin development and possibly Dynamic Context configuration |
-| **Vector embedding** | Managed by TypingMind; embedding model, chunk size, and query strategy are handled automatically | You control all technical parameters |
-| **Data storage** | Stored in TypingMind Cloud (subject to your plan's storage limit) | Stored in your own infrastructure |
-| **Best for** | Quick setup, personal or team use | Enterprise or custom pipelines needing fine-grained control |
+By default, AI agents don't have access to Knowledge Base. You can set the AI agent to be able to:
 
-## Knowledge Base vs training files
+- Access all data in the knowledge base
+- Access only documents with specific tags
 
-The Knowledge Base and Training Files are both ways to give an AI agent additional context, but they work differently:
+Note:
 
-| Aspect | Training files | Knowledge Base |
-|---|---|---|
-| **Integration method** | Directly embedded into the system prompt | Retrieved dynamically using RAG |
-| **Context relevance** | Full context always present | Depends on retrieval quality |
-| **Best for small documents** | Excellent — entire file always in context | Overkill |
-| **Best for large corpora** | Impractical — hits token limits quickly | Excellent |
-| **Cost** | Higher token usage per message | Only retrieved chunks consume tokens |
+- If you set multiple tags, the agent will have access to documents that have any of the tags assigned (OR condition used for tags matching).
+- Tags are identified by their name. If you later change the tag of the documents from KB, you need to update it again in the AI agent setting.
 
-We recommend experimenting with both to find the best fit for your use case.
+## Connect Your Own Knowledge Base
+
+RAG has been supported by TypingMind for a long time. Knowledge Base is just a built-in integration to make it easier for users.
+
+You can connect TypingMind with your own knowledge base by doing the following:
+
+- [**Use a plugin (or create a new one)**](Plugins%20445c2cfdde7e41acb4e068e37234f2a3.md): Provide a way for the AI agents to look up additional information when needed
+- **Use [Dynamic Context](AI%20Agents/Dynamic%20Context%20via%20API%20fc22e689952b47999aeef080cde44caf.md)**: This provides AI agents with context about what kind of data they have access to, so if they need to look up additional information, they can trigger a plugin. This will improve retrieval performance and accuracy. Dynamic Context can also be embedded directly into the plugin with Plugin Context (you will see this section when creating new plugins in TypingMind).
+
+To decide if you want to use TypingMind's built-in Knowledge Base system or connect your own, here is a quick pros and cons comparison:
+
+|  | Use TypingMind’s Knowledge Base | Connect your own Knowledge Base |
+| --- | --- | --- |
+| Setup complexity | No setup required, just upload files, set tags, and use. | Complicated. Requires technical knowledge to set up Dynamic Context, probably need to build your own plugin. |
+| Vector Embedding | All done by TypingMind Cloud and hidden away from the users. You cannot change the technical details like embedding models, dimensions, chunk size, query strategy, etc. | Customize however you want on your own system, then connect your system to TypingMind via Plugin or Dynamic Context. |
+| Manage data | Easily done via TypingMind’s powerful interface. Upload or connect data easily. Data automatically kept up-to-date with daily refresh (for external sources like Notion, Google Drive). | Need to host your data on an external system separately, keep it maintained and up-to-date. |
+| Price | Free with some limits, then upgrade for more. | Totally free and you pay for your own cost of server, database, embedding generations, etc. |
+| Document category / separation by AI agent | Allow AI agent to access a subset of documents in the knowledge base. Use tags to categorize documents and assign different tags access to different AI agent. Select tags directly from TypingMind’s UI. | Not supported, you’ll need to implement this by separating at the plugin level. |
+| Advanced customization | Leverage TypingMind’s optimizations for better parse quality and retrieval results. | Implement your own optimizations. |
+
+## Compare with Training Files
+
+Knowledge Base and Training Files are two different ways to add context to an AI agent. We recommend experimenting with both options to achieve the best result.
+
+For your reference, here are some key differences:
+
+| **Aspect** | **Training Files** | **Knowledge Base** |
+| --- | --- | --- |
+| **Integration method** | Directly embedded into the system prompt | Retrieves data dynamically using RAG |
+| **Context relevance** | Highly relevant answers based on full context | Answers depend on the effectiveness of retrieval |
+| **Token consumption** | High, as full context is loaded | Low, as only relevant data is retrieved |
+| **Data volume** | Limited by the model's context window | Supports large datasets |
+| **Setup complexity** | Simple | More complex |
+| **Cost** | Higher, due to token usage | Lower, as fewer tokens are consumed |
+
+For a full comparison, see this page:
+
+[Training Files vs Knowledge Base ](TypingMind%20Team/Branding%20and%20Customizations/Training%20Files%20vs%20Knowledge%20Base%20458c5f7e42f64dfe979b8304d18340c1.md)
 
 ## Limitations
 
-The Knowledge Base is available to all licensed TypingMind users. Current limitations:
+KB is available for free for all licensed users with the following limitations:
 
-- **Supported data sources**: File upload, Google Drive, Notion, GitHub, and web scraping. More sources are coming.
-- **Supported file types for upload**: Text, PDF, CSV, Excel, Word.
-- **Storage limit**: Based on your TypingMind Cloud plan. There is no restriction on the number of documents — only on total storage space used.
+- The supported data source currently is File Upload**,** Google Drive, Notion, GitHub, Web Scraping. More data sources soon.
+- Supported file types for File Upload: Text files, PDF, CSV, Excel, Word
+- The Knowledge Base limit is based on your TypingMind Cloud plan. This means there’s no restriction on the number of documents you can upload — it depends on the available cloud storage in your account.
 
-<Note>
-  These limitations may change as the feature evolves.
-</Note>
+Note that these limitations can change in the future.
 
-## Frequently asked questions
+## Frequently Asked Questions
 
-<AccordionGroup>
-  <Accordion title="What embedding models and techniques does TypingMind use?">
-    TypingMind uses best-in-class embedding models and chunking techniques, combined with proprietary retrieval optimisations. The specific model, chunk size, and embedding dimensions are not published because the system is continuously upgraded and those details become outdated quickly.
-  </Accordion>
-  <Accordion title="What file types are supported?">
-    Currently: Text files (.txt), PDF, CSV, Excel (.xls, .xlsx), and Word (.doc, .docx). More types are being added.
-  </Accordion>
-  <Accordion title="How much data can I upload?">
-    The total amount of data you can store is determined by your TypingMind Cloud storage plan. There is no limit on the number of individual documents — only on total storage.
-  </Accordion>
-  <Accordion title="Will more external source connectors be added?">
-    Yes. Additional integrations are on the roadmap and will be added in future updates.
-  </Accordion>
-  <Accordion title="Is the Knowledge Base the same system used in TypingMind Team?">
-    The core system is the same, but the TypingMind Team version includes additional processing logic and optimisations for multi-user team environments.
-  </Accordion>
-  <Accordion title="Can I connect LlamaIndex as my knowledge base backend?">
-    Yes. You can connect TypingMind to a LlamaIndex-powered knowledge base using the plugin and Dynamic Context approach. See the Connect to LlamaIndex guide for detailed instructions.
-  </Accordion>
-</AccordionGroup>
+**What are the underlying embedding models and techniques?** 
+
+We use the best embedding models and chunking techniques, combined with our own private methods to ensure the best retrieval quality possible. We don't publish the details on the underlying models, chunk size, embedding dimensions, etc. because it can be outdated very quickly as we upgrade the system continuously.
+
+**What types of files are supported?**
+
+Text files, PDF, CSV, Excel, Word, and we are adding more soon.
+
+**How much can I upload or connect?**
+
+The Knowledge Base limit is based on your TypingMind Cloud plan. This means there’s no restriction on the number of documents you can upload — it depends solely on the available cloud storage in your account.
+
+**Is there a plan to add connections to more external sources?**
+
+Yes! We will add them very soon.
+
+**Is this the same system used in the TypingMind Team (Custom) version?**
+
+It is mostly the same, but for the TypingMind Team version we have some other processing logic and optimizations for better use in team contexts.
+
+## Connect your own knowledge base
+
+[Connect to LlamaIndex](RAG%20Knowledge%20Base/Connect%20to%20LlamaIndex%202737c3f1757a80d5814fed89025c239b.md)

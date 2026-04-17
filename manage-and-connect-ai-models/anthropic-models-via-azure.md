@@ -1,4 +1,6 @@
-# Anthropic Models via Azure
+---
+title: "Anthropic Models via Azure"
+---
 
 Azure Foundry allows you to deploy and run Anthropic (Claude) models using Azure’s infrastructure. After deploying the model in Azure, you can connect it to TypingMind using the Claude Message API format.
 
@@ -45,13 +47,11 @@ Enter the following information:
 - **Name:** Claude via Azure
 - **API type:** switch to **Claude Message API**
 - **Endpoint:** paste the endpoint you copied in Step 1
-    - Format example:
-        
-        `https://[RESOURCE-NAME].openai.azure.com/anthropic/v1/messages`
-        
+  - Format example:
+    `https://[RESOURCE-NAME].openai.azure.com/anthropic/v1/messages`
 - **Model ID:** your copied model ID
 - **Add Custom Headers:**
-    - `x-api-key: your-copied-api-key`
-    - `anthropic-version: your-copied-anthropic-version`
+  - `x-api-key: your-copied-api-key`
+  - `anthropic-version: your-copied-anthropic-version`
 
 ![image.png](anthropic-models-via-azure/image%206.png)

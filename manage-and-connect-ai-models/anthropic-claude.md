@@ -1,3 +1,7 @@
+---
+title: "Anthropic Claude"
+---
+
 # Anthropic Claude
 
 Use Claude models such as Claude Sonnet 4.6, Claude Haiku, Claude Opus on TypingMind via API!
@@ -38,10 +42,9 @@ Go to [Billing](https://console.anthropic.com/settings/billing) section to top u
 ![image.png](anthropic-claude/image%205.png)
 
 <aside>
-💡 Common issue:
+  💡 Common issue:
 
-`“Could not connect to Anthropic API. Please try again later. Error code:400”`
+  `“Could not connect to Anthropic API. Please try again later. Error code:400”`
 
-This issue may appear when your credit balance is too low to access the Claude API. Please check and add your credit balance at [https://console.anthropic.com/settings/plans](https://console.anthropic.com/settings/plans), then try again.
-
+  This issue may appear when your credit balance is too low to access the Claude API. Please check and add your credit balance at [https://console.anthropic.com/settings/plans](https://console.anthropic.com/settings/plans), then try again.
 </aside>

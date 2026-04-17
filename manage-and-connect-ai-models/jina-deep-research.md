@@ -1,14 +1,15 @@
-# Jina Deep Research
+---
+title: "Jina Deep Research"
+---
 
-[DeepSearch](https://jina.ai/deepsearch/) is a powerful API from Jina that combines **search, content extraction, and multi-step reasoning**. Instead of giving you a quick but shallow response, it performs a series of steps: plan → search → read → reflect → answer. 
+[DeepSearch](https://jina.ai/deepsearch/) is a powerful API from Jina that combines **search, content extraction, and multi-step reasoning**. Instead of giving you a quick but shallow response, it performs a series of steps: plan → search → read → reflect → answer.
 
 This guide will walk you through how to use Jina Deep Research on TypingMind.
 
 <aside>
-🔥
+  🔥
 
-**Go to [TypingMind app](https://typingmind.com/?ref=jinaai)** to set up and use Jina Deep Research **for free**.
-
+  **Go to [TypingMind app](https://typingmind.com/?ref=jinaai)** to set up and use Jina Deep Research **for free**.
 </aside>
 
 ## Step 1: Get Jina Deep Research API key
@@ -23,9 +24,9 @@ Keep it private—this is the key that authenticates your requests.
 
 ## Step 2: Set up Jina Deep Research on TypingMind
 
-To configure Jina Deep Research in TypingMind, go to Models —> Add Custom Models:
+To configure Jina Deep Research in TypingMind, go to Models —\> Add Custom Models:
 
-![image.png](xai-(grok-ai)/image%206.png)
+![image.png](xai-\(grok-ai\)/image%206.png)
 
 Use the following details:
 
@@ -38,6 +39,6 @@ Use the following details:
 
 ## Step 3: Start working on your research tasks with Jina
 
-With everything set up, select **Jina DeepSearch** as your model in TypingMind and begin experimenting. 
+With everything set up, select **Jina DeepSearch** as your model in TypingMind and begin experimenting.
 
 ![image.png](jina-deep-research/image%202.png)

@@ -1,4 +1,6 @@
-# Manage AI models
+---
+title: "Manage AI models"
+---
 
 An overview of how to manage AI Chat Models more effectively on TypingMind.
 
@@ -6,7 +8,7 @@ To access the Model Management page, navigate “Model” on the left panel and 
 
 ## Search and filter models
 
-This helps you easily find specific models from a long list of AI models. 
+This helps you easily find specific models from a long list of AI models.
 
 - **Filter models from specific AI providers**: in the first row, there are some available categories like Gemini, OpenAI, Anthropic, or Custom so you can easily filter the AI models based on service providers.
 
@@ -32,7 +34,7 @@ You can set one model, or multiple models, as the default for new chats.
 
 ## Edit/duplicate custom models
 
-Modify existing custom models as needed. 
+Modify existing custom models as needed.
 
 - Click on the model
 - Click Edit or Duplicate icon to edit or duplicate the custom model
@@ -43,13 +45,13 @@ Modify existing custom models as needed.
 
 Organize the model list according to your preferences for easier access and better workflow management.
 
-Simply click on the Reorder button right next to the search box —> Drag and drop as you want.
+Simply click on the Reorder button right next to the search box —\> Drag and drop as you want.
 
 ![image.png](manage-ai-models/image%205.png)
 
 ## Control model visibility
 
-Choose which models should be visible on the model list for quick selection while chatting. 
+Choose which models should be visible on the model list for quick selection while chatting.
 
 Click on the toggle icon next to each model to enable or disable the model visibility.
 
