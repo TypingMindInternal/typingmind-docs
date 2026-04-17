@@ -1,6 +1,8 @@
-# Market News
+---
+title: "Market News"
+---
 
-You can use Market News plugin on TypingMind to get the latest financial information. 
+You can use Market News plugin on TypingMind to get the latest financial information.
 
 Here are some simple steps to set this up:
 

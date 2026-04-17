@@ -1,3 +1,7 @@
+---
+title: "GPT Image Editor"
+---
+
 # GPT Image Editor
 
 **OpenAI Image Generation is available on TypingMind via the GPT Image Editor plugin.**
@@ -18,7 +22,7 @@ With this plugin, you can:
 ## Step 2: Enter your OpenAI API key
 
 - Switch tab to the Settings tab
-- Enter your [OpenAI API key](../Manage%20&%20Connect%20AI%20Models/OpenAI%20(GPT-5,%20GPT-4%201)%2097b6ce8cbb6642a9934e81f7b7365575.md)
+- Enter your [OpenAI API key](../Manage%20&%20Connect%20AI%20Models/OpenAI%20\(GPT-5,%20GPT-4%201\)%2097b6ce8cbb6642a9934e81f7b7365575.md)
 - Set up image generated resolution and quality as you want.
 
 ![image.png](gpt-image-editor/image%201.png)

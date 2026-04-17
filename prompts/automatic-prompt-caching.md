@@ -1,4 +1,6 @@
-# Automatic Prompt Caching
+---
+title: "Automatic Prompt Caching"
+---
 
 Prompt Caching allows users to make repeated API calls more efficiently by reusing context from recent prompts, resulting in a reduction in input token costs and faster response times.
 
@@ -12,7 +14,7 @@ Previously, when interacting with an AI model, the entire conversation history m
 
 This repetitive processing may lead to slower responses, increased latency, and higher operational costs, especially during long conversations or when dealing with complex tasks.
 
-Using the prompt caching feature, you can pass some content to the model once, cache the input tokens, and then refer to the cached tokens for subsequent requests. 
+Using the prompt caching feature, you can pass some content to the model once, cache the input tokens, and then refer to the cached tokens for subsequent requests.
 
 ## **How Prompt Caching Works**
 
@@ -24,7 +26,7 @@ When you send a request with Prompt Caching enabled:
 2. If it is, the cached version is used, speeding up responses and lowering costs.
 3. If not, the full prompt is processed, and the prefix is cached for future use.
 
-This is especially useful for recurring queries against large document sets, prompts with many examples, repetitive tasks, and long multi-turn conversations. 
+This is especially useful for recurring queries against large document sets, prompts with many examples, repetitive tasks, and long multi-turn conversations.
 
 By reusing cached information, the AI models can focus on new queries without reprocessing the entire conversation history, enhancing accuracy for complex tasks, especially when refining previous outputs.
 
@@ -56,10 +58,9 @@ With Google Gemini, Context / Prompt Caching is currently supported on:
 - Gemini 1.5 Flash
 
 <aside>
-💡
+  💡
 
-**Note:** Support for prompt caching is continuously evolving. While this list includes the latest models at the time of writing, **new model releases may add or change caching behavior**.
-
+  **Note:** Support for prompt caching is continuously evolving. While this list includes the latest models at the time of writing, **new model releases may add or change caching behavior**.
 </aside>
 
 ## **Why Use Prompt Caching?**
@@ -75,8 +76,7 @@ Discounts are as follows:
 - Claude 3 Haiku: 88% off input tokens, 76% off output tokens
 
 <aside>
-💡 *Please note: while creating the initial cached prompt incurs a 25% higher cost than the standard API rate, subsequent requests using the cached prompt will be up to 90% cheaper than the usual API cost.*
-
+  💡 *Please note: while creating the initial cached prompt incurs a 25% higher cost than the standard API rate, subsequent requests using the cached prompt will be up to 90% cheaper than the usual API cost.*
 </aside>
 
 ![Prompt Caching Costs](https://i0.wp.com/blog.typingmind.com/wp-content/uploads/2024/08/image-1.png?resize=1290%2C727&ssl=1)
@@ -118,7 +118,7 @@ Unlike OpenAI and Anthropic, Gemini charges for cache storage. For details, refe
 
 Some important notes:
 
-- The *minimum* input token count for context caching is 32,768, and the *maximum* is the same as the maximum for the given model.
+- The _minimum_ input token count for context caching is 32,768, and the _maximum_ is the same as the maximum for the given model.
 
 ## **How Prompt Caching Can Be Used?**
 
@@ -154,9 +154,9 @@ If you are using Prompt caching for Claude and Gemini models, here’s the detai
 ![image.png](automatic-prompt-caching/image%206.png)
 
 <aside>
-💡 Important notes:
+  💡 Important notes:
 
-- Avoid using Prompt Caching with Dynamic Context via API, as changing system prompts cannot be cached.
+  * Avoid using Prompt Caching with Dynamic Context via API, as changing system prompts cannot be cached.
 </aside>
 
 ## Best Practices for Using Prompt Caching

@@ -1,4 +1,6 @@
-# Use MCP with Private MCP Connector
+---
+title: "Use MCP with Private MCP Connector"
+---
 
 ## Setup MCP in TypingMind License Version
 
@@ -22,7 +24,7 @@ Open the **Terminal app** on macOS or the **Windows Terminal** to run the comman
 
 ℹ️ Note:
 
-- Your device must support NodeJS 18+ to run the MCP Connector.
+- Your device must support NodeJS 18\+ to run the MCP Connector.
 - When choosing the “This Device” option, you must run the command on the same device you are using TypingMind, otherwise, TypingMind will not be able to connect.
 
 ![image.png](use-mcp-with-private-mcp-connector/image%203.png)
@@ -83,23 +85,18 @@ When the plugin is installed to your instance, you will need to connect to **MCP
 You can get the connector details by deploying the [**MCP Connector (open-source)**](https://github.com/TypingMind/typingmind-mcp) to your server where you want the MCP servers to run. You will need two pieces of information from your MCP Connector setup: Connector URL & Auth Token.
 
 - **Connector URL**
-    - Start the MCP Connector using npx:
-        
-        ```jsx
-        npx @typingmind/mcp <auth-token>
-        ```
-        
-        Replace `<auth-token>` with your own authentication token. You can use any value for the Auth Token, like a random string of characters.
-        
-    - Once the MCP Connector is running, the Connector URL will be shown in your terminal or console output, typically looking like:
-        
-        ```jsx
-        https://your-server-domain.com:port
-        ```
-        
-    - Copy this URL and paste it into the **Connector URL** field in your TypingMind plugin configuration.
+  - Start the MCP Connector using npx:
+    ```jsx
+    npx @typingmind/mcp <auth-token>
+    ```
+    Replace `<auth-token>` with your own authentication token. You can use any value for the Auth Token, like a random string of characters.
+  - Once the MCP Connector is running, the Connector URL will be shown in your terminal or console output, typically looking like:
+    ```jsx
+    https://your-server-domain.com:port
+    ```
+  - Copy this URL and paste it into the **Connector URL** field in your TypingMind plugin configuration.
 - **Auth Token**
-    - Copy the `<auth-token>` you used in the command above into the Auth Token field in your TypingMind plugin configuration.
+  - Copy the `<auth-token>` you used in the command above into the Auth Token field in your TypingMind plugin configuration.
 
 ![image.png](use-mcp-with-private-mcp-connector/image%2011.png)
 

@@ -1,14 +1,16 @@
-# Prompt Chaining
+---
+title: "Prompt Chaining"
+---
 
 Prompt chaining feature on TypingMind has been upgraded!
 
-Now, not only can you chain simple prompts, but you can also bring different AI Agents into your workflow to create an automated system to streamline complex tasks. 
+Now, not only can you chain simple prompts, but you can also bring different AI Agents into your workflow to create an automated system to streamline complex tasks.
 
 This option allows you to generate workflows for multiple AI agents to make the process of solving tasks faster and more efficient, and enhance the model reasoning to get more accurate and relevant answer.
 
 ## What is Prompt Chaining?
 
-**Prompt chaining on TypingMind** is a method that allows you to link multiple prompts together in a sequence, so that when one AI response is completed, the next prompt is automatically triggered. 
+**Prompt chaining on TypingMind** is a method that allows you to link multiple prompts together in a sequence, so that when one AI response is completed, the next prompt is automatically triggered.
 
 Instead of manually entering each new prompt after the AI provides an answer, prompt chaining automates this process to provide you with smoother and faster interactions.
 
@@ -30,7 +32,7 @@ There are two ways to activate Flow for prompt chaining on TypingMind:
 
 ![image.png](prompt-chaining/image%202.png)
 
-One of the most exciting part is the ability to involve multiple AI agents in your workflow by mentioning **@[AI Agent name]**:
+One of the most exciting part is the ability to involve multiple AI agents in your workflow by mentioning **@\[AI Agent name\]**:
 
 - You can direct specific agents to take charge of different parts of your workflow.
 - Each agent brings its own settings like AI models, parameters, and plugins to the table to allow you to create more powerful, dynamic processes.
@@ -46,8 +48,8 @@ One of the most exciting part is the ability to involve multiple AI agents in yo
 We will create a prompt chain where:
 
 - Step 1: Write a product description
-- Step 2: Mention @[SEO Blog Content] to help write a blog about this product optimized for SEO, targeting keywords
-- Step 3: Mention @[Blog Image Generator] to help create a blog cover image for that article
+- Step 2: Mention @\[SEO Blog Content\] to help write a blog about this product optimized for SEO, targeting keywords
+- Step 3: Mention @\[Blog Image Generator\] to help create a blog cover image for that article
 
 ![image.png](prompt-chaining/image%205.png)
 
@@ -57,11 +59,11 @@ We will create a prompt chain where:
 
 We will create a prompt chain where:
 
-- Step 1: Mention @[Competitor Marketing Analyst] to help gather market trends in a specific industry (e.g., electric vehicles).
+- Step 1: Mention @\[Competitor Marketing Analyst\] to help gather market trends in a specific industry (e.g., electric vehicles).
 - Step 2: visualize the gathered data.
 - Step 3: analyze potential competitors based on the trends.
 - Step 4: generate insights and predictions for future growth.
-- Step 5: Mention @[Marketing Expert] to help provide actionable recommendations for a business strategy.
+- Step 5: Mention @\[Marketing Expert\] to help provide actionable recommendations for a business strategy.
 
 ![image.png](prompt-chaining/image%207.png)
 
@@ -86,10 +88,9 @@ When typing `@`, your AI Agent list will automatically pop up, which allows you 
 ![image.png](prompt-chaining/image%2010.png)
 
 <aside>
-💡
+  💡
 
-Please note that the mention syntax also works in regular messages or prompts, not just in queued messages.
-
+  Please note that the mention syntax also works in regular messages or prompts, not just in queued messages.
 </aside>
 
 ### **3. One agent per message within a queue**
@@ -110,7 +111,7 @@ Currently, you have the ability to implement prompt chaining at the Admin Level,
 
 **To set up prompt chaining that works best for your team members**, you can use the variable syntax `{{variable_name}}`. This creates placeholders in your prompts that can be filled with context-specific information. For example:
 
-```
+```text
 Step 1: write blog content for {{topic}}
 ----
 Step 2: generate a cover image for this article
@@ -121,10 +122,9 @@ Step 3:....
 ![image.png](prompt-chaining/image%2013.png)
 
 <aside>
-💡
+  💡
 
-Your members can use the Tab key to quickly jump between variables when filling out templates.
-
+  Your members can use the Tab key to quickly jump between variables when filling out templates.
 </aside>
 
 After finalizing your prompt chain, it can be added directly to your Prompt Library, where your users can access these prompts for usage. Please note that you have full control over [prompt access](../TypingMind%20Team/Branding%20and%20Customizations/Build%20a%20Shared%20Prompt%20Library%2014c8456cf11843c88e429abe1e64c7c0.md) and [usage restrictions](../TypingMind%20Team/Branding%20and%20Customizations/Restrict%20Prompt%20Access%206c7993b8f2074e189f8787b689784242.md) for your team members.

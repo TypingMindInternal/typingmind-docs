@@ -1,4 +1,6 @@
-# OAuth 2.0 Authentication for Plugins
+---
+title: "OAuth 2.0 Authentication for Plugins"
+---
 
 TypingMind Plugins support OAuth 2.0 authentication type. This help plugin developers create plugins that act on behalf of the user using the user’s account.
 
@@ -20,12 +22,11 @@ Some example plugins you can create using OAuth authentication:
 | End User | The person who use the TypingMind instance, chat with the AI models, using the AI agents and plugins created by the Admin users. |
 
 <aside>
-💡
+  💡
 
-**Looking for a step-by-step guide?**
+  **Looking for a step-by-step guide?**
 
-Read our tutorial: [create a Google Calendar plugin with OAuth 2.0](Google%20Calendar%2010f7c3f1757a80f48d26e644a5d072a1.md).
-
+  Read our tutorial: [create a Google Calendar plugin with OAuth 2.0](Google%20Calendar%2010f7c3f1757a80f48d26e644a5d072a1.md).
 </aside>
 
 ## Overview and facts
@@ -79,38 +80,31 @@ TypingMind supports **Shared OAuth Connections**, allowing multiple plugins to s
 ### **Setup Guide:**
 
 1. **Create a Shared Connection**:
-    - Navigate to the Plugins Manager
-    - Select the **"Shared OAuth Connections"** tab
-    - Click **"Add New Connection"** to create a new OAuth connection
-    
-    ![image.png](build-a-typingmind-plugin/image%208.png)
-    
+   - Navigate to the Plugins Manager
+   - Select the **"Shared OAuth Connections"** tab
+   - Click **"Add New Connection"** to create a new OAuth connection
+   ![image.png](build-a-typingmind-plugin/image%208.png)
 2. **Configure OAuth Credentials**:
-    - Enter necessary details such as Authorization URL, Token URL, Client ID, Client Secret, Scopes, Prompt, and Access Type
-    
-    ![image.png](build-a-typingmind-plugin/image%209.png)
-    
+   - Enter necessary details such as Authorization URL, Token URL, Client ID, Client Secret, Scopes, Prompt, and Access Type
+   ![image.png](build-a-typingmind-plugin/image%209.png)
 3. **Apply Shared OAuth to Plugins**:
-    - Edit the desired plugin
-    - Under the **"Authentication"** section, select **OAuth 2.0**
-    - Choose your **"OAuth Configuration Source"** from the dropdown menu, selecting your newly created shared OAuth connection
-    - Plugin credentials will automatically apply from the shared connection—no further setup required
-    
-    ![image.png](build-a-typingmind-plugin/image%2010.png)
-    
-    ![image.png](build-a-typingmind-plugin/image%2011.png)
-    
+   - Edit the desired plugin
+   - Under the **"Authentication"** section, select **OAuth 2.0**
+   - Choose your **"OAuth Configuration Source"** from the dropdown menu, selecting your newly created shared OAuth connection
+   - Plugin credentials will automatically apply from the shared connection—no further setup required
+   ![image.png](build-a-typingmind-plugin/image%2010.png)
+   ![image.png](build-a-typingmind-plugin/image%2011.png)
 
 ### **Built-in OAuth Plugins:**
 
 - Built-in plugins provided by the system come with predefined OAuth settings and cannot be directly modified.
 - To apply a shared OAuth connection:
-    - Duplicate the built-in plugin
-    - Edit your duplicated plugin to select the shared OAuth connection
+  - Duplicate the built-in plugin
+  - Edit your duplicated plugin to select the shared OAuth connection
 
 ## OAuth in the TypingMind License version
 
-If you are using the license version (individual version) at www.typingmind.com, everything is almost the same with some important difference:
+If you are using the license version (individual version) at [www.typingmind.com](http://www.typingmind.com), everything is almost the same with some important difference:
 
 - You must provide the OAuth app by your own before using the plugin. You are acting as both admin user and end user (because there is no admin user in the TypingMind license version).
 - When authenticating, all steps of the [OAuth authentication flow](https://oauth.net/2/) is run on the client side (your browser). The TypingMind license version does not have a server or a backend. Note that some OAuth providers may not allow this behavior. We tested the OAuth flow of Google and it seems to work on the browser side, but some other providers may not.
@@ -118,10 +112,9 @@ If you are using the license version (individual version) at www.typingmind.com,
 - To share access to other users in a secure way, please use [**TypingMind Custom**](https://custom.typingmind.com).
 
 <aside>
-💡
+  💡
 
-TypingMind License Version does not have a built-in OAuth app for plugins. This is because having an OAuth app means that we (TypingMind) will have access to your Google account after you authorize, and we don’t want to have access your data.
+  TypingMind License Version does not have a built-in OAuth app for plugins. This is because having an OAuth app means that we (TypingMind) will have access to your Google account after you authorize, and we don’t want to have access your data.
 
-We are committed to make TypingMind License Version a truly static web app where all of your data is only stored locally on your device. By using your own OAuth credentials, you can still use all of the OAuth features without giving await access to your data.
-
+  We are committed to make TypingMind License Version a truly static web app where all of your data is only stored locally on your device. By using your own OAuth credentials, you can still use all of the OAuth features without giving await access to your data.
 </aside>

@@ -1,12 +1,15 @@
+---
+hidden: true
+---
+
 # Plugins
 
 <aside>
-💡
+  💡
 
-**TypingMind Plugins** is a powerful system that allow you to extend the capabilities of the AI assistant by giving it access to external tools. 
+  **TypingMind Plugins** is a powerful system that allow you to extend the capabilities of the AI assistant by giving it access to external tools.
 
-Explore and share your awesome extensions here! 👉 [**awesome-typingmind**](http://github.com/TypingMind/awesome-typingmind)
-
+  Explore and share your awesome extensions here! 👉 [**awesome-typingmind**](http://github.com/TypingMind/awesome-typingmind)
 </aside>
 
 ![image.png](plugins/image.png)
@@ -35,7 +38,7 @@ In this page, we will introduce you to the TypingMind Plugin system and how to b
 
 [Deep Research](Plugins/Deep%20Research%202717c3f1757a80098209eabdc1a6ed3c.md)
 
-[Interactive Canvas (Artifacts)](Plugins/Interactive%20Canvas%20(Artifacts)%20eb033811155d4a579ec2525d8d0afa44.md)
+[Interactive Canvas (Artifacts)](Plugins/Interactive%20Canvas%20\(Artifacts\)%20eb033811155d4a579ec2525d8d0afa44.md)
 
 [Web search & Image search](Plugins/Web%20search%20&%20Image%20search%20c85f10f2518e44f4993c02d2d1ebcc4f.md)
 
@@ -43,19 +46,19 @@ In this page, we will introduce you to the TypingMind Plugin system and how to b
 
 [Market News](Plugins/Market%20News%20049b57589f0741259738e87798b97f2d.md)
 
-[Dall-E 3 (Image Generation)](Plugins/Dall-E%203%20(Image%20Generation)%204f154f4e198e469d88b76b2c199f7cb4.md)
+[Dall-E 3 (Image Generation)](Plugins/Dall-E%203%20\(Image%20Generation\)%204f154f4e198e469d88b76b2c199f7cb4.md)
 
 [GPT Image Editor](Plugins/GPT%20Image%20Editor%201df7c3f1757a805a86b1d6885cc2f108.md)
 
-[Stable Diffusion (Image Generation)](Plugins/Stable%20Diffusion%20(Image%20Generation)%20c7c3fbac0f17487d955b623f3f50af06.md)
+[Stable Diffusion (Image Generation)](Plugins/Stable%20Diffusion%20\(Image%20Generation\)%20c7c3fbac0f17487d955b623f3f50af06.md)
 
 [Web Page Reader ](Plugins/Web%20Page%20Reader%202072c09b15e343cc973337514665ec6d.md)
 
 [Firecrawl Web Page Reader](Plugins/Firecrawl%20Web%20Page%20Reader%20ba3ab67573da4c4197472cdfec9ac275.md)
 
-[Azure AI Search (RAG)](Plugins/Azure%20AI%20Search%20(RAG)%20a65aa8c5747840febf798d13ced431b5.md)
+[Azure AI Search (RAG)](Plugins/Azure%20AI%20Search%20\(RAG\)%20a65aa8c5747840febf798d13ced431b5.md)
 
-[OpenAI File Search (RAG)](Plugins/OpenAI%20File%20Search%20(RAG)%201b47c3f1757a8050bf62c9f1c3327397.md)
+[OpenAI File Search (RAG)](Plugins/OpenAI%20File%20Search%20\(RAG\)%201b47c3f1757a8050bf62c9f1c3327397.md)
 
 [**Send Emails via Zapier**](Plugins/Send%20Emails%20via%20Zapier%20f3e648c95dd04526ab361a49c3d31ee2.md)
 

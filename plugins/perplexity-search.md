@@ -1,4 +1,6 @@
-# Perplexity Search
+---
+title: "Perplexity Search"
+---
 
 This plugin allows the AI assistant to search for information from the internet using Perplexity.
 
@@ -9,8 +11,7 @@ Here’s the detailed guideline:
 Go to [https://www.perplexity.ai/](https://www.perplexity.ai/) and sign up for an account. Then go to  [https://www.perplexity.ai/settings/api](https://www.perplexity.ai/settings/api) to get your API key.
 
 <aside>
-💡 Note that you may need to **top-up your credit** to use the API key
-
+  💡 Note that you may need to **top-up your credit** to use the API key
 </aside>
 
 ![Untitled](../manage-and-connect-ai-models/perplexity-ai/Untitled.png)

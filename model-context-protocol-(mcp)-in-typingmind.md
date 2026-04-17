@@ -1,4 +1,6 @@
-# Model Context Protocol (MCP) in TypingMind
+---
+title: "Model Context Protocol (MCP) in TypingMind"
+---
 
 ![mcp-typingmind.jpg](model-context-protocol-\(mcp\)-in-typingmind/mcp-typingmind.jpg)
 

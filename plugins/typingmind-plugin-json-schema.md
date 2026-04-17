@@ -1,4 +1,6 @@
-# TypingMind Plugin JSON Schema
+---
+title: "TypingMind Plugin JSON Schema"
+---
 
 ## Overview
 

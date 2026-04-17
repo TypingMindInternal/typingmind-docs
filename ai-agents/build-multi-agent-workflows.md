@@ -1,8 +1,10 @@
-# Build Multi-Agent Workflows
+---
+title: "Build Multi-Agent Workflows"
+---
 
 The release of Generative AI has been a game-changer for businesses, opening up new possibilities for automation and efficiency. Companies are now exploring how to adopt AI and integrate it into their operations to optimize workflows and achieve more with less effort.
 
-One of the most advanced ways to harness the power of AI is by creating **multi-agent workflows**. This option leverages multiple specialized AI agents working together seamlessly to streamline processes, eliminate bottlenecks, and supercharge team productivity. 
+One of the most advanced ways to harness the power of AI is by creating **multi-agent workflows**. This option leverages multiple specialized AI agents working together seamlessly to streamline processes, eliminate bottlenecks, and supercharge team productivity.
 
 By combining the strengths of individual AI agents into a single conversation, businesses can unlock unprecedented levels of efficiency and collaboration.
 
@@ -17,19 +19,19 @@ Let’s dive into more details!
 Think of it as a team where each agent focuses on a particular task, such as scheduling, writing, or analyzing data. The agents communicate and work together to help you achieve specific tasks.
 
 <aside>
-💡
+  💡
 
-For example:
+  For example:
 
-- **Agent 1**: Analyzes trends and provides insights.
-- **Agent 2**: Handles marketing planning and strategy.
-- **Agent 3**: Drafts content for blogs and social posts based on that plan
-- **Agent 4**: Schedule and remind on tasks
+  * **Agent 1**: Analyzes trends and provides insights.
+  * **Agent 2**: Handles marketing planning and strategy.
+  * **Agent 3**: Drafts content for blogs and social posts based on that plan
+  * **Agent 4**: Schedule and remind on tasks
 </aside>
 
 By delegating tasks to specialized AI agents, businesses can eliminate bottlenecks, improve accuracy, and accelerate their workflows.
 
-However, building such workflows often requires significant time, resources, and technical expertise. This can be a barrier for many teams. 
+However, building such workflows often requires significant time, resources, and technical expertise. This can be a barrier for many teams.
 
 Fortunately, [**TypingMind**](https://www.typingmind.com/?utm_source=blog&utm_medium=multi-agent) provides a no-code solution for creating and managing multi-agent workflows, make it accessible and easy to implement for everyone. Let’s see how it works via TypingMind.
 
@@ -44,34 +46,32 @@ You can start by creating a new AI Agent on TypingMind:
 - Provide custom system instruction to guide the AI Agent behavior.
 - Assign a base model for the AI Agent to make sure you will get the optimized results from the most appropriate AI model.
 - Set custom knowledge for the AI Agent so it can refer to your data when it receives a query.
-- Set skills for the AI Agents with Plugins* and Text-to-speech
+- Set skills for the AI Agents with Plugins\* and Text-to-speech
 
 <aside>
-💡
+  💡
 
-*The **TypingMind plugin** system allows you to extend the capabilities for your AI Agent beyond the normal text conversation.
+  \*The **TypingMind plugin** system allows you to extend the capabilities for your AI Agent beyond the normal text conversation.
 
-It can help you:
+  It can help you:
 
-- Access the internet
-- Generate images from text
-- Integrate with your internal system to perform task automation like Slack, Zapier, Todoist, and more.
-    - Assigning tasks to teams in Slack.
-    - Creating and managing to-do lists in Todoist.
-    - Triggering workflows across apps via Zapier.
+  * Access the internet
+  * Generate images from text
+  * Integrate with your internal system to perform task automation like Slack, Zapier, Todoist, and more.
+    * Assigning tasks to teams in Slack.
+    * Creating and managing to-do lists in Todoist.
+    * Triggering workflows across apps via Zapier.
 
-This integration allows you to manage everything from within TypingMind so you don’t need to switch between platforms.
+  This integration allows you to manage everything from within TypingMind so you don’t need to switch between platforms.
 
-Please note that, to connect with your systems, you will need to build your own plugin if it’s not available on TypingMind yet.
+  Please note that, to connect with your systems, you will need to build your own plugin if it’s not available on TypingMind yet.
 
-***Our plugin system is very flexible. Learn more about [TypingMind Plugin System](../Plugins%20445c2cfdde7e41acb4e068e37234f2a3.md)***
-
+  ***Our plugin system is very flexible. Learn more about [TypingMind Plugin System](../Plugins%20445c2cfdde7e41acb4e068e37234f2a3.md)***
 </aside>
 
 ![image.png](build-multi-agent-workflows/image.png)
 
-> Learn more on what you can do with AI Agent before bringing it into the workflow: https://docs.typingmind.com/ai-agents/ai-agents-overview
-> 
+> Learn more on what you can do with AI Agent before bringing it into the workflow: [https://docs.typingmind.com/ai-agents/ai-agents-overview](https://docs.typingmind.com/ai-agents/ai-agents-overview)
 
 ### Step 2: Bring AI Agents into a workflow
 
@@ -105,11 +105,11 @@ Hi @[Market Researcher], could you please analyze the recent trends on remote wo
 
 By sequencing the AI Agents like this, the system will automatically execute the tasks through the respective AI agents you mention:
 
-- The “***Marketing Researcher***” agent will help you analyze the remote work trends and provide insights.
-- Then the “***Marketing Planner***” will jump in to create a marketing plan based on the insights from “Marketing Researcher”
-- After you get the content plan, you can ask the “***Marketing Assistant***” to break down those plans into small tasks and add those tasks to Todoist or Slack channel.
-- The “***Content Writer***” agent will proceed with the detailed social post content in January.
-- The “***Marketing Assistant***” agent is brought back to help schedule these posts via Zapier.
+- The “**_Marketing Researcher_**” agent will help you analyze the remote work trends and provide insights.
+- Then the “**_Marketing Planner_**” will jump in to create a marketing plan based on the insights from “Marketing Researcher”
+- After you get the content plan, you can ask the “**_Marketing Assistant_**” to break down those plans into small tasks and add those tasks to Todoist or Slack channel.
+- The “**_Content Writer_**” agent will proceed with the detailed social post content in January.
+- The “**_Marketing Assistant_**” agent is brought back to help schedule these posts via Zapier.
 
 That’s how the Agent flow works, with no action needed from you!
 
@@ -119,7 +119,7 @@ That’s how the Agent flow works, with no action needed from you!
 
 ## Some practical use cases for Multi-Agent Workflows
 
-Multi-Agent Workflows on TypingMind can change the way how businesses and individuals manage tasks, collaborate, and drive efficiency. Here are practical examples: 
+Multi-Agent Workflows on TypingMind can change the way how businesses and individuals manage tasks, collaborate, and drive efficiency. Here are practical examples:
 
 ### **1. Marketing campaign planning**
 
@@ -157,7 +157,7 @@ Large projects includes multiple stakeholders, deadlines, and deliverables. Mult
 - **Task Allocator:** break down the project into tasks and assigns them to the right team members.
 - **Timeline Coordinator:** set deadlines and monitors progress.
 - **Risk Manager:** identify risks and suggests solutions.
-- **Progress Reporter:** compile status updates and generates reports.*Example:* "Summarize the weekly progress report for the product launch."
+- **Progress Reporter:** compile status updates and generates reports._Example:_ "Summarize the weekly progress report for the product launch."
 
 ```json
 Hi @[Task Manager], create a project plan for the product launch, breaking it into tasks for design, marketing, and development teams. Assign initial deadlines.

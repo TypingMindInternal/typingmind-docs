@@ -1,4 +1,6 @@
-# Write Effective Instruction for AI Agent
+---
+title: "Write Effective Instruction for AI Agent"
+---
 
 Writing a clear and structured instruction is the foundation for building a useful and reliable AI Agent. Even when you're creating a customer service assistant, a career coach, or an MBTI expert, the instruction acts as the brain and behavioral blueprint for your Agent.
 
@@ -27,8 +29,7 @@ Clearly state the identity and responsibility of the Agent. This sets the overal
 
 **Example:**
 
-> *You are an MBTI (Myers-Briggs Type Indicator) expert helping users understand their personality type and recommending suitable career paths based on their type.*
-> 
+> _You are an MBTI (Myers-Briggs Type Indicator) expert helping users understand their personality type and recommending suitable career paths based on their type._
 
 ### 2. Specify the expected output
 
@@ -36,11 +37,11 @@ What should the Agent deliver by the end of the interaction? Define this explici
 
 **Example:**
 
-> *By the end of the session, the user should receive:*
-> 
-> - *Their most likely MBTI type*
-> - *A short explanation of their personality type*
-> - *Two to three career recommendations with justifications*
+> _By the end of the session, the user should receive:_
+>
+> - _Their most likely MBTI type_
+> - _A short explanation of their personality type_
+> - _Two to three career recommendations with justifications_
 
 ### 3. Describe the step-by-step logic
 
@@ -50,12 +51,12 @@ Provide guidance on the process the Agent should follow to reach the desired out
 - How to interpret or process the user’s responses
 - How to structure the result
 
-> ***Example Process:***
-> 
-> 1. *Ask a series of questions to assess personality traits (e.g., energy orientation, decision-making style, preference for structure).*
-> 2. *Based on user responses, determine the most suitable MBTI type.*
-> 3. *Explain the type in simple language.*
-> 4. *Recommend career options that align with that personality type.*
+> **_Example Process:_**
+>
+> 1. _Ask a series of questions to assess personality traits (e.g., energy orientation, decision-making style, preference for structure)._
+> 2. _Based on user responses, determine the most suitable MBTI type._
+> 3. _Explain the type in simple language._
+> 4. _Recommend career options that align with that personality type._
 
 ### 4. Define tone and communication sty
 
@@ -63,8 +64,7 @@ Controlling tone ensures consistency across interactions. Depending on your use 
 
 **Example:**
 
-> *Use a clear, friendly, and supportive tone. Avoid jargon or overly technical terms. Communicate in simple, conversational English that a general audience can understand.*
-> 
+> _Use a clear, friendly, and supportive tone. Avoid jargon or overly technical terms. Communicate in simple, conversational English that a general audience can understand._
 
 ### 5. Provide a sample response format
 
@@ -72,7 +72,7 @@ A well-formatted response sample improves consistency and gives the AI something
 
 **Example Format:**
 
-```
+```text
 
 Your MBTI Type: INFP - The Mediator
 
@@ -90,12 +90,12 @@ Including a sample like this makes it more likely the AI will follow the structu
 
 You should explicitly tell the Agent what to do and what not to do, particularly if it needs to stay focused or avoid misleading behavior.
 
-> ***Example Rules:***
-> 
-> - *Do not guess the MBTI type until the user has answered at least 4–5 relevant questions.*
-> - *Stay within the MBTI and career guidance context.*
-> - *Do not generate medical, psychological, or legal advice.*
-> - *Avoid asking for personal data like full name, phone number, or address.*
+> **_Example Rules:_**
+>
+> - _Do not guess the MBTI type until the user has answered at least 4–5 relevant questions._
+> - _Stay within the MBTI and career guidance context._
+> - _Do not generate medical, psychological, or legal advice._
+> - _Avoid asking for personal data like full name, phone number, or address._
 
 ### 7. Optional: include fallback or clarification strategies
 
@@ -103,8 +103,7 @@ You can include specific instructions on how the Agent should respond when users
 
 **Example:**
 
-> *If the user's response is vague or incomplete, ask a follow-up question to clarify. If after two attempts there's still not enough information, offer to continue with a best-effort analysis and remind the user that more input would yield better results.*
-> 
+> _If the user's response is vague or incomplete, ask a follow-up question to clarify. If after two attempts there's still not enough information, offer to continue with a best-effort analysis and remind the user that more input would yield better results._
 
 ### **8. Expanding Agent Capabilities**
 
@@ -112,15 +111,14 @@ Beyond basic instruction design, you can significantly enhance your AI Agent's c
 
 - **Training files:** providing specialized documents allows your Agent to develop expertise in particular fields, enabling more accurate and nuanced responses on complex topics.
 - **Assign Plugins:** implementing plugins and tools empowers your Agent to transcend text-based interactions by:
-    - Generating images and visual content (Dall-E, Interactive Canvas)
-    - Searching the internet for real-time information (Web Search, Perplexity Search)
-    - Integrating with external services and APIs
+  - Generating images and visual content (Dall-E, Interactive Canvas)
+  - Searching the internet for real-time information (Web Search, Perplexity Search)
+  - Integrating with external services and APIs
 
 <aside>
-💡
+  💡
 
-Learn more about AI Agent capabilities at [https://docs.typingmind.com/ai-agents/ai-agents-overview](https://docs.typingmind.com/ai-agents/ai-agents-overview)
-
+  Learn more about AI Agent capabilities at [https://docs.typingmind.com/ai-agents/ai-agents-overview](https://docs.typingmind.com/ai-agents/ai-agents-overview)
 </aside>
 
 ## Note

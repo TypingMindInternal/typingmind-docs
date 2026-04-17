@@ -1,10 +1,12 @@
-# Server Side vs. Client Side Plugin
+---
+title: "Server Side vs. Client Side Plugin"
+---
 
 Here is the difference between running a plugin on the **Server Side** and on the **Client Side**:
 
 ## What is a Server Plugin?
 
-## Run on the Server side:
+### Run on the Server side:
 
 ✅ **How it works:**
 
@@ -16,7 +18,7 @@ Here is the difference between running a plugin on the **Server Side** and on th
 - By default, all plugins are run on the server side if it has an HTTP action implementation.
 - Running the plugin on the server side is more convenience for the users, as they don’t need to setup anything to use the plugins.
 
-## Run on the Client side:
+### Run on the Client side:
 
 **✅ How it works:**
 

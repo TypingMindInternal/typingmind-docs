@@ -1,6 +1,8 @@
-# Dynamic Context Use Cases
+---
+title: "Dynamic Context Use Cases"
+---
 
-[TypingMind Dynamic Context](https://docs.typingmind.com/ai-agents/dynamic-context-via-api) allows AI models to access real-time data from external sources, thus making responses more accurate, relevant, and up to date. 
+[TypingMind Dynamic Context](https://docs.typingmind.com/ai-agents/dynamic-context-via-api) allows AI models to access real-time data from external sources, thus making responses more accurate, relevant, and up to date.
 
 Instead of relying solely on pre-trained knowledge of the AI model, AI can fetch information from APIs to provide users with the latest details on various topics such as weather, movies, exchange rates, and job listings.
 
@@ -9,9 +11,11 @@ Instead of relying solely on pre-trained knowledge of the AI model, AI can fetch
 The process of integrating dynamic context follows a **step-by-step** workflow:
 
 1. **User Asks a Question**
-- Example: *"What’s the weather like in New York?"*
+
+- Example: _"What’s the weather like in New York?"_
 
 1. **AI Agent Triggers an API Call**
+
 - The AI sends a request to an external API (e.g., OpenWeather API).
 - Request contains parameters like location and date.
 
@@ -20,11 +24,13 @@ The process of integrating dynamic context follows a **step-by-step** workflow:
 - API sends back the current temperature, humidity, and conditions.
 
 1. **AI Agent Merges API Data with User Query**
+
 - The AI **interprets** the API response and **formats it into a natural answer**.
 
 1. **AI Returns Answer to User**
-- The final answer **combines AI-generated text + real-time data** for accuracy.
-- Example Response: *"The current temperature in New York is 75°F with clear skies."*
+
+- The final answer **combines AI-generated text \+ real-time data** for accuracy.
+- Example Response: _"The current temperature in New York is 75°F with clear skies."_
 
 ![image.png](dynamic-context-use-cases/image.png)
 
@@ -39,7 +45,7 @@ Compared to [**the knowledge base (TypingMind Custom**](https://docs.typingmind.
 
 Before diving into specific use cases, you first need to create an AI Agent and set it up with some basic information:
 
-1. Go to **TypingMind > AI Agents > Create AI Agent**
+1. Go to **TypingMind \> AI Agents \> Create AI Agent**
 2. Enter a **name** for your agent and a **brief description** of its role.
 3. Optionally, upload a **profile picture**.
 4. Add **system instructions** to guide how the AI behaves.
@@ -50,26 +56,26 @@ Before diving into specific use cases, you first need to create an AI Agent and 
 1. Set up Dynamic Context for the AI agent
 
 <aside>
-💡
+  💡
 
-We use [RapidAPI](https://rapidapi.com/) to connect APIs with Dynamic Context in TypingMind, but you can use your own API as well.
+  We use [RapidAPI](https://rapidapi.com/) to connect APIs with Dynamic Context in TypingMind, but you can use your own API as well.
 
-- Go to Rapid API and sign up for an account
-- Search for the API you want and connect. Below are some example use cases.
+  * Go to Rapid API and sign up for an account
+  * Search for the API you want and connect. Below are some example use cases.
 </aside>
 
 ### Use case 1: **Get Current Weather for your location using OpenWeather API**
 
 Here’s an example of how to set up an API to retrieve the current weather for a specific location:
 
-- Search for OpenWeather API —> Select Current Weather Endpoint
+- Search for OpenWeather API —\> Select Current Weather Endpoint
 - Switch to the Params tab to enter the city you want to get the weather.
 
 ![image.png](dynamic-context-use-cases/image%202.png)
 
 On TypingMind, click on Dynamic Context and enter the following details:
 
-- **Context Name:** *Current Weather* (or another relevant name)
+- **Context Name:** _Current Weather_ (or another relevant name)
 - **HTTP Method:** `GET`
 - **Endpoint URL -** For example, for Ho Chi Minh City: [https://open-weather13.p.rapidapi.com/city/Ho Chi Minh city/EN](https://open-weather13.p.rapidapi.com/city/Ho%20Chi%20Minh%20city/EN)
 - **Headers for API Request**
@@ -87,7 +93,7 @@ Include these headers in your API request:
 
 Test the API to ensure that the request works and returns the correct data.
 
-**Step 4: Enable API Caching** *(Optional, but recommended)*
+**Step 4: Enable API Caching** _(Optional, but recommended)_
 
 You can enable API caching to save on costs by reducing the number of requests.
 
@@ -103,7 +109,7 @@ If you want to get weather forecast, you can do the same settings with the forec
 
 Here’s an example of how to set up an API to retrieve the current stock market news:
 
-- Search for YH Finance API —> Select Market News endpoint (v1)
+- Search for YH Finance API —\> Select Market News endpoint (v1)
 - Switch to the Params tab to enter the tickers you want to view (optional)
 
 ![image.png](dynamic-context-use-cases/image%205.png)
@@ -128,7 +134,7 @@ Include these headers in your API request:
 
 Test the API to ensure that the request works and returns the correct data.
 
-**Step 4: Enable API Caching** *(Optional, but recommended)*
+**Step 4: Enable API Caching** _(Optional, but recommended)_
 
 You can enable API caching to save on costs by reducing the number of requests.
 
@@ -142,7 +148,7 @@ Here’s how it works:
 
 Here’s an example of how to set up an API to retrieve the latest jobs in your industry:
 
-- Search for JSearch API —> Select Job Search endpoint
+- Search for JSearch API —\> Select Job Search endpoint
 - Switch to the Params tab to enter the query to search for your jobs, for example, marketing jobs in vietnam
 
 ![image.png](dynamic-context-use-cases/image%208.png)
@@ -151,8 +157,7 @@ On TypingMind, click on Dynamic Context and enter the following details:
 
 - **Context Name:** Job Search (or another relevant name)
 - **HTTP Method:** `GET`
-- **Endpoint URL -** For example, for marketing jobs in Vietnam: 
-`https://jsearch.p.rapidapi.com/search?query=marketing%20jobs%20in%20vietnam&page=1&num_pages=5&country=vn&date_posted=all`
+- **Endpoint URL -** For example, for marketing jobs in Vietnam: `https://jsearch.p.rapidapi.com/search?query=marketing%20jobs%20in%20vietnam&page=1&num_pages=5&country=vn&date_posted=all`
 - **Headers for API Request**
 
 Include these headers in your API request:
@@ -168,7 +173,7 @@ Include these headers in your API request:
 
 Test the API to ensure that the request works and returns the correct data.
 
-**Step 4: Enable API Caching** *(Optional, but recommended)*
+**Step 4: Enable API Caching** _(Optional, but recommended)_
 
 You can enable API caching to save on costs by reducing the number of requests.
 

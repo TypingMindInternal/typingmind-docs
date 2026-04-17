@@ -1,8 +1,10 @@
-# Message Syntax
+---
+title: "Message Syntax"
+---
 
-When working on **TypingMind**, using **Message Syntax** provides a quick and efficient way to help you input your messages faster. 
+When working on **TypingMind**, using **Message Syntax** provides a quick and efficient way to help you input your messages faster.
 
-These syntaxes act as shortcuts to help reduce manual effort and streamline the process of feeding inputs to the AI. 
+These syntaxes act as shortcuts to help reduce manual effort and streamline the process of feeding inputs to the AI.
 
 ## 1. Mention AI Agent syntax
 
@@ -36,10 +38,9 @@ Task 2: Schedule a meeting
 - **Example:**
 
 <aside>
-💬
+  💬
 
-I want you to act as an English pronunciation assistant for Turkish speaking people. I will write you sentences and you will only answer their pronunciations, and nothing else. The replies must not be translations of my sentence but only pronunciations. Pronunciations should use Turkish Latin letters for phonetics. Do not write explanations on replies. My first sentence is **"'&#123;&#123;your content&#125;&#125;'”**
-
+  I want you to act as an English pronunciation assistant for Turkish speaking people. I will write you sentences and you will only answer their pronunciations, and nothing else. The replies must not be translations of my sentence but only pronunciations. Pronunciations should use Turkish Latin letters for phonetics. Do not write explanations on replies. My first sentence is **"'\{\{your content}}'”**
 </aside>
 
 ![image.png](message-syntax/image%202.png)

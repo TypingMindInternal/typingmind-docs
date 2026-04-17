@@ -123,18 +123,10 @@
             ]
           },
           {
-            "group": "Integrations",
-            "pages": [
-              "integrations",
-              "integrations/pre-fill-chat-data-via-url"
-            ]
-          },
-          {
             "group": "Model Context Protocol (MCP)",
             "icon": "link",
             "pages": [
               "model-context-protocol-(mcp)-in-typingmind",
-              "typingmind-extensions",
               "model-context-protocol-(mcp)-in-typingmind/use-mcp-with-private-mcp-connector",
               "model-context-protocol-(mcp)-in-typingmind/set-up-https-for-private-mcp-connector",
               "model-context-protocol-(mcp)-in-typingmind/connect-multiple-mcp-servers",
@@ -219,6 +211,15 @@
               "text-to-speech/use-text-to-speech"
             ]
           },
+          {
+            "group": "Integrations",
+            "icon": "link-2",
+            "pages": [
+              "integrations",
+              "integrations/pre-fill-chat-data-via-url"
+            ]
+          },
+          "typingmind-extensions",
           {
             "group": "Upload and Chat with Files",
             "icon": "arrow-big-up",

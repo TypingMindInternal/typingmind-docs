@@ -1,10 +1,12 @@
-# TypingMind Extensions
+---
+icon: "external-link"
+title: "TypingMind Extensions"
+---
 
 ## Overview
 
 <aside>
-👋 Explore and share your awesome extensions here! 👉 https://github.com/TypingMind/awesome-typingmind
-
+  👋 Explore and share your awesome extensions here! 👉 [https://github.com/TypingMind/awesome-typingmind](https://github.com/TypingMind/awesome-typingmind)
 </aside>
 
 **Typing Mind Extensions** allows users to embed custom JavaScript code into Typing Mind. The JavaScript code will have access to all internal data and application state of Typing Mind, allowing the users to add custom logic and application behavior to fit their workflow.
@@ -18,8 +20,7 @@ In general, Typing Mind Extensions works like a typical browser extension. The o
 The user installs a new extension by providing a script URL (JavaScript), then Typing Mind will load and execute it when the app is loaded.
 
 <aside>
-💡 This feature is similar to the “**Custom Code**” feature in [Typing Mind Custom](https://custom.typingmind.com).
-
+  💡 This feature is similar to the “**Custom Code**” feature in [Typing Mind Custom](https://custom.typingmind.com).
 </aside>
 
 Some facts:
@@ -43,8 +44,7 @@ Various places on the Typing Mind’s app have `data-element-id` attributed assi
 You can use these attribute to target a specific element in the application UI. If you need to access a certain UI elements that do not have a element ID yet, please let us know.
 
 <aside>
-💡 **Note:** Typing Mind UI changes all the time. We do not guarantee the `data-element-id` will stay the same as Typing Mind changes, however, we will try as much as we can to not change any of the existing IDs. You need to keep track of the IDs manually by yourself.
-
+  💡 **Note:** Typing Mind UI changes all the time. We do not guarantee the `data-element-id` will stay the same as Typing Mind changes, however, we will try as much as we can to not change any of the existing IDs. You need to keep track of the IDs manually by yourself.
 </aside>
 
 ## Access Typing Mind’s Data
@@ -64,18 +64,17 @@ If your extension needs to make use of the app data, here are some best practice
 - If you need to modify/write the user’s data or Typing Mind’s internal data, make sure to test your extension carefully across the multiple devices and browsers. If the internal data get corrupted, the user may not be able to use the app at all (see **No Extensions Mode** to learn how to deal with this case).
 
 <aside>
-🚨 **Disclaimer:** At this time, we do not have a documented data model for the app’s internal data. Typing Mind changes all the time, and the data model/schema will also change.
+  🚨 **Disclaimer:** At this time, we do not have a documented data model for the app’s internal data. Typing Mind changes all the time, and the data model/schema will also change.
 
-If your extension make use of the app data, you will need to keep track of the schema change and update your code accordingly.
-
+  If your extension make use of the app data, you will need to keep track of the schema change and update your code accordingly.
 </aside>
 
 ## Common Issues
 
 | Issues | Reason | How to fix |
 | --- | --- | --- |
-| “Failed to load extension” with this error in Network Tab:
-(failed)net::ERR_BLOCKED_BY_ORB | Your URL does not return the correct mime type for the JS file. | The mime type must be `application/javascript` or `text/javascript` . Update your hosting or server config so that the JS file is served with the correct mine type. |
+| “Failed to load extension” with this error in Network Tab: |  |  |
+| (failed)net::ERR\_BLOCKED\_BY\_ORB | Your URL does not return the correct mime type for the JS file. | The mime type must be `application/javascript` or `text/javascript` . Update your hosting or server config so that the JS file is served with the correct mine type. |
 
 ## Example extension
 
@@ -119,6 +118,6 @@ When in Safe Mode, you will see a message in the web console “Safe Mode enable
 
 ## Get help
 
-We **do not** provide technical support for extensions (even if you are a paying customer). 
+We **do not** provide technical support for extensions (even if you are a paying customer).
 
-For general questions about extension, you can also contact **support@typingmind.com**, however, note that we will not guarantee a response (based on our customer support capacity).
+For general questions about extension, you can also contact [**support@typingmind.com**](mailto:support@typingmind.com), however, note that we will not guarantee a response (based on our customer support capacity).

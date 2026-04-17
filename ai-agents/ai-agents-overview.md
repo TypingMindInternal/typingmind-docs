@@ -1,6 +1,8 @@
-# AI Agents Overview
+---
+title: "AI Agents Overview"
+---
 
-TypingMind app allows you to build your own **AI Agent collection** so you can turn your chat model into an expert to implement a specific task. 
+TypingMind app allows you to build your own **AI Agent collection** so you can turn your chat model into an expert to implement a specific task.
 
 The AI Agent works as an enhanced version of the [initial system instructions](https://blog.typingmind.com/unlocking-the-power-of-chatgpt's-system-instruction-on-typingmind) for AI models.
 
@@ -20,7 +22,7 @@ As of now, there are 2 options to interact with AI Agent:
 TypingMind offers more than 50 pre-built AI Agents. Here’s how to add them to your library:
 
 - Click on **Agents** menu on the left side panel
-- Scroll down to explore the prebuilt ****AI Agents ****throughout different categories.
+- Scroll down to explore the prebuilt \*\*\*\*AI Agents \*\*\*\*throughout different categories.
 - **“Add”** the AI agents that you find most useful to your “**Your AI Agents**” collection.
 
 ![image.png](ai-agents-overview/image%201.png)
@@ -50,7 +52,7 @@ The AI Agent you create will also be displayed in the **“Your Agents”** sect
 You can assign your AI Agent with:
 
 - A specific chat model
-- Custom Parameters like Temperature, Top_p, Max tokens, etc.
+- Custom Parameters like Temperature, Top\_p, Max tokens, etc.
 
 Toggle the Model & parameters under the Base model section to assign models and custom parameters.
 
@@ -77,7 +79,7 @@ You have two options to upload training data for the AI Agent:
 - Use [Dynamic Context via API](Dynamic%20Context%20via%20API%20fc22e689952b47999aeef080cde44caf.md) - this allows you to retrieve content from an API and inject into the system prompt. This can be used to add live information to the AI or implement Retrieval-Augmented Generation (RAG) from your own data sources (e.g., vector store database).
 - Use [Knowledge Base (KB)](../RAG%20Knowledge%20Base%201b97c3f1757a80b19370ffd0536e95a8.md) – this enables RAG using uploaded data. The system retrieves relevant information from your content based on the user's query.
 
-Toggle the Training files or Dynamic Context or Knowledge Base under the Knowledge section to set up the knowledge for AI Agent. 
+Toggle the Training files or Dynamic Context or Knowledge Base under the Knowledge section to set up the knowledge for AI Agent.
 
 Here are some important notes:
 
@@ -89,15 +91,14 @@ Here are some important notes:
 ![image.png](ai-agents-overview/image%207.png)
 
 <aside>
-📌
+  📌
 
-With TypingMind Custom users, you can connect your uploaded training data (via the Training Data page) to the AI Agents. Here’s how: [Connect Training Data to Your AI Agent](../TypingMind%20Team/Branding%20and%20Customizations/Connect%20knowledge%20base%20to%20your%20AI%20Agents%208e18df9644914dbf96b83c8a4b2e6123.md)
-
+  With TypingMind Custom users, you can connect your uploaded training data (via the Training Data page) to the AI Agents. Here’s how: [Connect Training Data to Your AI Agent](../TypingMind%20Team/Branding%20and%20Customizations/Connect%20knowledge%20base%20to%20your%20AI%20Agents%208e18df9644914dbf96b83c8a4b2e6123.md)
 </aside>
 
 ## 4. Use Few-shot prompting
 
-Few-shot prompting is a technique to help the AI agent learn how to respond to users in a specific way by provide demonstrations in the prompt to steer the model to better performance. 
+Few-shot prompting is a technique to help the AI agent learn how to respond to users in a specific way by provide demonstrations in the prompt to steer the model to better performance.
 
 The prompts will be automatically inserted at the beginning of every conversation, right after the system instructions (but not included in the system instruction). This is useful when you want the AI to always respond in a very specific format.
 
@@ -129,7 +130,7 @@ Take this link to share with your social followers, friends, family, etc. so the
 
 ### Pin the AI Agent
 
-Pin the AI Agents to your homepage for quick navigation: 
+Pin the AI Agents to your homepage for quick navigation:
 
 ![image.png](ai-agents-overview/image%2010.png)
 
@@ -145,10 +146,9 @@ You can:
 It’s useful when you’re testing different Agent settings — you can always go back to an earlier version if something doesn’t work as expected.
 
 <aside>
-💡
+  💡
 
-For TypingMind Team users, you can also view the changes made by any person on the Admin Panel!
-
+  For TypingMind Team users, you can also view the changes made by any person on the Admin Panel!
 </aside>
 
 ![agent history.png](ai-agents-overview/agent_history.png)

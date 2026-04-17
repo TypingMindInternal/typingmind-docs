@@ -1,4 +1,6 @@
-# Train Agent With Custom Knowledge
+---
+title: "Train Agent With Custom Knowledge"
+---
 
 When building a custom AI Agent for your business or product, one of the most critical steps is training it with your **domain-specific knowledge**. Whether that’s product documentation, internal SOPs, support guides, or live system data—your Agent needs access to the right information to give accurate and helpful responses.
 
@@ -8,7 +10,7 @@ There are four main ways to provide knowledge to your Agent in TypingMind:
 
 ## 1. Upload Training Files Directly to the Agent
 
-You upload documents directly into the Agent settings. The system extracts all the text and embeds it into the Agent’s system instructions. 
+You upload documents directly into the Agent settings. The system extracts all the text and embeds it into the Agent’s system instructions.
 
 This method consumes the context window (token limit) of the model you’ve chosen.
 
@@ -31,7 +33,7 @@ This method consumes the context window (token limit) of the model you’ve chos
 
 **Best use cases:**
 
-Small, important files like FAQs, intros, disclaimers, or policy highlights. 
+Small, important files like FAQs, intros, disclaimers, or policy highlights.
 
 ## 2. Use a Knowledge Base (KB)
 
@@ -120,9 +122,9 @@ Advanced use cases like booking, internal tools integration, data-driven logic, 
 | Method | Best For | Scalable | Real-Time | Cost Model |
 | --- | --- | --- | --- | --- |
 | Direct Upload | Essential small documents | No | No | Token usage per request |
-| Knowledge Base | Structured and reusable knowledge | Yes | No | Training characters + tokens |
-| Dynamic Context | Live, dynamic, or user-specific data | Partial | Yes | Tokens + external API |
-| Custom Plugin | Full control and advanced logic | Yes | Yes | Tokens + external API |
+| Knowledge Base | Structured and reusable knowledge | Yes | No | Training characters \+ tokens |
+| Dynamic Context | Live, dynamic, or user-specific data | Partial | Yes | Tokens \+ external API |
+| Custom Plugin | Full control and advanced logic | Yes | Yes | Tokens \+ external API |
 
 ## Final Notes
 

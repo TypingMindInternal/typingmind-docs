@@ -1,10 +1,11 @@
-# Build a TypingMind Plugin
+---
+title: "Build a TypingMind Plugin"
+---
 
 **TypingMind Plugins** allow you to extend the capabilities of the AI assistant by providing external tools and context. To get started, click the “Plugins” button on the start screen.
 
 <aside>
-👋 Explore and share your awesome plugins here! 👉 https://github.com/TypingMind/awesome-typingmind
-
+  👋 Explore and share your awesome plugins here! 👉 [https://github.com/TypingMind/awesome-typingmind](https://github.com/TypingMind/awesome-typingmind)
 </aside>
 
 ## Overview
@@ -18,10 +19,9 @@ Plugins can be implemented using the following implementation types:
 - **MCP**: use a Model Context Protocol server as a plugin.
 
 <aside>
-ℹ️
+  ℹ️
 
-All existing TypingMind plugins are open-source under MIT license. You can view the source code of the plugins from our public [GitHub repository](../TypingMind%20Team%2050080fcbe55d4682acfa55780534d1be.md) here. The repos that contain the plugins are ones with names that start with `plugin-`. You can fork or create your own plugin from these plugins.
-
+  All existing TypingMind plugins are open-source under MIT license. You can view the source code of the plugins from our public [GitHub repository](../TypingMind%20Team%2050080fcbe55d4682acfa55780534d1be.md) here. The repos that contain the plugins are ones with names that start with `plugin-`. You can fork or create your own plugin from these plugins.
 </aside>
 
 ## Create new plugin
@@ -44,10 +44,9 @@ The two most important parts of developing a plugin are to provide an **OpenAI F
 User Settings allows you to define necessary input fields for your plugin which will be filled by the users. Each user may have their own settings, and the settings values will be passed to the plugin code as variables.
 
 <aside>
-ℹ️
+  ℹ️
 
-In the [**TypingMind Team**](https://custom.typingmind.com) version, an admin user can choose to set the User Settings directly from the admin panel or allow the end-user to provide their own settings. If the admin user decides to set the setting values from the admin panel, the end users will not be able to view or change them.
-
+  In the [**TypingMind Team**](https://custom.typingmind.com) version, an admin user can choose to set the User Settings directly from the admin panel or allow the end-user to provide their own settings. If the admin user decides to set the setting values from the admin panel, the end users will not be able to view or change them.
 </aside>
 
 The User Settings value is a JSON string with the following format:
@@ -107,10 +106,9 @@ You can provide context in two ways:
 **Example use cases:** If you create a "Search Knowledge Base" plugin, you can use Plugin Context to give the AI an overview of what kind of data it has access to (like an index of entries), and when/how the AI should use the plugin. This overview can be an HTTP endpoint that lists the entries in real-time, ensuring the best accuracy.
 
 <aside>
-ℹ️
+  ℹ️
 
-This feature serves the same purpose as the description field of the function JSON (defined in the OpenAI Function Spec). The advantage of Plugin Context is you can provide extremely long instructions, inject context variables (like user settings), or use real-time information via an HTTP request instead of a fixed value in the function JSON.
-
+  This feature serves the same purpose as the description field of the function JSON (defined in the OpenAI Function Spec). The advantage of Plugin Context is you can provide extremely long instructions, inject context variables (like user settings), or use real-time information via an HTTP request instead of a fixed value in the function JSON.
 </aside>
 
 ## Authentication
@@ -152,12 +150,11 @@ This authentication type makes it easy to work with external services that requi
 - A Slack message plugin that allows the AI to send a message to the user's Slack channel.
 
 <aside>
-ℹ️
+  ℹ️
 
-**Looking for a step-by-step guide?**
+  **Looking for a step-by-step guide?**
 
-Read our tutorial: [**create a Google Calendar plugin with OAuth 2.0**](https://docs.typingmind.com/plugins/google-calendar).
-
+  Read our tutorial: [**create a Google Calendar plugin with OAuth 2.0**](https://docs.typingmind.com/plugins/google-calendar).
 </aside>
 
 ![image.png](build-a-typingmind-plugin/image%206.png)
@@ -213,34 +210,27 @@ TypingMind supports **Shared OAuth Connections**, allowing multiple plugins to s
 **How to set up shared connection:**
 
 1. **Create a Shared Connection**:
-    - Navigate to the Plugins Manager
-    - Select the **"Shared OAuth Connections"** tab
-    - Click **"Add New Connection"** to create a new OAuth connection
-    
-    ![image.png](build-a-typingmind-plugin/image%208.png)
-    
+   - Navigate to the Plugins Manager
+   - Select the **"Shared OAuth Connections"** tab
+   - Click **"Add New Connection"** to create a new OAuth connection
+   ![image.png](build-a-typingmind-plugin/image%208.png)
 2. **Configure OAuth Credentials**:
-    - Enter necessary details such as Authorization URL, Token URL, Client ID, Client Secret, Scopes, Prompt, and Access Type
-    
-    ![image.png](build-a-typingmind-plugin/image%209.png)
-    
+   - Enter necessary details such as Authorization URL, Token URL, Client ID, Client Secret, Scopes, Prompt, and Access Type
+   ![image.png](build-a-typingmind-plugin/image%209.png)
 3. **Apply Shared OAuth to Plugins**:
-    - Edit the desired plugin
-    - Under the **"Authentication"** section, select **OAuth 2.0**
-    - Choose your **"OAuth Configuration Source"** from the dropdown menu, selecting your newly created shared OAuth connection
-    - Plugin credentials will automatically apply from the shared connection—no further setup required
-    
-    ![image.png](build-a-typingmind-plugin/image%2010.png)
-    
-    ![image.png](build-a-typingmind-plugin/image%2011.png)
-    
+   - Edit the desired plugin
+   - Under the **"Authentication"** section, select **OAuth 2.0**
+   - Choose your **"OAuth Configuration Source"** from the dropdown menu, selecting your newly created shared OAuth connection
+   - Plugin credentials will automatically apply from the shared connection—no further setup required
+   ![image.png](build-a-typingmind-plugin/image%2010.png)
+   ![image.png](build-a-typingmind-plugin/image%2011.png)
 
 ### **Built-in OAuth Plugins:**
 
 - Built-in plugins provided by the system come with predefined OAuth settings and cannot be directly modified.
 - To apply a shared OAuth connection:
-    - Duplicate the built-in plugin
-    - Edit your duplicated plugin to select the shared OAuth connection
+  - Duplicate the built-in plugin
+  - Edit your duplicated plugin to select the shared OAuth connection
 
 ## Permissions & Resources Access
 
@@ -301,10 +291,9 @@ All plugins can read their own output from the previous run by default. There is
 - Example data: exactly the return value of the plugin in its last execution.
 
 <aside>
-ℹ️
+  ℹ️
 
-Note: the plugin can only read its own output, not other plugins' output. It also can only access the immediate previous run's output, not the entire output of the chat history.
-
+  Note: the plugin can only read its own output, not other plugins' output. It also can only access the immediate previous run's output, not the entire output of the chat history.
 </aside>
 
 This is useful if the plugin needs to make edits to its previous output. For example, the [**GPT Image Editor**](http://github.com/TypingMind/plugin-gpt-image-editor) uses this to access its previous image and make modifications without requiring the user to upload the image to the chat conversation again.
@@ -395,54 +384,47 @@ It’s important that you define a function with the exact same name as defined 
 
 **Provided parameters**
 
-**TypingMind will call your** function with the following ****parameters:
+**TypingMind will call your** function with the following \*\*\*\*parameters:
 
 - **First parameter, `params`**: Provided by the AI model every time your function is used. The object contains multiple key/value pairs that the AI will decide when they execute your function.
 - **Second parameter,** `userSettings`: Provided by the user when they install the plugin. If your plugin has a User Settings, the key/value pair of the user settings will be passed into this object.  For example, if you have the following user settings:
-    
-    ```json
-    [
-      {
-        "name": "searchEngineID",
-        "label": "Search Engine ID"
-      },
-      {
-        "name": "searchEngineAPIKey",
-        "label": "Search Engine API Key",
-        "type": "password"
-      }
-    ]
-    ```
-    
-    You can retrieve those settings in your function as follows:
-    
-    ```jsx
-    function search_images_via_google(params, userSettings, resources) {
-      const searchEngineID = userSettings.searchEngineID;
-      const searchEngineAPIKey = userSettings.searchEngineAPIKey;
-    
-      // Now you can use these values in your code
-    }
-    ```
-    
-- **Third parameter**, `resources`: the additional resources that your plugin has access to depends on its permissions. An example value of `resources:`
-    
-    ```jsx
+  ```json
+  [
     {
-      "userMessage": {
-    	  "text": "...",
-    	  "attachments": [
-    		  {
-    			  "type": "image/png", 
-    			  "url": "https://...",
-    			  "name": "screenshot1.png"
-    	    }
-    	  ]
-    	},
-    	"previousRunOutput": { ... }
+      "name": "searchEngineID",
+      "label": "Search Engine ID"
+    },
+    {
+      "name": "searchEngineAPIKey",
+      "label": "Search Engine API Key",
+      "type": "password"
     }
-    ```
-    
+  ]
+  ```
+  You can retrieve those settings in your function as follows:
+  ```jsx
+  function search_images_via_google(params, userSettings, resources) {
+    const searchEngineID = userSettings.searchEngineID;
+    const searchEngineAPIKey = userSettings.searchEngineAPIKey;
+    // Now you can use these values in your code
+  }
+  ```
+- **Third parameter**, `resources`: the additional resources that your plugin has access to depends on its permissions. An example value of `resources:`
+  ```jsx
+  {
+    "userMessage": {
+  	  "text": "...",
+  	  "attachments": [
+  		  {
+  			  "type": "image/png", 
+  			  "url": "https://...",
+  			  "name": "screenshot1.png"
+  	    }
+  	  ]
+  	},
+  	"previousRunOutput": { ... }
+  }
+  ```
 
 **Execution Environment**
 
@@ -514,7 +496,7 @@ When running an HTTP Action on server side (server plugin), your plugin has acce
 | Variable | Description |
 | --- | --- |
 | `CHAT_ID` | Unique identifier of a chat (current conversation) where the plugin is used. |
-| `USER_ID`  | Unique identifier of the user who is using the plugin. |
+| `USER_ID` | Unique identifier of the user who is using the plugin. |
 | `OAUTH_USER_ID_TOKEN` | The `id_token` of the user. Only available if the current user is authenticated using [OAuth](../TypingMind%20Team/User%20Management/OAuth%202%200%207bc28ee62d684e6a8f88314830cddd69.md). |
 | `OAUTH_USER_ACCESS_TOKEN` | The `access_token` of the user. Only available if the current user is authenticated using [OAuth](../TypingMind%20Team/User%20Management/OAuth%202%200%207bc28ee62d684e6a8f88314830cddd69.md). |
 | `OAUTH_PLUGIN_ACCESS_TOKEN` | When the plugin authentication type is set to **OAuth**, the plugin will ask the user to authenticate before using. This is the access token of the user after authentication. |
@@ -549,10 +531,9 @@ The test result will be what the AI model see (or what will be rendered to the u
 You can setup your plugin to output the result directly to the AI, or render the output directly to the users using Markdown or HTML.
 
 <aside>
-ℹ️
+  ℹ️
 
-If you plugin has multiple functions, you can set output options for each function separately.
-
+  If you plugin has multiple functions, you can set output options for each function separately.
 </aside>
 
 This can be configured in the Output Options. The supported output types are:
@@ -616,10 +597,9 @@ Output preview:
 ![image.png](build-a-typingmind-plugin/image%2014.png)
 
 <aside>
-ℹ️
+  ℹ️
 
-We are working on adding more card types soon!
-
+  We are working on adding more card types soon!
 </aside>
 
 ## Test your plugin
@@ -631,8 +611,7 @@ After filling in all the information, click “Show Plugin Preview” to start t
 Note that the AI will decide to use your plugin only when necessary. Make sure your JSON spec has meaningful and accurate names and description.
 
 <aside>
-ℹ️ **Hallucination problem**: Sometimes, the AI assistant hallucinates and try to call your function with incorrect parameter, or even attempt to call function names that does not exists. This is a known issue and there is not much we can do about this. Just click “Regenerate” and let the AI assistant try again.
-
+  ℹ️ **Hallucination problem**: Sometimes, the AI assistant hallucinates and try to call your function with incorrect parameter, or even attempt to call function names that does not exists. This is a known issue and there is not much we can do about this. Just click “Regenerate” and let the AI assistant try again.
 </aside>
 
 ## Create plugin with raw JSON

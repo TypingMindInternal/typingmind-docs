@@ -1,4 +1,6 @@
-# Web search & Image search
+---
+title: "Web search & Image search"
+---
 
 To enable the Web Search feature on [TypingMind.com](http://TypingMind.com) with the Programmable Search Engine, you need to get the following info:
 
@@ -46,6 +48,7 @@ In the **Want to search?** section, select **Search the Entire web**
 ![Untitled](web-search-and-image-search/Untitled%208.png)
 
 1. **Enter the Search Engine ID and API key on TypingMind**
+
 - Click the **Plugin** menu on the left workspace bar
 - Choose **Web Search** to open the plugin settings
 - Switch to the tab **Settings** and enter your Search **Engine ID and API key**.
@@ -53,12 +56,11 @@ In the **Want to search?** section, select **Search the Entire web**
 ![image.png](web-search-and-image-search/image.png)
 
 <aside>
-🚨
+  🚨
 
-`“Error: Plugin execution failed: Error: Requests from referer null are blocked.”`
+  `“Error: Plugin execution failed: Error: Requests from referer null are blocked.”`
 
-If you encounter this error even when you set up the key and search ID properly, please kindly check if there’s any restriction to your API key:
+  If you encounter this error even when you set up the key and search ID properly, please kindly check if there’s any restriction to your API key:
 
-![image.png](web-search-and-image-search/image%201.png)
-
+  ![image.png](web-search-and-image-search/image%201.png)
 </aside>

@@ -1,5 +1,6 @@
 ---
 title: "Quickstart"
+hidden: true
 ---
 
 Get started with TypingMind in a few simple steps.

@@ -1,10 +1,11 @@
-# User-contributed Plugins
+---
+title: "User-contributed Plugins"
+---
 
 <aside>
-🚨
+  🚨
 
-You can view more user-contributed plugins at [https://github.com/TypingMind/awesome-typingmind](https://github.com/TypingMind/awesome-typingmind)
-
+  You can view more user-contributed plugins at [https://github.com/TypingMind/awesome-typingmind](https://github.com/TypingMind/awesome-typingmind)
 </aside>
 
 ## **Readwise Highlights Retriever**
@@ -17,7 +18,7 @@ Import this plugin: [https://cloud.typingmind.com/plugins/p-01HGRZMP0041EWDXV9S6
 
 Created by [asad](https://discord.com/channels/1087527241505853520/1120236521732182056/1145979473095831572)
 
-Import this plugin: [https://cloud.typingmind.com/plugins/p-01H902NDJCY02F134RWYSBBSCX](https://cloud.typingmind.com/plugins/p-01H902NDJCY02F134RWYSBBSCX) 
+Import this plugin: [https://cloud.typingmind.com/plugins/p-01H902NDJCY02F134RWYSBBSCX](https://cloud.typingmind.com/plugins/p-01H902NDJCY02F134RWYSBBSCX)
 
 ![Untitled](user-contributed-plugins/Untitled.png)
 
@@ -35,7 +36,7 @@ Created by [@Zai](https://discord.com/channels/1087527241505853520/1120236521732
 
 Import this plugin: [https://cloud.typingmind.com/plugins/p-01H5KNASQG9Z7TT6M0FH7GQKHQ](https://cloud.typingmind.com/plugins/p-01H5KNASQG9Z7TT6M0FH7GQKHQ)
 
-*Please note that this plugin is not the same as Code Interpreter (Advanced Data Analysis) on ChatGPT
+\*Please note that this plugin is not the same as Code Interpreter (Advanced Data Analysis) on ChatGPT
 
 ![Untitled](user-contributed-plugins/Untitled%202.png)
 

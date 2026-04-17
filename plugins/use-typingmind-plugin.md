@@ -1,4 +1,6 @@
-# Use TypingMind Plugin
+---
+title: "Use TypingMind Plugin"
+---
 
 Plugins allow you to extend the AI model capabilities beyond text generation so you can get better AI responses:
 
@@ -39,10 +41,9 @@ Here are the plugins that TypingMind supports natively:
 ![image.png](use-typingmind-plugin/image%201.png)
 
 <aside>
-💡 You can also Build your own custom plugin that connects with your own system or work as you like using the instructions here: [https://docs.typingmind.com/plugins/build-a-typingmind-plugin](https://docs.typingmind.com/plugins/build-a-typingmind-plugin)
+  💡 You can also Build your own custom plugin that connects with your own system or work as you like using the instructions here: [https://docs.typingmind.com/plugins/build-a-typingmind-plugin](https://docs.typingmind.com/plugins/build-a-typingmind-plugin)
 
-We are constantly adding new plugins to our collection, so stay tuned!
-
+  We are constantly adding new plugins to our collection, so stay tuned!
 </aside>
 
 # Best practices
