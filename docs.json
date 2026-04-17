@@ -147,7 +147,7 @@
             ]
           },
           {
-            "group": "[Prompts]",
+            "group": "Prompts",
             "icon": "walkie-talkie",
             "pages": [
               "prompts/use-prompt-library",
