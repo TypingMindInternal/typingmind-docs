@@ -451,5 +451,12 @@
   "icons": {
     "library": "lucide"
   },
-  "logo": "https://www.typingmind.com/logo.png"
+  "interaction": {
+    "drilldown": false
+  },
+  "logo": {
+    "light": "/images/tmlogo-light.png",
+    "dark": "/images/tmlogodark.png",
+    "href": "https://www.typingmind.com/?utm_source=docs"
+  }
 }
