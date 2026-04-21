@@ -4,9 +4,9 @@
   "name": "TypingMind",
   "favicon": "https://media.brand.dev/4a4909b6-38ec-4031-b505-4f6e223c2c57.png",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#1539a3",
+    "light": "#1e4bd4",
+    "dark": "#102c7f"
   },
   "navigation": {
     "tabs": [
