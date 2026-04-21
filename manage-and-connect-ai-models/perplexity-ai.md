@@ -41,11 +41,15 @@ Here is what it looks like:
 
 ![image.png](perplexity-ai/image.png)
 
-<aside>
-  💡 **Quick troubleshooting guide:**
-  ⚠️ If you see errors like “**Sorry, Custom Model has rejected your request”**, click on the Model dropdown menu → Model Settings → Advanced Settings → Then reset all parameters to default.
-  \*\*\*\*⚠️ If you see the errors like **“…After the (optional) system message(s), user and assistant roles should be alternating”**, please enable Support System Role for custom model settings.
-</aside>
+<Warning>
+  **Quick Troubleshooting**
+
+  If you see errors like "Sorry, Custom Model has rejected your request", click on the **Model** dropdown menu → **Model Settings** → **Advanced Settings** → then reset all parameters to default.
+</Warning>
+
+<Warning>
+  If you see errors like "…After the (optional) system message(s), user and assistant roles should be alternating", please enable **Support System Role** in the custom model settings.
+</Warning>
 
 ![Untitled](perplexity-ai/Untitled%201.png)
 

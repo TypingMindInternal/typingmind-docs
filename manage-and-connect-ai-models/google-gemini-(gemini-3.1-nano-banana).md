@@ -14,28 +14,32 @@ Here’s how to get the Gemini API key:
 
 Go to [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey), you will then be asked to log into your Google account first.
 
-![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled.png)
+<Frame>
+  ![Gg](/images/gg.png)
+</Frame>
 
 ## Step 2: Create API key
 
 Click on "Get an API key" and then "Create API key in new project”.
 
-![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled%201.png)
+![Gg Api Key](/images/gg-api-key.png)
 
 Copy the generated API key.
 
-![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled%202.png)
+![Gg Copy Api Key](/images/gg-copy-api-key.png)
 
 ## Step 3: Enter the API key to the app
 
 Open TypingMind, go to Settings → API keys → enter the copied API key:
 
-![image.png](anthropic-claude/image%203.png)
+![Gg Tm Setup](/images/gg-tm-setup.png)
 
-![image.png](aws-bedrock-anthropic/image.png)
+<Frame>
+  ![Gg Model List](/images/gg-model-list.png)
+</Frame>
 
 ## Advanced settings
 
 **Custom endpoint:** Use the direct endpoint from Google or configure your own custom chat completions endpoint.
 
-![image.png](aws-bedrock-anthropic/image%201.png)
+![Gg Endpoint](/images/gg-endpoint.png)

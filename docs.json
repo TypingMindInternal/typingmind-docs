@@ -301,6 +301,7 @@
             "group": "TypingMind Team",
             "icon": "person-standing",
             "pages": [
+              "typingmind-team",
               {
                 "group": "Get started",
                 "pages": [
@@ -315,12 +316,10 @@
                   "typingmind-team/getting-started/typingmind-team-vs.-chatgpt-for-team",
                   "typingmind-team/getting-started/typingmind-team-vs-librechat",
                   "typingmind-team/getting-started/typingmind-team-vs-claude-team",
-                  "typingmind-team/getting-started/typingmind-team-vs-lobechat"
+                  "typingmind-team/getting-started/typingmind-team-vs-lobechat",
+                  "typingmind-team/getting-started"
                 ]
               },
-              "typingmind-team",
-              "typingmind-team/getting-started",
-              "typingmind-team/use-cases",
               {
                 "group": "Branding & Customizations",
                 "pages": [
@@ -365,7 +364,6 @@
               {
                 "group": "Account Management",
                 "pages": [
-                  "typingmind-team/account-management",
                   "typingmind-team/account-management",
                   "typingmind-team/account-management/manage-your-subscription",
                   "typingmind-team/account-management/change-the-owner-email",

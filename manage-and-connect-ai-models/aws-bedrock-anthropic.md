@@ -4,11 +4,9 @@ title: "AWS Bedrock Anthropic"
 
 You can use AWS Bedrock Claude models on TypingMind Custom by adding a Custom Model using the following steps:
 
-<aside>
-  📌
-
-  Please note that this is only available for [TypingMind Custom](http://custom.typingmind.com/) Admin users for now. We are actively working on updates to make it accessible to all users soon!
-</aside>
+<Note>
+  This feature is currently only available for **TypingMind Custom Admin** users. We are actively working on updates to make it accessible to all users soon!
+</Note>
 
 # 1. Create an AWS account
 

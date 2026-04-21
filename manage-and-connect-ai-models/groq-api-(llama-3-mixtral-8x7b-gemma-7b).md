@@ -12,7 +12,7 @@ Groq currently supports:
 
 Check out how to set it up on TypingMind! (Text guideline below)
 
-[https://www.youtube.com/watch?v=vjBl1qcWgQ4](https://www.youtube.com/watch?v=vjBl1qcWgQ4)
+<iframe src="https://www.youtube.com/embed/vjBl1qcWgQ4" title="YouTube video player" frameborder="0" className="w-full aspect-video rounded-xl" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen />
 
 # Step 1: Log into Groq API
 
@@ -37,9 +37,7 @@ First, you will need to sign up for a DeepSeek AI account at [https://console.gr
   - **Icon URL (suggested):** [https://groq.com/favicon.ico](https://groq.com/favicon.ico)
   - **Endpoint**: `https://api.groq.com/openai/v1/chat/completions`
   - **Model ID**: it can be `llama3-8b-8192`, `llama3-70b-8192`, `llama2-70b-4096`, `mixtral-8x7b-32768`, `gemma-7b-it`
-  - **Add Custom Headers**:
-  `Authorization`: `Bearer {{YOUR_API_KEY}}` (enter the copied API key)
-  ![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled%202.png)
+  - **Add Custom Headers**: `Authorization`: `Bearer {{YOUR_API_KEY}}` (enter the copied API key) <img src="groq-api-(llama-3-mixtral-8x7b-gemma-7b)/Untitled%202.png" alt="Untitled" />
 - Click **Test**
 - Click **Update model**
 

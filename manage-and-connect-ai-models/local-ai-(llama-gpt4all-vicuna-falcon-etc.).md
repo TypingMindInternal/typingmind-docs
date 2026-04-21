@@ -4,9 +4,11 @@ title: "Local AI (LLama, GPT4All, Vicuna, Falcon, etc.)"
 
 ## Overview
 
-Typing Mind allows you to connect the app with any model you want.
+Typing Mind allows you to connect the app with any local model you want.
 
-![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled.png)
+<Frame>
+  ![Local Ai](/images/local-ai.png)
+</Frame>
 
 **Requirement:**
 
@@ -17,9 +19,9 @@ Below is a short instruction on how to setup Typing Mind with a popular local AI
 
 ## Setup LocalAI on your device
 
-<aside>
+<Note>
   👉 If you already have another setup for the local AI model endpoint, you can skip this step.
-</aside>
+</Note>
 
 Go to [https://github.com/go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) and follow their instruction to run a model on your device.
 
@@ -29,27 +31,27 @@ For example, here is the command to setup LocalAI with Docker:
 docker run -p 8080:8080 -ti --rm -v /Users/tonydinh/Desktop/models:/app/models quay.io/go-skynet/local-ai:latest --models-path /app/models --context-size 700 --threads 4 --cors true
 ```
 
-<aside>
+<Note>
   💡 Note that we added the `--cors true` parameter to the command to make sure the local server is accessible from the browser. Typing Mind will send requests to the local model directly from the browser.
-</aside>
+</Note>
 
 If you’re doing it correctly, you should see a message like this:
 
-![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled%201.png)
+![Untitled 1 1](/images/Untitled-1-1.png)
 
 Now you can go to [http://localhost:8080/v1/models](http://localhost:8080/v1/models) and confirm that the model is ready:
 
-![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled%202.png)
+![Untitled 2 2](/images/Untitled-2-2.png)
 
-## Setup Custom Model on Typing Mind
+## Setup Custom Model on TypingMind
 
-Open Typing Mind and open the Model Setting button, then click “Add Custom Model”.
+Open TypingMind → Models → Add Custom Model:
 
-![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled%203.png)
+<Frame>
+  ![Local Ai](/images/Untitled-4-1.png)
+</Frame>
 
 Enter all the details, then click “Test” to check if your custom model is working correctly.
-
-![Untitled](deepinfra/Untitled%204.png)
 
 ### Popular problems at this step
 
@@ -63,6 +65,4 @@ Enter all the details, then click “Test” to check if your custom model is wo
 
 Once the model is tested and added successfully, you can select the custom model and chat with it normally.
 
-![Untitled](lmstudio-\(phi-3-llama-3-falcon-gemma-gpt-neo-x\)/Untitled%205.png)
-
-![Untitled](azure-openai/Untitled%206.png)
+![Untitled 6](/images/Untitled-6.png)

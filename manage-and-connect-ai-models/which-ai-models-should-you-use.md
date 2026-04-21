@@ -2,36 +2,30 @@
 title: "Which AI models should you use?"
 ---
 
-Hey there! Choosing the right AI model in 2025 can feel like picking the perfect tool from a crowded toolbox. Even when you’re writing a blog, coding an app, researching for a project, or diving into social media trends, each AI model has its own pros and cons.
+Hey there! Choosing the right AI model in 2025 can feel like picking the perfect tool from a crowded toolbox. Even when you're writing a blog, coding an app, researching for a project, or diving into social media trends, each AI model has its own pros and cons.
 
-We have done a deep dive into the top players—OpenAI’s GPT models, Anthropic’s Claude, Google’s Gemini, Perplexity, Meta AI’s Llama, DeepSeek, and xAI’s Grok—to help you find the best fit for your needs.
+We have done a deep dive into the top players—OpenAI's GPT models, Anthropic's Claude, Google's Gemini, Perplexity, Meta AI's Llama, DeepSeek, and xAI's Grok—to help you find the best fit for your needs.
 
-Let’s check it out!
+Let's check it out!
 
-## Models’ Capabilities
+## Models' Capabilities
 
-Here’s a snapshot of the top AI models to help you compare at a glance. ✅ means the feature is supported, 👍 means it’s the best in that category, and ❌ means it’s not supported. I’ve also included API pricing and key limits.
+Here's a snapshot of the top AI models to help you compare at a glance. <Icon icon="check" /> means the feature is supported, <Icon icon="thumbs-up" /> means it's the best in that category, and <Icon icon="minus" /> means it's not supported. I've also included API pricing and key limits.
 
 | **Task** | **GPT Models** | **Claude Models** | **Gemini Models** | **Perplexity** | **Grok** | **Llama Models** | **DeepSeek** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **API Available** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **API Pricing** | $0.0001-$ 0.01/1K input tokens |  |  |  |  |  |  |
-
-$0.0004-$0.04/1K output tokens | $0.00025 – $0.015/ 1K input tokens
-
-$0.00125 – $0.075/ 1K output tokens | Free tier available with limited requests.
-
-$0.000075-	$0.00015/1K input tokens
-
-$0.0003 - $0.0006/1K output tokens | $0.001-$0.003/1K input tokens
-
-$0.001-$0.015/1K output tokens | Free tier available with limited requests.
-
-$0.0006-$0.003/1K input tokens
-
-$0.0005-$0.025/1K output tokens | Free to use. | $0.00014-$0.000055/1K input tokens
-
-$0.00028-$0.00219/1K output tokens | | **Everyday Answers** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | **Writing** | ✅ | 👍 | ✅ | ❌ | ✅ | ✅ | ❌ | | **Coding** | ✅ | 👍 | ✅ | ❌ | ✅ | ✅ | ✅ | | **Math** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | **Reasoning** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | **Web Search** | ✅ | ✅ | ✅ | 👍 | ✅ | ❌ | ✅ | | **Deep Research** | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | | **Native Image Generation** | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | | **Video Analysis** | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | | **Computer Use** | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **API Available** | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> |
+| **API Pricing** | $0.0001–$0.01/1K input tokens · $0.0004–$0.04/1K output tokens | $0.00025–$0.015/1K input tokens · $0.00125–$0.075/1K output tokens | Free tier available · $0.000075–$0.00015/1K input tokens · $0.0003–$0.0006/1K output tokens | $0.001–$0.003/1K input tokens · $0.001–$0.015/1K output tokens | Free tier available · $0.0006–$0.003/1K input tokens · $0.0005–$0.025/1K output tokens | Free to use | $0.00014–$0.000055/1K input tokens · $0.00028–$0.00219/1K output tokens |
+| **Everyday Answers** | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> |
+| **Writing** | <Icon icon="check" /> | <Icon icon="thumbs-up" /> | <Icon icon="check" /> | <Icon icon="minus" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="minus" /> |
+| **Coding** | <Icon icon="check" /> | <Icon icon="thumbs-up" /> | <Icon icon="check" /> | <Icon icon="minus" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> |
+| **Math** | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> |
+| **Reasoning** | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> |
+| **Web Search** | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="thumbs-up" /> | <Icon icon="check" /> | <Icon icon="minus" /> | <Icon icon="check" /> |
+| **Deep Research** | <Icon icon="check" /> | <Icon icon="minus" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="minus" /> | <Icon icon="check" /> |
+| **Native Image Generation** | <Icon icon="check" /> | <Icon icon="minus" /> | <Icon icon="check" /> | <Icon icon="minus" /> | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="minus" /> |
+| **Video Analysis** | <Icon icon="minus" /> | <Icon icon="minus" /> | <Icon icon="check" /> | <Icon icon="minus" /> | <Icon icon="minus" /> | <Icon icon="minus" /> | <Icon icon="minus" /> |
+| **Computer Use** | <Icon icon="check" /> | <Icon icon="check" /> | <Icon icon="minus" /> | <Icon icon="minus" /> | <Icon icon="minus" /> | <Icon icon="minus" /> | <Icon icon="minus" /> |
 
 ## Deep Dive: Which AI Should You Use?
 
@@ -41,11 +35,11 @@ $0.00028-$0.00219/1K output tokens | | **Everyday Answers** | ✅ | ✅ | ✅ | 
 
 **Best for**: General-purpose use, content creation, conversational interfaces, productivity.
 
-OpenAI’s GPT family is still the most widely deployed and user-friendly line of models. GPT-4.5 (`o3`) delivers smooth, emotionally intelligent conversations and excels in content-heavy workflows.
+OpenAI's GPT family is still the most widely deployed and user-friendly line of models. GPT-4.5 (`o3`) delivers smooth, emotionally intelligent conversations and excels in content-heavy workflows.
 
 However, it's **not the top performer when it comes to serious coding tasks**—often trailing behind Claude in code correctness, explanation clarity, and multi-step logic.
 
-![image.png](which-ai-models-should-you-use/image.png)
+<img src="which-ai-models-should-you-use/image.png" alt="GPT Models" />
 
 **Pros**:
 
@@ -65,19 +59,19 @@ However, it's **not the top performer when it comes to serious coding tasks**—
 
 **Best for**: Deep reasoning, coding, document analysis, structured workflows.
 
-Claude models excel at tasks that require step-by-step reasoning, thoughtful summarization, and precision. They’re especially good for analyzing long documents or solving technical problems. Compared to GPT, Claude’s responses often feel **less polished but more concise and human**—as if you're talking to someone who thinks before they speak.
+Claude models excel at tasks that require step-by-step reasoning, thoughtful summarization, and precision. They're especially good for analyzing long documents or solving technical problems. Compared to GPT, Claude's responses often feel **less polished but more concise and human**—as if you're talking to someone who thinks before they speak.
 
 **Pros**:
 
 - Strong at logic, coding, and long-form understanding.
 - Responses feel grounded, natural, and to the point.
 
-![image.png](which-ai-models-should-you-use/image%201.png)
+<img src="which-ai-models-should-you-use/image%201.png" alt="Claude Models" />
 
 **Cons**:
 
-- Compared to some other models, Claude supports a smaller context window for conversations
-- Higher cost
+- Compared to some other models, Claude supports a smaller context window for conversations.
+- Higher cost.
 
 ### 3. Gemini Models (Google)
 
@@ -87,13 +81,13 @@ Claude models excel at tasks that require step-by-step reasoning, thoughtful sum
 
 Gemini is technically powerful on paper—with huge context windows and native multimodal input—but in real-world use, the experience can feel underwhelming. Outside of specific use cases like long document handling or video understanding, it often lags behind Claude and GPT in most use cases.
 
-![image.png](which-ai-models-should-you-use/image%202.png)
+<img src="which-ai-models-should-you-use/image%202.png" alt="Gemini Models" />
 
 **Pros**:
 
 - Handles very long input well (up to 2M tokens).
 - Can process and analyze videos and other media types.
-- Low price
+- Low price.
 
 **Cons**:
 
@@ -104,11 +98,11 @@ Gemini is technically powerful on paper—with huge context windows and native m
 
 **Rate:** 7/10
 
-**Best for**: Real-time web-grounded search, factual Q&A
+**Best for**: Real-time web-grounded search, factual Q&A.
 
 Perplexity AI is optimized for real-time, web-grounded search and question-answering tasks. It delivers fast, accurate, and concise answers, making them ideal for users seeking up-to-date information with source citations.
 
-![image.png](which-ai-models-should-you-use/image%203.png)
+<img src="which-ai-models-should-you-use/image%203.png" alt="Perplexity" />
 
 **Pros**:
 
@@ -125,9 +119,9 @@ Perplexity AI is optimized for real-time, web-grounded search and question-answe
 
 **Best for**: Developers, startups, self-hosting, privacy-sensitive and cost-efficient deployments.
 
-Meta’s LLaMA line is open-source and increasingly competitive. While LLaMA 3 models (8B, 70B) are strong for lightweight tasks, the early **LLaMA 4 "Scout" model** has pushed limits by introducing support for **up to 10 million tokens**—ideal for processing entire books, codebases, or chat histories. Performance-wise, they’re still behind Claude and GPT in general fluency, but they're rapidly catching up and are far more customizable.
+Meta's LLaMA line is open-source and increasingly competitive. While LLaMA 3 models (8B, 70B) are strong for lightweight tasks, the early **LLaMA 4 "Scout" model** has pushed limits by introducing support for **up to 10 million tokens**—ideal for processing entire books, codebases, or chat histories. Performance-wise, they're still behind Claude and GPT in general fluency, but they're rapidly catching up and are far more customizable.
 
-![image.png](which-ai-models-should-you-use/image%204.png)
+<img src="which-ai-models-should-you-use/image%204.png" alt="Llama Models" />
 
 **Pros**:
 
@@ -150,7 +144,7 @@ Meta’s LLaMA line is open-source and increasingly competitive. While LLaMA 3 m
 
 DeepSeek (like DeepSeek R1 and V3) is a budget-friendly, open-source model that punches above its weight in coding and math.
 
-![image.png](which-ai-models-should-you-use/image%205.png)
+<img src="which-ai-models-should-you-use/image%205.png" alt="DeepSeek" />
 
 **Pros**:
 
@@ -161,7 +155,7 @@ DeepSeek (like DeepSeek R1 and V3) is a budget-friendly, open-source model that 
 
 - Still lags behind Claude or GPT in coding or deep reasoning chains.
 - Less polished language generation and weaker long-form output.
-- Not great for creative writing—responses lack flair
+- Not great for creative writing—responses lack flair.
 
 ### 7. Grok (xAI)
 
@@ -169,14 +163,14 @@ DeepSeek (like DeepSeek R1 and V3) is a budget-friendly, open-source model that 
 
 **Best for**: Coding, creative writing, real-time information retrieval, and engaging conversations.
 
-Grok 3 has emerged as a strong contender in the AI space, particularly good at **coding** and **creative writing** tasks. Its advanced reasoning modes, such as “Think” and “Big Brain,” enable it to tackle complex problems and generate nuanced content.
+Grok 3 has emerged as a strong contender in the AI space, particularly good at **coding** and **creative writing** tasks. Its advanced reasoning modes, such as "Think" and "Big Brain," enable it to tackle complex problems and generate nuanced content.
 
-![image.png](which-ai-models-should-you-use/image%206.png)
+<img src="which-ai-models-should-you-use/image%206.png" alt="Grok" />
 
 **Pros**:
 
-- Strong capabilities in code generation and problem-solving
-- Offer a witty and engaging tone, producing coherent and stylistically consistent narratives.
+- Strong capabilities in code generation and problem-solving.
+- Offers a witty and engaging tone, producing coherent and stylistically consistent narratives.
 
 **Cons**:
 
@@ -187,14 +181,12 @@ Grok 3 has emerged as a strong contender in the AI space, particularly good at *
 
 These ratings and impressions are based on a combination of **personal experience** and **social research** — including feedback from the AI community, casual testing, and public discussions. They're meant to give you a general sense of how these models perform in everyday use.
 
-That said, **they don’t reflect 100% of user experiences**, and different people (or workflows) may get very different results depending on the task, prompt style, or platform used.
+That said, **they don't reflect 100% of user experiences**, and different people (or workflows) may get very different results depending on the task, prompt style, or platform used.
 
 The best way to find the right model? Try them out yourself on TypingMind - compare multiple AI models in parallel to find the best one for your needs!
 
-![image.png](which-ai-models-should-you-use/image%207.png)
+<img src="which-ai-models-should-you-use/image%207.png" alt="TypingMind model comparison" />
 
-<aside>
-  💡
-
+<Tip>
   All above models can be set up on TypingMind: [https://docs.typingmind.com/manage-and-connect-ai-models](https://docs.typingmind.com/manage-and-connect-ai-models)
-</aside>
+</Tip>

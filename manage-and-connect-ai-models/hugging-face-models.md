@@ -6,11 +6,11 @@ Hugging Face is a platform that hosts a wide range of AI models, which allows us
 
 This article will walk you through deploying your own open-source language models (LLMs) from Hugging Face on TypingMind.
 
-<aside>
-  💡 Please note: you can apply this guide to add your text-to-image or text-to-speed models that are available on HuggingFace too.
-</aside>
+<Warning>
+  Please note: you can apply this guide to add your text-to-image or text-to-speed models that are available on HuggingFace too.
+</Warning>
 
-[https://www.youtube.com/watch?v=RGlATRjmgdc](https://www.youtube.com/watch?v=RGlATRjmgdc)
+<iframe src="https://www.youtube.com/embed/RGlATRjmgdc" title="YouTube video player" frameborder="0" className="w-full aspect-video rounded-xl" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen />
 
 # Step 1: Set up your Hugging Face endpoint
 
@@ -87,10 +87,8 @@ This article will walk you through deploying your own open-source language model
 - Fill in the following required fields:
   - **Name**: enter a name for your model.
   - **Icon URL**: optionally, provide a URL for an icon that represents your model.
-  - **Endpoint**: copy the endpoint URL from your Hugging Face model page that you created in step 2 and paste it into the appropriate field.
-    Make sure you append `/v1/chat/completions` at the end of the endpoint URL to make it compatible.
-  - **Model ID**: this can be copied directly from the model page on Hugging Face.
-    ![image.png](hugging-face-models/image%2012.png)
+  - **Endpoint**: copy the endpoint URL from your Hugging Face model page that you created in step 2 and paste it into the appropriate field. Make sure you append `/v1/chat/completions` at the end of the endpoint URL to make it compatible.
+  - **Model ID**: this can be copied directly from the model page on Hugging Face. <img src="hugging-face-models/image%2012.png" alt="image.png" />
 - Click **Add** **Custom Headers**, type `Authorization` in the first box.
 - In the second box, type `Bearer [Your API Key]`, replacing `[Your API Key]` with the actual key you generated earlier.
 - Click **“Test”** to verify if the setup is working correctly.

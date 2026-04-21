@@ -4,7 +4,7 @@ title: "Mistral AI"
 
 It’s easy to setup Typing Mind for using with Mistral AI ([https://mistral.ai/](https://mistral.ai/)). Here is a quick guide.
 
-[https://www.youtube.com/watch?v=H2Eb46wBypw](https://www.youtube.com/watch?v=H2Eb46wBypw)
+<iframe src="https://www.youtube.com/embed/H2Eb46wBypw" title="YouTube video player" frameborder="0" className="w-full aspect-video rounded-xl" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen />
 
 ## Get a Mistral AI account
 

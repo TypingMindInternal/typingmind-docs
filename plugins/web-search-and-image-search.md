@@ -1,5 +1,5 @@
 ---
-title: "Web search & Image search"
+title: "Web search & Image search (Deprecated)"
 ---
 
 To enable the Web Search feature on [TypingMind.com](http://TypingMind.com) with the Programmable Search Engine, you need to get the following info:

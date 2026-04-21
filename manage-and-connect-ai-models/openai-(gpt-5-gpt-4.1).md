@@ -26,12 +26,12 @@ After signing up, you will need to top up your credit to use the API key:
 
 ![image.png](aws-bedrock-anthropic/image%201.png)
 
-1. Click "Add payment details" and enter your payment details
-2. Choose the initial amount of credits you want to purchase. The minimum purchase is \$5.
+2. Click "Add payment details" and enter your payment details
+3. Choose the initial amount of credits you want to purchase. The minimum purchase is \$5.
 
 You can enable the option Automatic recharge so OpenAI can charge you automatically once your credit balance is lower than a specific threshold to keep your workflow going without any interruption.
 
-1. Confirm and purchase your initial amount of credits.
+4. Confirm and purchase your initial amount of credits.
 
 ## **Step 3: Get your API key**
 

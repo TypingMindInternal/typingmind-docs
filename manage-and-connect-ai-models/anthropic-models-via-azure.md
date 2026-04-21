@@ -13,21 +13,21 @@ Follow the steps below to set up your Claude model on Azure and integrate it int
 
 ![image.png](anthropic-models-via-azure/image.png)
 
-1. Go to **Model Catalog** → select a **Claude** model → click **Use this model**.
+3. Go to **Model Catalog** → select a **Claude** model → click **Use this model**.
 
 ![image.png](anthropic-models-via-azure/image%201.png)
 
-1. **Deploy** the model.
+4. **Deploy** the model.
 
 ![image.png](anthropic-models-via-azure/image%202.png)
 
-1. Open the deployment in **Playground** → click **View code**.
+5. Open the deployment in **Playground** → click **View code**.
 
 ![image.png](anthropic-models-via-azure/image%203.png)
 
 ![image.png](anthropic-models-via-azure/image%204.png)
 
-1. Switch to the **Key authentication** tab → switch to **cURL** to view the code sample.
+6. Switch to the **Key authentication** tab → switch to **cURL** to view the code sample.
 
 From here, copy the following values:
 
@@ -47,8 +47,7 @@ Enter the following information:
 - **Name:** Claude via Azure
 - **API type:** switch to **Claude Message API**
 - **Endpoint:** paste the endpoint you copied in Step 1
-  - Format example:
-    `https://[RESOURCE-NAME].openai.azure.com/anthropic/v1/messages`
+  - Format example: `https://[RESOURCE-NAME].openai.azure.com/anthropic/v1/messages`
 - **Model ID:** your copied model ID
 - **Add Custom Headers:**
   - `x-api-key: your-copied-api-key`

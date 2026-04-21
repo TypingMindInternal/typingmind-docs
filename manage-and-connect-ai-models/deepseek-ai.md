@@ -4,7 +4,7 @@ title: "DeepSeek AI"
 
 Detailed guide on how to use DeepSeek AI on TypingMind.
 
-[https://www.youtube.com/watch?v=nxl8NkS2v5c](https://www.youtube.com/watch?v=nxl8NkS2v5c)
+<iframe src="https://www.youtube.com/embed/nxl8NkS2v5c" title="YouTube video player" frameborder="0" className="w-full aspect-video rounded-xl" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen />
 
 ## Step 1: Sign up for DeepSeek AI
 
@@ -28,8 +28,7 @@ First, you will need to sign up for a DeepSeek AI account at [https://platform.d
   - **Name**: DeepSeek (or you can give it any name you want)
   - **Endpoint**: [`https://api.deepseek.com/v1/chat/completions`](https://api.deepseek.com/v1/chat/completions)
   - **Model ID**: `deepseek-chat` (deepseek-v3.2 without thinking) or `deepseek-reasoner` (deepseek-v3.2 with thinking mode)
-  - **Add Custom Headers**:
-  `Authorization`: `Bearer {{YOUR_API_KEY}}` (enter the copied API key)
+  - **Add Custom Headers**: `Authorization`: `Bearer {{YOUR_API_KEY}}` (enter the copied API key)
 
 ![Untitled](deepseek-ai/Untitled%202.png)
 
