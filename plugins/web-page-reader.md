@@ -2,7 +2,9 @@
 title: "Web Page Reader"
 ---
 
-# Web Page Reader
+<Tip>
+  Use Read Web Page (Firecrawl) plugin to get better scraping ability.
+</Tip>
 
 You can use Web Page Reader plugin to let the AI models read the content of your provided URLs and analyze or summarize it.
 

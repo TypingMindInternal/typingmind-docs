@@ -2,13 +2,11 @@
 title: "GPT Image Editor"
 ---
 
-# GPT Image Editor
-
 **OpenAI Image Generation is available on TypingMind via the GPT Image Editor plugin.**
 
 With this plugin, you can:
 
-- Generate and edit images using the `gpt-image-1` API (just like ChatGPT’s native image generation)
+- Generate and edit images using the `gpt-image-1` and `gpt-image-2`API (just like ChatGPT’s native image generation)
 - Use image generation with any LLM—not limited to OpenAI models
 
 ## Step 1: Open GPT Image Editor plugin setting

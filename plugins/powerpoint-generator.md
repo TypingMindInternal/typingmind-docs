@@ -1,6 +1,9 @@
----
-title: "Powerpoint Generator"
----
+# Powerpoint Generator
+
+<Warning>
+  Plugin has been removed because it relied on a legacy plugin server. Please use Code Sandbox to generate files instead.
+</Warning>
+
 The PowerPoint Generator plugin allows you to quickly create PowerPoint slides with customizable layouts, fonts, and colors. Follow these steps to set up and configure the plugin on your app.
 
 ## Step 1: Install the Powerpoint Generator Plugin

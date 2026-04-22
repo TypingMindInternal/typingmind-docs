@@ -1,75 +1,52 @@
 ---
 title: "TypingMind Team: Cloud-host vs Self-host"
 ---
-TypingMind Custom provides two hosting options:
 
-- [Cloud-hosted version](https://custom.typingmind.com/features/get-started-on-our-cloud)
-- [Self-hosted version](https://custom.typingmind.com/self-host)
-
- The below table compares key features and requirements between the two options to help you choose the best option for your needs. 
-
-|  | **Cloud-hosted** | **Self-hosted**  |
+|  | **Cloud-hosted** | **Self-hosted** |
 | --- | --- | --- |
-| **💰 Pricing** |  |  |
-| **Pricing** | [Monthly subscription](https://custom.typingmind.com/pricing) starts at $99/month  | Annual subscription. [Contact us for custom pricing.](https://custom.typingmind.com/business-plan) |
-| **Number of available user seats** | 5 user seats included by default
+| **Pricing** | [Monthly subscription](https://custom.typingmind.com/pricing) starts at \$99/month | Annual subscription. [Contact us for custom pricing.](https://custom.typingmind.com/business-plan) |
+| **User seats** | 5 included. Extra seats at \$8/seat/month | 5 included. Extra seats at custom pricing |
+| **Free trial & refund** | 14-day free trial, no upfront cost | No free trial, non-refundable. _Recommend trying Cloud-host first._ |
 
-Extra user seats at $8/seat/month | 5 user seats included by default
+## Setup & Installation
 
-Extra user seats at custom pricing |
-| **Free trial and refund policy** | 14-day free trial, no upfront cost | No free trial and non-refundable.
+|  | **Cloud-hosted** | **Self-hosted** |
+| --- | --- | --- |
+| **Deployment** | Hosted on TypingMind's cloud servers (US/EU data centers) | Hosted on your own servers |
+| **Setup** | Simple [signup](https://custom.typingmind.com/signup) managed by TypingMind | Requires technical knowledge. See [requirements](https://custom.typingmind.com/self-host) |
 
-****Recommend: Try the Cloud-host first before purchasing Self-host version* |
-| ⚙️ **Setup and Installation** |  |  |
-| **Deployment** | Hosted on TypingMind’s cloud servers (US/EU data centers) | Hosted on your own servers |
-| **Setup** | Simple [signup](https://custom.typingmind.com/signup) managed by TypingMind | Requires technical knowledge for installation and maintenance. Requirements [here](https://custom.typingmind.com/self-host) |
-| 🚀 **Feature availability** |  |  |
-| **Fully featured user-facing chat interface** | ✅ | ✅ |
-| **Fully featured Admin Panel** | ✅ | ✅ |
-| [**Custom branding and domain**](https://custom.typingmind.com/features/custom-branding) | ✅ | ✅ |
-| [**Create Prompt templates**](https://custom.typingmind.com/features/prompt-library) | ✅ | ✅ |
-| [**Build shared AI Agent**](https://docs.typingmind.com/typingmind-custom/branding-and-customizations/build-a-shared-ai-agent-collection) | ✅ | ✅ |
-| [**Set up Plugins and Custom Plugins**](https://custom.typingmind.com/features/plugins) | ✅ | ✅ |
-| [**View chat logs**](https://docs.typingmind.com/typingmind-custom/user-management/enable-chat-logs-how-it-works) | ✅ | ✅ |
-| [**Use with Custom LLMs (LLaMA, Azure, etc.)**](https://custom.typingmind.com/features/manage-chat-models) | ✅ | ✅ |
-| [**Connect Knowledge Base**](https://custom.typingmind.com/features/upload-training-data) | ✅
+## Features
 
-Directly upload training data and connect online data sources (PDF, TXT, Notion, Google Drive, Intercom, etc.) | ✅
+|  | **Cloud-hosted** | **Self-hosted** |
+| --- | --- | --- |
+| [Fully featured chat interface](https://custom.typingmind.com) | ✅ | ✅ |
+| [Fully featured Admin Panel](https://custom.typingmind.com) | ✅ | ✅ |
+| [Custom branding and domain](https://custom.typingmind.com/features/custom-branding) | ✅ | ✅ |
+| [Prompt templates](https://custom.typingmind.com/features/prompt-library) | ✅ | ✅ |
+| [Shared AI Agents](https://docs.typingmind.com/typingmind-custom/branding-and-customizations/build-a-shared-ai-agent-collection) | ✅ | ✅ |
+| [Plugins & Custom Plugins](https://custom.typingmind.com/features/plugins) | ✅ | ✅ |
+| [Chat logs](https://docs.typingmind.com/typingmind-custom/user-management/enable-chat-logs-how-it-works) | ✅ | ✅ |
+| [Custom LLMs (LLaMA, Azure, etc.)](https://custom.typingmind.com/features/manage-chat-models) | ✅ | ✅ |
+| [Knowledge Base](https://custom.typingmind.com/features/upload-training-data) | ✅ PDF, TXT, Notion, Google Drive, Intercom, and more | ✅ PDF, TXT, Notion, Google Drive, Intercom, and more |
+| [Reports & Analytics](https://custom.typingmind.com/features/analytics-dashboard) | ✅ | ✅ |
+| [API Integration](https://custom.typingmind.com/features/api-access) | ✅ | ✅ |
+| [Access Control](https://custom.typingmind.com/features/access-control) | ✅ | ✅ |
+| [Manage usage per model](https://custom.typingmind.com/features/limit-chat-model-access) | ✅ | ✅ |
+| [SSO Authentication](https://docs.typingmind.com/typingmind-custom/user-management/setup-single-sign-on-\(sso\)) | ✅ | ✅ |
+| **Bill users with custom pricing** | ❌ Requires [Reseller Program](https://custom.typingmind.com/reseller) \+ [API](https://api.typingmind.com/docs) | ❌ Requires [Reseller Program](https://custom.typingmind.com/reseller) \+ [API](https://api.typingmind.com/docs) |
+| **Custom user guides** | ✅ Customizable via Admin panel | ✅ Customizable via Admin panel |
 
-Directly upload training data and connect online data sources (PDF, TXT, Notion, Google Drive, Intercom, etc.) |
-| [**Report and Analytics**](https://custom.typingmind.com/features/analytics-dashboard) | ✅ | ✅ |
-| [**API Integration**](https://custom.typingmind.com/features/api-access) | ✅ | ✅ |
-| [**Access Control (select Public or Private mode for your AI Agent)**](https://custom.typingmind.com/features/access-control) | ✅ | ✅ |
-| [**Manage usage per model**](https://custom.typingmind.com/features/limit-chat-model-access) | ✅ | ✅ |
-| [**SSO Authentication**](https://docs.typingmind.com/typingmind-custom/user-management/setup-single-sign-on-(sso)) | ✅ | ✅ |
-| **Bill your users with custom pricing** | ❌
+## Privacy
 
-Requirement:
-- Join our [Reseller Program](https://custom.typingmind.com/reseller)
-- Implement payment system using our [API](https://api.typingmind.com/docs) | ❌
+|  | **Cloud-hosted** | **Self-hosted** |
+| --- | --- | --- |
+| [**Data control**](https://docs.typingmind.com/security-and-compliance/data-privacy-and-security-report) | Data stored and processed on TypingMind's servers | Complete control over data storage and processing |
+| [**Privacy & Security**](https://docs.typingmind.com/security-and-compliance/privacy-policy) | Securely stored on TypingMind's servers. Never shared with third parties. | All data stays in your MySQL database. No data sent to external services. Add custom security layers as needed. |
 
-Requirement:
-- Join our [Reseller Program](https://custom.typingmind.com/reseller)
-- Implement payment system using our [API](https://api.typingmind.com/docs) |
-| **Custom user guides and documentation** | ✅
+## Support & Maintenance
 
-Customizable links via Admin panel | ✅
-
-Customizable links via Admin panel |
-| 🔐 **Privacy** |  |  |
-| [**Data control**](https://docs.typingmind.com/security-and-compliance/data-privacy-and-security-report) | Data stored and processed on TypingMind’s servers | Complete control over data storage and processing |
-| [**Privacy and Security**](https://docs.typingmind.com/security-and-compliance/privacy-policy) | **All information collected is securely stored on our server.** We never share your information with anyone else or any third-party service provider.  | **All data are stored in your MySQL database and never sent anywhere else**. There is strictly no user data sent out to any other external services. 
-
-You also have the option to set up any supplemental security layers and configure the system as you see fit. |
-| 💬 **Support and Maintenance** |  |  |
-| **Support** | ✅
-
-Email or real-time chat support | ✅
-
-Email or real-time chat support |
-| **Maintenance and updates** | Maintenance and updates managed by TypingMind | You handle updates and server maintenance |
-| **Other ongoing costs** | ❌ 
-
-Fixed subscription fee | ✅ 
-
-Variable, based on server usage and maintenance |
+|  | **Cloud-hosted** | **Self-hosted** |
+| --- | --- | --- |
+| **Support** | ✅ Email or real-time chat | ✅ Email or real-time chat |
+| **Maintenance & updates** | Managed by TypingMind | You handle updates and server maintenance |
+| **Other ongoing costs** | ❌ Fixed subscription fee | ✅ Variable, based on server usage and maintenance |

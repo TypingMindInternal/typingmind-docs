@@ -1,6 +1,9 @@
----
-title: "Send Emails via Zapier"
----
+# Send Emails via Zapier
+
+<Warning>
+  Zapier currently blocks requests from browser so this plugin will no longer work. Please set up [Zapier MCP](/model-context-protocol-\(mcp\)-in-typingmind/typingmind-mcp-zapier) instead.
+</Warning>
+
 TypingMind can be integrated with Zapier to automate various tasks through custom plugins. Common use cases include:
 
 - Send emails
@@ -10,24 +13,14 @@ TypingMind can be integrated with Zapier to automate various tasks through custo
 - Create Google Docs
 - And many more automation possibilities
 
-<aside>
-💡
-
-Please note that this plugin requires server plugin to get it to work. Learn more: [Server Plugin](https://docs.typingmind.com/changelog/typingmind/introducing-plugin-server)
-
-You will also need to have Zapier Pro to use Webhook by Zapier. 
-
-</aside>
-
-Before diving into more details, **you must define your goal** - which tasks you want to achieve by using Zapier automation? 
+Before diving into more details, **you must define your goal** - which tasks you want to achieve by using Zapier automation?
 
 In this guide, we will provide **an example guideline to set up Send emails via Zapier**, but you can adapt these principles to create other types of automations based on your specific needs.
 
 <aside>
-💡
+  💡
 
-Here is the link to the repository of the completed plugin so you can directly import to TypingMind: https://github.com/TypingMind/plugin-send-email-with-zapier
-
+  Here is the link to the repository of the completed plugin so you can directly import to TypingMind: [https://github.com/TypingMind/plugin-send-email-with-zapier](https://github.com/TypingMind/plugin-send-email-with-zapier)
 </aside>
 
 ![image.png](send-emails-via-zapier/image.png)
@@ -36,9 +29,9 @@ Here is the link to the repository of the completed plugin so you can directly i
 
 - Log into Zapier and create a new Zap.
 - For the trigger:
-    - Select "**Webhooks by Zapier**"
-    - Choose "**Catch Hook**" as the trigger event
-    - Click "**Continue**"
+  - Select "**Webhooks by Zapier**"
+  - Choose "**Catch Hook**" as the trigger event
+  - Click "**Continue**"
 
 ![image.png](send-emails-via-zapier/image%201.png)
 
@@ -62,7 +55,7 @@ Here is the link to the repository of the completed plugin so you can directly i
 
 For example, here we set "Email" for the **To** field, "Subject" for the **Subject** field, and "Content" for the **Body** field as dynamic fields. This allows the app to send any content to any email address as needed.
 
-If you plan to use other apps, check their settings to see which fields can be set dynamically within TypingMind plugin. 
+If you plan to use other apps, check their settings to see which fields can be set dynamically within TypingMind plugin.
 
 ## **Step 3: Create a custom plugin in TypingMind**
 
@@ -73,7 +66,7 @@ If you plan to use other apps, check their settings to see which fields can be s
 
 ### OpenAI Function Spec
 
-In this plugin, we want to enable the AI to send messages to an email. We'll name the function send_email_with_zapier with three parameters:
+In this plugin, we want to enable the AI to send messages to an email. We'll name the function send\_email\_with\_zapier with three parameters:
 
 - `email`
 - `subject`
@@ -110,7 +103,7 @@ The full function spec is as follows:
 }
 ```
 
-**Ensure you provide a comprehensive description so the AI knows what to send to the webhook.*
+\*_Ensure you provide a comprehensive description so the AI knows what to send to the webhook._
 
 ### User settings (optional)
 
@@ -156,12 +149,11 @@ However, if the plugin requires users to enter their own URL, please follow the 
 - Click **Add test variables** and send a test request - this will send a request record that defines the values for your Zapier settings.
 
 <aside>
-💡
+  💡
 
-Replace the test value with your webhook URL to check if it works.
+  Replace the test value with your webhook URL to check if it works.
 
-![image.png](send-emails-via-zapier/image%207.png)
-
+  ![image.png](send-emails-via-zapier/image%207.png)
 </aside>
 
 ## Step 4: **Complete the Zapier Setup**
@@ -172,8 +164,8 @@ Replace the test value with your webhook URL to check if it works.
 ![image.png](send-emails-via-zapier/image%208.png)
 
 - Return to the Trigger Action to configure the fields:
-    - In the **To** field, select the "Email" value (click to toggle Catch Hook and select the value)
-    - In the **Subject** and **Content** fields, select their corresponding values.
+  - In the **To** field, select the "Email" value (click to toggle Catch Hook and select the value)
+  - In the **Subject** and **Content** fields, select their corresponding values.
 
 For other settings, you can manually fill in as permanent data or go back to TypingMind request body to add more value and re-do the steps.
 
@@ -190,8 +182,7 @@ Test your custom plugin in TypingMind to ensure it works as expected.
 ![image.png](send-emails-via-zapier/image%2011.png)
 
 <aside>
-💡
+  💡
 
-Please note that the 'Send Email via Zapier' plugin is also available on the TypingMind Plugin Store. You can install it directly and follow the steps above to make it work.
-
+  Please note that the 'Send Email via Zapier' plugin is also available on the TypingMind Plugin Store. You can install it directly and follow the steps above to make it work.
 </aside>

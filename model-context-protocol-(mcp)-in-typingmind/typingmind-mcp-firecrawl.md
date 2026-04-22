@@ -1,6 +1,5 @@
----
-title: "TypingMind MCP + Firecrawl"
----
+# TypingMind MCP \+ Firecrawl
+
 This guide will help you integrates Firecrawl for web scraping capabilities via Firecrawl MCP server.
 
 ## Why uses Firecrawl?
@@ -19,11 +18,11 @@ This guide will help you integrates Firecrawl for web scraping capabilities via 
 
 ### Step 2: Add Firecrawl as custom MCP connection
 
-Go to Plugin → MCP Connectors → Add Connector 
+Go to Plugin → MCP Connectors → Add Connector
 
 ![image.png](typingmind-mcp-github/image%201.png)
 
-- Add Server URL: [`https://mcp.firecrawl.dev/{FIRECRAWL_API_KEY}/v2/mcp](https://mcp.firecrawl.dev/%7BFIRECRAWL_API_KEY%7D/v2/mcp)` with [`{FIRECRAWL_API_KEY}`](https://mcp.firecrawl.dev/%7BFIRECRAWL_API_KEY%7D/v2/mcp) is your copied API key in step 1.
+- Add Server URL: `https://mcp.firecrawl.dev/{FIRECRAWL_API_KEY}/v2/mcp` with `{FIRECRAWL_API_KEY}` is your copied API key in step 1.
 - Connection name: Firecrawl
 - Description: Integrate AI assistants with Firecrawl to search and scrape websites.
 
@@ -38,7 +37,7 @@ After creating the connection with Firecrawl MCP, you will see Firecrawl appear 
 ![image.png](typingmind-mcp-context7/image%201.png)
 
 - If you select TypingMind Cloud, you can connect to our remote MCP server in one-click without any further setup
-- If you choose to set up Private MCP Connector, then follow the steps here: [Use MCP with Private MCP Connector](https://docs.typingmind.com/model-context-protocol-(mcp)-in-typingmind/use-mcp-with-private-mcp-connector)
+- If you choose to set up Private MCP Connector, then follow the steps here: [Use MCP with Private MCP Connector](https://docs.typingmind.com/model-context-protocol-\(mcp\)-in-typingmind/use-mcp-with-private-mcp-connector)
 
 ### Step 3: Enable Firecrawl and control tool use
 
@@ -48,6 +47,6 @@ After successfully connecting with Firecrawl MCP, you can control which actions 
 
 ### Step 4: Start chatting
 
-You’re all set! 
+You’re all set!
 
 ![image.png](typingmind-mcp-firecrawl/image%203.png)

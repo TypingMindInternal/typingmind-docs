@@ -1,20 +1,20 @@
----
-title: "Error 429: Claude Rate Limit Exceeded"
----
+# Error 429: Claude Rate Limit Exceeded
+
 When using Claude models, you may occasionally see the following error message:
 
 > `Claude has rejected your request with error code 429. Here are the possible reasons: 1. You are sending requests too quickly; 2. You have hit your maximum monthly spend (hard limit); 3. The model is currently overloaded. Here is the error message from Claude: This request would exceed your organization’s rate limit of x0,000 input tokens per minute. For details, refer to: [https://docs.anthropic.com/en/api/rate-limits](https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at [https://www.anthropic.com/contact-sales](https://www.anthropic.com/contact-sales) to discuss your options for a rate limit increase.`
-> 
 
-![image.png](error-429:-claude-rate-limit-exceeded/image.png)
+<Frame>
+  ![Image](/images/image.png)
+</Frame>
 
-This error means your request cannot be processed because it would exceed the *token-per-minute* (TPM) limit imposed by Anthropic.
+This error means your request cannot be processed because it would exceed the _token-per-minute_ (TPM) limit imposed by Anthropic.
 
 ## What the rate limit means
 
 Every Claude model has strict limits on how many tokens you can send (and receive) per minute. These limits vary depending on your usage tier.
 
-![image.png](error-429:-claude-rate-limit-exceeded/image%201.png)
+![Image 1](/images/image-1.png)
 
 For example, you are using Claude 4 and encounter the error as follows:
 
@@ -58,7 +58,7 @@ Below are several practical approaches you can take:
 
 Increasing your tier raises your TPM limit. You will need to top up more API credit for your account to upgrade usage tier at [https://console.anthropic.com/settings/billing](https://console.anthropic.com/settings/billing)
 
-![image.png](error-429:-claude-rate-limit-exceeded/image%202.png)
+![Image 2](/images/image-2.png)
 
 ### 2. Reduce token usage in your conversation
 
@@ -71,15 +71,15 @@ You can lower the size of your requests by:
 
 Keeping the conversation lean ensures you stay within the TPM limit.
 
-![image.png](error-429:-claude-rate-limit-exceeded/image%203.png)
+![Image 3](/images/image-3.png)
 
 ### 3. Try using the model through OpenRouter
 
 If you need the same model but with different rate limits, OpenRouter may provide more flexible usage depending on the provider’s settings.
 
-Learn how to [set up models via OpenRouter](../Manage%20&%20Connect%20AI%20Models/OpenRouter%207feb19d3376b42d4a7b9059af94c8247.md)
+Learn how to [set up models via OpenRouter](/manage-and-connect-ai-models/openrouter)
 
-![image.png](error-429:-claude-rate-limit-exceeded/image%204.png)
+![Image 4](/images/image-4.png)
 
 ### 4. Switch to another AI Model
 
@@ -87,4 +87,4 @@ If you need to continue working immediately, switching to a different model (Ope
 
 ## Still Need Help?
 
-If you continue experiencing issues, feel free to reach us at support@typingmind.com anytime—we’re here to help!
+If you continue experiencing issues, feel free to reach us at [support@typingmind.com](mailto:support@typingmind.com) anytime—we’re here to help!

@@ -1,6 +1,7 @@
 ---
-title: "Chat thread"
+title: "Chat Thread"
 ---
+
 ## What Is the Chat Thread Feature?
 
 **Chat Thread** allows you to view, switch between, and continue chatting with multiple versions of your current chat session.
@@ -34,25 +35,23 @@ More than that, you can start a new thread at any point in the conversation. Thi
 ## How to Use Chat Threads
 
 1. **Edit or Regenerate a message**
-    - Click on a message you want to **edit** or choose **regenerate** if you want a new take.
-    - The system automatically saves the **new version** while keeping the **original**.
+   - Click on a message you want to **edit** or choose **regenerate** if you want a new take.
+   - The system automatically saves the **new version** while keeping the **original**.
 2. **Navigate among versions**
-    - After editing or regenerating, you'll see **arrow buttons** (← and →) right below the message you make changes.
-    - Click the arrows to move back and forth between different versions.
-    - Each version is linked to its specific prompt and conversation flow.
+   - After editing or regenerating, you'll see **arrow buttons** (← and →) right below the message you make changes.
+   - Click the arrows to move back and forth between different versions.
+   - Each version is linked to its specific prompt and conversation flow.
 3. **Continue chatting from any version**
-    - After switching to a version you prefer, just **continue chatting** normally — your new messages will branch from that version.
+   - After switching to a version you prefer, just **continue chatting** normally — your new messages will branch from that version.
 4. **View threads independently**
-    - Each thread acts as a mini-conversation.
-    - You can explore different conversation paths without confusion.
+   - Each thread acts as a mini-conversation.
+   - You can explore different conversation paths without confusion.
 
 [https://vimeo.com/1079442707?share=copy#t=0](https://vimeo.com/1079442707?share=copy#t=0)
 
 > Pro Tip:
-> 
-> 
+>
 > You can always return to any earlier version by clicking the left arrow (←), even if you've gone many steps ahead on a different branch.
-> 
 
 ## FAQs
 

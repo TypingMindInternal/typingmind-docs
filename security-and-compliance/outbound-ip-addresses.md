@@ -1,14 +1,12 @@
----
-title: "Outbound IP addresses"
----
+# Outbound IP addresses
+
 These are the stable IP addresses that TypingMind uses for outbound requests (for example, when making MCP tool calls to external servers).
 
-<aside>
-ℹ️
+<Note>
 
-Note: This only applies for [TypingMind Team](https://custom.typingmind.com) version. For **TypingMind Personal** version, requests are always sent directly from user’s device without any intermediate server.
+  Note: This only applies for [TypingMind Team](https://custom.typingmind.com) version. For **TypingMind Personal** version, requests are always sent directly from user’s device without any intermediate server.
 
-</aside>
+</Note>
 
 ## US Data Center
 

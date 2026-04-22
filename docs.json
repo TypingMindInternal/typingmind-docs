@@ -85,7 +85,7 @@
               "ai-agents/ai-agent-examples",
               "ai-agents/dynamic-context-via-api",
               "ai-agents/dynamic-context-use-cases",
-              "ai-agents/build-multi-agent-workflows",
+              "ai-agents/build-multi-agent-workflow",
               "ai-agents/train-agent-with-custom-knowledge"
             ]
           },
@@ -94,7 +94,7 @@
             "icon": "plug",
             "pages": [
               "plugins",
-              "plugins/use-typingmind-plugin",
+              "plugins/use-typing-mind-plugin",
               "plugins/build-a-typingmind-plugin",
               "plugins/user-contributed-plugins",
               "plugins/share-import-plugins",
@@ -154,12 +154,10 @@
               "chat-management/organize-chats",
               "chat-management/shareexport-chats",
               "chat-management/project-folders",
-              "chat-management/shareexport-chats",
               "chat-management/pin-chats-or-messages",
               "chat-management/fork-chats",
               "chat-management/edit-in-canvas",
               "chat-management/chat-thread",
-              "chat-management/parameter-settings",
               "chat-management/side-chat-(ask-or-quote)",
               "chat-management/context-summary"
             ]
@@ -180,9 +178,9 @@
             "group": "System Prompt",
             "icon": "text-cursor",
             "pages": [
-              "system-prompt/system-instruction",
               "system-prompt",
-              "system-prompt/custom-profiles-with-custom-api-keys"
+              "system-prompt/custom-profiles-with-custom-api-keys",
+              "system-prompt/system-instruction"
             ]
           },
           {
@@ -209,7 +207,7 @@
             "icon": "speaker",
             "pages": [
               "voice-input-(speech-to-text)",
-              "text-to-speech/use-text-to-speech"
+              "use-text-to-speech"
             ]
           },
           {
@@ -217,17 +215,16 @@
             "icon": "link-2",
             "pages": [
               "integrations",
-              "integrations/pre-fill-chat-data-via-url"
+              "integrations/pre-fill-chat-data-via-url",
+              "typingmind-extensions"
             ]
           },
-          "typingmind-extensions",
           {
             "group": "Upload and Chat with Files",
             "icon": "arrow-big-up",
             "pages": [
               "upload-and-chat-with-files/chat-with-documents",
-              "upload-and-chat-with-files/chat-with-videos",
-              "rag-knowledge-base/connect-to-llamaindex"
+              "upload-and-chat-with-files/chat-with-videos"
             ]
           },
           {
@@ -241,7 +238,6 @@
               "llm-automated-workflows/ad-creative-generator"
             ]
           },
-          "manage-license-and-devices",
           {
             "group": "Cloud Sync & Backup",
             "icon": "cloud",
@@ -295,7 +291,8 @@
             "pages": [
               "general-faqs",
               "support",
-              "support/zero-tolerance-policy"
+              "support/zero-tolerance-policy",
+              "manage-license-and-devices"
             ]
           },
           {
@@ -317,8 +314,7 @@
                   "typingmind-team/getting-started/typingmind-team-vs.-chatgpt-for-team",
                   "typingmind-team/getting-started/typingmind-team-vs-librechat",
                   "typingmind-team/getting-started/typingmind-team-vs-claude-team",
-                  "typingmind-team/getting-started/typingmind-team-vs-lobechat",
-                  "typingmind-team/getting-started"
+                  "typingmind-team/getting-started/typingmind-team-vs-lobechat"
                 ]
               },
               {
@@ -425,7 +421,6 @@
               "typingmind-via-setapp/setapp-limitation"
             ]
           },
-          "typingmind-team/getting-started",
           {
             "group": "Additional resources",
             "icon": "external-link",

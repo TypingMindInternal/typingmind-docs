@@ -23,8 +23,8 @@ These syntaxes act as shortcuts to help reduce manual effort and streamline the 
 - **Example:**
 
 ```markdown
-**Task 1: Complete the report
-----**
+Task 1: Complete the report
+----
 Task 2: Schedule a meeting
 ```
 

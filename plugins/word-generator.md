@@ -1,12 +1,8 @@
----
-title: "Word Generator"
----
-<aside>
-💡
+# Word Generator
 
-Share your plugin/extension ideas at our [Awesome TypingMind Github Repo](https://github.com/TypingMind/awesome-typingmind)
-
-</aside>
+<Warning>
+  Plugin has been removed because it relied on a legacy plugin server. Please use Code Sandbox to generate files instead.
+</Warning>
 
 This plugin enables you to generate Word documents straight from your conversations. This tutorial will guide you through the setup process step by step. 
 

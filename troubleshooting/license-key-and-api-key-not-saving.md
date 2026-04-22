@@ -1,6 +1,5 @@
----
-title: "License key and API key not saving?"
----
+# License key and API key not saving?
+
 If you're repeatedly asked to enter your license key and API, then this article will give you a better understanding of what causing this issue and how to prevent it.
 
 ![Untitled](license-key-and-api-key-not-saving/Untitled.png)
@@ -33,11 +32,11 @@ To prevent losing your chat data, license key and API keys, consider the followi
 
 ![Untitled](license-key-and-api-key-not-saving/Untitled%201.png)
 
-1. **Add to home screen**: this can also help prevent accidental data loss caused by clearing browser data.
+2. **Add to home screen**: this can also help prevent accidental data loss caused by clearing browser data.
 
 ![Untitled](license-key-and-api-key-not-saving/Untitled%202.png)
 
-1. **Check browser/extension setting** to not clear site data from [www.typingmind.com](http://www.typingmind.com/). 
+3. **Check browser/extension setting** to not clear site data from [www.typingmind.com](http://www.typingmind.com/). 
 
 There are 3 options to do this:
 

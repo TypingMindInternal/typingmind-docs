@@ -1,7 +1,6 @@
----
-title: "Custom settings for specific chats"
----
-Beside setting up parameters that apply for all chats,TypingMind also offers the flexibility to customize settings for individual chats. 
+# Custom Settings for Specific Chats
+
+Beside setting up parameters that apply for all chats,TypingMind also offers the flexibility to customize settings for individual chats.
 
 If you make changes to the model or model parameters during an ongoing conversation, these adjustments will only be saved for that specific chat. This allows you to experiment with different settings without affecting your default preferences.
 
@@ -15,7 +14,7 @@ First, open a new chat and start a conversation:
 
 ## Step 2: Change parameters for the conversation
 
-Click on Model selection on top of the conversation —> Change chat parameters
+Click on Model selection on top of the conversation —\> Change chat parameters
 
 ![image.png](custom-settings-for-specific-chats/image%201.png)
 

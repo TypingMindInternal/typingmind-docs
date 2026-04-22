@@ -1,18 +1,16 @@
----
-title: "Edit in Canvas"
----
+# Edit in Canvas
+
 **TypingMind Edit in Canvas** is here to streamline your workflow by allowing you to directly refine responses in a dedicated canvas, especially when you need to edit, collaborate, or review your work. 
 
 One interesting thing with Edit in Canvas on TypingMind that you can work with your favorite AI models, not just ChatGPT, but also with Claude 3.5 Sonnet, Gemini 1.5 Pro 002, and more! 
 
 Let’s explore the details.
 
-<aside>
-💡
+<Note>
 
 Please note that this feature is only available for Premium license. 
 
-</aside>
+</Note>
 
 ## What can you do with Edit in Canvas?
 
@@ -51,21 +49,17 @@ Make quick changes or add new content within Canvas.
 
 You can add a new paragraph, tweak a sentence directly without leaving the Canvas. 
 
-[edit text.mp4](Edit%20in%20Canvas/edit_text.mp4)
-
 ### **2. Rewrite text**
 
 You can use our prompt shortcuts - such as “make it shorter”, “make it longer”, “make it friendlier”, etc. to adjust the text.
 
 Or you can enter your own prompt to modify the tone, length, or style of the AI-generated content. You have the flexibility to adjust specific portions of text or the entire message.
 
-[rewrite.mp4](Edit%20in%20Canvas/rewrite.mp4)
 
 ### **3. Markdown formatting**
 
 Update your text with proper formats including bold, italics, headers, and lists to make your text look clean and organized.
 
-[format.mp4](Edit%20in%20Canvas/format.mp4)
 
 ## Use cases for using Edit in Canvas
 

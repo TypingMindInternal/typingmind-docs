@@ -21,13 +21,11 @@ Some example plugins you can create using OAuth authentication:
 | Admin User | The person who is the admin of a TypingMind instance ([TypingMind Custom](https://custom.typingmind.com)), this person have access to the admin panel to create new AI agents and install new plugins. |
 | End User | The person who use the TypingMind instance, chat with the AI models, using the AI agents and plugins created by the Admin users. |
 
-<aside>
-  💡
-
+<Tip>
   **Looking for a step-by-step guide?**
 
   Read our tutorial: [create a Google Calendar plugin with OAuth 2.0](Google%20Calendar%2010f7c3f1757a80f48d26e644a5d072a1.md).
-</aside>
+</Tip>
 
 ## Overview and facts
 

@@ -13,7 +13,7 @@ Looking to share plugins or import shared plugins? This guide will provide the e
 
 ![Untitled](share-import-plugins/Untitled.png)
 
-1. There will be 2 options to share your plugins:
+3. There will be 2 options to share your plugins:
 
 - Share via a unique URL
 - Share as JSON
@@ -92,11 +92,7 @@ To import a plugin using its URL, follow these steps:
 ### Import a plugin from a private GitHub repo
 
 1. Generate a new GitHub personal access token ([https://github.com/settings/tokens?type=beta](https://github.com/settings/tokens?type=beta)). There are 2 types of tokens:
-   1. Fine-grained token (Recommended): Select that private repo and set **Contents** permission to **Read-only**
-   ![Xnapper-2024-09-15-10.22.01.png](share-import-plugins/Xnapper-2024-09-15-10.22.01.png)
-   ![Xnapper-2024-09-15-10.22.57.png](share-import-plugins/Xnapper-2024-09-15-10.22.57.png)
-   b. Classic token: select the scope **repo**
-   ![Xnapper-2024-09-15-10.31.36.png](share-import-plugins/Xnapper-2024-09-15-10.31.36.png)
+   1. Fine-grained token (Recommended): Select that private repo and set **Contents** permission to **Read-only** <img src="share-import-plugins/Xnapper-2024-09-15-10.22.01.png" alt="Xnapper-2024-09-15-10.22.01.png" /> <img src="share-import-plugins/Xnapper-2024-09-15-10.22.57.png" alt="Xnapper-2024-09-15-10.22.57.png" /> b. Classic token: select the scope **repo** <img src="share-import-plugins/Xnapper-2024-09-15-10.31.36.png" alt="Xnapper-2024-09-15-10.31.36.png" />
 2. Attach the query `?token=[the-generated-token]` to the URL, for example: [https://github.com/TypingMind/plugin-stable-diffusion-v2-image?token=github\_pat\_xxxxxx](https://github.com/TypingMind/plugin-stable-diffusion-v2-image)
 
 ### Import via JSON file

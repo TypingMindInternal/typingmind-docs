@@ -1,5 +1,4 @@
 ---
-icon: "external-link"
 title: "TypingMind Extensions"
 ---
 

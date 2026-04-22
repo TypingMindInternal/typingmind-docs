@@ -2,8 +2,6 @@
 title: "Dall-E 3 (Image Generation)"
 ---
 
-# Dall-E 3 (Image Generation)
-
 Dall-E 3 works as a plugin on TypingMind.
 
 Please follow the steps below to use Dall-3 plugin on TypingMind

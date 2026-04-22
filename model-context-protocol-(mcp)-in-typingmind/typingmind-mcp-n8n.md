@@ -1,6 +1,5 @@
----
-title: "TypingMind MCP + n8n"
----
+# TypingMind MCP \+ n8n
+
 This guide will help you set up the **n8n MCP server**, provides AI assistants on TypingMind with comprehensive access to n8n node documentation, properties, and operations so you can create or manage n8n workflows effortlessly on TypingMind.
 
 ## **Why setting up n8n MCP on TypingMind?**
@@ -17,9 +16,9 @@ With this integration, you can:
 
 ## Step-by-step to install n8n MCP on TypingMind
 
-## Option 1. Set up n8n MCP via their hosted service
+### Option 1. Set up n8n MCP via their hosted service
 
-### Step 1: Add your instance to n8n mcp
+#### Step 1: Add your instance to n8n mcp
 
 - Log in to [**dashboard.n8n-mcp.com**](https://dashboard.n8n-mcp.com/)
 - In the top navigation bar, click **Instance** to connect your n8n instance.
@@ -28,7 +27,7 @@ With this integration, you can:
 
 - Provide your instance URL and API key (find this in your n8n instance: **Settings → API → Create new API key**.)
 
-### Step 2: Get n8n mcp API key
+#### Step 2: Get n8n mcp API key
 
 - Go to: [**https://dashboard.n8n-mcp.com/dashboard/settings**](https://dashboard.n8n-mcp.com/dashboard/settings)
 - Select **Connect Clients** → **Other Clients** → **Generate API Key**
@@ -37,63 +36,63 @@ With this integration, you can:
 
 ![image.png](typingmind-mcp-n8n/image%202.png)
 
-- The n8n mcp API key format is: 
-`nmcp_5734725*********************************************************`
+- The n8n mcp API key format is: `nmcp_5734725*********************************************************`
 
-### Step 3: Set up n8n MCP as custom connection on TypingMind
+#### Step 3: Set up n8n MCP as custom connection on TypingMind
 
-Go to Plugin → MCP Connectors → Add Connector 
+Go to Plugin → MCP Connectors → Add Connector
 
 ![image.png](typingmind-mcp-github/image%201.png)
 
 - Fill in the connection details:
-    - **Server URL:** `https://api.n8n-mcp.com`
-    - **Connection Name:** `n8n`
+  - **Server URL:** `https://api.n8n-mcp.com`
+  - **Connection Name:** `n8n`
 - Toggle **Advanced Options** → enable **Custom HTTP Headers**
 - Add the following header:
-    
-    ```
-    Authorization: Bearer your_n8n_mcp_key
-    ```
-    
-    (Replace `your_n8n_mcp_key` with the key generated in Step 2)
-    
+  ```text
+  Authorization: Bearer your_n8n_mcp_key
+  ```
+  (Replace `your_n8n_mcp_key` with the key generated in Step 2)
 
 ![image.png](typingmind-mcp-n8n/image%203.png)
 
 - Click **Create Connection**
 
-### Step 3: Set up MCP Connectors
+#### Step 4: Set up MCP Connectors
 
 After creating the connection with n8nMCP, you will see n8n appear in the plugin list, click on that to start setup your MCP connector with TypingMind:
 
 ![image.png](typingmind-mcp-github/image%204.png)
 
 - If you select TypingMind Cloud, you can connect to our remote MCP server in one-click without any further setup
-- If you choose to set up Private MCP Connector, then follow the steps here: [Use MCP with Private MCP Connector](https://docs.typingmind.com/model-context-protocol-(mcp)-in-typingmind/use-mcp-with-private-mcp-connector)
+- If you choose to set up Private MCP Connector, then follow the steps here: [Use MCP with Private MCP Connector](https://docs.typingmind.com/model-context-protocol-\(mcp\)-in-typingmind/use-mcp-with-private-mcp-connector)
 
-### Step 4: Enable n8n and control tool use
+#### Step 5: Enable n8n and control tool use
 
 You can control which actions your n8n MCP should trigger within TypingMind by switching to Tools tab → Enable/disable specific tools.
 
 ![image.png](typingmind-mcp-n8n/image%204.png)
 
-## Option 2: Self-host n8n MCP
+### Option 2: Self-host n8n MCP
 
-### Step 1: Set up MCP connector
+#### Step 1: Set up MCP connector
 
 In TypingMind, go to Settings → Advanced Settings → Model Context Protocol to start setup your MCP connector. The MCP Connector acts as the bridge between TypingMind and the MCP servers. MCP servers require a server to run on. TypingMind allows you to connect to the MCP servers via:
 
 - Your own local device
 - Or a private remote server.
 
-[Image without caption](https://image-forwarder.notaku.so/aHR0cHM6Ly93d3cubm90aW9uLnNvL2ltYWdlL2h0dHBzJTNBJTJGJTJGaW1hZ2UtZm9yd2FyZGVyLm5vdGFrdS5zbyUyRmFIUjBjSE02THk5bWFXeGxMbTV2ZEdsdmJpNXpieTltTDJZdk9EZGpaamszWTJVdE9UazBOaTAwWXpOa0xXRTNaVEF0WVRjNU1XVmxZVEpoTkdVeUx6WmlaRGMyWXpsbExXWTRZV0V0TkRVNE1TMWhPVGxoTFRsak5XSXhZamMyTTJZeE5pOXBiV0ZuWlM1d2JtY19kR0ZpYkdVOVlteHZZMnNtYVdROU1XWTROMk16WmpFdE56VTNZUzA0TURFNExXRmtZVEF0WkdNM04ySTFPVEE0TURCaUpuTndZV05sU1dROU9EZGpaamszWTJVdE9UazBOaTAwWXpOa0xXRTNaVEF0WVRjNU1XVmxZVEpoTkdVeUptVjRjR2x5WVhScGIyNVVhVzFsYzNSaGJYQTlNVGMyTkRNME5UWXdNREF3TUNaemFXZHVZWFIxY21VOWVHNDFjMFkwTUcxb2VVaEphakZtT1dkWGVuSTVNemxwTUV0UlozZFhZMmRKWTNkbVVXVkhURmRZT0ElM0QlM0QucG5nJTNGd29ya3NwYWNlSWQlM0Q4N2NmOTdjZS05OTQ2LTRjM2QtYTdlMC1hNzkxZWVhMmE0ZTI_dGFibGU9YmxvY2smc3BhY2VJZD04N2NmOTdjZS05OTQ2LTRjM2QtYTdlMC1hNzkxZWVhMmE0ZTImaWQ9MWY4N2MzZjEtNzU3YS04MDE4LWFkYTAtZGM3N2I1OTA4MDBiJmNhY2hlPXYyJndpZHRoPTE0MTkuOTY4NzU=)
+<Frame>
+  ![Mcp Connector](/images/mcp-connector.png)
+</Frame>
 
 If you choose to run the MCP servers on your device, run the command displayed on the screen.
 
-[Image without caption](https://image-forwarder.notaku.so/aHR0cHM6Ly93d3cubm90aW9uLnNvL2ltYWdlL2h0dHBzJTNBJTJGJTJGaW1hZ2UtZm9yd2FyZGVyLm5vdGFrdS5zbyUyRmFIUjBjSE02THk5bWFXeGxMbTV2ZEdsdmJpNXpieTltTDJZdk9EZGpaamszWTJVdE9UazBOaTAwWXpOa0xXRTNaVEF0WVRjNU1XVmxZVEpoTkdVeUwyVmlZelV5TVdNM0xUQXdaR0V0TkRnNU55MDRZVFV4TFRZeE0yVTBPREEyT1RjMFlpOXBiV0ZuWlM1d2JtY19kR0ZpYkdVOVlteHZZMnNtYVdROU1XWTROMk16WmpFdE56VTNZUzA0TUdFd0xXSXlaV0l0WkRGaE5EYzFNRGs0TjJKbEpuTndZV05sU1dROU9EZGpaamszWTJVdE9UazBOaTAwWXpOa0xXRTNaVEF0WVRjNU1XVmxZVEpoTkdVeUptVjRjR2x5WVhScGIyNVVhVzFsYzNSaGJYQTlNVGMyTkRNME5UWXdNREF3TUNaemFXZHVZWFIxY21VOU5GY3diRlZKZUdvM1ZEZ3dUSE51UVZONFVFbDNlSE5YYVVwU1lsaEdTVk5GTkRabFkwVlNkbE5oY3clM0QlM0QucG5nJTNGd29ya3NwYWNlSWQlM0Q4N2NmOTdjZS05OTQ2LTRjM2QtYTdlMC1hNzkxZWVhMmE0ZTI_dGFibGU9YmxvY2smc3BhY2VJZD04N2NmOTdjZS05OTQ2LTRjM2QtYTdlMC1hNzkxZWVhMmE0ZTImaWQ9MWY4N2MzZjEtNzU3YS04MGEwLWIyZWItZDFhNDc1MDk4N2JlJmNhY2hlPXYyJndpZHRoPTE0MTkuOTY4NzU=)
+<Frame>
+  ![Mcp Connector 2](/images/mcp-connector-2.png)
+</Frame>
 
-Detail setup can be found at [https://docs.typingmind.com/model-context-protocol-(mcp)-in-typingmind/use-mcp-with-private-mcp-connector](https://docs.typingmind.com/model-context-protocol-(mcp)-in-typingmind/use-mcp-with-private-mcp-connector)
+Detail setup can be found at [https://docs.typingmind.com/model-context-protocol-(mcp)-in-typingmind/use-mcp-with-private-mcp-connector](https://docs.typingmind.com/model-context-protocol-\(mcp\)-in-typingmind/use-mcp-with-private-mcp-connector)
 
 ### Step 2: Obtain n8n instance URL and API key
 
@@ -104,11 +103,11 @@ Detail setup can be found at [https://docs.typingmind.com/model-context-protocol
 ![image.png](typingmind-mcp-n8n/image%205.png)
 
 - Get n8n API key:
-    - Navigate to your **Profile —> Settings**
-    - **Select "n8n API"**
-    - Click **"Create an API key".**
-    - **Provide a Label and set an Expiration time** for the key.
-    - Copy the created API key
+  - Navigate to your **Profile —\> Settings**
+  - **Select "n8n API"**
+  - Click **"Create an API key".**
+  - **Provide a Label and set an Expiration time** for the key.
+  - Copy the created API key
 
 ![image.png](typingmind-mcp-n8n/image%206.png)
 
@@ -149,10 +148,9 @@ After the MCP servers are added successfully, it will show up in your **Plugins*
 - You should see a new plugin called **"n8n-mcp"**.
 - Enable the plugin
 
-<aside>
-💡 Please note that you can not control which tools n8n MCP should trigger like the Option 1.
-
-</aside>
+<Note>
+  Please note that you can not control which tools n8n MCP should trigger like the Option 1.
+</Note>
 
 ![image.png](typingmind-mcp-n8n/image%208.png)
 

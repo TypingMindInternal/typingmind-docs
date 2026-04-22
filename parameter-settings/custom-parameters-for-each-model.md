@@ -1,6 +1,5 @@
----
-title: "Custom parameters for each model"
----
+# Custom Parameters for Each Model
+
 Each AI model may perform best with its own settings. Good news—you now have the option to customize the parameter settings for each AI model individually!
 
 Let’s see how to do that!
@@ -21,14 +20,11 @@ Customizing parameters for each AI model allows you to optimize their performanc
 
 - After you done customizing the settings, you can click back to “Chat” and select the AI model with preset parameters to chat with its custom parameters.
 
-<aside>
-📌
+<Info>
+  This is available for all end users.
 
-This is available for all end users.
-
-For TypingMind Custom admin users, this option is not available on the Admin Panel yet. You can achieve this via AI Agents by assigning an AI model and set up custom parameters for that AI Agent. [Learn more](https://docs.typingmind.com/ai-agents/ai-agents-overview)
-
-</aside>
+  For TypingMind Team admin users, this option is not available on the Admin Panel yet. You can achieve this via AI Agents by assigning an AI model and set up custom parameters for that AI Agent. [Learn more](https://docs.typingmind.com/ai-agents/ai-agents-overview)
+</Info>
 
 ## Best practices
 

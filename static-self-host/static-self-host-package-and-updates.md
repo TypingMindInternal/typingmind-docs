@@ -1,12 +1,11 @@
----
-title: "Static Self-host Package & Updates"
----
+# Static Self-host Package & Updates
+
 ## Latest Feature Update:
 
-<aside>
-👉 **See full change log: [https://www.typingmind.com/changelog](https://www.typingmind.com/changelog)**
+<Tip>
+  👉 **See full change log: [https://www.typingmind.com/changelog](https://www.typingmind.com/changelog)**
 
-</aside>
+</Tip>
 
 ## Download the latest Self-host package
 
@@ -20,7 +19,7 @@ By running the static self-host version, you can use Typing Mind from your priva
 
 ![Untitled](static-self-host-package-and-updates/Untitled.png)
 
-# Option 1: Deploy TypingMind on your server
+## Option 1: Deploy TypingMind on your server
 
 To run the app locally on your device or private server:
 
@@ -34,7 +33,7 @@ To run the app locally on your device or private server:
 
 **Note**: if you run the app on hostnames other than `localhost`, you must use HTTPS to make sure all app features work.
 
-# **Option 2: Deploy TypingMind on a static web cloud service**
+## **Option 2: Deploy TypingMind on a static web cloud service**
 
 You can upload to any static web hosting such as Netlify, Vercel, GitHub Pages, Cloudflare Pages, AWS S3, etc. to host the files. 
 
@@ -50,20 +49,20 @@ Here’s the detailed guidelines of deploying the app on Netlify:
 
 ![Untitled](static-self-host-package-and-updates/Untitled%203.png)
 
-1. Choose **Deploy with GitHub**
+4. Choose **Deploy with GitHub**
 
 ![Untitled](static-self-host-package-and-updates/Untitled%204.png)
 
-1. Choose the TypingMind project that you forked in Step 1. 
+5. Choose the TypingMind project that you forked in Step 1. 
 
 ![Untitled](static-self-host-package-and-updates/Untitled%205.png)
 
-1. Enter the **Site name** then scroll down to locate the “**Publish directory**” section, enter “**src**”
+6. Enter the **Site name** then scroll down to locate the “**Publish directory**” section, enter “**src**”
 
 ![Untitled](static-self-host-package-and-updates/Untitled%206.png)
 
-1. Click on “**Deploy**” to deploy TypingMind on Netlify
-2. To **update the app**, go to your forked repo on GitHub and click on “**Sync fork**”, it will automatically sync the app with the latest update to your TypingMind site on Netlify. 
+7. Click on “**Deploy**” to deploy TypingMind on Netlify
+8. To **update the app**, go to your forked repo on GitHub and click on “**Sync fork**”, it will automatically sync the app with the latest update to your TypingMind site on Netlify. 
 
 ![Untitled](static-self-host-package-and-updates/Untitled%207.png)
 

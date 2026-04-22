@@ -1,6 +1,9 @@
 ---
-title: "General settings"
+title: "General Settings"
 ---
+
+# General settings
+
 The General Settings allow you to enable or disable various enhanced features within the app to customize your experience.
 
 ## Access General Settings
@@ -22,9 +25,9 @@ This setting plays a sound alert when AI responses arrive while you are inactive
 
 ### **3. Enter to Send:**
 
-With this option enabled, pressing **Enter** sends your message immediately. You can use **Shift+Enter** to insert a new line instead of sending.
+With this option enabled, pressing **Enter** sends your message immediately. You can use **Shift\+Enter** to insert a new line instead of sending.
 
-You can disable this to use Enter to insert a new line and Cmd + Enter to send the message.
+You can disable this to use Enter to insert a new line and Cmd \+ Enter to send the message.
 
 ### **4. Reopen Previous Chat When App Open:**
 

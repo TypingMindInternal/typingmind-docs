@@ -6,7 +6,7 @@ description: "Find the right TypingMind Custom plan for your team."
 TypingMind Custom offers **3 different plans** starting at **$99/month**. Compare the plans below to find the best fit for your team.
 
 <CardGroup cols={3}>
-  <Card title="Starter" icon="seedling" color="#4CAF50">
+  <Card title="Starter" icon="rocket" color="#4CAF50">
     **$99/month** · Perfect for small teams getting started with AI-powered chat.
   </Card>
   <Card title="Growth" icon="chart-line" color="#2196F3">

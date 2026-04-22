@@ -11,26 +11,18 @@ Instead of relying solely on pre-trained knowledge of the AI model, AI can fetch
 The process of integrating dynamic context follows a **step-by-step** workflow:
 
 1. **User Asks a Question**
+   - Example: _"What’s the weather like in New York?"_
 
-- Example: _"What’s the weather like in New York?"_
-
-1. **AI Agent Triggers an API Call**
-
-- The AI sends a request to an external API (e.g., OpenWeather API).
-- Request contains parameters like location and date.
-
-**3. API Responds with Data**
-
-- API sends back the current temperature, humidity, and conditions.
-
-1. **AI Agent Merges API Data with User Query**
-
-- The AI **interprets** the API response and **formats it into a natural answer**.
-
-1. **AI Returns Answer to User**
-
-- The final answer **combines AI-generated text \+ real-time data** for accuracy.
-- Example Response: _"The current temperature in New York is 75°F with clear skies."_
+2. **AI Agent Triggers an API Call**
+   - The AI sends a request to an external API (e.g., OpenWeather API).
+   - Request contains parameters like location and date.
+3. **API Responds with Data**
+   - API sends back the current temperature, humidity, and conditions.
+4. **AI Agent Merges API Data with User Query**
+   - The AI **interprets** the API response and **formats it into a natural answer**.
+5. **AI Returns Answer to User**
+   - The final answer **combines AI-generated text \+ real-time data** for accuracy.
+   - Example Response: _"The current temperature in New York is 75°F with clear skies."_
 
 ![image.png](dynamic-context-use-cases/image.png)
 
@@ -53,16 +45,14 @@ Before diving into specific use cases, you first need to create an AI Agent and 
 
 ![image.png](dynamic-context-use-cases/image%201.png)
 
-1. Set up Dynamic Context for the AI agent
+6. Set up Dynamic Context for the AI agent
 
-<aside>
-  💡
-
+<Note>
   We use [RapidAPI](https://rapidapi.com/) to connect APIs with Dynamic Context in TypingMind, but you can use your own API as well.
 
   * Go to Rapid API and sign up for an account
   * Search for the API you want and connect. Below are some example use cases.
-</aside>
+</Note>
 
 ### Use case 1: **Get Current Weather for your location using OpenWeather API**
 

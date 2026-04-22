@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Context via API"
+title: 'Dynamic Context via API'
 ---
 
 When building an AI agent or setting up a Project Folder, **Dynamic Context** allows you to retrieve content from an API and inject it into the system prompt. This can be used to add live information to the AI or implement Retrieval-Augmented Generation (RAG) from your own data sources (e.g., vector store database).
@@ -10,11 +10,11 @@ When building an AI agent or setting up a Project Folder, **Dynamic Context** al
 - Inject “Latest newsletter post” to your AI agent/Project context.
 - Add “Latest 10 tweets from my account” to the AI agent/Project.
 
-![Untitled](dynamic-context-via-api/Untitled.png)
+![Untitled](Dynamic%20Context%20via%20API/Untitled.png)
 
 ## How it works
 
-For AI Agent:
+For AI Agent: 
 
 - Go to **AI Agents** → Create or edit an AI Agent → Set up a Dynamic Context via API.
 
@@ -51,9 +51,9 @@ Compared to [the knowledge base (TypingMind Custom](../TypingMind%20Team/Brandin
 
 - **For macOS app users (including the Setapp macOS app):** the API endpoint must be served via the HTTPS protocol. This is Apple’s security measure for all macOS app. You can workaround this by using a local SSL proxy.
 - **CORS related issue:** your API endpoint must allow requests from Typing Mind, with the origins as follow:
-  - The official Typing Mind Web app and macOS app: [https://www.typingmind.com](https://www.typingmind.com)
-  - The Setapp version: `https://setapp.typingcloud.com`
-  - For static self-host version: enter the origin of your hosted page.
+    - The official Typing Mind Web app and macOS app: https://www.typingmind.com
+    - The Setapp version: `https://setapp.typingcloud.com`
+    - For static self-host version: enter the origin of your hosted page.
 
 ## Available Variables
 
