@@ -7,9 +7,9 @@ TypingMind app allows you to build your own prompt collection so you can make us
 - You can choose to add prompts from TypingMind’s built-in prompts
 - Or create your own prompts
 
-<aside>
-  💡 A prompt refers to a conversation starter or a task you provide to the model to guide its conversation
-</aside>
+<Note>
+  A prompt refers to a conversation starter or a task you provide to the model to guide its conversation
+</Note>
 
 ![image.png](use-prompt-library/image.png)
 
@@ -39,10 +39,10 @@ You can easily create your own prompt or save your commonly used prompts as foll
 
 ![image.png](use-prompt-library/image%204.png)
 
-<aside>
+<Note>
   💡 Create prompt template:
   Use `{{field 1}}` `{{field 1}}` `{{or anything}}` to indicate the fill in the blank part.
-</aside>
+</Note>
 
 Tip: You can type / within the message area to quickly search your prompts or open your prompts library too.
 

@@ -115,11 +115,9 @@ Beyond basic instruction design, you can significantly enhance your AI Agent's c
   - Searching the internet for real-time information (Web Search, Perplexity Search)
   - Integrating with external services and APIs
 
-<aside>
-  💡
-
+<Note>
   Learn more about AI Agent capabilities at [https://docs.typingmind.com/ai-agents/ai-agents-overview](https://docs.typingmind.com/ai-agents/ai-agents-overview)
-</aside>
+</Note>
 
 ## Note
 

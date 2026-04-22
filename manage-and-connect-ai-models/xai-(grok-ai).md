@@ -58,8 +58,9 @@ To configure xAI in TypingMind, go to Models —\> Add Custom Models:
 Use the following details:
 
 - **Name**: xAI (or a name of your choice)
+- **API Type**: select **OpenAI Responses API (New)**
 - **Endpoint**: [`https://api.x.ai/v1/responses`](https://api.x.ai/v1/responses)
-- **Model ID**: `grok-4-1-fast-reasoning` , **`grok-4-fast-reasoning` , `grok-4-fast-non-reasoning` ,** `grok-code-fast-1` , `grok-4-0709` , `grok-3-beta` , `grok-3-mini-beta`(or select from your model list)
+- **Model ID**: `grok-4.20-0309-reasoning`, `grok-4.20-multi-agent-0309` (or select from your model list)
 
 ![image.png](xai-\(grok-ai\)/image%207.png)
 
