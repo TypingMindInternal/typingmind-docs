@@ -68,7 +68,6 @@
             "icon": "message-square-share",
             "pages": [
               "prompts",
-              "prompts/use-prompt-library",
               "prompts/prompt-examples",
               "prompts/automatic-prompt-caching",
               "prompts/prompt-chaining",
