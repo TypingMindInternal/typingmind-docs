@@ -485,5 +485,13 @@
         "href": "https://feedback.typingmind.com/changelog"
       }
     ]
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/TypingMindApp",
+      "linkedin": "https://www.linkedin.com/company/typingmind/",
+      "youtube": "https://www.youtube.com/@TypingMind/",
+      "website": "https://www.typingmind.com/?utm_source=docs"
+    }
   }
 }
