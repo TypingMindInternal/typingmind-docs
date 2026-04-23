@@ -13,7 +13,7 @@ This allows you to set up custom parameters that are not available in the app.
 
 For example:  to set up max tokens for AI Agent using Azure OpenAI, use: `{ "max_tokens": 2000 }`
 
-![image.png](set-up-custom-json-model-params-for-ai-agent/image.png)
+![image.webp](set-up-custom-json-model-params-for-ai-agent/image.webp)
 
 ## ✨ Stay updated
 

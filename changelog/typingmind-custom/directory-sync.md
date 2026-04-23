@@ -9,7 +9,7 @@ You can now sync users automatically from your team's identity providers (Okta, 
 
 ⇒ Read our document/guide here: https://docs.typingmind.com/typingmind-custom/user-management/setup-directory-sync-(scim-v2)
 
-![image.png](directory-sync/image.png)
+![image.webp](directory-sync/image.webp)
 
 ### ✨ Stay updated
 

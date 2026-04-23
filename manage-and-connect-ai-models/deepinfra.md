@@ -10,7 +10,7 @@ Here’s how to set up DeepInfra on TypingMind
 
 Go to [https://deepinfra.com/](https://deepinfra.com/) and Log into DeepInfra via your GitHub account
 
-![Untitled](deepinfra/Untitled.png)
+![Untitled](deepinfra/Untitled.webp)
 
 # Step 2: Generate an API key
 
@@ -18,11 +18,11 @@ Go to [https://deepinfra.com/](https://deepinfra.com/) and Log into DeepInfra vi
 - Click on “**New API Key**”
 - Enter your API Key Name and click “**Generate API Key**”
 
-![Untitled](deepinfra/Untitled%201.png)
+![Untitled](deepinfra/Untitled%201.webp)
 
 - Copy the generated API key and move to step 3
 
-![Untitled](deepinfra/Untitled%202.png)
+![Untitled](deepinfra/Untitled%202.webp)
 
 # Step 3: Set up DeepInfra on TypingMind
 
@@ -37,7 +37,7 @@ You will need to set up DeepInfra as a custom model on TypingMind. Here’s how:
   - **Add Custom Headers**:
   `Authorization`: `Bearer {{YOUR_API_KEY}}` (enter the copied API key)
 
-![Untitled](deepinfra/Untitled%203.png)
+![Untitled](deepinfra/Untitled%203.webp)
 
 - Click Test, If it is successful, there's a message that says, 'Nice, the endpoint is working!’
 - Click Update Model
@@ -46,4 +46,4 @@ You will need to set up DeepInfra as a custom model on TypingMind. Here’s how:
 
 Now, you can choose the model and interact with it! Below is an example chat with LLaMA 3 70b:
 
-![Untitled](deepinfra/Untitled%204.png)
+![Untitled](deepinfra/Untitled%204.webp)

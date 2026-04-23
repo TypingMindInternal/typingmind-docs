@@ -9,7 +9,7 @@ This also give you - the instance owners more granular control over the permissi
 
 The new system is designed to be customizable and highly flexible, so let’s dive into the details to get a better understanding of how this advanced role and permission setup works on TypingMind!
 
-![image.png](roles-and-permissions/image.png)
+![image.webp](roles-and-permissions/image.webp)
 
 ## What are Roles and Permissions on TypingMind?
 
@@ -74,7 +74,7 @@ Let’s take a look at all available permissions for the access to your Admin Pa
 | **System Prompts** | Full access to manage Global System Instruction, Global Few-shot Prompting, etc. |
 | **Integrations** | Full access to manage integrations (Chat Widget, API integration). |
 
-![image.png](roles-and-permissions/image%201.png)
+![image.webp](roles-and-permissions/image%201.webp)
 
 ## Guideline to create roles and permissions
 
@@ -85,7 +85,7 @@ You can create custom roles with specific permissions via the Admin Panel:
 - Click on **Roles and Permissions**
 - Click on **Add New Role**
 
-![image.png](roles-and-permissions/image%202.png)
+![image.webp](roles-and-permissions/image%202.webp)
 
 **Example roles:**
 
@@ -100,7 +100,7 @@ Permissions:
 - Reporting
     - Full access to manage chat logs
 
-![image.png](roles-and-permissions/image%203.png)
+![image.webp](roles-and-permissions/image%203.webp)
 
 1. **Role: Content curator**
 
@@ -116,7 +116,7 @@ Permissions:
 - AI Agents
     - Full access to manage AI agents and related agents settings: plugins, models, usage limits, and knowledge base.
 
-![image.png](roles-and-permissions/image%204.png)
+![image.webp](roles-and-permissions/image%204.webp)
 
 1. **Role: Team lead**
 
@@ -135,14 +135,14 @@ Permissions:
     - View billing details
     - Full access to manage billing
 
-![image.png](roles-and-permissions/image%205.png)
+![image.webp](roles-and-permissions/image%205.webp)
 
 <aside>
 💡
 
 To update permissions within a role, click on Edit button next to each role. 
 
-![image.png](roles-and-permissions/image%206.png)
+![image.webp](roles-and-permissions/image%206.webp)
 
 </aside>
 
@@ -154,11 +154,11 @@ After done creating the custom roles, you can assign these roles to your members
 - Select a user account
 - Navigate the **Role** section and select a Role you created via the Role and Permissions page
 
-![image.png](roles-and-permissions/image%207.png)
+![image.webp](roles-and-permissions/image%207.webp)
 
 - Users who are assigned roles will be able to log into the Admin Panel and use the features they have permissions only:
 
-![image.png](roles-and-permissions/image%208.png)
+![image.webp](roles-and-permissions/image%208.webp)
 
 <aside>
 💡

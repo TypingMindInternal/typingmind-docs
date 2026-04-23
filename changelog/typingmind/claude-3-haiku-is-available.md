@@ -5,7 +5,7 @@ title: "Claude 3 Haiku is available!"
 
 Claude 3 Haiku is the best fastest and cheapest model on earth right now!
 
-![image.png](claude-3-haiku-is-available/image.png)
+![image.webp](claude-3-haiku-is-available/image.webp)
 
 ### ✨ Stay updated
 

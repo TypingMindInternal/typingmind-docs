@@ -7,9 +7,9 @@ Added custom prompts for the Custom Deployment version of [http://TypingMind.com
 
 You (as an Admin) can set a custom prompts library for.
 
-![image.png](create-custom-prompts/image.png)
+![image.webp](create-custom-prompts/image.webp)
 
-![image.png](create-custom-prompts/image%201.png)
+![image.webp](create-custom-prompts/image%201.webp)
 
 ### ✨ Stay updated
 

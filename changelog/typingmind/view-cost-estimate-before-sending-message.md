@@ -7,7 +7,7 @@ title: "View cost estimate before sending message"
 
 🔸You can now **view the initial cost estimation before sending a prompt.** This helps to estimate the cost exactly!
 
-![image.png](view-cost-estimate-before-sending-message/image.png)
+![image.webp](view-cost-estimate-before-sending-message/image.webp)
 
 ### ✨ Stay updated:
 

@@ -4,7 +4,7 @@ title: "Activate multi-model responses"
 
 On TypingMind, you can chat with multiple AI models and bring those models to one conversation.
 
-![image.png](activate-multi-model-responses/image.png)
+![image.webp](activate-multi-model-responses/image.webp)
 
 This is especially useful for comparing outputs, evaluating model performance, or gathering diverse perspectives on a prompt.
 
@@ -24,7 +24,7 @@ When you ask follow-up questions:
 
 TypingMind keeps separate conversation threads for each model. When you send a follow-up prompt, it’s processed by each model **based on its own previous response in parallel:**
 
-![image.png](activate-multi-model-responses/image%201.png)
+![image.webp](activate-multi-model-responses/image%201.webp)
 
 This ensures that the conversation with each model remains coherent and contextually accurate.
 
@@ -32,20 +32,20 @@ This ensures that the conversation with each model remains coherent and contextu
 
 If you prefer one model's response over the others, you can **select it as the primary response**.
 
-![image.png](activate-multi-model-responses/image%202.png)
+![image.webp](activate-multi-model-responses/image%202.webp)
 
 This changes the behavior of follow-up interactions:
 
 - Follow-up questions will use the context of your selected (preferred) response.
 - Subsequent prompts will still generate responses from all active models.
 
-![image.png](activate-multi-model-responses/image%203.png)
+![image.webp](activate-multi-model-responses/image%203.webp)
 
 ### 3. Combine responses and finalize them into one final answer
 
 **We called this Finalize Mode,** which allows you to merge responses from multiple AI models into one final answer. Instead of picking just one model’s reply, you can review all outputs and then finalize a response that best represents the combined insights.
 
-![image.png](activate-multi-model-responses/image%204.png)
+![image.webp](activate-multi-model-responses/image%204.webp)
 
 ## How to Activate Multi-Model
 
@@ -63,7 +63,7 @@ Click this button to add the model to your current conversation.
 
 Once added, the model will appear in the active model bar at the bottom, alongside your originally selected model.
 
-![image.png](activate-multi-model-responses/image%205.png)
+![image.webp](activate-multi-model-responses/image%205.webp)
 
 - **Manage or Remove Models**
 

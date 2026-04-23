@@ -15,7 +15,7 @@ Our Reseller Program is designed to be profitable for partners, and we have succ
 
 Learn more about the [**TypingMind Reseller Program and Reseller Benefits**](https://docs.typingmind.com/typingmind-team/reseller-program).
 
-![image.png](how-to-monetize-with-typingmind/image.png)
+![image.webp](how-to-monetize-with-typingmind/image.webp)
 
 # How to run your Reseller Program and monetize with TypingMind
 
@@ -50,7 +50,7 @@ You can develop a premium service package for your clients as follows:
 - Offer continuously workshops or tutorials on how to effectively use TypingMind for marketing tasks.
 - Provide ongoing consultation ****to assist clients in integrating AI-generated content into their marketing efforts.
 
-![image.png](how-to-monetize-with-typingmind/image%201.png)
+![image.webp](how-to-monetize-with-typingmind/image%201.webp)
 
 ### Pricing suggestions
 
@@ -84,7 +84,7 @@ You can create AI agents that can:
 - Produce comprehensive financial summaries, risk assessments, and investment recommendations.
 - Respond to specific questions about financial metrics, projections, or the impact of certain events on investments.
 
-![image.png](how-to-monetize-with-typingmind/image%202.png)
+![image.webp](how-to-monetize-with-typingmind/image%202.webp)
 
 ### Pricing suggestions
 
@@ -132,7 +132,7 @@ You can build custom AI Agents or prompts that help you with those tasks and sho
 
 All your students will have access to TypingMind to use your pre-built AI Agents and practice creating their own AI Agents.
 
-![image.png](how-to-monetize-with-typingmind/image%203.png)
+![image.webp](how-to-monetize-with-typingmind/image%203.webp)
 
 ### Pricing suggestions
 
@@ -167,7 +167,7 @@ You will help:
 
 Your clients will just need to purchase the solution and access all the setup you have done for them.
 
-![image.png](how-to-monetize-with-typingmind/image%201.png)
+![image.webp](how-to-monetize-with-typingmind/image%201.webp)
 
 ### Pricing suggestions
 
@@ -197,7 +197,7 @@ You could offer a customer support chatbot for small businesses where the bot au
 - Provide training sessions to the client's team on how to monitor the chatbot.
 - Regularly check the chatbot's effectiveness and update its knowledge base.
 
-![image.png](how-to-monetize-with-typingmind/image%204.png)
+![image.webp](how-to-monetize-with-typingmind/image%204.webp)
 
 ### Pricing suggestions
 
@@ -226,7 +226,7 @@ You have a community called "AI MindHub" where members can discuss about AI inno
 - Build custom AI agents to support members in their specific areas.
 - Offer regular workshops and training to help members get the best results from AI.
 
-![image.png](how-to-monetize-with-typingmind/image%205.png)
+![image.webp](how-to-monetize-with-typingmind/image%205.webp)
 
 ### Pricing suggestions
 

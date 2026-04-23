@@ -5,7 +5,7 @@ title: "Added Sync to cloud"
 
 🚀 Admins can now control the Sync To Cloud option in [https://typingmind.com](https://typingmind.com/)'s Custom Deployment ! 
 
-![image.png](added-sync-to-cloud/image.png)
+![image.webp](added-sync-to-cloud/image.webp)
 
 ### ✨ Stay updated
 

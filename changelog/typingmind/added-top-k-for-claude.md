@@ -9,7 +9,7 @@ Added "Top K" parameter for Claude!
 
 Learn more about TypingMind Parameters: https://docs.typingmind.com/parameter-settings/parameter-settings
 
-![image.png](added-top-k-for-claude/image.png)
+![image.webp](added-top-k-for-claude/image.webp)
 
 ## ✨ Stay updated
 

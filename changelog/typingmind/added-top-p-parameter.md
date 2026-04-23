@@ -9,7 +9,7 @@ Top P is used to control the randomness of the AI's outputs, also known as nucle
 
 Basically, when the AI model is deciding what word to say next, it calculates a score for each possible word. It then uses these scores to decide which word to choose. Top P influences this selection process.
 
-![image.png](added-top-p-parameter/image.png)
+![image.webp](added-top-p-parameter/image.webp)
 
 Learn more: https://docs.typingmind.com/parameter-settings/parameter-settings
 

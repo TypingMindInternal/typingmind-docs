@@ -7,7 +7,7 @@ title: "Gemini 1.5 Flash is now available!"
 
 We have just updated these new Gemini models on TypingMind: Gemini 1.5 Flash
 
-![image.png](gemini-1-5-flash-is-now-available/image.png)
+![image.webp](gemini-1-5-flash-is-now-available/image.webp)
 
 Easy access Google's Gemini AI models with [typingmind.com](http://typingmind.com): 
 

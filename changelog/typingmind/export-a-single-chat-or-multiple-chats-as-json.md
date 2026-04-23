@@ -8,9 +8,9 @@ You now can export a single chat or multiple selected chats (at once)!
 - Choose the chat (one or some) you want to export as JSON
 - Directly choose export for one chat/ To export multiple chats at once, choose bulk action → export
 
-![image.png](export-a-single-chat-or-multiple-chats-as-json/image.png)
+![image.webp](export-a-single-chat-or-multiple-chats-as-json/image.webp)
 
-![image.png](export-a-single-chat-or-multiple-chats-as-json/image%201.png)
+![image.webp](export-a-single-chat-or-multiple-chats-as-json/image%201.webp)
 
 To help you clearly understand about sharing/export the chat, check out here: 
 

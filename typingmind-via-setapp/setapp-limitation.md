@@ -1,7 +1,7 @@
 ---
 title: "Setapp Limitation"
 ---
-![Untitled](setapp-limitation/Untitled.png)
+![Untitled](setapp-limitation/Untitled.webp)
 
 “**Sorry, Setapp has rejected your request. Here is the error message from Setapp: You have exceed your monthly usage limit for current model.”** 
 
@@ -11,7 +11,7 @@ If you encountered this error message while using TypingMind via SetApp, then yo
 
 According to [SetApp's official document](https://support.setapp.com/hc/en-us/articles/9165363863068-Limitations-in-Setapp-apps), when you use the AI apps with their free chat models, there's a credit limit based on your SetApp subscription plans.
 
-![Untitled](setapp-limitation/Untitled%201.png)
+![Untitled](setapp-limitation/Untitled%201.webp)
 
 TypingMind is one of the apps that has this restriction. So sorry that we can’t do anything about this.
 
@@ -19,9 +19,9 @@ TypingMind is one of the apps that has this restriction. So sorry that we can’
 
 To use TypingMind without any limits, you can enter your own API key and switch the chat models from SetApp models to other AI models.
 
-![Untitled](setapp-limitation/Untitled%202.png)
+![Untitled](setapp-limitation/Untitled%202.webp)
 
-![Untitled](setapp-limitation/Untitled%203.png)
+![Untitled](setapp-limitation/Untitled%203.webp)
 
 Here’s the detailed guideline to get your API key: 
 

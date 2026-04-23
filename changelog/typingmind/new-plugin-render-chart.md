@@ -9,7 +9,7 @@ title: "New plugin: Render chart"
 
 >> Find out how to use plugin on TypingMind: https://docs.typingmind.com/plugins/how-to-use-typingmind-plugin
 
-![image.png](new-plugin-render-chart/image.png)
+![image.webp](new-plugin-render-chart/image.webp)
 
 ### ✨ Stay updated
 

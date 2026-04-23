@@ -13,11 +13,11 @@ We’ve added 3 new plugins:
 
 🔸[Google Calendar (OAuth)](https://docs.typingmind.com/plugins/tutorial:-google-calendar-plugin-with-oauth-2.0): this allows the AI to access the user’s calendar via Google API.
 
-![image.png](three-new-plugins/image.png)
+![image.webp](three-new-plugins/image.webp)
 
-![image.png](three-new-plugins/image%201.png)
+![image.webp](three-new-plugins/image%201.webp)
 
-![image.png](three-new-plugins/image%202.png)
+![image.webp](three-new-plugins/image%202.webp)
 
 ## ✨ Stay updated
 

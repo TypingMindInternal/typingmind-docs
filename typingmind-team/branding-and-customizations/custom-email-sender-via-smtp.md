@@ -3,7 +3,7 @@ title: "Custom Email Sender via SMTP"
 ---
 To set up a custom email sender, you will need to obtain SMTP credentials from an online service. There are several providers, both free and paid, that you can choose from.
 
-![Untitled](custom-email-sender-via-smtp/Untitled.png)
+![Untitled](custom-email-sender-via-smtp/Untitled.webp)
 
 ## Step 1: Choose an Email Service Provider
 
@@ -43,7 +43,7 @@ Once you have your SMTP credentials, navigate to the **Email Settings** of your 
 
 Click “Send Test” to send a test email and check if everything is working correctly.
 
-![Untitled](custom-email-sender-via-smtp/Untitled%201.png)
+![Untitled](custom-email-sender-via-smtp/Untitled%201.webp)
 
 Click "Save" to apply the changes.
 

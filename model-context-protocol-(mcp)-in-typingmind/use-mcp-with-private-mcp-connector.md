@@ -6,19 +6,19 @@ title: "Use MCP with Private MCP Connector"
 
 In TypingMind, go to Settings → Advanced Settings → Model Context Protocol to start setup your MCP servers.
 
-![image.png](use-mcp-with-private-mcp-connector/image.png)
+![image.webp](use-mcp-with-private-mcp-connector/image.webp)
 
 MCP servers require a server to run on. TypingMind allows you to connect to the MCP servers via your own local device or a private remote server.
 
 When you first enter the screen, choose where to run the MCP servers.
 
-![image.png](use-mcp-with-private-mcp-connector/image%201.png)
+![image.webp](use-mcp-with-private-mcp-connector/image%201.webp)
 
 Select a method that work well for you, then click next.
 
 If you choose to run the MCP servers on your device, run the command displayed on the screen.
 
-![image.png](use-mcp-with-private-mcp-connector/image%202.png)
+![image.webp](use-mcp-with-private-mcp-connector/image%202.webp)
 
 Open the **Terminal app** on macOS or the **Windows Terminal** to run the command.
 
@@ -27,11 +27,11 @@ Open the **Terminal app** on macOS or the **Windows Terminal** to run the comman
 - Your device must support NodeJS 18\+ to run the MCP Connector.
 - When choosing the “This Device” option, you must run the command on the same device you are using TypingMind, otherwise, TypingMind will not be able to connect.
 
-![image.png](use-mcp-with-private-mcp-connector/image%203.png)
+![image.webp](use-mcp-with-private-mcp-connector/image%203.webp)
 
 TypingMind attempt to connect to the MCP Connector, when success, you can click “**Get Started**”.
 
-![image.png](use-mcp-with-private-mcp-connector/image%204.png)
+![image.webp](use-mcp-with-private-mcp-connector/image%204.webp)
 
 Once connected, you can start to add MCP servers you want to use. Click the “**Edit Servers**” button and adding your servers to the text input.
 
@@ -58,27 +58,27 @@ For example, here is the JSON description for adding two official MCP servers cr
 }
 ```
 
-![image.png](use-mcp-with-private-mcp-connector/image%205.png)
+![image.webp](use-mcp-with-private-mcp-connector/image%205.webp)
 
-![image.png](use-mcp-with-private-mcp-connector/image%206.png)
+![image.webp](use-mcp-with-private-mcp-connector/image%206.webp)
 
 After the MCP servers are added successfully, it will show up in your **Plugins** page to be used like plugin. You can use the MCP tools directly or assign them to AI agent like other plugins.
 
-![image.png](use-mcp-with-private-mcp-connector/image%207.png)
+![image.webp](use-mcp-with-private-mcp-connector/image%207.webp)
 
-![image.png](use-mcp-with-private-mcp-connector/image%208.png)
+![image.webp](use-mcp-with-private-mcp-connector/image%208.webp)
 
 ## Setup MCP in TypingMind Teams Version
 
 In [TypingMind for Teams](https://custom.typingmind.com), MCP are implemented as plugins. Go to your Admin Panel → Plugins → Create New Plugin.
 
-![image.png](use-mcp-with-private-mcp-connector/image%209.png)
+![image.webp](use-mcp-with-private-mcp-connector/image%209.webp)
 
 Under the **Implementation** section, select “Model Context Protocol” and set your server config JSON in the text input.
 
 You can use available variables in the plugin settings, user ID, or authentication configs like any other plugins in the config JSON.
 
-![image.png](use-mcp-with-private-mcp-connector/image%2010.png)
+![image.webp](use-mcp-with-private-mcp-connector/image%2010.webp)
 
 When the plugin is installed to your instance, you will need to connect to **MCP Connector** in order to activate the plugin.
 
@@ -98,11 +98,11 @@ You can get the connector details by deploying the [**MCP Connector (open-source
 - **Auth Token**
   - Copy the `<auth-token>` you used in the command above into the Auth Token field in your TypingMind plugin configuration.
 
-![image.png](use-mcp-with-private-mcp-connector/image%2011.png)
+![image.webp](use-mcp-with-private-mcp-connector/image%2011.webp)
 
 The end users will be able to use the MCP plugin just like any other plugins in the system.
 
-![image.png](use-mcp-with-private-mcp-connector/image%2012.png)
+![image.webp](use-mcp-with-private-mcp-connector/image%2012.webp)
 
 ## How it works
 
@@ -112,7 +112,7 @@ It is not necessary to run the MCP Connector on your device if you don't need fe
 
 Here is a diagram that demonstrates how TypingMind MCP Connector works.
 
-![image.png](use-mcp-with-private-mcp-connector/image%2013.png)
+![image.webp](use-mcp-with-private-mcp-connector/image%2013.webp)
 
 [typingmind-mcp-howitworks.drawio](Use%20MCP%20with%20Private%20MCP%20Connector/typingmind-mcp-howitworks.drawio)
 

@@ -14,11 +14,11 @@ You don't need to do anything to enable OpenAI Prompt Caching - it will be autom
 
 Learn more on https://docs.typingmind.com/prompts/automatic-prompt-caching-(claude-and-openai)
 
-![image.png](openai-prompt-caching/image.png)
+![image.webp](openai-prompt-caching/image.webp)
 
-![image.png](openai-prompt-caching/image%201.png)
+![image.webp](openai-prompt-caching/image%201.webp)
 
-![image.png](openai-prompt-caching/image%202.png)
+![image.webp](openai-prompt-caching/image%202.webp)
 
 ### 📌 Stay updated
 

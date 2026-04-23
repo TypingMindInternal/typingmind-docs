@@ -16,7 +16,7 @@ Include “Perplexity Search”, “citations” keywords in your prompt to ensu
 
 https://docs.typingmind.com/plugins/set-up-perplexity-search
 
-![image.png](perplexity-search-plugin-now-supports-citations/image.png)
+![image.webp](perplexity-search-plugin-now-supports-citations/image.webp)
 
 ## 📌 Stay updated
 

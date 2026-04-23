@@ -3,7 +3,7 @@ title: "Train Agent With Custom Knowledge"
 ---
 When building a custom AI Agent for your business or product, one of the most critical steps is training it with your **domain-specific knowledge**. Whether that’s product documentation, internal SOPs, support guides, or live system data—your Agent needs access to the right information to give accurate and helpful responses.
 
-![image.png](train-agent-with-custom-knowledge/image.png)
+![image.webp](train-agent-with-custom-knowledge/image.webp)
 
 There are four main ways to provide knowledge to your Agent in TypingMind:
 
@@ -13,7 +13,7 @@ You upload documents directly into the Agent settings. The system extracts all t
 
 This method consumes the context window (token limit) of the model you’ve chosen.
 
-![image.png](train-agent-with-custom-knowledge/image%201.png)
+![image.webp](train-agent-with-custom-knowledge/image%201.webp)
 
 **Pros:**
 
@@ -40,7 +40,7 @@ A Knowledge Base allows you to upload and manage larger sets of documents. The s
 
 Unlike direct upload, the entire document is not loaded into context. Only relevant parts are dynamically injected, saving context space and making it more scalable for large content sets.
 
-![image.png](train-agent-with-custom-knowledge/image%202.png)
+![image.webp](train-agent-with-custom-knowledge/image%202.webp)
 
 **Pros:**
 
@@ -67,7 +67,7 @@ Dynamic Context allows your Agent to fetch and insert live data at runtime—fro
 
 Like direct upload, this also uses the model’s context window—but instead of static text, it injects fresh or user-specific content dynamically on each request.
 
-![image.png](train-agent-with-custom-knowledge/image%203.png)
+![image.webp](train-agent-with-custom-knowledge/image%203.webp)
 
 **Pros:**
 
@@ -95,7 +95,7 @@ Custom plugins give you full control over how your Agent fetches and processes d
 
 Plugins don’t rely on static document context or KB indexing. They actively retrieve and process data at runtime, injecting results into the model’s prompt only when needed.
 
-![image.png](train-agent-with-custom-knowledge/image%204.png)
+![image.webp](train-agent-with-custom-knowledge/image%204.webp)
 
 **Pros:**
 

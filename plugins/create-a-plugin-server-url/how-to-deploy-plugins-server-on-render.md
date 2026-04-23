@@ -17,12 +17,12 @@ On this page, we’ll guide you on how to deploy the Plugins Server on Render.co
 1. **Make a Home on Render:**
    - Go to Render's website and create your free account.
    - Click to create a new "Web Service"
-     ![Screenshot 2024-03-15 at 09.16.16.png](how-to-deploy-plugins-server-on-render/Screenshot_2024-03-15_at_09.16.16.png)
+     ![Screenshot 2024-03-15 at 09.16.16.webp](how-to-deploy-plugins-server-on-render/Screenshot_2024-03-15_at_09.16.16.webp)
    - on the next screen enter the URL of the TypingMind plugin repository  `https://github.com/TypingMind/plugins-server` to continue
-     ![create new.png](how-to-deploy-plugins-server-on-render/create_new.png)
+     ![create new.webp](how-to-deploy-plugins-server-on-render/create_new.webp)
 2. **Make sure the value looks right**
    - The project requires configuration settings. The **Branch** should be set to `main`, **Runtime** to `Docker`. You may set the region to any desired region.
-     ![setting.png](how-to-deploy-plugins-server-on-render/setting.png)
+     ![setting.webp](how-to-deploy-plugins-server-on-render/setting.webp)
    - There is no requirement to include environment variables.
    <Warning>
      ⚠️ **If you are using a free tier hosting, your server may sleep when not in use which can cause a delay of up to 30 seconds for the first request.
@@ -31,13 +31,13 @@ On this page, we’ll guide you on how to deploy the Plugins Server on Render.co
    [Cloud Application Hosting for Developers | Render](https://dashboard.render.com/billing#free-usage)
 3. **Complete the deployment process.**
    - Look for the "Create Web Service" button on Render. Click it and wait a little bit – it's building your project!
-   ![url.png](how-to-deploy-plugins-server-on-render/url.png)
+   ![url.webp](how-to-deploy-plugins-server-on-render/url.webp)
    <Warning>
      🚨 You should keep your plugin server URL confidential and manage your server independently. Never share or publish it, as others may misuse it or occupy all of your free tier usage.
    </Warning>
 4. **Configure the plugin to use your server.**
    - Inside your TypingMind Plugin settings, there's probably a place to put the address of your project that's now live on Render.
-     ![plugin.png](how-to-deploy-plugins-server-on-render/plugin.png)
+     ![plugin.webp](how-to-deploy-plugins-server-on-render/plugin.webp)
 
 ## Need help?
 

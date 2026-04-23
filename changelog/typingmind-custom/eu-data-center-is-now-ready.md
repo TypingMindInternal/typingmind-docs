@@ -7,7 +7,7 @@ The new EU data center is now ready!
 
 New customers who want to host their data in the EU can choose "Europe (Frankfurt)" when creating a new instance: [typingmind.com/new-deployment](http://typingmind.com/new-deployment)
 
-![image.png](eu-data-center-is-now-ready/image.png)
+![image.webp](eu-data-center-is-now-ready/image.webp)
 
 ### ✨ Stay updated
 

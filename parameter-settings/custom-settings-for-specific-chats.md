@@ -10,17 +10,17 @@ Here’s how to do that.
 
 First, open a new chat and start a conversation:
 
-![image.png](custom-settings-for-specific-chats/image.png)
+![image.webp](custom-settings-for-specific-chats/image.webp)
 
 ## Step 2: Change parameters for the conversation
 
 Click on Model selection on top of the conversation —\> Change chat parameters
 
-![image.png](custom-settings-for-specific-chats/image%201.png)
+![image.webp](custom-settings-for-specific-chats/image%201.webp)
 
 Scroll down to change the model parameters for the current conversation:
 
-![image.png](custom-settings-for-specific-chats/image%202.png)
+![image.webp](custom-settings-for-specific-chats/image%202.webp)
 
 All changes will be only applied for that specific chat.
 

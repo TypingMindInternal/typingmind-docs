@@ -11,7 +11,7 @@ Instance owners can create Custom Roles within each chat instance. You can defin
 
 Learn more: https://docs.typingmind.com/typingmind-custom/user-management/roles-and-permissions-101
 
-![image.png](introducing-roles-and-permissions/image.png)
+![image.webp](introducing-roles-and-permissions/image.webp)
 
 ### ✨ Stay updated
 

@@ -10,7 +10,7 @@ Small UI improvement: Chat management action buttons are now under the More Menu
 - Move to folder
 - Delete chat
 
-![image.png](upload-training-files-for-ai-agent/image.png)
+![image.webp](upload-training-files-for-ai-agent/image.webp)
 
 Options to organize your chats: https://docs.typingmind.com/chat-management/organize-chats
 

@@ -7,7 +7,7 @@ You can now customize keyboard shortcuts on [TypingMind.com](http://typingmind.c
 
 This helps uses to quickly get used to the app.
 
-![image.png](customize-keyboard-shortcuts/image.png)
+![image.webp](customize-keyboard-shortcuts/image.webp)
 
 ### ✨ Stay updated
 

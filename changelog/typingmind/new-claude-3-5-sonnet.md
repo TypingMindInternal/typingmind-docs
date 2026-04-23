@@ -9,7 +9,7 @@ The new model is smarter, more capable, and still at the same cost!
 
 Plus, you can easily [build powerful AI Agents](https://docs.typingmind.com/ai-agents/ai-agents-overview) on TypingMind with this upgraded model.
 
-![image.png](new-claude-3-5-sonnet/image.png)
+![image.webp](new-claude-3-5-sonnet/image.webp)
 
 More details on the model: [New Claude 3.5 Sonnet](https://www.anthropic.com/news/3-5-models-and-computer-use)
 

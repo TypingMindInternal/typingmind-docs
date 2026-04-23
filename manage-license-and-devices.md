@@ -20,18 +20,18 @@ Each license key allows you to use Typing Mind on 5 devices, which is typically 
 
 1. Click on the order you purchased.
 
-![Untitled](manage-license-and-devices/Untitled.png)
+![Untitled](manage-license-and-devices/Untitled.webp)
 
 1. Click on the license key.
 
-![Untitled](manage-license-and-devices/Untitled%201.png)
+![Untitled](manage-license-and-devices/Untitled%201.webp)
 
 1. Here, you will find all of your linked devices. Click “Deactivate” to unlink the devices you no longer use.
 
-![Untitled](manage-license-and-devices/Untitled%202.png)
+![Untitled](manage-license-and-devices/Untitled%202.webp)
 
 ## Shortcut to unlink your device
 
 If you still have access to the previous device, simply open the License Key popup and click “Unlink this device”.
 
-![Untitled](manage-license-and-devices/Untitled%203.png)
+![Untitled](manage-license-and-devices/Untitled%203.webp)

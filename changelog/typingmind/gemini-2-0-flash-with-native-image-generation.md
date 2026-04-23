@@ -5,7 +5,7 @@ title: "Gemini 2.0 Flash with native image generation"
 
 Gemini 2.0 Flash with native image generation is now available on TypingMind! 
 
-![image.png](gemini-2-0-flash-with-native-image-generation/image.png)
+![image.webp](gemini-2-0-flash-with-native-image-generation/image.webp)
 
 ## 📌 Stay updated
 

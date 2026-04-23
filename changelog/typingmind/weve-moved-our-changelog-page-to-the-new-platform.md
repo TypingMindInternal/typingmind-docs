@@ -9,7 +9,7 @@ You can now find all product updates, improvements, and new features on our new 
 
 Follow along to stay updated on what’s new!
 
-![image.png](weve-moved-our-changelog-page-to-the-new-platform/image.png)
+![image.webp](weve-moved-our-changelog-page-to-the-new-platform/image.webp)
 
 ## 📌 Stay updated
 

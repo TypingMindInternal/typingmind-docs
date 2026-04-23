@@ -9,7 +9,7 @@ Now you can set up Custom Parameters for each AI Agent on [typingmind.com](http:
 
 Customize API parameters like Temperature, Top-p, Max tokens, etc., to control each AI Agent's outputs and optimize its performance! 
 
-![image.png](custom-parameters-for-each-ai-agent/image.png)
+![image.webp](custom-parameters-for-each-ai-agent/image.webp)
 
 ➡️ Learn more about Parameter Settings: https://docs.typingmind.com/parameter-settings/parameter-settings
 

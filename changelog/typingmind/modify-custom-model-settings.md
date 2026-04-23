@@ -5,7 +5,7 @@ title: "Modify Custom model settings"
 
 Edit your custom model settings for quick update. 
 
-![image.png](modify-custom-model-settings/image.png)
+![image.webp](modify-custom-model-settings/image.webp)
 
 ## ✨ Stay updated
 

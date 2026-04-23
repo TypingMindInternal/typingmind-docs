@@ -8,7 +8,7 @@ Now you can search the AI model you want to start a conversation with quickly.
 - Click on the Model selection bar on the top of the conversation
 - Type keywords to search for the model you want to chat with.
 
-![image.png](search-ai-models/image.png)
+![image.webp](search-ai-models/image.webp)
 
 ## 📌 Stay updated
 

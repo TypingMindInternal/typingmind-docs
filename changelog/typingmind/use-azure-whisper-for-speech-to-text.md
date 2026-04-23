@@ -7,7 +7,7 @@ Use Azure Whisper as speech-to-text provider on TypingMind!
 
 https://docs.typingmind.com/voice-input-(speech-to-text)
 
-![image.png](use-azure-whisper-for-speech-to-text/image.png)
+![image.webp](use-azure-whisper-for-speech-to-text/image.webp)
 
 ## 📌 Stay updated
 

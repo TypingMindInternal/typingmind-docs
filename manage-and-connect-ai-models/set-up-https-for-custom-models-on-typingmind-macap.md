@@ -73,4 +73,4 @@ Now you can access the model endpoint using `https://localhost:9000` instead o
 
 Here’s an example to set Phi-3 via LMStudio on TypingMind MacApp:
 
-![Untitled](set-up-https-for-custom-models-on-typingmind-macap/Untitled.png)
+![Untitled](set-up-https-for-custom-models-on-typingmind-macap/Untitled.webp)

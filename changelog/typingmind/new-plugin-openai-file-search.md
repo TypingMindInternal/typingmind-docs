@@ -9,7 +9,7 @@ Here's how:
 
 [https://docs.typingmind.com/plugins/set-up-openai-file-search-for-rag](https://t.co/wachDiwg3M)
 
-![image.png](new-plugin-openai-file-search/image.png)
+![image.webp](new-plugin-openai-file-search/image.webp)
 
 ## 📌 Stay updated
 

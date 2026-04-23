@@ -24,7 +24,7 @@ The process of integrating dynamic context follows a **step-by-step** workflow:
    - The final answer **combines AI-generated text \+ real-time data** for accuracy.
    - Example Response: _"The current temperature in New York is 75°F with clear skies."_
 
-![image.png](dynamic-context-use-cases/image.png)
+![image.webp](dynamic-context-use-cases/image.webp)
 
 ## **Why use Dynamic Context?**
 
@@ -43,7 +43,7 @@ Before diving into specific use cases, you first need to create an AI Agent and 
 4. Add **system instructions** to guide how the AI behaves.
 5. Enable **"Override System Instructions"** to ensure the AI follows your instructions strictly.
 
-![image.png](dynamic-context-use-cases/image%201.png)
+![image.webp](dynamic-context-use-cases/image%201.webp)
 
 6. Set up Dynamic Context for the AI agent
 
@@ -61,7 +61,7 @@ Here’s an example of how to set up an API to retrieve the current weather for 
 - Search for OpenWeather API —\> Select Current Weather Endpoint
 - Switch to the Params tab to enter the city you want to get the weather.
 
-![image.png](dynamic-context-use-cases/image%202.png)
+![image.webp](dynamic-context-use-cases/image%202.webp)
 
 On TypingMind, click on Dynamic Context and enter the following details:
 
@@ -87,11 +87,11 @@ Test the API to ensure that the request works and returns the correct data.
 
 You can enable API caching to save on costs by reducing the number of requests.
 
-![image.png](dynamic-context-use-cases/image%203.png)
+![image.webp](dynamic-context-use-cases/image%203.webp)
 
 Here’s how it works:
 
-![image.png](dynamic-context-use-cases/image%204.png)
+![image.webp](dynamic-context-use-cases/image%204.webp)
 
 If you want to get weather forecast, you can do the same settings with the forecast endpoint.
 
@@ -102,7 +102,7 @@ Here’s an example of how to set up an API to retrieve the current stock market
 - Search for YH Finance API —\> Select Market News endpoint (v1)
 - Switch to the Params tab to enter the tickers you want to view (optional)
 
-![image.png](dynamic-context-use-cases/image%205.png)
+![image.webp](dynamic-context-use-cases/image%205.webp)
 
 On TypingMind, click on Dynamic Context and enter the following details:
 
@@ -128,11 +128,11 @@ Test the API to ensure that the request works and returns the correct data.
 
 You can enable API caching to save on costs by reducing the number of requests.
 
-![image.png](dynamic-context-use-cases/image%206.png)
+![image.webp](dynamic-context-use-cases/image%206.webp)
 
 Here’s how it works:
 
-![image.png](dynamic-context-use-cases/image%207.png)
+![image.webp](dynamic-context-use-cases/image%207.webp)
 
 ### Use case 3: Search jobs using JSearch API
 
@@ -141,7 +141,7 @@ Here’s an example of how to set up an API to retrieve the latest jobs in your 
 - Search for JSearch API —\> Select Job Search endpoint
 - Switch to the Params tab to enter the query to search for your jobs, for example, marketing jobs in vietnam
 
-![image.png](dynamic-context-use-cases/image%208.png)
+![image.webp](dynamic-context-use-cases/image%208.webp)
 
 On TypingMind, click on Dynamic Context and enter the following details:
 
@@ -167,11 +167,11 @@ Test the API to ensure that the request works and returns the correct data.
 
 You can enable API caching to save on costs by reducing the number of requests.
 
-![image.png](dynamic-context-use-cases/image%209.png)
+![image.webp](dynamic-context-use-cases/image%209.webp)
 
 Here’s how it works:
 
-![image.png](dynamic-context-use-cases/image%2010.png)
+![image.webp](dynamic-context-use-cases/image%2010.webp)
 
 ## Useful tips
 

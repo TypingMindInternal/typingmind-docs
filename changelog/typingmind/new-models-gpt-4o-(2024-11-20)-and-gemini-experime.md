@@ -10,7 +10,7 @@ Two new models:
 
 ...now available on [http://TypingMind.com](http://typingmind.com/)! 🔥
 
-![image.png](new-models-gpt-4o-(2024-11-20)-and-gemini-experime/image.png)
+![image.webp](new-models-gpt-4o-(2024-11-20)-and-gemini-experime/image.webp)
 
 ## 📌 Stay updated
 

@@ -18,13 +18,13 @@ Go to the Admin Panel → Knowledge Base. Here you can setup your knowledge base
 1. Upload files up to 50MB per file. Supported format: PDF, DOCX, TXT, CSV, etc.
 2. Pulling data from other services (Notion, Google Drive like Google Docs, Google Sheet, etc.)
 
-![image.png](four-levels-of-data-integrations/image%201.png)
+![image.webp](four-levels-of-data-integrations/image%201.webp)
 
 ## How knowledge base is provided to the assistant.
 
 ### Knowledge base provided via Uploaded Files
 
-![image.png](how-knowledge-base-works-in-typingmind-team/image.png)
+![image.webp](how-knowledge-base-works-in-typingmind-team/image.webp)
 
 The AI assistant gets the data from uploaded files via a vector database. Here is how the files are processed:
 
@@ -40,7 +40,7 @@ All of your uploaded files are stored securely on our system. We never share you
 
 ### Knowledge base provided **via connected sources (Notion, Github,…)**
 
-![image.png](four-levels-of-data-integrations/image%202.png)
+![image.webp](four-levels-of-data-integrations/image%202.webp)
 
 In addition to uploading files, you can also connect external data sources, such as Notion, Intercom, etc., to train your AI assistant.
 
@@ -48,7 +48,7 @@ In addition to uploading files, you can also connect external data sources, such
 - **Data extraction and chunking**: The process of data extraction and chunking works the same way as it does for uploaded files. The system extracts the raw text, preserves the meaningful context, and splits the text into manageable chunks.
 - **Data refresh**: the system will refresh the data from the connected sources once per day. This ensures that your AI assistant always has access to the most up-to-date information.
 
-![image.png](how-knowledge-base-works-in-typingmind-team/image%201.png)
+![image.webp](how-knowledge-base-works-in-typingmind-team/image%201.webp)
 
 <aside>
 💡 There are many options to connect your knowledge base with LLMs on TypingMind, learn more:

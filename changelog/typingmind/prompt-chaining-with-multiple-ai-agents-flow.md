@@ -23,7 +23,7 @@ title: "Prompt chaining with multiple AI Agents - “Flow”"
 
 Find out more about **Prompt Chaining** here: https://docs.typingmind.com/prompts/prompt-chaining-automated-workflow-to-enhance-model-reasoning
 
-![image.png](prompt-chaining-with-multiple-ai-agents-flow/image.png)
+![image.webp](prompt-chaining-with-multiple-ai-agents-flow/image.webp)
 
 ### 📌 Stay updated
 

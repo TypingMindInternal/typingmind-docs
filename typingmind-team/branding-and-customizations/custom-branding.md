@@ -9,11 +9,11 @@ Start by branding your chat instance with your company's name, logo, and tagline
 
 Go to **General Settings** > Scroll down to the **Branding** section
 
-![](https://framerusercontent.com/images/VRWmvtLAuZieFnTVvdDbVHH0aU.png)
+![](https://framerusercontent.com/images/VRWmvtLAuZieFnTVvdDbVHH0aU.webp)
 
 This is how your branding setups will appear on your Chat Interface:
 
-![](https://framerusercontent.com/images/Svh65CXYyCEFhdggNLnq5AGHLc.png)
+![](https://framerusercontent.com/images/Svh65CXYyCEFhdggNLnq5AGHLc.webp)
 
 ## **2. Customize Footer Links**
 
@@ -21,17 +21,17 @@ Customize the footer links with your FAQs, Terms & Condition, Privacy Policy, an
 
 Go to **General Settings** > Scroll down to the **Links** section
 
-![](https://framerusercontent.com/images/x5FpRSBRk9qoKPztmzDjG2kf8.png)
+![](https://framerusercontent.com/images/x5FpRSBRk9qoKPztmzDjG2kf8.webp)
 
 Here’s how it looks on the chat UI:
 
-![](https://framerusercontent.com/images/UxvZD7YijTyC93VjGnxKTCuPz0.png)
+![](https://framerusercontent.com/images/UxvZD7YijTyC93VjGnxKTCuPz0.webp)
 
 ## **3.Change the Document Links**
 
 You can change the document links that are included within the chat interface such as Plugins docs, OpenRouter guide, Azure OpenAI guide, etc.
 
-![](https://framerusercontent.com/images/fx0JxcUQONZbr5wrZomvBZY1SE.png)
+![](https://framerusercontent.com/images/fx0JxcUQONZbr5wrZomvBZY1SE.webp)
 
 ## **4. Customize to your local language**
 
@@ -39,7 +39,7 @@ Adapt the chat interface to your local language to enhance user engagement.
 
 Go to **General Settings** > Choose your preferred language for the UI
 
-![](https://framerusercontent.com/images/MDQxSo6qFfuGWKaqUnqtXd9JVQ.png)
+![](https://framerusercontent.com/images/MDQxSo6qFfuGWKaqUnqtXd9JVQ.webp)
 
 Here’s how it looks on the chat interface:
 
@@ -51,11 +51,11 @@ Customize the welcome messages to easily onboard your users. You can provide the
 
 Go to **Welcome Message** > input your messages
 
-![](https://framerusercontent.com/images/DHCBvJcifEMCOplzCr5XXONaZ7I.png)
+![](https://framerusercontent.com/images/DHCBvJcifEMCOplzCr5XXONaZ7I.webp)
 
 Your messages will be shown up on the chat interface as below:
 
-![](https://framerusercontent.com/images/Any3VZcTB5g6HRInLEityqYI.png)
+![](https://framerusercontent.com/images/Any3VZcTB5g6HRInLEityqYI.webp)
 
 ## **6. Use Your Own Domain**
 
@@ -63,7 +63,7 @@ You can set up a custom domain for your chat interface.
 
 Go to **Custom Domain** > Set up your custom domain as instructions in the app.
 
-![](https://framerusercontent.com/images/EKy0iAEAl3W9kmrHv4X4VdpGUCo.png)
+![](https://framerusercontent.com/images/EKy0iAEAl3W9kmrHv4X4VdpGUCo.webp)
 
 ## **7. Customize the Chat Interface Theme**
 
@@ -73,8 +73,8 @@ This ensures a seamless integration of the chat interface with your brand's visu
 
 Go to **Chat Theme** > Choose your preferred theme or add your custom theme
 
-![](https://framerusercontent.com/images/bTui6t64vGiXOnPhqrgGjvudg.png)
+![](https://framerusercontent.com/images/bTui6t64vGiXOnPhqrgGjvudg.webp)
 
 And see how the chat UI changes:
 
-![](https://framerusercontent.com/images/LKrN7QHEf4S15Ixadif3JaZsGcQ.png)
+![](https://framerusercontent.com/images/LKrN7QHEf4S15Ixadif3JaZsGcQ.webp)

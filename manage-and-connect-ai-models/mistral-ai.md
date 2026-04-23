@@ -12,7 +12,7 @@ You can sign up from [https://mistral.ai/](https://mistral.ai/) or another servi
 
 Once you have an account, go to [https://console.mistral.ai/api-keys/](https://console.mistral.ai/api-keys/) to create an API key:
 
-![image.png](mistral-ai/image.png)
+![image.webp](mistral-ai/image.webp)
 
 ## Add a custom model in Typing Mind:
 
@@ -32,10 +32,10 @@ Go to [typingmind.com](http://typingmind.com) and create a new Custom Model as f
   **⚠️ Newly created API key will take 2-3 minutes to start working**. If you click the “Test” button but failed, try again in 2-3 minutes.
 </aside>
 
-![image.png](mistral-ai/image%201.png)
+![image.webp](mistral-ai/image%201.webp)
 
 ## Use Mistral AI in Typing Mind
 
 You can now select the newly created custom model and chat with it.
 
-![image.png](mistral-ai/image%202.png)
+![image.webp](mistral-ai/image%202.webp)

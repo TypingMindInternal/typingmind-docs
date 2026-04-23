@@ -7,7 +7,7 @@ Submit your useful plugins/extensions to our repository at [http://github.com/Ty
 
 By contributing, you’ll have the chance to be featured in the official Plugin store and promoted in our newsletter! 🚀
 
-![image.png](submit-your-plugins-extensions/image.png)
+![image.webp](submit-your-plugins-extensions/image.webp)
 
 ## 📌 Stay updated
 

@@ -5,7 +5,7 @@ When using Claude models, you may occasionally see the following error message:
 > `Claude has rejected your request with error code 429. Here are the possible reasons: 1. You are sending requests too quickly; 2. You have hit your maximum monthly spend (hard limit); 3. The model is currently overloaded. Here is the error message from Claude: This request would exceed your organization’s rate limit of x0,000 input tokens per minute. For details, refer to: [https://docs.anthropic.com/en/api/rate-limits](https://docs.anthropic.com/en/api/rate-limits); see the response headers for current usage. Please reduce the prompt length or the maximum tokens requested, or try again later. You may also contact sales at [https://www.anthropic.com/contact-sales](https://www.anthropic.com/contact-sales) to discuss your options for a rate limit increase.`
 
 <Frame>
-  ![Image](/images/image.png)
+  ![Image](/images/image.webp)
 </Frame>
 
 This error means your request cannot be processed because it would exceed the _token-per-minute_ (TPM) limit imposed by Anthropic.
@@ -14,7 +14,7 @@ This error means your request cannot be processed because it would exceed the _t
 
 Every Claude model has strict limits on how many tokens you can send (and receive) per minute. These limits vary depending on your usage tier.
 
-![Image 1](/images/image-1.png)
+![Image 1](/images/image-1.webp)
 
 For example, you are using Claude 4 and encounter the error as follows:
 
@@ -58,7 +58,7 @@ Below are several practical approaches you can take:
 
 Increasing your tier raises your TPM limit. You will need to top up more API credit for your account to upgrade usage tier at [https://console.anthropic.com/settings/billing](https://console.anthropic.com/settings/billing)
 
-![Image 2](/images/image-2.png)
+![Image 2](/images/image-2.webp)
 
 ### 2. Reduce token usage in your conversation
 
@@ -71,7 +71,7 @@ You can lower the size of your requests by:
 
 Keeping the conversation lean ensures you stay within the TPM limit.
 
-![Image 3](/images/image-3.png)
+![Image 3](/images/image-3.webp)
 
 ### 3. Try using the model through OpenRouter
 
@@ -79,7 +79,7 @@ If you need the same model but with different rate limits, OpenRouter may provid
 
 Learn how to [set up models via OpenRouter](/manage-and-connect-ai-models/openrouter)
 
-![Image 4](/images/image-4.png)
+![Image 4](/images/image-4.webp)
 
 ### 4. Switch to another AI Model
 

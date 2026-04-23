@@ -7,7 +7,7 @@ title: "GPT-4o mini is now available"
 
 GPT-4o mini is now available: GPT-4o Mini is a smaller, optimized version of the GPT-4o language model designed to run efficiently on mobile devices like smartphones and tablets.
 
-![image.png](gpt-4o-mini-is-now-available/image.png)
+![image.webp](gpt-4o-mini-is-now-available/image.webp)
 
 ### ✨ Stay updated:
 

@@ -18,7 +18,7 @@ Head over to [the DeepSearch page](https://jina.ai/deepsearch/?utm_source=chatgp
 
 Once generated, copy your key. It will look something like this: `jina_xxxxxxxxxxxxxxxxx`
 
-![image.png](jina-deep-research/image.png)
+![image.webp](jina-deep-research/image.webp)
 
 Keep it private—this is the key that authenticates your requests.
 
@@ -26,7 +26,7 @@ Keep it private—this is the key that authenticates your requests.
 
 To configure Jina Deep Research in TypingMind, go to Models —\> Add Custom Models:
 
-![image.png](xai-\(grok-ai\)/image%206.png)
+![image.webp](xai-\(grok-ai\)/image%206.webp)
 
 Use the following details:
 
@@ -35,10 +35,10 @@ Use the following details:
 - **Model ID**: `jina-deepsearch-v1`
 - **Add Custom Header:** `Authorization` : `Bearer your_Jina_api_key`
 
-![image.png](jina-deep-research/image%201.png)
+![image.webp](jina-deep-research/image%201.webp)
 
 ## Step 3: Start working on your research tasks with Jina
 
 With everything set up, select **Jina DeepSearch** as your model in TypingMind and begin experimenting.
 
-![image.png](jina-deep-research/image%202.png)
+![image.webp](jina-deep-research/image%202.webp)

@@ -15,7 +15,7 @@ You can upload:
 
 Learn more: https://docs.typingmind.com/voice-input-(speech-to-text)
 
-![image.png](upload-audio-file-for-transcription/image.png)
+![image.webp](upload-audio-file-for-transcription/image.webp)
 
 ## ✨ Stay updated
 

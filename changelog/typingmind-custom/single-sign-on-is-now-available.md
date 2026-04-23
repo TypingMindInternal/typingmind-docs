@@ -9,7 +9,7 @@ Supported SAML, meaning you can connect with Microsoft Entra ID (Azure AD), Micr
 
 OIDC and OAuth support soon!
 
-![image.png](single-sign-on-is-now-available/image.png)
+![image.webp](single-sign-on-is-now-available/image.webp)
 
 ### ✨ Stay updated
 

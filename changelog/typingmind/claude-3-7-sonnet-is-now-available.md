@@ -13,7 +13,7 @@ TypingMind now supports Claude 3.7 Sonnet! (reload the app to update!)
 
 🚅 Super fast!
 
-![image.png](claude-3-7-sonnet-is-now-available/image.png)
+![image.webp](claude-3-7-sonnet-is-now-available/image.webp)
 
 ## 📌 Stay updated
 

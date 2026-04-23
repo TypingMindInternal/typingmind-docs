@@ -11,14 +11,14 @@ Looking to share plugins or import shared plugins? This guide will provide the e
 1. Open **Plugins**
 2. Click on the “**Share**” button on the top right corner of the plugin (under the three dots menu).
 
-![Untitled](share-import-plugins/Untitled.png)
+![Untitled](share-import-plugins/Untitled.webp)
 
 3. There will be 2 options to share your plugins:
 
 - Share via a unique URL
 - Share as JSON
 
-![Untitled](share-import-plugins/Untitled%201.png)
+![Untitled](share-import-plugins/Untitled%201.webp)
 
 1. Simply copy the generated link/JSON file and share
 
@@ -77,7 +77,7 @@ To import a plugin using its URL, follow these steps:
 2. Click on the “**Import plugins”** button.
 3. Paste the plugin URL into the designated field to import the plugin.
 
-![Untitled](share-import-plugins/Untitled%202.png)
+![Untitled](share-import-plugins/Untitled%202.webp)
 
 ### Import a plugin via GitHub URL
 
@@ -87,12 +87,12 @@ To import a plugin using its URL, follow these steps:
 2. Click on the “**Import plugins”** button.
 3. Paste the plugin Github URL into the designated field to import the plugin.
 
-![Untitled](share-import-plugins/Untitled%203.png)
+![Untitled](share-import-plugins/Untitled%203.webp)
 
 ### Import a plugin from a private GitHub repo
 
 1. Generate a new GitHub personal access token ([https://github.com/settings/tokens?type=beta](https://github.com/settings/tokens?type=beta)). There are 2 types of tokens:
-   1. Fine-grained token (Recommended): Select that private repo and set **Contents** permission to **Read-only** <img src="share-import-plugins/Xnapper-2024-09-15-10.22.01.png" alt="Xnapper-2024-09-15-10.22.01.png" /> <img src="share-import-plugins/Xnapper-2024-09-15-10.22.57.png" alt="Xnapper-2024-09-15-10.22.57.png" /> b. Classic token: select the scope **repo** <img src="share-import-plugins/Xnapper-2024-09-15-10.31.36.png" alt="Xnapper-2024-09-15-10.31.36.png" />
+   1. Fine-grained token (Recommended): Select that private repo and set **Contents** permission to **Read-only** <img src="share-import-plugins/Xnapper-2024-09-15-10.22.01.webp" alt="Xnapper-2024-09-15-10.22.01.webp" /> <img src="share-import-plugins/Xnapper-2024-09-15-10.22.57.webp" alt="Xnapper-2024-09-15-10.22.57.webp" /> b. Classic token: select the scope **repo** <img src="share-import-plugins/Xnapper-2024-09-15-10.31.36.webp" alt="Xnapper-2024-09-15-10.31.36.webp" />
 2. Attach the query `?token=[the-generated-token]` to the URL, for example: [https://github.com/TypingMind/plugin-stable-diffusion-v2-image?token=github\_pat\_xxxxxx](https://github.com/TypingMind/plugin-stable-diffusion-v2-image)
 
 ### Import via JSON file
@@ -100,7 +100,7 @@ To import a plugin using its URL, follow these steps:
 - Create new plugin
 - Choose **Import plugin from JSON**
 
-![Untitled](share-import-plugins/Untitled%204.png)
+![Untitled](share-import-plugins/Untitled%204.webp)
 
 ### **Direct Plugin Import**
 
@@ -109,4 +109,4 @@ Another way of importing a shared plugin is to use a direct import. Here's how:
 1. Click on the shared plugin link that you've received.
 2. Click the “**Import to TypingMind**” button to import to the app and use it effortlessly
 
-![Untitled](share-import-plugins/Untitled%205.png)
+![Untitled](share-import-plugins/Untitled%205.webp)

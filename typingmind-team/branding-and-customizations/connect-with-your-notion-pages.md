@@ -36,16 +36,16 @@ Integrating Notion pages as a training source enables your AI chatbot to underst
 - Go to **Training Data**
 - Click **Add Data Sources**
 
-![image.png](connect-with-your-notion-pages/image.png)
+![image.webp](connect-with-your-notion-pages/image.webp)
 
 - Pick the specific Notion pages or databases you wish to connect and click **Add** to link them to the chat instance.
 
-![image.png](connect-with-your-notion-pages/image%201.png)
+![image.webp](connect-with-your-notion-pages/image%201.webp)
 
 - Once added, wait a few minutes while the data syncs from your Notion account to your TypingMind instance.
 - After syncing, go to the chat interface to start interacting with your Notion-based training data.
 
-![image.png](connect-with-your-notion-pages/image%202.png)
+![image.webp](connect-with-your-notion-pages/image%202.webp)
 
 <aside>
 📌

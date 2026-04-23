@@ -15,7 +15,7 @@ Customizing parameters for each AI model allows you to optimize their performanc
 
 Learn more: https://docs.typingmind.com/parameter-settings/custom-parameters-for-each-model
 
-![image.png](custom-parameters-for-each-model/image.png)
+![image.webp](custom-parameters-for-each-model/image.webp)
 
 ### 📌 Stay updated
 

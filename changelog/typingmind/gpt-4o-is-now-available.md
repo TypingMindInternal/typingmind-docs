@@ -7,7 +7,7 @@ title: "GPT-4o is now available!"
 
 GPT-4o is now available on [typingmind.com](http://typingmind.com/)! (Use via your API key)
 
-![image.png](gpt-4o-is-now-available/image.png)
+![image.webp](gpt-4o-is-now-available/image.webp)
 
 ### ❓**Why This Matters**
 

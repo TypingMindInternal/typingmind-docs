@@ -12,9 +12,9 @@ With Perplexity, you'll get:
 - Better accuracy
 - More detailed results
 
-![image.png](perplexity-plugin-is-now-available/image.png)
+![image.webp](perplexity-plugin-is-now-available/image.webp)
 
-![image.png](perplexity-plugin-is-now-available/image%201.png)
+![image.webp](perplexity-plugin-is-now-available/image%201.webp)
 
 ### ✨ Stay updated
 

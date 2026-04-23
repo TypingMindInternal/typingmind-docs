@@ -10,7 +10,7 @@ title: "Pin messages"
 
 Learn more: https://docs.typingmind.com/chat-management/pin-your-chats
 
-![image.png](pin-messages/image.png)
+![image.webp](pin-messages/image.webp)
 
 ## ✨ Stay updated
 

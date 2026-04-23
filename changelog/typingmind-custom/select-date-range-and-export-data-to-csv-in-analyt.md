@@ -14,9 +14,9 @@ With this update, you can:
 
 This allows you to optimize your reports for precise analysis and easily compare data across various timeframes to identify…
 
-![image.png](select-date-range-and-export-data-to-csv-in-analyt/image.png)
+![image.webp](select-date-range-and-export-data-to-csv-in-analyt/image.webp)
 
-![image.png](select-date-range-and-export-data-to-csv-in-analyt/image%201.png)
+![image.webp](select-date-range-and-export-data-to-csv-in-analyt/image%201.webp)
 
 ### ✨ Stay updated
 

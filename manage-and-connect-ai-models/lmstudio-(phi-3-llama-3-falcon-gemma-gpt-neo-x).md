@@ -24,7 +24,7 @@ Here’s how!
 Go to [https://lmstudio.ai/](https://lmstudio.ai/) to download LMStudio for your device.
 
 <Frame>
-  ![Download Lm Studio](/images/download-lm-studio.png)
+  ![Download Lm Studio](/images/download-lm-studio.webp)
 </Frame>
 
 # Step 2: Download the AI model
@@ -32,7 +32,7 @@ Go to [https://lmstudio.ai/](https://lmstudio.ai/) to download LMStudio for your
 Search and download the specific AI model you want to use, such as Phi-3-mini-4k.
 
 <Frame>
-  ![Lm Studio Download Model](/images/lm-studio-download-model.png)
+  ![Lm Studio Download Model](/images/lm-studio-download-model.webp)
 </Frame>
 
 # Step 3: Set up Local Server
@@ -43,13 +43,13 @@ Search and download the specific AI model you want to use, such as Phi-3-mini-4k
 - Click **Start Server**
 
 <Frame>
-  ![Untitled 2 1](/images/Untitled-2-1.png)
+  ![Untitled 2 1](/images/Untitled-2-1.webp)
 </Frame>
 
 You should see a confirmation message once the server starts.
 
 <Frame>
-  ![Untitled 3](/images/Untitled-3.png)
+  ![Untitled 3](/images/Untitled-3.webp)
 </Frame>
 
 # Step 4: Set up LMStudio models on TypingMind
@@ -58,12 +58,12 @@ You should see a confirmation message once the server starts.
 - **Add Custom Models**
 - Updates the following information to set up LMStudio models (example below is for Phi-3 mini)
   - **Name**: Microsoft Phi-3 (or you can give it any name you want)
-  - **Icon URL (suggested):** [https://cdn.iconscout.com/icon/free/png-256/free-microsoft-26-722716.png](https://cdn.iconscout.com/icon/free/png-256/free-microsoft-26-722716.png)
+  - **Icon URL (suggested):** [https://cdn.iconscout.com/icon/free/png-256/free-microsoft-26-722716.webp](https://cdn.iconscout.com/icon/free/png-256/free-microsoft-26-722716.webp)
   - **Endpoint**: `http://localhost:1234/v1/chat/completions`
   - **Model ID**: `microsoft/Phi-3-mini-4k-instruct-gguf/Phi-3-mini-4k-instruct-q4.gguf` (you can get your model ID after setting up local server here [http://localhost:1234/v1/models](http://localhost:1234/v1/models))
 
 <Frame>
-  ![Untitled 4](/images/Untitled-4.png)
+  ![Untitled 4](/images/Untitled-4.webp)
 </Frame>
 
 # Step 5: Start chatting
@@ -71,5 +71,5 @@ You should see a confirmation message once the server starts.
 Interact with Phi-3 or your chosen AI model on TypingMind!
 
 <Frame>
-  ![Untitled 5](/images/Untitled-5.png)
+  ![Untitled 5](/images/Untitled-5.webp)
 </Frame>

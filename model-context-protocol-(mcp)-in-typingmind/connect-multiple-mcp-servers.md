@@ -46,7 +46,7 @@ Click on Edit Servers to configure your MCP servers:
 }
 ```
 
-![image.png](connect-multiple-mcp-servers/image.png)
+![image.webp](connect-multiple-mcp-servers/image.webp)
 
 Each server entry includes:
 
@@ -64,6 +64,6 @@ Save your changes after editing the file. TypingMind will use this configuration
 
 In TypingMind, enable each MCP server as a **separate plugin**. Go Plugins —> Enable the connected MCP servers:
 
-![image.png](connect-multiple-mcp-servers/image%201.png)
+![image.webp](connect-multiple-mcp-servers/image%201.webp)
 
 Once enabled, TypingMind will automatically connect to all configured servers at startup.

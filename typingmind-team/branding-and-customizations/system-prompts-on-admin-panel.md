@@ -7,7 +7,7 @@ These prompts are key to shaping how the AI responds, interacts, and manages con
 
 The **System Prompts** menu in the Admin Panel allows admins to set global system instructions and related prompts that can be applied to all conversations.
 
-![image.png](four-levels-of-data-integrations/image.png)
+![image.webp](four-levels-of-data-integrations/image.webp)
 
 With TypingMind Custom, admins can configure the following setups within the Admin Panel via the **System Prompts** menu:
 
@@ -50,7 +50,7 @@ Now the user will ask you a question.
 
 </aside>
 
-![image.png](system-prompts-on-admin-panel/image.png)
+![image.webp](system-prompts-on-admin-panel/image.webp)
 
 ## **Global Few-shot Prompting**
 
@@ -71,7 +71,7 @@ To reset your password, click on 'Forgot Password' on the login screen, and foll
 
 </aside>
 
-![image.png](system-prompts-on-admin-panel/image%201.png)
+![image.webp](system-prompts-on-admin-panel/image%201.webp)
 
 ## **Global Post-Message Reminder**
 
@@ -94,4 +94,4 @@ Reminder: Always be concise and respond with empathy. Do not answer unless you a
 
 </aside>
 
-![image.png](system-prompts-on-admin-panel/image%202.png)
+![image.webp](system-prompts-on-admin-panel/image%202.webp)

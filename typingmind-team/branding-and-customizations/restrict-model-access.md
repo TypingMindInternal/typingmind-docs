@@ -15,22 +15,22 @@ Please follow these steps to create groups for your members:
 - Navigate to the **Groups** section under **User Management**.
 - Click on **Add New Group**.
 
-![image.png](../getting-started/getting-started-with-typingmind-team-(cloud-host)/image%2020.png)
+![image.webp](../getting-started/getting-started-with-typingmind-team-(cloud-host)/image%2020.webp)
 
 - Enter a **Group Name** that reflects the purpose or role of the group.
 - *(Optional)* Enable **Admin Access** for this group if they can have access to the admin panel.
     - If you enable this option, ensure you assign appropriate **Admin Roles** to the group. These roles should align with the permissions you’ve defined in the [**Roles and Permissions**](../User%20Management/Roles%20and%20Permissions%202256943d288b473b8139f6fb0fdc653f.md) settings.
 
-![image.png](restrict-model-access/image.png)
+![image.webp](restrict-model-access/image.webp)
 
 - Click **Manage** next to the created group
 - Click **Add Members**
 
-![image.png](restrict-model-access/image%201.png)
+![image.webp](restrict-model-access/image%201.webp)
 
 - Select the users you want to include in this group from the list.
 
-![image.png](restrict-model-access/image%202.png)
+![image.webp](restrict-model-access/image%202.webp)
 
 <aside>
 💡
@@ -48,7 +48,7 @@ You can manage the AI model visibility and usage limit using User Groups followi
 - Go to Models section
 - Select a model, switch to Access & Limits tab, and set up the visibility for specific user groups.
 
-![image.png](restrict-model-access/image%203.png)
+![image.webp](restrict-model-access/image%203.webp)
 
 ### 2. Manage AI Model Usage Limit
 
@@ -62,6 +62,6 @@ Please scroll down to the "**Limit**" section and click on Add Limit
 
 - Click to **Limit Group** —> **Add New Limit Group** —> Add limits for messages and characters
 
-![image.png](restrict-model-access/image%204.png)
+![image.webp](restrict-model-access/image%204.webp)
 
-![image.png](restrict-model-access/image%205.png)
+![image.webp](restrict-model-access/image%205.webp)

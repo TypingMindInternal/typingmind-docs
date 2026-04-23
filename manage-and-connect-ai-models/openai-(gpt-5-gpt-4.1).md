@@ -16,7 +16,7 @@ Follow the steps below to see how to do this.
 
 If you don't already have an OpenAI account, first you need to go to [https://platform.openai.com/](https://platform.openai.com/) and click **Sign Up or Log in** if you already had an account.
 
-![image.png](aws-bedrock-anthropic/image.png)
+![image.webp](aws-bedrock-anthropic/image.webp)
 
 ## Step 2: Add API Credit Balance
 
@@ -24,7 +24,7 @@ After signing up, you will need to top up your credit to use the API key:
 
 1. Go to your [**billing overview**](https://platform.openai.com/settings/organization/billing/overview) in your account settings
 
-![image.png](aws-bedrock-anthropic/image%201.png)
+![image.webp](aws-bedrock-anthropic/image%201.webp)
 
 2. Click "Add payment details" and enter your payment details
 3. Choose the initial amount of credits you want to purchase. The minimum purchase is \$5.
@@ -39,7 +39,7 @@ You can enable the option Automatic recharge so OpenAI can charge you automatica
 
 - Click on API keys tab to create a new API key
 
-![image.png](aws-bedrock-anthropic/image%202.png)
+![image.webp](aws-bedrock-anthropic/image%202.webp)
 
 - Click Create a new secret key.
 
@@ -49,11 +49,11 @@ You can enable the option Automatic recharge so OpenAI can charge you automatica
 
 - Give the API key a name and click “Create secret key”
 
-![image.png](aws-bedrock-anthropic/image%203.png)
+![image.webp](aws-bedrock-anthropic/image%203.webp)
 
 - Copy your API key to a safe place
 
-![image.png](aws-bedrock-anthropic/image%204.png)
+![image.webp](aws-bedrock-anthropic/image%204.webp)
 
 ## Step 4: Enter your API key to TypingMind
 
@@ -61,11 +61,11 @@ You can enable the option Automatic recharge so OpenAI can charge you automatica
 - Navigate the Settings menu → API key section
 - Input the copied API key
 
-![image.png](aws-bedrock-anthropic/image%205.png)
+![image.webp](aws-bedrock-anthropic/image%205.webp)
 
 - Now you can use the available OpenAI models on TypingMind (GPT-5.4, Codex, GPT-5)
 
-![image.png](aws-bedrock-anthropic/image%206.png)
+![image.webp](aws-bedrock-anthropic/image%206.webp)
 
 ## Advanced settings
 
@@ -78,4 +78,4 @@ You can enable the option Automatic recharge so OpenAI can charge you automatica
   If you use a customized endpoint, the endpoint must be 100% compatible with OpenAI's Chat Completion endpoint; otherwise, the app functionalities may not work properly.
 </aside>
 
-![image.png](aws-bedrock-anthropic/image%207.png)
+![image.webp](aws-bedrock-anthropic/image%207.webp)

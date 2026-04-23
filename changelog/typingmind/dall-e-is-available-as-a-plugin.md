@@ -7,7 +7,7 @@ Use Dall-E to generate images from text.
 
 Learn how to https://docs.typingmind.com/plugins/set-up-dall-e-3
 
-![image.png](dall-e-is-available-as-a-plugin/image.png)
+![image.webp](dall-e-is-available-as-a-plugin/image.webp)
 
 ## ✨ Stay updated
 

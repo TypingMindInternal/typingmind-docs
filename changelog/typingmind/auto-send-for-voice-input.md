@@ -5,7 +5,7 @@ title: "Auto send for voice input"
 
 You can now enable auto-send for voice input on [typingmind.com](http://typingmind.com/) 
 
-![image.png](auto-send-for-voice-input/image.png)
+![image.webp](auto-send-for-voice-input/image.webp)
 
 ### ✨ Stay updated
 

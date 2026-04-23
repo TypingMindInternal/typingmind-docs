@@ -12,7 +12,7 @@ Now you can:
 
 This allows you to gain more control over how your title should be generated. 
 
-![image.png](choose-your-preferred-model-or-custom-prompt-to-ge/image.png)
+![image.webp](choose-your-preferred-model-or-custom-prompt-to-ge/image.webp)
 
 ## 📌 Stay updated
 

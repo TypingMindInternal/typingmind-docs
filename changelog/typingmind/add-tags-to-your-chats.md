@@ -7,9 +7,9 @@ Add tags to your chat to better organize your workspace.
 
 Other options to manage chats: https://docs.typingmind.com/chat-management/organize-chats
 
-![image.png](add-tags-to-your-chats/image.png)
+![image.webp](add-tags-to-your-chats/image.webp)
 
-![image.png](add-tags-to-your-chats/image%201.png)
+![image.webp](add-tags-to-your-chats/image%201.webp)
 
 ### ✨ Stay updated
 

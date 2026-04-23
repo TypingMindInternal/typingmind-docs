@@ -5,7 +5,7 @@ title: "UI Improvement: rearrange Model Settings, Plugins and Your Profile"
 
 Rearrange Your Profile, Models and Plugins for better navigation.
 
-![image.png](ui-improvement-rearrange-model-settings-plugins-a/image.png)
+![image.webp](ui-improvement-rearrange-model-settings-plugins-a/image.webp)
 
 ## ✨ Stay updated
 

@@ -13,7 +13,7 @@ Project Folders are an improved version of the old “Folders” feature. This i
 
 The new Project Folders allow every chat or task within a project has the right context and resources available.
 
-![image.png](project-folders/image.png)
+![image.webp](project-folders/image.webp)
 
 ## **🏁 How it works**
 
@@ -23,7 +23,7 @@ The new Project Folders allow every chat or task within a project has the right 
     - Provide context and custom instructions
     - Upload training files (if any)
 
-![image.png](project-folders/image%201.png)
+![image.webp](project-folders/image%201.webp)
 
 Learn more: https://docs.typingmind.com/chat-management/project-folders
 

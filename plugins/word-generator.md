@@ -8,7 +8,7 @@ This plugin enables you to generate Word documents straight from your conversati
 
 After completing this guide, you will learn how to generate Microsoft Word documents (.docx) like the business proposals example below.
 
-![image.png](word-generator/image.png)
+![image.webp](word-generator/image.webp)
 
 Let's get started!
 
@@ -18,7 +18,7 @@ Before using this plugin, you will need to set up a [Plugin Server](https://docs
 
 For step-by-step instructions on setting up a plugin server through Render, visit: https://docs.typingmind.com/plugins/plugins-server/how-to-deploy-plugins-server-on-render
 
-![image.png](word-generator/image%201.png)
+![image.webp](word-generator/image%201.webp)
 
 ## **Step 2: Set up the plugin on TypingMind**
 
@@ -26,11 +26,11 @@ For step-by-step instructions on setting up a plugin server through Render, visi
 - Click on the **Plugins** menu on the left side panel
 - Import the plugin from this Github Repository: [https://github.com/TypingMind/plugin-word-generator](https://github.com/TypingMind/plugin-word-generator) or directly install “Word Generator” from the plugin store
 
-![Screenshot 2025-01-01 at 17.53.35.png](word-generator/Screenshot_2025-01-01_at_17.53.35.png)
+![Screenshot 2025-01-01 at 17.53.35.webp](word-generator/Screenshot_2025-01-01_at_17.53.35.webp)
 
 - Enable the Plugin —> go to Plugin Settings —> enter your **Plugin Server URL** from step 1.
 
-![image.png](word-generator/image%202.png)
+![image.webp](word-generator/image%202.webp)
 
 - You can also configure the document settings (optional):
     - Select portrait or landscape page orientation
@@ -41,40 +41,40 @@ For step-by-step instructions on setting up a plugin server through Render, visi
     - Configure header numbering format
     - Set text alignment for headers and footers
 
-![Screenshot 2025-01-01 at 18.20.35.png](word-generator/Screenshot_2025-01-01_at_18.20.35.png)
+![Screenshot 2025-01-01 at 18.20.35.webp](word-generator/Screenshot_2025-01-01_at_18.20.35.webp)
 
 ### **Step 3: Start Creating Your Documents**
 
 - Let's ask the AI to create a proposal for a new drink called "Honey Vanilla Latte," which is shown in the introduction image. The plugin will help you create a downloadable link in the AI responses so you can download quickly.
 
-![image.png](word-generator/image%203.png)
+![image.webp](word-generator/image%203.webp)
 
 - You can modify the document content in several ways, including
     - Adding sections and subsections to organize your content.
     
-    ![image.png](word-generator/image%204.png)
+    ![image.webp](word-generator/image%204.webp)
     
     - Adding tables to the document
     
-    ![image.png](word-generator/image%205.png)
+    ![image.webp](word-generator/image%205.webp)
     
     - Enable header numbering, add custom header/footer text, and display page numbers
     
-    ![image.png](word-generator/image%206.png)
+    ![image.webp](word-generator/image%206.webp)
     
     - Adding a table of contents to the first page
     
-    ![image.png](word-generator/image%207.png)
+    ![image.webp](word-generator/image%207.webp)
     
     - Adding page breaks to better organize your content
     
-    ![image.png](word-generator/image%208.png)
+    ![image.webp](word-generator/image%208.webp)
     
 - Here is your final document. Let's take a look!
 
-![Screenshot 2025-01-01 at 18.54.23.png](word-generator/Screenshot_2025-01-01_at_18.54.23.png)
+![Screenshot 2025-01-01 at 18.54.23.webp](word-generator/Screenshot_2025-01-01_at_18.54.23.webp)
 
-![image.png](word-generator/image%209.png)
+![image.webp](word-generator/image%209.webp)
 
 ### **Important Notes**
 

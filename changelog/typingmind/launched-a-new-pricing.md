@@ -7,7 +7,7 @@ title: "Launched a new pricing!"
 
 Check out for the details now: [typingmind.com](https://www.typingmind.com/)
 
-![image.png](launched-a-new-pricing/image.png)
+![image.webp](launched-a-new-pricing/image.webp)
 
 ### ✨ Stay updated
 

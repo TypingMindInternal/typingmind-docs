@@ -10,7 +10,7 @@ OpenAI o1 is now available on TypingMind!
 
 Use directly via OpenAI API (usage tier 5) or through OpenRouter.
 
-![image.png](openai-o1-is-now-available/image.png)
+![image.webp](openai-o1-is-now-available/image.webp)
 
 ## 📌 Stay updated
 

@@ -10,7 +10,7 @@ Choose to include or exclude "Message Attachments" when syncing to save cloud sp
 
 Open Manage Cloud Sync → Toggle the Sync settings and select or deselect message attachments.
 
-![image.png](include-exclude-message-attachments-when-syncing/image.png)
+![image.webp](include-exclude-message-attachments-when-syncing/image.webp)
 
 ### ✨ Stay updated
 

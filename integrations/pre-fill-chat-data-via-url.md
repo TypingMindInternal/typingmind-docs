@@ -37,7 +37,7 @@ You can also set the initial agent for a new chat via the URL. To do so:
 
 1. Obtain the agent ID.
     
-    ![image.png](pre-fill-chat-data-via-url/image.png)
+    ![image.webp](pre-fill-chat-data-via-url/image.webp)
     
 2. Open the app with the following URL format:
 

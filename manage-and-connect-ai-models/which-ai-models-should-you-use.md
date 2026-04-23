@@ -39,7 +39,7 @@ OpenAI's GPT family is still the most widely deployed and user-friendly line of 
 
 However, it's **not the top performer when it comes to serious coding tasks**—often trailing behind Claude in code correctness, explanation clarity, and multi-step logic.
 
-<img src="which-ai-models-should-you-use/image.png" alt="GPT Models" />
+<img src="which-ai-models-should-you-use/image.webp" alt="GPT Models" />
 
 **Pros**:
 
@@ -66,7 +66,7 @@ Claude models excel at tasks that require step-by-step reasoning, thoughtful sum
 - Strong at logic, coding, and long-form understanding.
 - Responses feel grounded, natural, and to the point.
 
-<img src="which-ai-models-should-you-use/image%201.png" alt="Claude Models" />
+<img src="which-ai-models-should-you-use/image%201.webp" alt="Claude Models" />
 
 **Cons**:
 
@@ -81,7 +81,7 @@ Claude models excel at tasks that require step-by-step reasoning, thoughtful sum
 
 Gemini is technically powerful on paper—with huge context windows and native multimodal input—but in real-world use, the experience can feel underwhelming. Outside of specific use cases like long document handling or video understanding, it often lags behind Claude and GPT in most use cases.
 
-<img src="which-ai-models-should-you-use/image%202.png" alt="Gemini Models" />
+<img src="which-ai-models-should-you-use/image%202.webp" alt="Gemini Models" />
 
 **Pros**:
 
@@ -102,7 +102,7 @@ Gemini is technically powerful on paper—with huge context windows and native m
 
 Perplexity AI is optimized for real-time, web-grounded search and question-answering tasks. It delivers fast, accurate, and concise answers, making them ideal for users seeking up-to-date information with source citations.
 
-<img src="which-ai-models-should-you-use/image%203.png" alt="Perplexity" />
+<img src="which-ai-models-should-you-use/image%203.webp" alt="Perplexity" />
 
 **Pros**:
 
@@ -121,7 +121,7 @@ Perplexity AI is optimized for real-time, web-grounded search and question-answe
 
 Meta's LLaMA line is open-source and increasingly competitive. While LLaMA 3 models (8B, 70B) are strong for lightweight tasks, the early **LLaMA 4 "Scout" model** has pushed limits by introducing support for **up to 10 million tokens**—ideal for processing entire books, codebases, or chat histories. Performance-wise, they're still behind Claude and GPT in general fluency, but they're rapidly catching up and are far more customizable.
 
-<img src="which-ai-models-should-you-use/image%204.png" alt="Llama Models" />
+<img src="which-ai-models-should-you-use/image%204.webp" alt="Llama Models" />
 
 **Pros**:
 
@@ -144,7 +144,7 @@ Meta's LLaMA line is open-source and increasingly competitive. While LLaMA 3 mod
 
 DeepSeek (like DeepSeek R1 and V3) is a budget-friendly, open-source model that punches above its weight in coding and math.
 
-<img src="which-ai-models-should-you-use/image%205.png" alt="DeepSeek" />
+<img src="which-ai-models-should-you-use/image%205.webp" alt="DeepSeek" />
 
 **Pros**:
 
@@ -165,7 +165,7 @@ DeepSeek (like DeepSeek R1 and V3) is a budget-friendly, open-source model that 
 
 Grok 3 has emerged as a strong contender in the AI space, particularly good at **coding** and **creative writing** tasks. Its advanced reasoning modes, such as "Think" and "Big Brain," enable it to tackle complex problems and generate nuanced content.
 
-<img src="which-ai-models-should-you-use/image%206.png" alt="Grok" />
+<img src="which-ai-models-should-you-use/image%206.webp" alt="Grok" />
 
 **Pros**:
 
@@ -185,7 +185,7 @@ That said, **they don't reflect 100% of user experiences**, and different people
 
 The best way to find the right model? Try them out yourself on TypingMind - compare multiple AI models in parallel to find the best one for your needs!
 
-<img src="which-ai-models-should-you-use/image%207.png" alt="TypingMind model comparison" />
+<img src="which-ai-models-should-you-use/image%207.webp" alt="TypingMind model comparison" />
 
 <Tip>
   All above models can be set up on TypingMind: [https://docs.typingmind.com/manage-and-connect-ai-models](https://docs.typingmind.com/manage-and-connect-ai-models)

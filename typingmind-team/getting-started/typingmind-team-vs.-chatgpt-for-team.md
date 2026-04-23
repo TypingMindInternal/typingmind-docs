@@ -76,7 +76,7 @@ Here's how **TypingMind Custom** and **ChatGPT for Teams** compare:
 
 **In summary,** TypingMind is the clear winner in branding and customization. Its support for custom domains, interface design, multilingual functionality, and embedded widgets makes it a versatile tool for businesses looking to integrate AI into their ecosystem while maintaining a strong brand presence. ChatGPT for Teams, while effective in other areas, lacks the flexibility and branding options that many businesses require.
 
-![image.png](getting-started-with-typingmind-team-(cloud-host)/image.png)
+![image.webp](getting-started-with-typingmind-team-(cloud-host)/image.webp)
 
 ## 3. Chat Features
 
@@ -94,7 +94,7 @@ When it comes to chat functionality, having the right features can make all the 
 
 - If you want to things more organized and more flexibility in building plugins to connect with your external service, opting for TypingMind is a great choice.
 
-![image.png](getting-started-with-typingmind-team-(cloud-host)/image%201.png)
+![image.webp](getting-started-with-typingmind-team-(cloud-host)/image%201.webp)
 
 ## **4. Chat Models Support**
 
@@ -106,7 +106,7 @@ The ability to access all AI models in one place gives businesses the freedom to
 
 **In summary:** TypingMind allows you to use multiple AI models, which is a huge advantage in optimizing the AI responses.
 
-![image.png](getting-started-with-typingmind-team-(cloud-host)/image%202.png)
+![image.webp](getting-started-with-typingmind-team-(cloud-host)/image%202.webp)
 
 ## 5. Collaboration features
 
@@ -118,7 +118,7 @@ Collaboration is the key to success for teams that ensure the same level of prod
 
 **In summary,** you have more freedom to build your company’s resources with TypingMind.
 
-![image.png](getting-started-with-typingmind-team-(cloud-host)/image%203.png)
+![image.webp](getting-started-with-typingmind-team-(cloud-host)/image%203.webp)
 
 ## 6. Admin Management
 
@@ -129,7 +129,7 @@ Manage user usage will help you manage your cost and ensure the fair use across 
 
 **In summary,** TypingMind provides more control over team member’s usage so businesses can effortlessly optimize cost to their budget.
 
-![image.png](getting-started-with-typingmind-team-(cloud-host)/image%204.png)
+![image.webp](getting-started-with-typingmind-team-(cloud-host)/image%204.webp)
 
 ## 7. Integrations
 
@@ -141,7 +141,7 @@ Integrating AI into your workflows ensures seamless collaboration and maximizes 
 
 **In summary,** TypingMind provides businesses with more integration options to ensure a seamless connectivity with existing systems and workflows. ChatGPT’s limited integration capabilities make it less adaptable for businesses with complex needs.
 
-![image.png](getting-started-with-typingmind-team-(cloud-host)/image%205.png)
+![image.webp](getting-started-with-typingmind-team-(cloud-host)/image%205.webp)
 
 ## 8. Connect with your company training data
 
@@ -149,7 +149,7 @@ Connect with your internal knowledge base helps the AI model provide answers mor
 
 - Directly upload large files or connect with your system and implement RAG: TypingMind natively implements this. All you need to do is to connect with your knowledge base. With ChatGPT for Teams, you will need to integrate it with third-party tools or APIs to implement RAG.
 
-![image.png](getting-started-with-typingmind-team-(cloud-host)/image%206.png)
+![image.webp](getting-started-with-typingmind-team-(cloud-host)/image%206.webp)
 
 ## **Conclusion: Which One is Right for You?**
 

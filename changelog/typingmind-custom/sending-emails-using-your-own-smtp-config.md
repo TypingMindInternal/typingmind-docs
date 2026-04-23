@@ -7,7 +7,7 @@ Custom Deployment now supports sending emails using your own SMTP config 😄
 
 This will help create a better branded experience for the users.
 
-![image.png](sending-emails-using-your-own-smtp-config/image.png)
+![image.webp](sending-emails-using-your-own-smtp-config/image.webp)
 
 ### ✨ Stay updated
 

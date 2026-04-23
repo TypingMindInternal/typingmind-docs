@@ -7,9 +7,9 @@ Added "conversation starters" for AI characters.
 
 Available now on both [typingmind.com](http://typingmind.com/) and [custom.typingmind.com](http://custom.typingmind.com/)
 
-![image.png](added-conversation-starters/image.png)
+![image.webp](added-conversation-starters/image.webp)
 
-![image.png](added-conversation-starters/image%201.png)
+![image.webp](added-conversation-starters/image%201.webp)
 
 ### ✨ Stay updated
 

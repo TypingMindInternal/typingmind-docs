@@ -5,7 +5,7 @@ title: "New options to customize your AI characters"
 
 Two new options to customize your AI characters in [custom.typingmind.com](http://custom.typingmind.com/):
 
-![image.png](new-options-to-customize-your-ai-characters/image.png)
+![image.webp](new-options-to-customize-your-ai-characters/image.webp)
 
 ### ✨ Stay updated
 

@@ -5,9 +5,9 @@ title: "Bulk delete custom models"
 
 Delete custom models in bulk!
 
-![image.png](bulk-delete-custom-models/image.png)
+![image.webp](bulk-delete-custom-models/image.webp)
 
-![image.png](bulk-delete-custom-models/image%201.png)
+![image.webp](bulk-delete-custom-models/image%201.webp)
 
 ## 📌 Stay updated
 

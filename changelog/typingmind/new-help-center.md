@@ -7,7 +7,7 @@ Introducing our Help Center! 👉 [docs.typingmind.com](http://docs.typingmind.c
 
 This compiles all things related to TypingMind. Let’s find answers to all your questions and learn how to make the most of TypingMind with ease!
 
-![image.png](new-help-center/image.png)
+![image.webp](new-help-center/image.webp)
 
 ### ✨ Stay updated
 

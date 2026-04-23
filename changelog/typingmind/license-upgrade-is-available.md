@@ -5,7 +5,7 @@ title: "License upgrade is available!"
 
 License Upgrade is now available in [typingmind.com](https://www.typingmind.com/)!
 
-![image.png](license-upgrade-is-available/image.png)
+![image.webp](license-upgrade-is-available/image.webp)
 
 ### ✨ Stay updated
 

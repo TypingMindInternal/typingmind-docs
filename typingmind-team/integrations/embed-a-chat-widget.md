@@ -1,7 +1,7 @@
 ---
 title: "Embed a chat widget"
 ---
-![Untitled](embed-a-chat-widget/Untitled.png)
+![Untitled](embed-a-chat-widget/Untitled.webp)
 
 One effective way to boost engagement and provide immediate value to your visitors is by embedding a chat widget on your website. Not only does this offer an interactive element to your site, but it also provides a hub for instant communication and assistance.
 
@@ -15,13 +15,13 @@ Here are 4 easy steps to do that:
 2. Navigate to the “**Chat Widget”** section.
 3. Find the “**Customize your widget”** section to adjust the Welcome messages and the widget position
 
-![Untitled](embed-a-chat-widget/Untitled%201.png)
+![Untitled](embed-a-chat-widget/Untitled%201.webp)
 
 ### **Step 2: Copy the Embed Code**
 
 Click on the “**Copy Code”** button
 
-![Untitled](embed-a-chat-widget/Untitled%202.png)
+![Untitled](embed-a-chat-widget/Untitled%202.webp)
 
 <aside>
 💡 In case you want to embed specific AI Agent only to your website so your members can start the chat with AI Agent (without manually selecting from the AI Agent list), you can:
@@ -30,7 +30,7 @@ Click on the “**Copy Code”** button
 - Click Edit the AI Agent
 - Scroll down to Open chat with this specific AI agent and Copy the provided `<script>` tag to embed that AI Agent to your website
 
-![Untitled](embed-a-chat-widget/Untitled%203.png)
+![Untitled](embed-a-chat-widget/Untitled%203.webp)
 
 </aside>
 

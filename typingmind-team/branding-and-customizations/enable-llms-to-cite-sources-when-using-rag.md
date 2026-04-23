@@ -13,7 +13,7 @@ RAG, however, is more efficient for fact-based tasks because it uses a vector da
 
 TypingMind helps you employ RAG easily by connecting with your external data via **the Knowledge Base dashboard:**
 
-![image.png](four-levels-of-data-integrations/image%202.png)
+![image.webp](four-levels-of-data-integrations/image%202.webp)
 
 That’s why citations are also crucial because they provide an extra layer of transparency to the AI response. They allow users to trace a response back to its original source, which makes your system more reliable.
 
@@ -40,11 +40,11 @@ To allow LLMs to provide source links, you can follow these steps in TypingMind:
 - Go to **Training Data**
 - Enable the option “**Show reference sources of training documents to users**”
 
-![image.png](get-started-with-knowledge-base/image%201.png)
+![image.webp](get-started-with-knowledge-base/image%201.webp)
 
 When this option is activated, the AI model will display the document source links (e.g., Notion, OneDrive, web scrapes) provided in your training data, allowing users to access the references.
 
-![image.png](enable-llms-to-cite-sources-when-using-rag/image.png)
+![image.webp](enable-llms-to-cite-sources-when-using-rag/image.webp)
 
 <aside>
 📌
@@ -71,7 +71,7 @@ Here are some key tips to guide the AI model:
 
 To make sure the AI model consistently cites sources, incorporate these guidelines into the system instructions.
 
-![image.png](enable-llms-to-cite-sources-when-using-rag/image%201.png)
+![image.webp](enable-llms-to-cite-sources-when-using-rag/image%201.webp)
 
 **Here’s the example prompt:**
 
@@ -97,7 +97,7 @@ Avoid using phrases like 'source from training data.' Instead, use 'from TypingM
 
 Here’s what you can expect by using this prompt:
 
-![image.png](enable-llms-to-cite-sources-when-using-rag/image%202.png)
+![image.webp](enable-llms-to-cite-sources-when-using-rag/image%202.webp)
 
 Please note that you can modify the source format as long as it meets your company’s criteria.
 

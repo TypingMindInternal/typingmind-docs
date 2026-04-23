@@ -15,7 +15,7 @@ CLAUDE 3 IS NOW AVAILABLE!
 
 Learn more how to use Claude: https://docs.typingmind.com/chat-models-settings/use-with-anthropic-claude
 
-![image.png](claude-3-is-now-available/image.png)
+![image.webp](claude-3-is-now-available/image.webp)
 
 ## ✨ Stay updated
 

@@ -13,7 +13,7 @@ These syntaxes act as shortcuts to help reduce manual effort and streamline the 
 - **When to use**: when you want to bring the AI Agent into a conversation to help for specific tasks. This can be used within the regular messages or queued messages (for [Prompt Chaining](Prompt%20Chaining%208df56c7b52e347218ac657a998c8015f.md))
 - **Example:** `@[Marketing Expert], can you help create a business plan for this quarter?`
 
-![image.png](message-syntax/image.png)
+![image.webp](message-syntax/image.webp)
 
 ## 2. Queue message syntax
 
@@ -28,7 +28,7 @@ Task 1: Complete the report
 Task 2: Schedule a meeting
 ```
 
-![image.png](message-syntax/image%201.png)
+![image.webp](message-syntax/image%201.webp)
 
 ## 3. Template variable syntax
 
@@ -43,7 +43,7 @@ Task 2: Schedule a meeting
   I want you to act as an English pronunciation assistant for Turkish speaking people. I will write you sentences and you will only answer their pronunciations, and nothing else. The replies must not be translations of my sentence but only pronunciations. Pronunciations should use Turkish Latin letters for phonetics. Do not write explanations on replies. My first sentence is **"'\{\{your content}}'”**
 </aside>
 
-![image.png](message-syntax/image%202.png)
+![image.webp](message-syntax/image%202.webp)
 
 We will continuously update the message syntax list to help your chat experience even better!
 
@@ -51,4 +51,4 @@ We will continuously update the message syntax list to help your chat experience
 
 Type `/` to quickly search for AI Agents, Prompts, or Open AI Model Settings.
 
-![image.png](message-syntax/image%203.png)
+![image.webp](message-syntax/image%203.webp)

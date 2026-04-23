@@ -9,7 +9,7 @@ By enabling "**Show reference sources of training documents to users"**, the AI 
 
 **🤔** Learn more here: https://docs.typingmind.com/typingmind-custom/branding-and-customizations/enable-llms-to-cite-sources-when-using-rag
 
-![image.png](enable-llms-to-cite-sources/image.png)
+![image.webp](enable-llms-to-cite-sources/image.webp)
 
 ### ✨ Stay updated
 

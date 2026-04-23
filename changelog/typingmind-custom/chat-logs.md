@@ -13,7 +13,7 @@ You can enable chat logs for your chat instance in Typing Mind Custom:
 
 Super helpful to review and improve the prompts from the chat history!
 
-![image.png](chat-logs/image.png)
+![image.webp](chat-logs/image.webp)
 
 ### ✨ Stay updated
 

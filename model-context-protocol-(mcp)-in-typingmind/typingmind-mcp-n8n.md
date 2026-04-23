@@ -23,7 +23,7 @@ With this integration, you can:
 - Log in to [**dashboard.n8n-mcp.com**](https://dashboard.n8n-mcp.com/)
 - In the top navigation bar, click **Instance** to connect your n8n instance.
 
-![image.png](typingmind-mcp-n8n/image.png)
+![image.webp](typingmind-mcp-n8n/image.webp)
 
 - Provide your instance URL and API key (find this in your n8n instance: **Settings → API → Create new API key**.)
 
@@ -32,9 +32,9 @@ With this integration, you can:
 - Go to: [**https://dashboard.n8n-mcp.com/dashboard/settings**](https://dashboard.n8n-mcp.com/dashboard/settings)
 - Select **Connect Clients** → **Other Clients** → **Generate API Key**
 
-![image.png](typingmind-mcp-n8n/image%201.png)
+![image.webp](typingmind-mcp-n8n/image%201.webp)
 
-![image.png](typingmind-mcp-n8n/image%202.png)
+![image.webp](typingmind-mcp-n8n/image%202.webp)
 
 - The n8n mcp API key format is: `nmcp_5734725*********************************************************`
 
@@ -42,7 +42,7 @@ With this integration, you can:
 
 Go to Plugin → MCP Connectors → Add Connector
 
-![image.png](typingmind-mcp-github/image%201.png)
+![image.webp](typingmind-mcp-github/image%201.webp)
 
 - Fill in the connection details:
   - **Server URL:** `https://api.n8n-mcp.com`
@@ -54,7 +54,7 @@ Go to Plugin → MCP Connectors → Add Connector
   ```
   (Replace `your_n8n_mcp_key` with the key generated in Step 2)
 
-![image.png](typingmind-mcp-n8n/image%203.png)
+![image.webp](typingmind-mcp-n8n/image%203.webp)
 
 - Click **Create Connection**
 
@@ -62,7 +62,7 @@ Go to Plugin → MCP Connectors → Add Connector
 
 After creating the connection with n8nMCP, you will see n8n appear in the plugin list, click on that to start setup your MCP connector with TypingMind:
 
-![image.png](typingmind-mcp-github/image%204.png)
+![image.webp](typingmind-mcp-github/image%204.webp)
 
 - If you select TypingMind Cloud, you can connect to our remote MCP server in one-click without any further setup
 - If you choose to set up Private MCP Connector, then follow the steps here: [Use MCP with Private MCP Connector](https://docs.typingmind.com/model-context-protocol-\(mcp\)-in-typingmind/use-mcp-with-private-mcp-connector)
@@ -71,7 +71,7 @@ After creating the connection with n8nMCP, you will see n8n appear in the plugin
 
 You can control which actions your n8n MCP should trigger within TypingMind by switching to Tools tab → Enable/disable specific tools.
 
-![image.png](typingmind-mcp-n8n/image%204.png)
+![image.webp](typingmind-mcp-n8n/image%204.webp)
 
 ### Option 2: Self-host n8n MCP
 
@@ -83,13 +83,13 @@ In TypingMind, go to Settings → Advanced Settings → Model Context Protocol t
 - Or a private remote server.
 
 <Frame>
-  ![Mcp Connector](/images/mcp-connector.png)
+  ![Mcp Connector](/images/mcp-connector.webp)
 </Frame>
 
 If you choose to run the MCP servers on your device, run the command displayed on the screen.
 
 <Frame>
-  ![Mcp Connector 2](/images/mcp-connector-2.png)
+  ![Mcp Connector 2](/images/mcp-connector-2.webp)
 </Frame>
 
 Detail setup can be found at [https://docs.typingmind.com/model-context-protocol-(mcp)-in-typingmind/use-mcp-with-private-mcp-connector](https://docs.typingmind.com/model-context-protocol-\(mcp\)-in-typingmind/use-mcp-with-private-mcp-connector)
@@ -100,7 +100,7 @@ Detail setup can be found at [https://docs.typingmind.com/model-context-protocol
 
 - Copy the n8n instance URL as follows:
 
-![image.png](typingmind-mcp-n8n/image%205.png)
+![image.webp](typingmind-mcp-n8n/image%205.webp)
 
 - Get n8n API key:
   - Navigate to your **Profile —\> Settings**
@@ -109,7 +109,7 @@ Detail setup can be found at [https://docs.typingmind.com/model-context-protocol
   - **Provide a Label and set an Expiration time** for the key.
   - Copy the created API key
 
-![image.png](typingmind-mcp-n8n/image%206.png)
+![image.webp](typingmind-mcp-n8n/image%206.webp)
 
 ### Step 3: Add the n8n MCP Server to TypingMind
 
@@ -136,7 +136,7 @@ Detail setup can be found at [https://docs.typingmind.com/model-context-protocol
 
 With the URL and the API key are your copied n8n instance URL and API key in step 2.
 
-![image.png](typingmind-mcp-n8n/image%207.png)
+![image.webp](typingmind-mcp-n8n/image%207.webp)
 
 More information about n8n mcp: [https://github.com/czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
 
@@ -152,7 +152,7 @@ After the MCP servers are added successfully, it will show up in your **Plugins*
   Please note that you can not control which tools n8n MCP should trigger like the Option 1.
 </Note>
 
-![image.png](typingmind-mcp-n8n/image%208.png)
+![image.webp](typingmind-mcp-n8n/image%208.webp)
 
 This allows you to manage and create n8n workflows directly on TypingMind.
 
@@ -160,7 +160,7 @@ This allows you to manage and create n8n workflows directly on TypingMind.
 
 You’re all set! Now you can access, update, manage and create n8n workflows on TypingMind interface:
 
-![image.png](typingmind-mcp-n8n/image%209.png)
+![image.webp](typingmind-mcp-n8n/image%209.webp)
 
 ## Best practices
 
@@ -343,4 +343,4 @@ n8n_update_partial_workflow({
 
 On TypingMind, you can create an AI Agent using these instructions to better run the n8n-MCP plugin:
 
-![image.png](typingmind-mcp-n8n/image%2010.png)
+![image.webp](typingmind-mcp-n8n/image%2010.webp)

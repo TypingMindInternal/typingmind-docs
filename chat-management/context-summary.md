@@ -5,7 +5,7 @@ title: "Context Summary"
 
 **Context Summary** allows TypingMind to automatically condense older messages in long conversations so the chat stays within your model's context limit.
 
-![Xnapper-2026-02-15-13.50.08.png](context-summary/Xnapper-2026-02-15-13.50.08.png)
+![Xnapper-2026-02-15-13.50.08.webp](context-summary/Xnapper-2026-02-15-13.50.08.webp)
 
 You can choose whether to see the summary checkpoints in the chat, and (depending on your setup) customize the summarization prompt to control how the summary is generated.
 
@@ -22,7 +22,7 @@ You can choose whether to see the summary checkpoints in the chat, and (dependin
 <aside>
 💡 **Pro Tip:** You can expand the "Context summarized" checkpoint to read the full summary and verify what the AI remembered from the earlier conversation. You can also customize the summarization prompt in settings to tailor the summary to your needs.
 
-![image.png](context-summary/image.png)
+![image.webp](context-summary/image.webp)
 
 </aside>
 
@@ -40,7 +40,7 @@ You can choose whether to see the summary checkpoints in the chat, and (dependin
 
 4. (Optional) Expand **Advanced Settings** to customize the summarization prompt.
 
-![image.png](context-summary/image%201.png)
+![image.webp](context-summary/image%201.webp)
 
 ### **How to Customize the Summary Prompt**
 
@@ -62,11 +62,11 @@ You can choose whether to see the summary checkpoints in the chat, and (dependin
 
 3. (Optional) Enable **Show Context Summary Checkpoints** so users see where summaries were inserted.
 
-![image.png](context-summary/image%202.png)
+![image.webp](context-summary/image%202.webp)
 
 4. When **Context Summary** is enabled, expand the **Advanced Settings** to set a custom **Context Summary Prompt** for your chat instance.
 
-![image.png](context-summary/image%203.png)
+![image.webp](context-summary/image%203.webp)
 
 ### **Context Summary vs. Show Context Summary**
 

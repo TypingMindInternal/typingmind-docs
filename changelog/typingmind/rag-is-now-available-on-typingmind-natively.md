@@ -11,7 +11,7 @@ But now, it's as simple as uploading a file—built-in, seamless, and available 
 
 Try it out, and let us know what you think! 👉 [http://typingmind.com](http://typingmind.com/)
 
-![image.png](rag-is-now-available-on-typingmind-natively/image.png)
+![image.webp](rag-is-now-available-on-typingmind-natively/image.webp)
 
 ## 📌 Stay updated
 

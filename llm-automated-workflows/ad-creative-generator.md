@@ -36,7 +36,7 @@ Here’s how it works:
 3. **Generate your ad prompt: y**ou’ll get a detailed text prompt describing how your image should look: mood, setting, composition, and overlay text.
 4. **Refine & approve: r**eview the result, tweak the mood or tone, and then generate your image.
 
-![image.png](ad-creative-generator/image.png)
+![image.webp](ad-creative-generator/image.webp)
 
 ## Ad Image Prompt Generator AI Agent: How It Works
 
@@ -52,17 +52,17 @@ Here are the creative direction options available:
 6. **Futuristic Product Hero (Hyperreal / Techno-Organic):** Cinematic lighting, glowing accents, motion energy.
 7. **Infographic:** Clean, informative layout that visualizes key features or data with icons, concise text, and clear structure—ideal for explaining or comparing product benefits.
 
-![image.png](ad-creative-generator/image%201.png)
+![image.webp](ad-creative-generator/image%201.webp)
 
 ### 2. Share with the AI model your expectation
 
 Based on your chosen creative direction, the AI will ask follow-up questions about the setting, mood, environment, and any text overlay you’d like to include in the image.
 
-![image.png](ad-creative-generator/image%202.png)
+![image.webp](ad-creative-generator/image%202.webp)
 
 ### 3. Generate an image prompt
 
-![image.png](ad-creative-generator/image%203.png)
+![image.webp](ad-creative-generator/image%203.webp)
 
 <aside>
 💡
@@ -81,37 +81,37 @@ For generating the **prompt**, you can start with any model that best fits your 
 
 This is our uploaded product:
 
-![image.png](ad-creative-generator/image%204.png)
+![image.webp](ad-creative-generator/image%204.webp)
 
 Here are the product image in different creative directions:
 
 1. **Influencer/UGC**
 
-![image.png](ad-creative-generator/image%205.png)
+![image.webp](ad-creative-generator/image%205.webp)
 
 1. **Lifestyle**
 
-![image.png](ad-creative-generator/image%206.png)
+![image.webp](ad-creative-generator/image%206.webp)
 
 1. **Meta Ugly Ads**
 
-![image.png](ad-creative-generator/image%207.png)
+![image.webp](ad-creative-generator/image%207.webp)
 
 1. **Luxury editorial**
 
-![image.png](ad-creative-generator/image%208.png)
+![image.webp](ad-creative-generator/image%208.webp)
 
 1. **E-commerce sales banner**
 
-![image.png](ad-creative-generator/image%209.png)
+![image.webp](ad-creative-generator/image%209.webp)
 
 1. **Futuristic Product Hero (Hyperreal / Techno-Organic)**
 
-![image.png](ad-creative-generator/image%2010.png)
+![image.webp](ad-creative-generator/image%2010.webp)
 
 1. **Infographic style**
 
-![image.png](ad-creative-generator/image%2011.png)
+![image.webp](ad-creative-generator/image%2011.webp)
 
 ## How to Choose the Right Creative Direction
 

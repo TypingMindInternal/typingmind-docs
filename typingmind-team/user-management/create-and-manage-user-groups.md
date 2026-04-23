@@ -26,7 +26,7 @@ With User Groups, you can simplify and streamline the way you manage users in yo
 
 **Please note that a user can also belong to multiple groups.**
 
-![image.png](create-and-manage-user-groups/image.png)
+![image.webp](create-and-manage-user-groups/image.webp)
 
 <aside>
 💡
@@ -43,13 +43,13 @@ The User Group feature is an upgraded version of TypingMind’s previous user ta
 - Navigate to the **Groups** section under **User Management**.
 - Click on **Add New Group**.
 
-![image.png](../getting-started/getting-started-with-typingmind-team-(cloud-host)/image%2020.png)
+![image.webp](../getting-started/getting-started-with-typingmind-team-(cloud-host)/image%2020.webp)
 
 - Enter a **Group Name** that reflects the purpose or role of the group.
 - *(Optional)* Enable **Admin Access** for this group if they can have access to the admin panel.
     - If you enable this option, ensure you assign appropriate **Admin Roles** to the group. These roles should align with the permissions you’ve defined in the [**Roles and Permissions**](Roles%20and%20Permissions%202256943d288b473b8139f6fb0fdc653f.md) settings.
 
-![image.png](../branding-and-customizations/restrict-model-access/image.png)
+![image.webp](../branding-and-customizations/restrict-model-access/image.webp)
 
 - Click **Save** to create the new group
 
@@ -61,19 +61,19 @@ You have two options to assign groups for users:
 - Click **Manage** next to the created group
 - Click **Add Members**
 
-![image.png](../branding-and-customizations/restrict-model-access/image%201.png)
+![image.webp](../branding-and-customizations/restrict-model-access/image%201.webp)
 
 - Select the users you want to include in this group from the list.
 
-![image.png](../branding-and-customizations/restrict-model-access/image%202.png)
+![image.webp](../branding-and-customizations/restrict-model-access/image%202.webp)
 
 1. Assign groups for users via User list
 - Go to Users and click on a specific user
 - Assign a group to the user
 
-![image.png](create-and-manage-user-groups/image%201.png)
+![image.webp](create-and-manage-user-groups/image%201.webp)
 
-![image.png](create-and-manage-user-groups/image%202.png)
+![image.webp](create-and-manage-user-groups/image%202.webp)
 
 ### Remove users from Groups
 
@@ -84,7 +84,7 @@ You have two options to assign groups for users:
 
 After completing your setup with user groups, you can use these groups to restrict member usage to specific chat models, prompts, or AI Agents. Please find the next section on how to do this.
 
-![image.png](create-and-manage-user-groups/image%203.png)
+![image.webp](create-and-manage-user-groups/image%203.webp)
 
 ## **Restrict AI Model, AI Agent or Prompt Usage with User Groups**
 
@@ -102,12 +102,12 @@ You can manage and restrict the usage of AI models for your team members with th
 - Navigate to the "**Usage & Limit**" under the **Access & Limits** section in the Admin Panel.
 - Click on **Model Limits** and select **Add Limit**.
 
-![image.png](create-and-manage-user-groups/image%204.png)
+![image.webp](create-and-manage-user-groups/image%204.webp)
 
 - Choose the AI model you want to restrict
 - Click to **Limit Group** —> **Add New Limit Group** —> Add limits for messages and characters
 
-![image.png](../branding-and-customizations/restrict-model-access/image%205.png)
+![image.webp](../branding-and-customizations/restrict-model-access/image%205.webp)
 
 If you don’t want to impose limits, create a group called “No Limit” and leave the message and character limit fields empty.
 
@@ -131,7 +131,7 @@ Limit groups are reusable for future restriction settings and can be edited anyt
 - Restrict GPT-4o model usage to that group by creating a limit group.
 - Set appropriate message or character limits based on their needs.
 
-![image.png](create-and-manage-user-groups/image%205.png)
+![image.webp](create-and-manage-user-groups/image%205.webp)
 
 </aside>
 
@@ -144,7 +144,7 @@ You can manage the AI Agents visibility and usage limit using User Groups follow
 - Navigate to the "**Usage & Limit**" under the **Access & Limits** section in the Admin Panel.
 - Click on **AI Agent Limits** and select **Add Limit**.
 
-![image.png](../branding-and-customizations/restrict-ai-agents-access/image.png)
+![image.webp](../branding-and-customizations/restrict-ai-agents-access/image.webp)
 
 - Select the AI Agents you want to set the limit
 - Click to **Limit Group** —> **Add New Limit Group** —> Add limits for messages and characters
@@ -168,7 +168,7 @@ For example, if you want only Marketing group to use the Marketing Expert AI Age
     - Set its visibility to the "Marketing" group.
     - Apply usage limits as needed for messages and characters.
 
-![image.png](../branding-and-customizations/restrict-ai-agents-access/image%202.png)
+![image.webp](../branding-and-customizations/restrict-ai-agents-access/image%202.webp)
 
 </aside>
 
@@ -179,13 +179,13 @@ You can control the prompt visibility to specific user groups as follows:
 - Go to the **“Prompts Library”** section from the Admin Dashboard.
 - Select **“Add Prompt”** to create a new prompt, or **“Edit”** an existing prompt.
 
-![image.png](../branding-and-customizations/restrict-prompt-access/image.png)
+![image.webp](../branding-and-customizations/restrict-prompt-access/image.webp)
 
 - Scroll down to the **“Visibility”** section and select from the drop-down menu:
     - **“Visible only to users in specific groups”:** once you add groups, users in these certain groups are allowed to use the model
     - or **“Visible to all users except users from specific groups”:** once you add groups, users in these certain groups ARE NOT allowed to use the model.
 
-![image.png](../branding-and-customizations/restrict-prompt-access/image%201.png)
+![image.webp](../branding-and-customizations/restrict-prompt-access/image%201.webp)
 
 <aside>
 💡

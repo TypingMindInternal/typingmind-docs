@@ -10,7 +10,7 @@ Use the search engine Kagi (kagi.com) as Search Suggestion Link!
 - Toggle the Auto suggest relevant keywords after each message and select Kagi
 - Provide Kagi Session Link as the instruction provided in the app.
 
-![image.png](use-kagi-for-search-suggestion-link/image.png)
+![image.webp](use-kagi-for-search-suggestion-link/image.webp)
 
 ## ✨ Stay updated
 

@@ -29,7 +29,7 @@ Here’s how you can plug this into your workflow:
 
 Go to Agent —> Create a new AI Agent
 
-![image.png](landing-page-conversion-optimizer/image.png)
+![image.webp](landing-page-conversion-optimizer/image.webp)
 
 ### 2. Set up your AI Agent
 
@@ -105,12 +105,12 @@ Provide the following details to set up your AI Agent:
     ```
     
 
-![image.png](landing-page-conversion-optimizer/image%201.png)
+![image.webp](landing-page-conversion-optimizer/image%201.webp)
 
 ## Expected Outputs
 
 Here’s the output you can expect when running this AI Agent:
 
-![image.png](landing-page-conversion-optimizer/image%202.png)
+![image.webp](landing-page-conversion-optimizer/image%202.webp)
 
 Try now on TypingMind!

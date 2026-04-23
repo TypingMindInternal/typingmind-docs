@@ -7,7 +7,7 @@ New Analytics Dashboard is now live on [custom.typingmind.com](http://custom.typ
 
 The new dashboard includes more charts and metrics for a comprehensive data overview.
 
-![image.png](new-analytics-dashboard/image.png)
+![image.webp](new-analytics-dashboard/image.webp)
 
 ### ✨ Stay updated
 

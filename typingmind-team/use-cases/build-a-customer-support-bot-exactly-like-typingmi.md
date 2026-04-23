@@ -3,7 +3,7 @@ title: "Build a Customer Support bot exactly like TypingMind Support Bot?"
 ---
 Just so you know, we have built a **Support bot for [TypingMind.com](http://TypingMind.com)** to help resolve user queries directly through a chat widget on our website.
 
-![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled.png)
+![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled.webp)
 
 If you are curious about how we built it and want to make a version of support bot for your company, then check out this article for detailed guidelines!
 
@@ -23,7 +23,7 @@ In case you haven’t had a chat instance for TypingMind Custom yet, please sign
 
 </aside>
 
-![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%201.png)
+![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%201.webp)
 
 # Step 2: Connect the chatbot with your API keys
 
@@ -36,11 +36,11 @@ To get the chatbot to work properly, you will need to **connect it with the chat
     - Anthropic Claude: Claude 3, Claude Instant, etc.
     - Gemini models: Gemini 1.0, Gemini 1.5, Gemini 1.0 Pro Vision, Gemini Ultra
 
-![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%202.png)
+![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%202.webp)
 
 - Go to **Manage Models** menu and click **Add Custom Models** if you want to use Azure OpenAI, Perplexity, Mistral, etc. by adding custom models on your Admin Panel.
 
-![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%203.png)
+![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%203.webp)
 
 As for TypingMind Support bot, we currently using the latest GPT-4 Turbo model and found that it delivers pretty good results. 
 
@@ -53,7 +53,7 @@ Connect your knowledge base to the chatbot to help the AI model generate accurat
 - Click “**Add Data Source**”
 - Select a data source to connect with your chat instance. It can be Web URLs, PDF files, Notion pages, Google Docs, and more.
 
-![image.png](build-a-customer-support-bot-exactly-like-typingmi/image.png)
+![image.webp](build-a-customer-support-bot-exactly-like-typingmi/image.webp)
 
 Currently, we are training our support bot with knowledge mostly from our help center: [docs.typingmind.com](http://docs.typingmind.com)
 
@@ -65,7 +65,7 @@ The AI support bot will provide answers more accurately if you provide it with s
 
 - In the System prompts section, navigate the **Global System Instruction** to provide guidelines
 
-![image.png](build-a-customer-support-bot-exactly-like-typingmi/image%201.png)
+![image.webp](build-a-customer-support-bot-exactly-like-typingmi/image%201.webp)
 
 Best practices to get the AI support bot to work in a manner:
 
@@ -84,7 +84,7 @@ You can create as many AI Agents as you want:
 - Go to **AI Agents** section
 - Create AI Agent and enter the necessary guidelines. For example, within the “Report bug” character, you should guide the model on which questions to ask to track down the issue.
 
-![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%204.png)
+![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%204.webp)
 
 <aside>
 💡 Please note that you can also connect knowledge base to your AI Agents, here’s the [guideline](https://custom.typingmind.com/features/ai-characters-with-custom-data)
@@ -107,7 +107,7 @@ Decide on how you want your user to access your support bot:
 
 Currently, the TypingMind Support bot enables **Authorized Mode** with limited usage for users, details setup in Step 8.
 
-![image.png](build-a-customer-support-bot-exactly-like-typingmi/image%202.png)
+![image.webp](build-a-customer-support-bot-exactly-like-typingmi/image%202.webp)
 
 - Go to Access Control
 - Enable Authorized mode for your chat instance
@@ -124,7 +124,7 @@ Detail on how to limit usage: [https://custom.typingmind.com/features/limit-chat
 
 FYI, TypingMind currently applies a limit of 200 characters per message for users. 
 
-![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%205.png)
+![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%205.webp)
 
 # Step 9: Control Chat Features visibility
 
@@ -133,7 +133,7 @@ To ensure a no-hassle experience for your members, you should hide all unnecessa
 - Go to Chat Features
 - Disable options you do not want to show on the Chat UI
 
-![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%206.png)
+![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%206.webp)
 
 # Step 10: Set up your branding
 
@@ -145,7 +145,7 @@ Get the bot to work under your branding:
 - Choose your chatbot language
 - Pick a theme for the bot to match your brand style
 
-![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%207.png)
+![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%207.webp)
 
 # Step 11: Embed chat widget to your website
 
@@ -155,7 +155,7 @@ The final step is to embed the Support bot widget on your website.
 - Copy the code
 - Paste it after the opening `<head>` tag on the page you want to add this widget.
 
-![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%208.png)
+![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%208.webp)
 
 # Step 12: Enable Chat logs for future monitor
 
@@ -165,7 +165,7 @@ This option allows you to view user chat history to make sure the AI model respo
 - Click Settings on the top right corner
 - Enable the option “**Record all chats from your users**”
 
-![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%209.png)
+![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%209.webp)
 
 # Conclusion
 

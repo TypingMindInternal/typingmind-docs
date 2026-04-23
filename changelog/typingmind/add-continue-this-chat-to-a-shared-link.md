@@ -7,7 +7,7 @@ Just added a "Continue this chat" button to a shared link.
 
 This will open TypingMind with a prefilled prompt!
 
-![image.png](add-continue-this-chat-to-a-shared-link/image.png)
+![image.webp](add-continue-this-chat-to-a-shared-link/image.webp)
 
 For example, this is a very cool prompt that turns ChatGPT into an idea evaluation machine:
 

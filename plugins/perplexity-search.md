@@ -14,21 +14,21 @@ Go to [https://www.perplexity.ai/](https://www.perplexity.ai/) and sign up for a
   💡 Note that you may need to **top-up your credit** to use the API key
 </aside>
 
-![Untitled](../manage-and-connect-ai-models/perplexity-ai/Untitled.png)
+![Untitled](../manage-and-connect-ai-models/perplexity-ai/Untitled.webp)
 
 # Use Perplexity Plugin on TypingMind
 
 - Click on Plugins menu on the left side panel
 - Install Perplexity Search plugin to your plugin list
 
-![image.png](perplexity-search/image.png)
+![image.webp](perplexity-search/image.webp)
 
 - Enable Perplexity Search
 - Switch to Settings tab to enter the necessary settings to get the plugin to work
 - Enter the API key you just got from Perplexity
 
-![image.png](perplexity-search/image%201.png)
+![image.webp](perplexity-search/image%201.webp)
 
 - Test the plugin to see if it works properly!
 
-![Untitled](perplexity-search/Untitled.png)
+![Untitled](perplexity-search/Untitled.webp)

@@ -5,7 +5,7 @@ title: "Show estimated tokens will be used before sending message"
 
 ### **🚀 What's New?**
 
-![image.png](upload-training-files-for-ai-agent/image.png)
+![image.webp](upload-training-files-for-ai-agent/image.webp)
 
 ### ❓**Why This Matters**
 

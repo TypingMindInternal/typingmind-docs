@@ -13,7 +13,7 @@ The Gemini API provides safety settings that you can adjust during the prototypi
 
 In TypingMind: Go to Model Settings > Expand the Advanced Model Parameters > Adjust Safety settings
 
-![image.png](safety-settings-for-gemini-models/image.png)
+![image.webp](safety-settings-for-gemini-models/image.webp)
 
 ### ✨ Stay updated
 

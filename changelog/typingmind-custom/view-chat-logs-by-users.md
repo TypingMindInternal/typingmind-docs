@@ -9,7 +9,7 @@ This allows you to analyze and track user interaction more efficiently.
 
 **Tip can also export chat logs via API**: https://docs.typingmind.com/typingmind-custom/integrations/export-chat-logs
 
-![image.png](view-chat-logs-by-users/image.png)
+![image.webp](view-chat-logs-by-users/image.webp)
 
 ### ✨ Stay updated
 

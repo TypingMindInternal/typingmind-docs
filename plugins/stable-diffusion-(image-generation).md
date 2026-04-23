@@ -16,7 +16,7 @@ Here are some quick steps to use Stable Diffusion to generate images on TypingMi
   If your usage exceeds the free credits, you will need to purchase more credits here: [https://platform.stability.ai/account/credits](https://platform.stability.ai/account/credits)
 </aside>
 
-![Untitled](stable-diffusion-\(image-generation\)/Untitled.png)
+![Untitled](stable-diffusion-\(image-generation\)/Untitled.webp)
 
 # Step 2: Set up on TypingMind
 
@@ -25,7 +25,7 @@ Here are some quick steps to use Stable Diffusion to generate images on TypingMi
 - Click Save
 - Enter your prompt so it can generate images properly based on your description.
 
-![Untitled](stable-diffusion-\(image-generation\)/Untitled%201.png)
+![Untitled](stable-diffusion-\(image-generation\)/Untitled%201.webp)
 
 <aside>
   💡 Stable Diffusion v2 and Stable Diffusion v3 are all available on TypingMind

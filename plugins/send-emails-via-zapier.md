@@ -23,7 +23,7 @@ In this guide, we will provide **an example guideline to set up Send emails via 
   Here is the link to the repository of the completed plugin so you can directly import to TypingMind: [https://github.com/TypingMind/plugin-send-email-with-zapier](https://github.com/TypingMind/plugin-send-email-with-zapier)
 </aside>
 
-![image.png](send-emails-via-zapier/image.png)
+![image.webp](send-emails-via-zapier/image.webp)
 
 ## Step 1: **Create a Zapier Webhook**
 
@@ -33,9 +33,9 @@ In this guide, we will provide **an example guideline to set up Send emails via 
   - Choose "**Catch Hook**" as the trigger event
   - Click "**Continue**"
 
-![image.png](send-emails-via-zapier/image%201.png)
+![image.webp](send-emails-via-zapier/image%201.webp)
 
-![image.png](send-emails-via-zapier/image%202.png)
+![image.webp](send-emails-via-zapier/image%202.webp)
 
 - Skip the configuration step
 - In the test step, copy the provided webhook URL, we will need this later.(format: `https://hooks.zapier.com/hooks/catch/*****`). Ignore the Test trigger action, we will do this later.
@@ -47,11 +47,11 @@ In this guide, we will provide **an example guideline to set up Send emails via 
 - Choose an **action event**: Send email, Create draft, Reply to, Find email, etc. In this guide, we select Send email.
 - Connect with your Gmail account.
 
-![image.png](send-emails-via-zapier/image%203.png)
+![image.webp](send-emails-via-zapier/image%203.webp)
 
 - In the **Configure** step, you need to enter the required fields for the app. To make them dynamic, specify each field appropriately.
 
-![image.png](send-emails-via-zapier/image%204.png)
+![image.webp](send-emails-via-zapier/image%204.webp)
 
 For example, here we set "Email" for the **To** field, "Subject" for the **Subject** field, and "Content" for the **Body** field as dynamic fields. This allows the app to send any content to any email address as needed.
 
@@ -126,7 +126,7 @@ However, if the plugin requires users to enter their own URL, please follow the 
 ]
 ```
 
-![image.png](send-emails-via-zapier/image%205.png)
+![image.webp](send-emails-via-zapier/image%205.webp)
 
 ### Implementation
 
@@ -144,7 +144,7 @@ However, if the plugin requires users to enter their own URL, please follow the 
 }
 ```
 
-![image.png](send-emails-via-zapier/image%206.png)
+![image.webp](send-emails-via-zapier/image%206.webp)
 
 - Click **Add test variables** and send a test request - this will send a request record that defines the values for your Zapier settings.
 
@@ -153,7 +153,7 @@ However, if the plugin requires users to enter their own URL, please follow the 
 
   Replace the test value with your webhook URL to check if it works.
 
-  ![image.png](send-emails-via-zapier/image%207.png)
+  ![image.webp](send-emails-via-zapier/image%207.webp)
 </aside>
 
 ## Step 4: **Complete the Zapier Setup**
@@ -161,7 +161,7 @@ However, if the plugin requires users to enter their own URL, please follow the 
 - Go back to Zapier → Click to edit the Trigger Event - Webhook by Zapier to check on the recorded values you have just sent from TypingMind in step 3.
 - Choose records with appropriate values and click on **Continue with selected record**.
 
-![image.png](send-emails-via-zapier/image%208.png)
+![image.webp](send-emails-via-zapier/image%208.webp)
 
 - Return to the Trigger Action to configure the fields:
   - In the **To** field, select the "Email" value (click to toggle Catch Hook and select the value)
@@ -169,7 +169,7 @@ However, if the plugin requires users to enter their own URL, please follow the 
 
 For other settings, you can manually fill in as permanent data or go back to TypingMind request body to add more value and re-do the steps.
 
-![image.png](send-emails-via-zapier/image%209.png)
+![image.webp](send-emails-via-zapier/image%209.webp)
 
 - Click **Continue**, skip the test, and publish your Zap.
 
@@ -177,9 +177,9 @@ For other settings, you can manually fill in as permanent data or go back to Typ
 
 Test your custom plugin in TypingMind to ensure it works as expected.
 
-![image.png](send-emails-via-zapier/image%2010.png)
+![image.webp](send-emails-via-zapier/image%2010.webp)
 
-![image.png](send-emails-via-zapier/image%2011.png)
+![image.webp](send-emails-via-zapier/image%2011.webp)
 
 <aside>
   💡

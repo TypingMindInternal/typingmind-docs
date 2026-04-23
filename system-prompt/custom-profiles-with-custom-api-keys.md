@@ -8,11 +8,11 @@ Setting up your profile in TypingMind allows the AI to deliver more personalized
 - Go to [typingmind.com](http://typingmind.com)
 - Click **on the Profile icon on the top left corner of the app (within the sidebar) to access profile settings**
 
-![image.png](custom-profiles-with-custom-api-keys/image.png)
+![image.webp](custom-profiles-with-custom-api-keys/image.webp)
 
 - Click the + icon to add new profile
 
-![Untitled](custom-profiles-with-custom-api-keys/Untitled.png)
+![Untitled](custom-profiles-with-custom-api-keys/Untitled.webp)
 
 - Add necessary information:
     - Your profile name
@@ -21,7 +21,7 @@ Setting up your profile in TypingMind allows the AI to deliver more personalized
     - Custom instruction: let the AI know how to response when this profile is used.
     - You can assign different sets of API keys besides the global one.
 
-![image.png](custom-profiles-with-custom-api-keys/image%201.png)
+![image.webp](custom-profiles-with-custom-api-keys/image%201.webp)
 
 <aside>
 💡 You can set up multiple profiles on TypingMind, this allows you to switch profile easily for different use cases.
@@ -40,4 +40,4 @@ Example use case: set up 2 profiles for:
 - **Ease of use**: providing personal information eliminates the need to explain your background, interest or professional information in every new conversation.
 - **Better conversation flow**: with the user profile set up, the AI model better understands the user context, leading to more natural, human-like conversations.
 
-![Untitled](custom-profiles-with-custom-api-keys/Untitled%201.png)
+![Untitled](custom-profiles-with-custom-api-keys/Untitled%201.webp)

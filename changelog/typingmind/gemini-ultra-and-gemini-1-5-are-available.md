@@ -9,7 +9,7 @@ The Gemini 1.5 Pro model supports 1M tokens context length AND vision 👁️ !!
 
 Learn more: https://docs.typingmind.com/chat-models-settings/use-with-gemini
 
-![image.png](gemini-ultra-and-gemini-1-5-are-available/image.png)
+![image.webp](gemini-ultra-and-gemini-1-5-are-available/image.webp)
 
 ## ✨ Stay updated
 

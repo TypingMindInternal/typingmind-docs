@@ -7,7 +7,7 @@ We have just improved math syntax display on TypingMind!
 
 Support both `\(`, `\[`, and `$$` syntax when displaying math expressions.
 
-![image.png](new-math-syntax/image.png)
+![image.webp](new-math-syntax/image.webp)
 
 ### ✨ Stay updated:
 

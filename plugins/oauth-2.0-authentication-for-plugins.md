@@ -4,7 +4,7 @@ title: "OAuth 2.0 Authentication for Plugins"
 
 TypingMind Plugins support OAuth 2.0 authentication type. This help plugin developers create plugins that act on behalf of the user using the user’s account.
 
-![image.png](image.png)
+![image.webp](image.webp)
 
 This authentication type make it easy to work with external services that requires OAuth.
 
@@ -62,7 +62,7 @@ Example OAuth Configuration:
 }
 ```
 
-![Xnapper-2025-04-25-21.34.50.png](oauth-2.0-authentication-for-plugins/Xnapper-2025-04-25-21.34.50.png)
+![Xnapper-2025-04-25-21.34.50.webp](oauth-2.0-authentication-for-plugins/Xnapper-2025-04-25-21.34.50.webp)
 
 ## **Shared OAuth Connections**
 
@@ -81,17 +81,17 @@ TypingMind supports **Shared OAuth Connections**, allowing multiple plugins to s
    - Navigate to the Plugins Manager
    - Select the **"Shared OAuth Connections"** tab
    - Click **"Add New Connection"** to create a new OAuth connection
-   ![image.png](build-a-typingmind-plugin/image%208.png)
+   ![image.webp](build-a-typingmind-plugin/image%208.webp)
 2. **Configure OAuth Credentials**:
    - Enter necessary details such as Authorization URL, Token URL, Client ID, Client Secret, Scopes, Prompt, and Access Type
-   ![image.png](build-a-typingmind-plugin/image%209.png)
+   ![image.webp](build-a-typingmind-plugin/image%209.webp)
 3. **Apply Shared OAuth to Plugins**:
    - Edit the desired plugin
    - Under the **"Authentication"** section, select **OAuth 2.0**
    - Choose your **"OAuth Configuration Source"** from the dropdown menu, selecting your newly created shared OAuth connection
    - Plugin credentials will automatically apply from the shared connection—no further setup required
-   ![image.png](build-a-typingmind-plugin/image%2010.png)
-   ![image.png](build-a-typingmind-plugin/image%2011.png)
+   ![image.webp](build-a-typingmind-plugin/image%2010.webp)
+   ![image.webp](build-a-typingmind-plugin/image%2011.webp)
 
 ### **Built-in OAuth Plugins:**
 

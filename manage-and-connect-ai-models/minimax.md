@@ -8,13 +8,13 @@ Learn how to set up MiniMax models on TypingMind.
 
 Go to [https://platform.minimax.io/login](https://platform.minimax.io/login) and create a new MiniMax API account.
 
-![image.png](minimax/image.png)
+![image.webp](minimax/image.webp)
 
 ## Step 2: Set up MiniMax API account
 
 You can go to [https://platform.minimax.io/user-center/basic-information/interface-key](https://platform.minimax.io/user-center/basic-information/interface-key) to get the API key and copy it to a safe place -you’ll need it to set up MiniMax on TypingMind.
 
-![image.png](minimax/image%201.png)
+![image.webp](minimax/image%201.webp)
 
 ## Step 3: Set up MiniMax as custom model on TypingMind
 
@@ -28,7 +28,7 @@ On TypingMind, go to Models → Add Custom Models and enter the following detail
 - Click “**Test**” to verify the information is correct
 - Click **Add Model**.
 
-![image.png](minimax/image%202.png)
+![image.webp](minimax/image%202.webp)
 
 <aside>
   💡
@@ -42,4 +42,4 @@ On TypingMind, go to Models → Add Custom Models and enter the following detail
 
 Start a conversation with MiniMax on TypingMind!
 
-![image.png](minimax/image%203.png)
+![image.webp](minimax/image%203.webp)

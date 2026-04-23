@@ -5,11 +5,11 @@ Connect knowledge base to your AI Agents allows you to create multiple AI agents
 
 By customizing each AI agent with specific datasets, you can get a wide range of conversational chatbots dedicated to different contexts, or user needs. Here’s how to set this up easily.
 
-![Build multiple AI Agents](connect-knowledge-base-to-your-ai-agents/Untitled.png)
+![Build multiple AI Agents](connect-knowledge-base-to-your-ai-agents/Untitled.webp)
 
 Build multiple AI Agents
 
-![AI Agents are shown on the chat interface](connect-knowledge-base-to-your-ai-agents/Untitled%201.png)
+![AI Agents are shown on the chat interface](connect-knowledge-base-to-your-ai-agents/Untitled%201.webp)
 
 AI Agents are shown on the chat interface
 
@@ -30,7 +30,7 @@ You will need to:
 1. Upload your training documents or connect training sources in the Knowledge base menu
 2. In the "**Tags**" column, click Adjust icon to add tags to your documents. Use any tag names you want.
 
-![image.png](connect-knowledge-base-to-your-ai-agents/image.png)
+![image.webp](connect-knowledge-base-to-your-ai-agents/image.webp)
 
 ### Step 2: Assign training tags to AI Agents
 
@@ -40,13 +40,13 @@ After adding tags to your training docs, please follow these steps to assign tho
 2. Click "**Edit**" your existing AI Agents (or you can create new ones)
 3. Navigate the Knowledge section and toggle the **Knowledge base access**, choose from the drop-down list the option "**Only allow access to some knowledge base data based on tags**" to allow your AI Agents to learn from only certain knowledge base data.
 
-![image.png](connect-knowledge-base-to-your-ai-agents/image%201.png)
+![image.webp](connect-knowledge-base-to-your-ai-agents/image%201.webp)
 
 ## Option 2: Use Dynamic Context API
 
 **Dynamic Context** allows you to retrieve content from an API and inject it into the system prompt. This can be used to add live information to the AI or implement Retrieval-Augmented Generation (RAG) from your own data sources (e.g., vector store database).
 
-![](https://framerusercontent.com/images/qWbX1FW1x954SvYYQGFfY4QKc98.png)
+![](https://framerusercontent.com/images/qWbX1FW1x954SvYYQGFfY4QKc98.webp)
 
 Here's more details: [https://docs.typingmind.com/ai-characters/dynamic-context-via-api](https://docs.typingmind.com/ai-characters/dynamic-context-via-api)
 

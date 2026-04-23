@@ -14,7 +14,7 @@ You can easily create files with:
 
 Import Excel Generator now! [**https://github.com/TypingMind/plugin-excel-generator**](https://github.com/TypingMind/plugin-excel-generator)
 
-![image.png](new-plugin-excel-generator/image.png)
+![image.webp](new-plugin-excel-generator/image.webp)
 
 ## 📌 Stay updated
 

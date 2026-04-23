@@ -10,7 +10,7 @@ title: "New Model Setting Page"
 🔸Get detailed model information.
 🔸A cleaner layout helps you adjust settings even more easily.
 
-![image.png](new-model-setting-page/image.png)
+![image.webp](new-model-setting-page/image.webp)
 
 ### **🏁 How it works:**
 
@@ -18,7 +18,7 @@ To help you clearly understand how to use our new model setting, check out here:
 
 https://docs.typingmind.com/chat-models-settings/manage-chat-models
 
-![image.png](new-model-setting-page/image%201.png)
+![image.webp](new-model-setting-page/image%201.webp)
 
 ### ✨ Stay updated:
 

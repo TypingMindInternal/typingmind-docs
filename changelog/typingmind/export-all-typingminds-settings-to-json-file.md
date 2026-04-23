@@ -5,7 +5,7 @@ title: "Export all TypingMind’s settings to JSON file"
 
 You can now export all the TypingMind settings into JSON file.
 
-![image.png](export-all-typingminds-settings-to-json-file/image.png)
+![image.webp](export-all-typingminds-settings-to-json-file/image.webp)
 
 ### ✨ Stay updated
 

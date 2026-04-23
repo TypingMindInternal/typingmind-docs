@@ -14,7 +14,7 @@ This allows Admins to enable and set up the plugin settings in advance, so your 
 
 As a result, your plugin source code, settings, credentials, etc.,  will not be exposed to users, ensuring a seamless user experience.
 
-![image.png](introducing-server-plugins/image.png)
+![image.webp](introducing-server-plugins/image.webp)
 
 ### ✨ Stay updated
 

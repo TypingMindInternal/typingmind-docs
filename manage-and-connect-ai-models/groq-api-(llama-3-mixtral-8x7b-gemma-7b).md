@@ -18,7 +18,7 @@ Check out how to set it up on TypingMind! (Text guideline below)
 
 First, you will need to sign up for a DeepSeek AI account at [https://console.groq.com/login](https://console.groq.com/login)
 
-![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled.png)
+![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled.webp)
 
 # Step 2: Get Groq API key
 
@@ -26,7 +26,7 @@ First, you will need to sign up for a DeepSeek AI account at [https://console.gr
 - Create a new API key
 - Copy the generated API key
 
-![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled%201.png)
+![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled%201.webp)
 
 # Step 3: Set up Groq on TypingMind
 
@@ -37,7 +37,7 @@ First, you will need to sign up for a DeepSeek AI account at [https://console.gr
   - **Icon URL (suggested):** [https://groq.com/favicon.ico](https://groq.com/favicon.ico)
   - **Endpoint**: `https://api.groq.com/openai/v1/chat/completions`
   - **Model ID**: it can be `llama3-8b-8192`, `llama3-70b-8192`, `llama2-70b-4096`, `mixtral-8x7b-32768`, `gemma-7b-it`
-  - **Add Custom Headers**: `Authorization`: `Bearer {{YOUR_API_KEY}}` (enter the copied API key) <img src="groq-api-(llama-3-mixtral-8x7b-gemma-7b)/Untitled%202.png" alt="Untitled" />
+  - **Add Custom Headers**: `Authorization`: `Bearer {{YOUR_API_KEY}}` (enter the copied API key) <img src="groq-api-(llama-3-mixtral-8x7b-gemma-7b)/Untitled%202.webp" alt="Untitled" />
 - Click **Test**
 - Click **Update model**
 
@@ -45,7 +45,7 @@ First, you will need to sign up for a DeepSeek AI account at [https://console.gr
 
 Now, you can choose the model and interact with it! Below is an example chat with LLaMA 3
 
-![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled%203.png)
+![Untitled](groq-api-\(llama-3-mixtral-8x7b-gemma-7b\)/Untitled%203.webp)
 
 <aside>
   💡 Please note that plugins and streaming mode don’t work at the same time for Groq models.

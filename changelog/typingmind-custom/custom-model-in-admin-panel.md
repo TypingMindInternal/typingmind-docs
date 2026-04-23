@@ -7,9 +7,9 @@ Typing Mind Custom now supports custom models.
 
 You can connect your instance to open source LLMs, Azure OpenAI, Open Router models, or use your private LLM!
 
-![image.png](custom-model-in-admin-panel/image.png)
+![image.webp](custom-model-in-admin-panel/image.webp)
 
-![image.png](custom-model-in-admin-panel/image%201.png)
+![image.webp](custom-model-in-admin-panel/image%201.webp)
 
 ### ✨ Stay updated
 

@@ -5,7 +5,7 @@ title: "GPT-4-32K is available!"
 
 Added the "GPT-4-32K" option to [typingmind.com](http://typingmind.com/) today.
 
-![image.png](gpt-4-32k-is-available/image.png)
+![image.webp](gpt-4-32k-is-available/image.webp)
 
 ### ✨ Stay updated
 

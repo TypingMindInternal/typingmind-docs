@@ -5,9 +5,9 @@ title: "Add Icon for Custom model"
 
 Add icon for your custom model by entering the icon URL while setting up the model.
 
-![image.png](add-icon-for-custom-model/image.png)
+![image.webp](add-icon-for-custom-model/image.webp)
 
-![image.png](add-icon-for-custom-model/image%201.png)
+![image.webp](add-icon-for-custom-model/image%201.webp)
 
 ## ✨ Stay updated
 

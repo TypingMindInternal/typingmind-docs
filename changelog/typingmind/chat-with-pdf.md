@@ -6,7 +6,7 @@ title: "Chat with PDF!"
 Here comes the most requested feature in [typingmind.com](http://typingmind.com/): Chat with PDF 🎉
 Now you can directly upload the file and ask any questions!
 
-![image.png](chat-with-pdf/image.png)
+![image.webp](chat-with-pdf/image.webp)
 
 ### ✨ Stay updated
 

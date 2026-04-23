@@ -9,7 +9,7 @@ When building an AI agent or setting up a Project Folder, **Dynamic Context** al
 - Inject “Latest newsletter post” to your AI agent/Project context.
 - Add “Latest 10 tweets from my account” to the AI agent/Project.
 
-![Untitled](dynamic-context-via-api/Untitled.png)
+![Untitled](dynamic-context-via-api/Untitled.webp)
 
 ## How it works
 

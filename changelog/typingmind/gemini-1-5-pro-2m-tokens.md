@@ -9,7 +9,7 @@ Google Gemini 1.5 Pro with 2M tokens is now available on [TypingMind.com](http:/
 
 Please note that this model is not yet publicly available to everyone. If you haven't had access yet, you can join the waitlist here: [https://ai.google.dev/gemini-api](https://ai.google.dev/gemini-api)
 
-![image.png](gemini-1-5-pro-2m-tokens/image.png)
+![image.webp](gemini-1-5-pro-2m-tokens/image.webp)
 
 Easy access to Google's Gemini AI models with [typingmind.com](http://typingmind.com):  https://docs.typingmind.com/chat-models-settings/use-with-gemini
 

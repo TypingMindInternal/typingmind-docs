@@ -12,7 +12,7 @@ This post is also the answer for the question “Can you use TypingMind without 
 
 </aside>
 
-![image.png](does-typingmind-work-when-you-log-out/image.png)
+![image.webp](does-typingmind-work-when-you-log-out/image.webp)
 
 ## Works Without Login
 

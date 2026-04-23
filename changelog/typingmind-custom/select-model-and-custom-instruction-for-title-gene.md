@@ -5,7 +5,7 @@ title: "Select model and custom instruction for title generation (Admin)"
 
 Admins can now set a default model and custom instructions for chat title generation! 🚀
 
-![image.png](select-model-and-custom-instruction-for-title-gene/image.png)
+![image.webp](select-model-and-custom-instruction-for-title-gene/image.webp)
 
 ### ✨ Stay updated
 

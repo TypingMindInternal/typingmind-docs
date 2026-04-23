@@ -7,9 +7,9 @@ title: "Stable Diffusion v3 is available!"
 
 We now have a built-in Stable Diffusion v3 Image plugin!
 
-![image.png](stable-diffusion-v3-is-available/image.png)
+![image.webp](stable-diffusion-v3-is-available/image.webp)
 
-![image.png](stable-diffusion-v3-is-available/image%201.png)
+![image.webp](stable-diffusion-v3-is-available/image%201.webp)
 
 ### ✨ Stay updated
 

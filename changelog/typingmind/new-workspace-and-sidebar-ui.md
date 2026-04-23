@@ -5,7 +5,7 @@ title: "New workspace and sidebar UI"
 
 A brand new look for TypingMind sidebar and workspace bar: Sleeker, more intuitive!
 
-![image.png](new-workspace-and-sidebar-ui/image.png)
+![image.webp](new-workspace-and-sidebar-ui/image.webp)
 
 ## 📌 Stay updated
 

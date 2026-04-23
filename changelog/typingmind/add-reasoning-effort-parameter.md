@@ -5,7 +5,7 @@ title: "Add reasoning effort parameter"
 
 You can now select the reasoning effort from "low" to "high" for better output of the o3 models
 
-![image.png](add-reasoning-effort-parameter/image.png)
+![image.webp](add-reasoning-effort-parameter/image.webp)
 
 ## 📌 Stay updated
 

@@ -9,7 +9,7 @@ The latest experimental Gemini model - **Gemini Experimental 1121** is now ava
 - Stronger reasoning capabilities
 - Improved visual understanding
 
-![image.png](new-gemini-experimental-1121/image.png)
+![image.webp](new-gemini-experimental-1121/image.webp)
 
 ## 📌 Stay updated
 

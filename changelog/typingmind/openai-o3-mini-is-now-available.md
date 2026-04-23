@@ -8,7 +8,7 @@ o3 mini - the newest, most cost-efficient model from OpenAI is now available on 
 - Plugin supported
 - Vision does not support
 
-![image.png](openai-o3-mini-is-now-available/image.png)
+![image.webp](openai-o3-mini-is-now-available/image.webp)
 
 ## 📌 Stay updated
 

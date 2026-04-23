@@ -15,7 +15,7 @@ Artifacts in TypingMind are automatically triggered for generating structured co
 
 The AI will automatically deploy relevant plugins (e.g., Interactive Canvas, Render Charts, Mermaid Diagram) to generate visual elements.
 
-![image.png](artifacts-on-typingmind/image.png)
+![image.webp](artifacts-on-typingmind/image.webp)
 
 To help you clearly understand about TypingMind Artifacts, learn more: https://docs.typingmind.com/plugins/typingmind-artifacts
 

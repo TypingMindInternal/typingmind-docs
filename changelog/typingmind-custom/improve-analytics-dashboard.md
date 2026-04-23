@@ -7,7 +7,7 @@ We have just added **3 new widgets on the Analytics Dashboard** for [custom.t
 
 These widgets provide a quick overview of the total Active Users, Estimated Tokens, and Messages Sent within a specific timeframe.
 
-![image.png](improve-analytics-dashboard/image.png)
+![image.webp](improve-analytics-dashboard/image.webp)
 
 ### ✨ Stay updated
 

@@ -10,7 +10,7 @@ With this update, you can:
 
 More options to customize your private ChatGPT bot : [custom.typingmind.com](http://custom.typingmind.com/)
 
-![image.png](customize-cloud-email-login/image.png)
+![image.webp](customize-cloud-email-login/image.webp)
 
 ### ✨ Stay updated
 

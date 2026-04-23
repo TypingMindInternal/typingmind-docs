@@ -11,7 +11,7 @@ We have just updated 3 new experimental Gemini models on our platform:
 - A stronger Gemini 1.5 Pro Experimental 0827
 - A significantly improved Gemini 1.5 Flash Experimental 0827
 
-![image.png](3-new-experimental-gemini-models/image.png)
+![image.webp](3-new-experimental-gemini-models/image.webp)
 
 Easy access Google's Gemini AI models with [typingmind.com](http://typingmind.com): https://docs.typingmind.com/chat-models-settings/use-with-gemini
 

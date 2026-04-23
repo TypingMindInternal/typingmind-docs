@@ -13,13 +13,13 @@ Ex: easily switch between profiles for:
 - Personal projects and hobbies
 - Work-related tasks
 
-![image.png](set-up-multiple-profiles/image.png)
+![image.webp](set-up-multiple-profiles/image.webp)
 
 ## ⚙️ How it works?
 
 On the top left corner of the app, click Profile to set up your profiles.
 
-![image.png](set-up-multiple-profiles/image%201.png)
+![image.webp](set-up-multiple-profiles/image%201.webp)
 
 ## ✨ Stay updated
 

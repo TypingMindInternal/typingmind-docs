@@ -10,7 +10,7 @@ Admins now can allow sign-ups using company email!
 
 Available at [custom.typingmind.com](http://custom.typingmind.com/)
 
-![image.png](allow-sign-ups-using-company-email/image.png)
+![image.webp](allow-sign-ups-using-company-email/image.webp)
 
 ### ✨ Stay updated
 

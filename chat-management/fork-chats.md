@@ -19,7 +19,7 @@ This is particularly useful for exploring different ideas, testing various promp
 
 </aside>
 
-![image.png](fork-chats/image.png)
+![image.webp](fork-chats/image.webp)
 
 # Benefits of Forking a Chat
 

@@ -15,7 +15,7 @@ With this plugin, you can:
 - Click on Plugin Store and install GPT Image Editor.
 - Click on the installed GPT Image Editor plugin to open its settings.
 
-![image.png](gpt-image-editor/image.png)
+![image.webp](gpt-image-editor/image.webp)
 
 ## Step 2: Enter your OpenAI API key
 
@@ -23,7 +23,7 @@ With this plugin, you can:
 - Enter your [OpenAI API key](../Manage%20&%20Connect%20AI%20Models/OpenAI%20\(GPT-5,%20GPT-4%201\)%2097b6ce8cbb6642a9934e81f7b7365575.md)
 - Set up image generated resolution and quality as you want.
 
-![image.png](gpt-image-editor/image%201.png)
+![image.webp](gpt-image-editor/image%201.webp)
 
 ## Step 3: Start prompting the AI model to generate images
 
@@ -31,15 +31,15 @@ You can:
 
 - Create and edit image
 
-![image.png](gpt-image-editor/image%202.png)
+![image.webp](gpt-image-editor/image%202.webp)
 
 - Upload image and edit from your image file
 
-![image.png](gpt-image-editor/image%203.png)
+![image.webp](gpt-image-editor/image%203.webp)
 
 - Create infographic
 
-![image.png](gpt-image-editor/image%204.png)
+![image.webp](gpt-image-editor/image%204.webp)
 
 - And more!
 

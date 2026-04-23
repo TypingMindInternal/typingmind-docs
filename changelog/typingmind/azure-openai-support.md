@@ -13,7 +13,7 @@ Azure OpenAI support!
 
 See our full guide here: https://docs.typingmind.com/chat-models-settings/use-azure-openai
 
-![image.png](azure-openai-support/image.png)
+![image.webp](azure-openai-support/image.webp)
 
 ### ✨ Stay updated
 

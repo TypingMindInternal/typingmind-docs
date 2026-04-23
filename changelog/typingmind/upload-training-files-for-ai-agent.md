@@ -15,7 +15,7 @@ Here are some notes:
 - Your uploaded documents will be included directly to the model's system instruction.
 - Make sure your document fits within the context length of the chosen model.
 
-![image.png](upload-training-files-for-ai-agent/image.png)
+![image.webp](upload-training-files-for-ai-agent/image.webp)
 
 ## ✨ Stay updated
 

@@ -13,7 +13,7 @@ is great for editing and revising the AI response to improve AI-generated respon
 - **Rewrite specific parts of your text or the entire message**: make your text longer, shorter, friendlier or enter custom prompts to adjust tone, voice, style of your text.
 - **Use markdown formatting**: you update basic styles for your text including bold, italics, headers, lists, quotes, and more.
 
-![image.png](edit-in-canvas/image.png)
+![image.webp](edit-in-canvas/image.webp)
 
 Learn more: https://docs.typingmind.com/chat-management/edit-in-canvas
 

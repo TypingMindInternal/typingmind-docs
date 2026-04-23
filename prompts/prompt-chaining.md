@@ -14,7 +14,7 @@ This option allows you to generate workflows for multiple AI agents to make the 
 
 Instead of manually entering each new prompt after the AI provides an answer, prompt chaining automates this process to provide you with smoother and faster interactions.
 
-![image.png](prompt-chaining/image.png)
+![image.webp](prompt-chaining/image.webp)
 
 This significantly boosts the AI's reasoning abilities and saves you from time-consuming back-and-forth interactions.
 
@@ -26,20 +26,20 @@ There are two ways to activate Flow for prompt chaining on TypingMind:
 
 - At the bottom right of the message area, within the send button, click the toggle icon and select "Queue message."
 
-![image.png](prompt-chaining/image%201.png)
+![image.webp](prompt-chaining/image%201.webp)
 
 - Or, simply use the syntax `----` (four dashes) to queue your next message.
 
-![image.png](prompt-chaining/image%202.png)
+![image.webp](prompt-chaining/image%202.webp)
 
 One of the most exciting part is the ability to involve multiple AI agents in your workflow by mentioning **@\[AI Agent name\]**:
 
 - You can direct specific agents to take charge of different parts of your workflow.
 - Each agent brings its own settings like AI models, parameters, and plugins to the table to allow you to create more powerful, dynamic processes.
 
-![image.png](prompt-chaining/image%203.png)
+![image.webp](prompt-chaining/image%203.webp)
 
-![image.png](prompt-chaining/image%204.png)
+![image.webp](prompt-chaining/image%204.webp)
 
 ## Use cases
 
@@ -51,9 +51,9 @@ We will create a prompt chain where:
 - Step 2: Mention @\[SEO Blog Content\] to help write a blog about this product optimized for SEO, targeting keywords
 - Step 3: Mention @\[Blog Image Generator\] to help create a blog cover image for that article
 
-![image.png](prompt-chaining/image%205.png)
+![image.webp](prompt-chaining/image%205.webp)
 
-![image.png](prompt-chaining/image%206.png)
+![image.webp](prompt-chaining/image%206.webp)
 
 ### 2. For research automation
 
@@ -65,11 +65,11 @@ We will create a prompt chain where:
 - Step 4: generate insights and predictions for future growth.
 - Step 5: Mention @\[Marketing Expert\] to help provide actionable recommendations for a business strategy.
 
-![image.png](prompt-chaining/image%207.png)
+![image.webp](prompt-chaining/image%207.webp)
 
-![image.png](prompt-chaining/image.png)
+![image.webp](prompt-chaining/image.webp)
 
-![image.png](prompt-chaining/image%208.png)
+![image.webp](prompt-chaining/image%208.webp)
 
 ## Key facts and best practices for optimizing “Flow” usage on TypingMind
 
@@ -77,7 +77,7 @@ We will create a prompt chain where:
 
 Add your chain of prompts to the [Prompt Library](https://www.notion.so/Prompt-library-9a8683f866754a9e831202fa791a637a?pvs=21) for easy access and re-use. To quickly find a saved prompt, type `/` in the message input box and search by its name.
 
-![image.png](prompt-chaining/image%209.png)
+![image.webp](prompt-chaining/image%209.webp)
 
 ### **2. Mention syntax (`@`)**
 
@@ -85,7 +85,7 @@ To mention an AI Agent, use the format `@[exact agent name]`. The name inside th
 
 When typing `@`, your AI Agent list will automatically pop up, which allows you to search and select the agent you need easily.
 
-![image.png](prompt-chaining/image%2010.png)
+![image.webp](prompt-chaining/image%2010.webp)
 
 <aside>
   💡
@@ -97,13 +97,13 @@ When typing `@`, your AI Agent list will automatically pop up, which allows you 
 
 You can only mention one agent per message.
 
-![image.png](prompt-chaining/image%2011.png)
+![image.webp](prompt-chaining/image%2011.webp)
 
 ### **4. Optimize Agent settings**
 
 Each AI agent works with its own settings, including its AI model, parameters, dynamic context, and plugins, you can optimize these settings separately for each agent to ensure it can deliver high-quality responses.
 
-![image.png](prompt-chaining/image%2012.png)
+![image.webp](prompt-chaining/image%2012.webp)
 
 ## For TypingMind Team: Create Prompt Chain Templates For Your Members
 
@@ -119,7 +119,7 @@ Step 2: generate a cover image for this article
 Step 3:....
 ```
 
-![image.png](prompt-chaining/image%2013.png)
+![image.webp](prompt-chaining/image%2013.webp)
 
 <aside>
   💡

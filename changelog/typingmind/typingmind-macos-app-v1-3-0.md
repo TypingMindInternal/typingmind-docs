@@ -5,7 +5,7 @@ title: "TypingMind MacOS app v1.3.0"
 
 A small new update for the [typingmind.com](http://typingmind.com/) on macOS app 👇
 
-![image.png](typingmind-macos-app-v1-3-0/image.png)
+![image.webp](typingmind-macos-app-v1-3-0/image.webp)
 
 ### ✨ Stay updated
 

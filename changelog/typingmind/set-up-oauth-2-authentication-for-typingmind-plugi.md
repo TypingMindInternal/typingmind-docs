@@ -11,7 +11,7 @@ This authentication type makes it easy to work with external services that requi
 
 👉To help you set up OAuth in your plugin: we've prepared a comprehensive guide: https://docs.typingmind.com/plugins/oauth-for-plugin
 
-![image.png](set-up-oauth-2-authentication-for-typingmind-plugi/image.png)
+![image.webp](set-up-oauth-2-authentication-for-typingmind-plugi/image.webp)
 
 ### 📌 Stay updated
 

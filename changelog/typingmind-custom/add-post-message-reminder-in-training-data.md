@@ -7,7 +7,7 @@ Also added Post-Message Reminder to [custom.typingmind.com](http://custom.typing
 
 Super helpful to avoid hallucination and context lost:
 
-![image.png](add-post-message-reminder-in-training-data/image.png)
+![image.webp](add-post-message-reminder-in-training-data/image.webp)
 
 ### ✨ Stay updated
 

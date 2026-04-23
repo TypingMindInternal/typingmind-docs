@@ -7,7 +7,7 @@ If your OpenAI API key is tied to an organization, you can configure TypingMind 
 
 Go to Setting (the gear ⚙️ icon) → Advanced Settings → OpenAI API Org ID.
 
-![image.png](use-openai-api-org-id/image.png)
+![image.webp](use-openai-api-org-id/image.webp)
 
 ### ✨ Stay updated
 

@@ -7,7 +7,7 @@ Added "Context Limit" to [typingmind.com](http://typingmind.com/). This will be 
 
 Also helpful if you want the assistant to be a "one-off question/answer machine" instead of having long conversations.
 
-![image.png](added-context-limit/image.png)
+![image.webp](added-context-limit/image.webp)
 
 ### ✨ Stay updated
 

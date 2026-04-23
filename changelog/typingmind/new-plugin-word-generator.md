@@ -7,7 +7,7 @@ The Word Generator Plugin simplifies and speeds up document creation by automati
 
 Here’s how to set up: https://docs.typingmind.com/plugins/set-up-word-generator
 
-![image.png](new-plugin-word-generator/image.png)
+![image.webp](new-plugin-word-generator/image.webp)
 
 ## 📌 Stay updated
 

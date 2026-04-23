@@ -22,7 +22,7 @@ Go to your **Admin Panel → User Management → User Authentication → Directo
 
 Enable Directory Sync, then click **Add New Directory Connection**.
 
-![image.png](directory-sync-(scim-v2)/image.png)
+![image.webp](directory-sync-(scim-v2)/image.webp)
 
 Set a name and type for your connection. Currently we support the following types:
 
@@ -34,15 +34,15 @@ Set a name and type for your connection. Currently we support the following type
 
 Then click “Add connection”
 
-![image.png](directory-sync-(scim-v2)/image%201.png)
+![image.webp](directory-sync-(scim-v2)/image%201.webp)
 
 Once the connection is created, click “View Details”.
 
-![image.png](directory-sync-(scim-v2)/image%202.png)
+![image.webp](directory-sync-(scim-v2)/image%202.webp)
 
 Then take note of the **SCIM base URL** and the **Secret**. You will need this at a later step.
 
-![image.png](directory-sync-(scim-v2)/image%203.png)
+![image.webp](directory-sync-(scim-v2)/image%203.webp)
 
 ## Setup Directory Sync on Okta
 
@@ -53,15 +53,15 @@ From your Okta admin panel, navigate to “Applications” page, then search for
 
 </aside>
 
-![image.png](directory-sync-(scim-v2)/image%204.png)
+![image.webp](directory-sync-(scim-v2)/image%204.webp)
 
 Select “**SCIM 2.0 Test App (OAuth Bearer Token)”** from the list, then click “Add integration”.
 
-![image.png](directory-sync-(scim-v2)/image%205.png)
+![image.webp](directory-sync-(scim-v2)/image%205.webp)
 
 Set the application name to “TypingMind”, then click “Next”
 
-![image.png](directory-sync-(scim-v2)/image%206.png)
+![image.webp](directory-sync-(scim-v2)/image%206.webp)
 
 In the “Sign-on Options” screen, you can skip this for now and click “Done” at the end of the page.
 
@@ -70,17 +70,17 @@ In the “Sign-on Options” screen, you can skip this for now and click “Done
 
 </aside>
 
-![image.png](directory-sync-(scim-v2)/image%207.png)
+![image.webp](directory-sync-(scim-v2)/image%207.webp)
 
 Within the application page, select the “Provision” tab, then click the config button.
 
-![image.png](directory-sync-(scim-v2)/image%208.png)
+![image.webp](directory-sync-(scim-v2)/image%208.webp)
 
 In the next screen, enter the SCIM base URL and the OAuth Bearer Token (secret) you saved from the last step.
 
 Click “Test API Credentials” to check if everything is working correctly.
 
-![image.png](directory-sync-(scim-v2)/image%209.png)
+![image.webp](directory-sync-(scim-v2)/image%209.webp)
 
 You should see a successful message if the test is successful. Then click **Save**.
 
@@ -90,7 +90,7 @@ In the next screen, update the configuration to enable the following provisionin
 - Update User Attributes
 - Deactivate Users
 
-![image.png](directory-sync-(scim-v2)/image%2010.png)
+![image.webp](directory-sync-(scim-v2)/image%2010.webp)
 
 ## Sync Users
 
@@ -98,15 +98,15 @@ Start assigning users/groups to the application. The sync process will kick star
 
 Click the **Assigments** tab → Assign.
 
-![image.png](directory-sync-(scim-v2)/image%2011.png)
+![image.webp](directory-sync-(scim-v2)/image%2011.webp)
 
 In this example, we assign two users `tonytest-two` and `tonytest-five` to the application.
 
-![image.png](directory-sync-(scim-v2)/image%2012.png)
+![image.webp](directory-sync-(scim-v2)/image%2012.webp)
 
 Go back to your TypingMind Admin panel, you should see the two new users are created with a `scim` tag next to their name.
 
-![image.png](directory-sync-(scim-v2)/image%2013.png)
+![image.webp](directory-sync-(scim-v2)/image%2013.webp)
 
 ## Sync Groups
 
@@ -121,15 +121,15 @@ You can use these two tags to manage the access control and authorized resources
 
 To sync groups, select the “Push Groups” tab. Then select the groups you want to sync.
 
-![image.png](directory-sync-(scim-v2)/image%2014.png)
+![image.webp](directory-sync-(scim-v2)/image%2014.webp)
 
 Once synced successfully, the **Push Status** will be set to “Active”.
 
-![image.png](directory-sync-(scim-v2)/image%2015.png)
+![image.webp](directory-sync-(scim-v2)/image%2015.webp)
 
 Go back to your TypingMind admin panel, you should see the users are not tagged correctly as per their assigned groups.
 
-![image.png](directory-sync-(scim-v2)/image%2016.png)
+![image.webp](directory-sync-(scim-v2)/image%2016.webp)
 
 ## Notes and limitations
 

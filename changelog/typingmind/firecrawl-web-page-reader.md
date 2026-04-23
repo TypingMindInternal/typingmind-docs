@@ -7,7 +7,7 @@ New plugin added to our plugin store: Firecrawl Web Page Reader.
 
 Firecrawl Web Page Reader allows you to read and analyze a web page by scraping its content using the Firecrawl Scrape API.
 
-![image.png](firecrawl-web-page-reader/image.png)
+![image.webp](firecrawl-web-page-reader/image.webp)
 
 ## **❗ Important Notes**
 
@@ -26,7 +26,7 @@ Firecrawl offers various subscription types. Make sure to review the available f
 
 https://docs.typingmind.com/plugins/set-up-firecrawl-web-page-reader
 
-![image.png](firecrawl-web-page-reader/image%201.png)
+![image.webp](firecrawl-web-page-reader/image%201.webp)
 
 ## 📌 Stay updated
 

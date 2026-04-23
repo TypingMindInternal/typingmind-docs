@@ -25,30 +25,30 @@ Connecting TypingMind’s Model Context Protocol (MCP) to GitHub provides powerf
     - Alternatively, if working only with public repositories, select only the `public_repo` scope
 - Copy the generated token
 
-![image.png](typingmind-mcp-github/image.png)
+![image.webp](typingmind-mcp-github/image.webp)
 
 ### Step 2: Add Github as custom MCP connection
 
 Go to Plugin → MCP Connectors → Add Connector 
 
-![image.png](typingmind-mcp-github/image%201.png)
+![image.webp](typingmind-mcp-github/image%201.webp)
 
 - Add Server URL: [`https://api.githubcopilot.com/mcp/`](https://api.githubcopilot.com/mcp/)
 - Connection name: Github
 
-![image.png](typingmind-mcp-github/image%202.png)
+![image.webp](typingmind-mcp-github/image%202.webp)
 
 - Toggle the **Advanced option** and enable **Custom HTTP headers**
 - Add `Authorization` : `Bearer your-github-access-token` (copy your Github access token in step 1)
 - Click **Create Connection**
 
-![image.png](typingmind-mcp-github/image%203.png)
+![image.webp](typingmind-mcp-github/image%203.webp)
 
 ### Step 3: Set up MCP Connectors
 
 After creating the connection with Github MCP, you will see Github appear in the plugin list, click on that to start setup your MCP connector with TypingMind:
 
-![image.png](typingmind-mcp-github/image%204.png)
+![image.webp](typingmind-mcp-github/image%204.webp)
 
 - If you select TypingMind Cloud, you can connect to our remote MCP server in one-click without any further setup
 - If you choose to set up Private MCP Connector, then follow the steps here: [Use MCP with Private MCP Connector](https://docs.typingmind.com/model-context-protocol-(mcp)-in-typingmind/use-mcp-with-private-mcp-connector)
@@ -57,7 +57,7 @@ After creating the connection with Github MCP, you will see Github appear in the
 
 You can control which tools your Github MCP should access within TypingMind by switching to Tools tab → Enable/disable specific tools.
 
-![image.png](typingmind-mcp-github/image%205.png)
+![image.webp](typingmind-mcp-github/image%205.webp)
 
 ### Step 5: Start chatting
 
@@ -69,4 +69,4 @@ You can now interact with github through natural language. For example:
 - Create a new branch called `feature/login` from `main`.
 - Create a pull request for the `feature/login` branch to `main`, with title ‘Add login feature’.
 
-![image.png](typingmind-mcp-github/image%206.png)
+![image.webp](typingmind-mcp-github/image%206.webp)

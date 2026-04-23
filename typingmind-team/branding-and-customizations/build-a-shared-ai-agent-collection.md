@@ -6,11 +6,11 @@ Admins have the option to build AI Agent collection for your chat interface that
 - Go to **AI Agents**
 - Click **Add AI Agents** to create your own collection
 
-![Untitled](build-a-shared-ai-agent-collection/Untitled.png)
+![Untitled](build-a-shared-ai-agent-collection/Untitled.webp)
 
 Your created AI characters will be displayed on the chat interface as follows:
 
-![Untitled](build-a-shared-ai-agent-collection/Untitled%201.png)
+![Untitled](build-a-shared-ai-agent-collection/Untitled%201.webp)
 
 <aside>
 💡 You have the option to control which users / groups can use the created AI characters, check it here:

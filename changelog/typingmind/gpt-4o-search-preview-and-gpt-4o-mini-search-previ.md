@@ -7,7 +7,7 @@ GPT-4o Search Preview and GPT-4o mini Search Preview are now available on Typing
 
 These models are specialized models for web search, trained to understand and execute web search queries.
 
-![image.png](gpt-4o-search-preview-and-gpt-4o-mini-search-previ/image.png)
+![image.webp](gpt-4o-search-preview-and-gpt-4o-mini-search-previ/image.webp)
 
 ## 📌 Stay updated
 

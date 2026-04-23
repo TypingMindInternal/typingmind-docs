@@ -20,15 +20,15 @@ After joining Crowin, do as follows:
 
 </aside>
 
-![Untitled](set-up-crowdin/Untitled.png)
+![Untitled](set-up-crowdin/Untitled.webp)
 
 1. Choose messages.po
 
-![Untitled](set-up-crowdin/Untitled%201.png)
+![Untitled](set-up-crowdin/Untitled%201.webp)
 
 1. Enter your translation on each string and wait for the approval. 
 
-![Untitled](set-up-crowdin/Untitled%202.png)
+![Untitled](set-up-crowdin/Untitled%202.webp)
 
 ## Important notes
 

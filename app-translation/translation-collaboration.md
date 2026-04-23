@@ -5,7 +5,7 @@ We are working on support multi-language on [TypingMind.com](http://TypingMind.c
 
 If you can help with translation, please contact **support@typingmind.com** and we’ll share more details.
 
-![Untitled](translation-collaboration/Untitled.png)
+![Untitled](translation-collaboration/Untitled.webp)
 
 ## Collab Process
 

@@ -22,11 +22,11 @@ MCP servers require a server to run on. TypingMind allows you to connect to the 
 - Your own local device
 - Or a private remote server.
 
-![image.png](../rag-knowledge-base/connect-to-llamaindex/image%204.png)
+![image.webp](../rag-knowledge-base/connect-to-llamaindex/image%204.webp)
 
 If you choose to run the MCP servers on your device, run the command displayed on the screen.
 
-![image.png](../rag-knowledge-base/connect-to-llamaindex/image%205.png)
+![image.webp](../rag-knowledge-base/connect-to-llamaindex/image%205.webp)
 
 Detail setup can be found at [https://docs.typingmind.com/model-context-protocol-in-typingmind](https://docs.typingmind.com/model-context-protocol-in-typingmind)
 
@@ -53,13 +53,13 @@ Detail setup can be found at [https://docs.typingmind.com/model-context-protocol
 
 Replace the folder paths with those you want the AI to access. Make sure these folders exist on your device.
 
-![image.png](typingmind-mcp-filesystem/image.png)
+![image.webp](typingmind-mcp-filesystem/image.webp)
 
 Github Reference: [Official FileSystem MCP Server on GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)
 
 - Click Save changes to save the MCP server
 
-![image.png](typingmind-mcp-filesystem/image%201.png)
+![image.webp](typingmind-mcp-filesystem/image%201.webp)
 
 ### Step 3: Enable filesystem via Plugin section
 
@@ -69,7 +69,7 @@ After the MCP servers are added successfully, it will show up in your **Plugins*
 - You should see a new plugin called **"filesystem"**.
 - Enable the plugin
 
-![image.png](typingmind-mcp-filesystem/image%202.png)
+![image.webp](typingmind-mcp-filesystem/image%202.webp)
 
 ### Step 4: Start chatting
 
@@ -81,7 +81,7 @@ You can now interact with your local files through natural language. For example
 
 Ensure that the files are inside one of the directories you added in Step 2.
 
-![image.png](typingmind-mcp-filesystem/image%203.png)
+![image.webp](typingmind-mcp-filesystem/image%203.webp)
 
 <aside>
 💡

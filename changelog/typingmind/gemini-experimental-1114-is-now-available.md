@@ -9,7 +9,7 @@ title: "Gemini Experimental 1114 is now available!"
 
 https://docs.typingmind.com/chat-models-settings/use-with-gemini
 
-![image.png](gemini-experimental-1114-is-now-available/image.png)
+![image.webp](gemini-experimental-1114-is-now-available/image.webp)
 
 ## 📌 Stay updated
 

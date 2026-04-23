@@ -5,7 +5,7 @@ title: "Archive chats"
 
 Archive chats to reduce chat clutter on your chat list:
 
-![image.png](archive-chats/image.png)
+![image.webp](archive-chats/image.webp)
 
 Other options to organize your chat space: https://docs.typingmind.com/chat-management/organize-chats
 

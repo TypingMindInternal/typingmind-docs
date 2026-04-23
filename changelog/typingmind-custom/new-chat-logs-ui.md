@@ -10,11 +10,11 @@ It's now easier to view your user chat logs:
 - List view / Detail View
 - Filter your chat logs by time period
 
-![image.png](new-chat-logs-ui/image.png)
+![image.webp](new-chat-logs-ui/image.webp)
 
-![image.png](new-chat-logs-ui/image%201.png)
+![image.webp](new-chat-logs-ui/image%201.webp)
 
-![image.png](new-chat-logs-ui/image%202.png)
+![image.webp](new-chat-logs-ui/image%202.webp)
 
 ### ✨ Stay updated
 

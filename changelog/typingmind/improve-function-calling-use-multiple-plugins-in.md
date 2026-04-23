@@ -5,7 +5,7 @@ title: "Improve function calling - use multiple plugins in parallel"
 
 Function calling has been improved! Now you can have multiple plugins running in parallel. 
 
-![image.png](improve-function-calling-use-multiple-plugins-in/image.png)
+![image.webp](improve-function-calling-use-multiple-plugins-in/image.webp)
 
 ## ✨ Stay updated
 

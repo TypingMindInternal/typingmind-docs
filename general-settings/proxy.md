@@ -9,7 +9,7 @@ In case you don’t want to send the API requests directly to OpenAI API or Anth
 - Click on the gear icon next to each model provider
 - Toggle the optional fields
 
-![image.png](proxy/image.png)
+![image.webp](proxy/image.webp)
 
 ## Set up Proxy
 

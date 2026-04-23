@@ -20,7 +20,7 @@ Context length determines how much the model can “remember” during a single 
 - multi-step reasoning
 - retrieval-heavy workflows
 
-![image.png](model-context-length/image.png)
+![image.webp](model-context-length/image.webp)
 
 ## What happen when you reached context length limit on TypingMind?
 
@@ -32,13 +32,13 @@ As you may know, each chat model has a different context window, for example::
 
 When the context window fills up, **the app summarizes key information from older messages and retains that summary so the AI can stay relevant**, then removes the original messages to free up context space.
 
-![image.png](model-context-length/image%201.png)
+![image.webp](model-context-length/image%201.webp)
 
-![image.png](model-context-length/image%202.png)
+![image.webp](model-context-length/image%202.webp)
 
 You can control this context summary option by going to Settings → Internal Prompts → Auto summarize long conversations:
 
-![image.png](model-context-length/image%203.png)
+![image.webp](model-context-length/image%203.webp)
 
 <aside>
   💡 Please note that the AI model will continuously preserve the system message that you set up via System Instruction or AI Agent setting.

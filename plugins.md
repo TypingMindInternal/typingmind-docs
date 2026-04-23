@@ -12,7 +12,7 @@ hidden: true
   Explore and share your awesome extensions here! 👉 [**awesome-typingmind**](http://github.com/TypingMind/awesome-typingmind)
 </aside>
 
-![image.png](plugins/image.png)
+![image.webp](plugins/image.webp)
 
 In this page, we will introduce you to the TypingMind Plugin system and how to build various types of plugins to enhance your AI agents.
 

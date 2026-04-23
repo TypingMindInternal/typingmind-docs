@@ -7,7 +7,7 @@ Track current context length usage to see how many tokens left in your conversat
 
 Navigate the top right circle within the app to view the indicator.
 
-![image.png](context-length-indicator/image.png)
+![image.webp](context-length-indicator/image.webp)
 
 ## ✨ Stay updated
 

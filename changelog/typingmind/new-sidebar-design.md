@@ -7,7 +7,7 @@ We just updated our sidebar with a new design: cleaner and easier to navigate!
 
 What do you think?
 
-![image.png](new-sidebar-design/image.png)
+![image.webp](new-sidebar-design/image.webp)
 
 ## ✨ Stay updated
 

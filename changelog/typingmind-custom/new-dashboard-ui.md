@@ -5,7 +5,7 @@ title: "New dashboard UI"
 
 New dashboard UI
 
-![image.png](new-dashboard-ui/image.png)
+![image.webp](new-dashboard-ui/image.webp)
 
 ### ✨ Stay updated
 

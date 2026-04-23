@@ -18,11 +18,11 @@ Added more AI Agent collections on the library, you can find AI agents for every
 
 You can also **set categories for your AI Agent** to better organize them for specific tasks.
 
-![image.png](more-ai-agent-collections/image.png)
+![image.webp](more-ai-agent-collections/image.webp)
 
-![image.png](more-ai-agent-collections/image%201.png)
+![image.webp](more-ai-agent-collections/image%201.webp)
 
-![image.png](more-ai-agent-collections/image%202.png)
+![image.webp](more-ai-agent-collections/image%202.webp)
 
 ## ✨ Stay updated
 

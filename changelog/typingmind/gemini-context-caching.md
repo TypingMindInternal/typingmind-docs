@@ -27,11 +27,11 @@ The Prompt Caching option is now available for Claude, OpenAI and Google Gemini 
 
 Learn more https://docs.typingmind.com/prompts/automatic-prompt-caching
 
-![image.png](gemini-context-caching/image.png)
+![image.webp](gemini-context-caching/image.webp)
 
-![image.png](gemini-context-caching/image%201.png)
+![image.webp](gemini-context-caching/image%201.webp)
 
-![image.png](gemini-context-caching/image%202.png)
+![image.webp](gemini-context-caching/image%202.webp)
 
 ### 📌 Stay updated
 

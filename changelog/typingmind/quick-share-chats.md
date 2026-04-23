@@ -7,7 +7,7 @@ We have just added a Share button right next to your chat activity in the left p
 
 The new Share chat button right next to your chat activity allows you to Share chat more easily.
 
-![image.png](quick-share-chats/image.png)
+![image.webp](quick-share-chats/image.webp)
 
 ## 📌 Stay updated
 

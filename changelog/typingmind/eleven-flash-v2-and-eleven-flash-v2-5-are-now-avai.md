@@ -7,9 +7,9 @@ title: "Eleven Flash v2 and Eleven Flash v2.5 are now available!"
 
 https://docs.typingmind.com/text-to-speech/set-up-text-to-speech
 
-![image.png](eleven-flash-v2-and-eleven-flash-v2-5-are-now-avai/image.png)
+![image.webp](eleven-flash-v2-and-eleven-flash-v2-5-are-now-avai/image.webp)
 
-![image.png](eleven-flash-v2-and-eleven-flash-v2-5-are-now-avai/image%201.png)
+![image.webp](eleven-flash-v2-and-eleven-flash-v2-5-are-now-avai/image%201.webp)
 
 ## 📌 Stay updated
 

@@ -7,9 +7,9 @@ Now you can embed specific AI Agents as chat widgets using [custom.typingmind.co
 
 💬 Your members/customers can start chatting with the AI Agent immediately, without manually selecting it from a list!
 
-![image.png](embed-specific-ai-agent-as-chat-widget/image.png)
+![image.webp](embed-specific-ai-agent-as-chat-widget/image.webp)
 
-![image.png](embed-specific-ai-agent-as-chat-widget/image%201.png)
+![image.webp](embed-specific-ai-agent-as-chat-widget/image%201.webp)
 
 ### ✨ Stay updated
 

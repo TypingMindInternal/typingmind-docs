@@ -5,7 +5,7 @@ title: "Add character limit in Usage & Limit"
 
 Added character limit to TypingMind Custom:
 
-![image.png](add-character-limit-in-usage-and-limit/image.png)
+![image.webp](add-character-limit-in-usage-and-limit/image.webp)
 
 ### ✨ Stay updated
 

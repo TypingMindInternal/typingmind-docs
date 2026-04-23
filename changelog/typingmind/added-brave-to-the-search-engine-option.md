@@ -5,7 +5,7 @@ title: "Added Brave to the search engine option"
 
 Added [@Brave](https://twitter.com/brave) to the search engine option on [typingmind.com](http://typingmind.com/)
 
-![image.png](added-brave-to-the-search-engine-option/image.png)
+![image.webp](added-brave-to-the-search-engine-option/image.webp)
 
 ### ✨ Stay updated
 

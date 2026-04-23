@@ -7,7 +7,7 @@ title: "Local AI (LLama, GPT4All, Vicuna, Falcon, etc.)"
 Typing Mind allows you to connect the app with any local model you want.
 
 <Frame>
-  ![Local Ai](/images/local-ai.png)
+  ![Local Ai](/images/local-ai.webp)
 </Frame>
 
 **Requirement:**
@@ -37,18 +37,18 @@ docker run -p 8080:8080 -ti --rm -v /Users/tonydinh/Desktop/models:/app/models q
 
 If you’re doing it correctly, you should see a message like this:
 
-![Untitled 1 1](/images/Untitled-1-1.png)
+![Untitled 1 1](/images/Untitled-1-1.webp)
 
 Now you can go to [http://localhost:8080/v1/models](http://localhost:8080/v1/models) and confirm that the model is ready:
 
-![Untitled 2 2](/images/Untitled-2-2.png)
+![Untitled 2 2](/images/Untitled-2-2.webp)
 
 ## Setup Custom Model on TypingMind
 
 Open TypingMind → Models → Add Custom Model:
 
 <Frame>
-  ![Local Ai](/images/Untitled-4-1.png)
+  ![Local Ai](/images/Untitled-4-1.webp)
 </Frame>
 
 Enter all the details, then click “Test” to check if your custom model is working correctly.
@@ -65,4 +65,4 @@ Enter all the details, then click “Test” to check if your custom model is wo
 
 Once the model is tested and added successfully, you can select the custom model and chat with it normally.
 
-![Untitled 6](/images/Untitled-6.png)
+![Untitled 6](/images/Untitled-6.webp)

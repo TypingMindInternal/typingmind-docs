@@ -9,7 +9,7 @@ This allows you to add live information to the AI or implement RAG from your own
 
 Learn more: https://docs.typingmind.com/ai-agents/dynamic-context-via-api
 
-![image.png](dynamic-context-for-project-folders/image.png)
+![image.webp](dynamic-context-for-project-folders/image.webp)
 
 ## 📌 Stay updated
 

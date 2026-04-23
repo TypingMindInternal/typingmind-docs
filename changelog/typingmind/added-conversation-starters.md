@@ -5,7 +5,7 @@ title: "Added Conversation Starters"
 
 Add the conversation starters while setting up AI Characters to avoid the cold start when interacting with the AI model.
 
-![image.png](added-conversation-starters/image.png)
+![image.webp](added-conversation-starters/image.webp)
 
 ## ✨ Stay updated
 

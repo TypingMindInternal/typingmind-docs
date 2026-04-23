@@ -7,9 +7,9 @@ Added an option to turn off Community Prompts for Custom Deployment ([http://typ
 
 This allows you to customize your AI chat interface to be more "on brand" 😄
 
-![image.png](turn-off-community-prompt/image.png)
+![image.webp](turn-off-community-prompt/image.webp)
 
-![image.png](turn-off-community-prompt/image%201.png)
+![image.webp](turn-off-community-prompt/image%201.webp)
 
 ### ✨ Stay updated
 

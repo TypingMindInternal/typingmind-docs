@@ -9,9 +9,9 @@ Simply sign in to your Admin panel, refresh the page to view the API keys menu, 
 
 (Note: The chat models will only appear on the chat interface after the API Keys have been provided)
 
-![image.png](claude-is-now-available/image.png)
+![image.webp](claude-is-now-available/image.webp)
 
-![image.png](claude-is-now-available/image%201.png)
+![image.webp](claude-is-now-available/image%201.webp)
 
 ### ✨ Stay updated
 

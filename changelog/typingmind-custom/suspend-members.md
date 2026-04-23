@@ -11,7 +11,7 @@ Members who are suspended:
 - Do not count towards the total number of seats.
 - Can be unsuspended at any time.
 
-![image.png](suspend-members/image.png)
+![image.webp](suspend-members/image.webp)
 
 ### ✨ Stay updated
 

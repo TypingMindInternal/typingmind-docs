@@ -7,9 +7,9 @@ New in [custom.typingmind.com](http://custom.typingmind.com/)
 
 Admins now can control the available action buttons for messages on the chat UI.
 
-![image.png](control-message-actions/image.png)
+![image.webp](control-message-actions/image.webp)
 
-![image.png](control-message-actions/image%201.png)
+![image.webp](control-message-actions/image%201.webp)
 
 ### ✨ Stay updated
 

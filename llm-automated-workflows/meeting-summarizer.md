@@ -27,9 +27,9 @@ Connect TypingMind to these apps via MCP:
     - Set up Google Calendar on TypingMind (setup guide coming soon, refer to [Google Calendar MCP](https://github.com/nspady/google-calendar-mcp) for more details)
 </aside>
 
-![image.png](meeting-summarizer/image.png)
+![image.webp](meeting-summarizer/image.webp)
 
-![image.png](meeting-summarizer/image%201.png)
+![image.webp](meeting-summarizer/image%201.webp)
 
 ## Step 2: Build an AI Agent for Meeting Summaries
 
@@ -80,7 +80,7 @@ Note all **next steps**, including:
 - Ask users if they want to schedule the next meeting or not
 ```
 
-![image.png](meeting-summarizer/image%202.png)
+![image.webp](meeting-summarizer/image%202.webp)
 
 ## Step 3: Run the workflow
 
@@ -90,8 +90,8 @@ Here's how to run the workflow:
 2. Upload your recorded meeting to TypingMind to create a transcript, or upload an existing text transcript.
 3. The AI Agent will help turn the transcript into detailed minutes.
 
-![image.png](meeting-summarizer/image%203.png)
+![image.webp](meeting-summarizer/image%203.webp)
 
 1. Send the meeting minutes to your team in Slack and schedule next checkpoint automatically:
 
-![image.png](meeting-summarizer/image%204.png)
+![image.webp](meeting-summarizer/image%204.webp)

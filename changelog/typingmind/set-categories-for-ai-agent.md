@@ -7,9 +7,9 @@ title: "Set categories for AI Agent"
 
 Besides the updated AI agents collection from the previous update, you can also **set categories for your AI Agent** to better organize them for specific tasks.
 
-![image.png](set-categories-for-ai-agent/image.png)
+![image.webp](set-categories-for-ai-agent/image.webp)
 
-![image.png](set-categories-for-ai-agent/image%201.png)
+![image.webp](set-categories-for-ai-agent/image%201.webp)
 
 ### ✨ Stay updated:
 

@@ -7,7 +7,7 @@ title: "Customize Sidebar Width"
 
  **Custom sidebar width**: adjust the left sidebar to your preferred size.
 
-![image.png](customize-sidebar-width/image.png)
+![image.webp](customize-sidebar-width/image.webp)
 
 ### ✨ Stay updated:
 

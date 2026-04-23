@@ -8,7 +8,7 @@ It’s easy to setup Typing Mind for using the available models on Novita AI ([h
 
 You can sign up from [https://novita.ai/user/login](https://novita.ai/user/login) to create a new Novita AI account or log in if you already had an account.
 
-![image.png](novita-ai/image.png)
+![image.webp](novita-ai/image.webp)
 
 ## Add a custom model in Typing Mind:
 
@@ -22,10 +22,10 @@ Go to [typingmind.com](http://typingmind.com) and create a new Custom Model as f
 - Click “**Test**” to verify the information is correct
 - Click **Add Model**.
 
-![image.png](novita-ai/image%201.png)
+![image.webp](novita-ai/image%201.webp)
 
 ## Use Novita AI Models in Typing Mind
 
 You can now select the newly created custom model and chat with it.
 
-![image.png](novita-ai/image%202.png)
+![image.webp](novita-ai/image%202.webp)

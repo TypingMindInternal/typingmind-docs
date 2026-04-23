@@ -32,11 +32,11 @@ MCP servers require a server to run on. TypingMind allows you to connect to the 
 - Your own local device
 - Or a private remote server.
 
-![image.png](../rag-knowledge-base/connect-to-llamaindex/image%204.png)
+![image.webp](../rag-knowledge-base/connect-to-llamaindex/image%204.webp)
 
 If you choose to run the MCP servers on your device, run the command displayed on the screen.
 
-![image.png](../rag-knowledge-base/connect-to-llamaindex/image%205.png)
+![image.webp](../rag-knowledge-base/connect-to-llamaindex/image%205.webp)
 
 Detail setup can be found at [https://docs.typingmind.com/model-context-protocol-in-typingmind](https://docs.typingmind.com/model-context-protocol-in-typingmind)
 
@@ -59,7 +59,7 @@ Detail setup can be found at [https://docs.typingmind.com/model-context-protocol
 }
 ```
 
-![image.png](typingmind-mcp-memory/image.png)
+![image.webp](typingmind-mcp-memory/image.webp)
 
 <aside>
 💡
@@ -76,7 +76,7 @@ After the MCP servers are added successfully, it will show up in your **Plugins*
 - You should see a new plugin called **"memory"**.
 - Enable the plugin
 
-![image.png](typingmind-mcp-memory/image%201.png)
+![image.webp](typingmind-mcp-memory/image%201.webp)
 
 ### Step 4: Add system prompt to utilizing Memory
 
@@ -107,9 +107,9 @@ Note: This is a personal workspace, so all memory retrievals and updates should 
 
 You’re ready to go! Begin chatting to start building memory. The AI will automatically retrieve relevant context and update the knowledge graph as needed.
 
-![image.png](typingmind-mcp-memory/image%202.png)
+![image.webp](typingmind-mcp-memory/image%202.webp)
 
-![image.png](typingmind-mcp-memory/image%203.png)
+![image.webp](typingmind-mcp-memory/image%203.webp)
 
 <aside>
 💡

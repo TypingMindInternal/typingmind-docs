@@ -12,7 +12,7 @@ It’s here - the biggest deal of the year! 🎉
 
 Limited time. Grab it now: [http://typingmind.com](http://typingmind.com/)
 
-![image.png](black-friday-deal-55-off-all-plans/image.png)
+![image.webp](black-friday-deal-55-off-all-plans/image.webp)
 
 ## 📌 Stay updated
 

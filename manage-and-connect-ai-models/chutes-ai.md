@@ -10,19 +10,19 @@ This guide will walk you through connecting your Chutes AI models to TypingMind 
 
 - Sign up for a Chutes AI account at [https://chutes.ai/](https://chutes.ai/)
 
-![image.png](chutes-ai/image.png)
+![image.webp](chutes-ai/image.webp)
 
 - To use models via Chutes, you need to access to [https://chutes.ai/app/api/billing-balance](https://chutes.ai/app/api/billing-balance) to:
   - Top up API credits
   - or Subscribe to a Chutes subscription
 
-![image.png](chutes-ai/image%201.png)
+![image.webp](chutes-ai/image%201.webp)
 
 ## Step 2: Get Chutes API key
 
 Go to [https://chutes.ai/app/api](https://chutes.ai/app/api) to create an API key:
 
-![image.png](chutes-ai/image%202.png)
+![image.webp](chutes-ai/image%202.webp)
 
 Copy your API key and keep it in a secure place - you will need it in the next step.
 
@@ -41,8 +41,8 @@ Fill in the following fields:
 
 Replace **YOUR\_API\_KEY** with the key you copied in Step 2.
 
-![image.png](chutes-ai/image%203.png)
+![image.webp](chutes-ai/image%203.webp)
 
 ## Step 4: Start chatting!
 
-![image.png](chutes-ai/image%204.png)
+![image.webp](chutes-ai/image%204.webp)

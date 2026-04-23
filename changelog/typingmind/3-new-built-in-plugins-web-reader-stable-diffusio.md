@@ -9,11 +9,11 @@ title: "3 new built-in plugins: Web Reader, Stable Diffusion Image, Market News"
 - Web Page Reader: read content of web URLs.
 - Market News: get news from stock/crypto market. Powered by Alpha Vantage API.
 
-![image.png](3-new-built-in-plugins-web-reader-stable-diffusio/image.png)
+![image.webp](3-new-built-in-plugins-web-reader-stable-diffusio/image.webp)
 
-![image.png](3-new-built-in-plugins-web-reader-stable-diffusio/image%201.png)
+![image.webp](3-new-built-in-plugins-web-reader-stable-diffusio/image%201.webp)
 
-![image.png](3-new-built-in-plugins-web-reader-stable-diffusio/image%202.png)
+![image.webp](3-new-built-in-plugins-web-reader-stable-diffusio/image%202.webp)
 
 ## ✨ Stay updated
 

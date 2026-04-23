@@ -12,7 +12,7 @@ The new design is cleaner and more organized with:
 
 ➡️ Get started with TypingMind to get familiar with the interface: https://docs.typingmind.com/getting-started/get-started-with-typingmind
 
-![image.png](chat-input-editor-improvement/image.png)
+![image.webp](chat-input-editor-improvement/image.webp)
 
 ### ✨ Stay updated
 

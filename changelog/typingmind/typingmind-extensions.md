@@ -11,7 +11,7 @@ You can use this to:
 - Add custom features to the app
 - Customize the App UI
 
-![image.png](typingmind-extensions/image.png)
+![image.webp](typingmind-extensions/image.webp)
 
 ### ✨ Stay updated
 

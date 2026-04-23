@@ -13,7 +13,7 @@ You can use Markdown in TypingMind Custom to format your text within the Welcome
 | Code | ``Code`` |
 | Code Block | ````Code Block```` |
 | Link | `[Link](https://www.typingmind.com)` |
-| Image | `![Image](https://www.typingmind.com/logo.png)` |
+| Image | `![Image](https://www.typingmind.com/logo.webp)` |
 | Unordered List | `- Item 1` |
 | Ordered List | `1. Item 1` |
 | Horizontal line | `---` |

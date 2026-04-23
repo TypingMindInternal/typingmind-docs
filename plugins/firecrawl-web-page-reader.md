@@ -5,13 +5,13 @@ Firecrawl Web Page Reader allows you to read and analyze a web page by scraping 
 
 Here’s how to set up on TypingMind.
 
-![image.png](firecrawl-web-page-reader/image.png)
+![image.webp](firecrawl-web-page-reader/image.webp)
 
 ## Step 1: Sign up for a Firecrawl account
 
 Go to [https://www.firecrawl.dev/signin/password_signin](https://www.firecrawl.dev/signin/password_signin) to **sign up for a Firecrawl account.**
 
-![image.png](firecrawl-web-page-reader/image%201.png)
+![image.webp](firecrawl-web-page-reader/image%201.webp)
 
 ## Step 2: Get the API key
 
@@ -19,7 +19,7 @@ Go to [https://www.firecrawl.dev/signin/password_signin](https://www.firecrawl.d
 - **Copy your API key**
 - **Save this key** in a secure place, as you’ll need it to set it up on TypingMind.
 
-![image.png](firecrawl-web-page-reader/image%202.png)
+![image.webp](firecrawl-web-page-reader/image%202.webp)
 
 ## Step 3: Set up the plugin on TypingMind
 
@@ -28,20 +28,20 @@ Go to [https://www.firecrawl.dev/signin/password_signin](https://www.firecrawl.d
 - Select the plugin **Firecrawl Web Page Reader**
 - Switch to the settings tab to **enter the copied API key.**
 
-![image.png](firecrawl-web-page-reader/image%203.png)
+![image.webp](firecrawl-web-page-reader/image%203.webp)
 
 - You can also select the following options:
     - **Only main content:** indicates whether to scrape only the main content. Optional, default value is true.
     - **Response format**: specifies the format of the response from Firecrawl such as markdown, html, rawHtml, links, screenshot, extract, screenshot@fullPage. Optional, default value is markdown.
 
-![image.png](firecrawl-web-page-reader/image%204.png)
+![image.webp](firecrawl-web-page-reader/image%204.webp)
 
 ## Step 4: Start chatting!
 
 - Enter the URL of the web page you wish to scrape and analyze.
 - The Firecrawl Web Page Reader will retrieve the content, allowing you to explore, read, and analyze data from that page.
 
-![image.png](firecrawl-web-page-reader/image%205.png)
+![image.webp](firecrawl-web-page-reader/image%205.webp)
 
 ## Some important notes
 

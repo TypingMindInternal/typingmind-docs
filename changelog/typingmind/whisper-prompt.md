@@ -5,7 +5,7 @@ title: "Whisper Prompt"
 
 Now, you can add Prompt for OpenAI Whisper to improve the quality of generated transcripts.
 
-![image.png](whisper-prompt/image.png)
+![image.webp](whisper-prompt/image.webp)
 
 ## ✨ Stay updated
 

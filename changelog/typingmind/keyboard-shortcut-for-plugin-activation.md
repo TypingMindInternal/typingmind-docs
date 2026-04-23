@@ -7,7 +7,7 @@ A new keyboard shortcut for activating and deactivating plugins.
 
 Learn more about other shortcuts: https://docs.typingmind.com/general-settings/keyboard-shortcuts
 
-![image.png](keyboard-shortcut-for-plugin-activation/image.png)
+![image.webp](keyboard-shortcut-for-plugin-activation/image.webp)
 
 ## ✨ Stay updated
 

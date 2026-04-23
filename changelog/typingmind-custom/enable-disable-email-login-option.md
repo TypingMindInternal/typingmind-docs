@@ -9,9 +9,9 @@ title: "Enable / Disable Email Login Option"
 
 This way, your members can log in only through your preferred method, such as SSO or OAuth 2.0.
 
-![image.png](enable-disable-email-login-option/image.png)
+![image.webp](enable-disable-email-login-option/image.webp)
 
-![image.png](enable-disable-email-login-option/image%201.png)
+![image.webp](enable-disable-email-login-option/image%201.webp)
 
 ### ✨ Stay updated
 

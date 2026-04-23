@@ -7,7 +7,7 @@ title: "Sync API keys"
 
 You can now sync API keys across devices for a seamless AI chat experience with [typingmind.com](http://typingmind.com/)🥳
 
-![image.png](sync-api-keys/image.png)
+![image.webp](sync-api-keys/image.webp)
 
 ### ✨ Stay updated
 

@@ -12,9 +12,9 @@ New ElevenLabs Text-to-speech models - Eleven Turbo v2.5 and Eleven Turbo v2 are
 - **Eleven Turbo v2**
     - Similar in performance to Turbo v2.5 but focused exclusively on English, making it ideal for English-only use cases where speed is critical.
 
-![image.png](eleven-turbo-v2-5-and-eleven-turbo-v2/image.png)
+![image.webp](eleven-turbo-v2-5-and-eleven-turbo-v2/image.webp)
 
-![image.png](eleven-turbo-v2-5-and-eleven-turbo-v2/image%201.png)
+![image.webp](eleven-turbo-v2-5-and-eleven-turbo-v2/image%201.webp)
 
 ## 📌 Stay updated
 

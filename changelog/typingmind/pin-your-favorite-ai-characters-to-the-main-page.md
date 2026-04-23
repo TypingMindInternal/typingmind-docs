@@ -7,7 +7,7 @@ title: "Pin your favorite AI characters to the main page"
 
 Learn more about what you can do with AI Character: https://docs.typingmind.com/ai-agents/ai-agents-overview
 
-![image.png](pin-your-favorite-ai-characters-to-the-main-page/image.png)
+![image.webp](pin-your-favorite-ai-characters-to-the-main-page/image.webp)
 
 ## ✨ Stay updated
 

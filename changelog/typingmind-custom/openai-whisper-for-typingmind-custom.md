@@ -7,7 +7,7 @@ title: "OpenAI Whisper for TypingMind custom"
 
 This allows team members to easily record their voice even when they're on mobile.
 
-![image.png](openai-whisper-for-typingmind-custom/image.png)
+![image.webp](openai-whisper-for-typingmind-custom/image.webp)
 
 ### ✨ Stay updated
 

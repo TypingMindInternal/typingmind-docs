@@ -11,9 +11,9 @@ The new sidebar has been updated with new features available:
 - New "Workspace" bar
 - Reorganized important screens.
 
-![image.png](sidebar-improvement/image.png)
+![image.webp](sidebar-improvement/image.webp)
 
-![image.png](sidebar-improvement/image%201.png)
+![image.webp](sidebar-improvement/image%201.webp)
 
 Learn to customize your powerful sidebar: https://docs.typingmind.com/general-settings/customize-app-appearance 
 

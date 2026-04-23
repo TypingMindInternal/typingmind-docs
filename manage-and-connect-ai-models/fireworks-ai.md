@@ -8,7 +8,7 @@ You can integrate AI models from **Fireworks AI** into **TypingMind.** This guid
 
 To use Fireworks AI models with TypingMind, you first need to create an account with Fireworks AI at [https://fireworks.ai/login](https://fireworks.ai/login).
 
-![image.png](fireworks-ai/image.png)
+![image.webp](fireworks-ai/image.webp)
 
 ## Step 2: Get the API key
 
@@ -18,7 +18,7 @@ To connect Fireworks AI with TypingMind, you need an API key for authentication.
 2. Click the **"Create API Key"** button to generate a new API key.
 3. After generating the key, copy it and store it in a **secure location**. You will need this key when setting up the model in TypingMind.
 
-![image.png](fireworks-ai/image%201.png)
+![image.webp](fireworks-ai/image%201.webp)
 
 ## Step 3: Set up custom model on TypingMind
 
@@ -43,7 +43,7 @@ Once you have your Fireworks AI API key, you need to configure a **custom model*
 
 **Authorization:** `Bearer Your_API_Key`
 
-![image.png](fireworks-ai/image%202.png)
+![image.webp](fireworks-ai/image%202.webp)
 
 - Click Test and Add Custom model
 
@@ -51,4 +51,4 @@ Once you have your Fireworks AI API key, you need to configure a **custom model*
 
 Once your custom model is successfully configured, you can start using Fireworks AI within TypingMind.
 
-![image.png](fireworks-ai/image%203.png)
+![image.webp](fireworks-ai/image%203.webp)

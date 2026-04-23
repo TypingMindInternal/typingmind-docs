@@ -24,13 +24,13 @@ If you don’t sign in with your email, all of your data will be stored locally 
 
 To **enable Cloud Sync and Backup**, you can simply click on your Profile (on the bottom left corner of the app) → Log into TypingMind Cloud with your email.
 
-![image.png](cloud-sync-and-backup-overview/image.png)
+![image.webp](cloud-sync-and-backup-overview/image.webp)
 
-![image.png](cloud-sync-and-backup-overview/image%201.png)
+![image.webp](cloud-sync-and-backup-overview/image%201.webp)
 
 You can log into your cloud account using passkey, go to Settings → Cloud Sync & Backup → Switch to Account & Settings tab → click on three-dot icon next to your email and select Add new passkey.
 
-![image.png](cloud-sync-and-backup-overview/image%202.png)
+![image.webp](cloud-sync-and-backup-overview/image%202.webp)
 
 ## How TypingMind Cloud Sync & Backup works?
 
@@ -54,7 +54,7 @@ If you enable TypingMind Cloud for Sync and Backup, we will store all of the fol
 
 If there’s any data from the above options you prefer not to save, you can choose which data or settings to sync to TypingMind Cloud by using the “Sync Settings” option.
 
-![image.png](cloud-sync-and-backup-overview/image%201.png)
+![image.webp](cloud-sync-and-backup-overview/image%201.webp)
 
 So **as long as you use the same email account for Cloud,** when you make some changes, it's immediately updated across all your devices, no matter where you are or what device you're using.
 
@@ -73,7 +73,7 @@ Data can be shared includes:
 - AI Agents
 - Plugins
 
-![image.png](cloud-sync-and-backup-overview/image%203.png)
+![image.webp](cloud-sync-and-backup-overview/image%203.webp)
 
 And it will become publicly available on the internet with a secret link. These links are prevented from being indexed search engines.
 
@@ -86,9 +86,9 @@ And it will become publicly available on the internet with a secret link. These 
 
 When you delete a chat/AI Agents/Prompts/Plugins/Folders, they won’t disappear right away. Instead, they will be moved to **“Recently Deleted”** section in **Cloud Storage** and stay there for **30 days** before being permanently erased.
 
-![image.png](cloud-sync-and-backup-overview/image%204.png)
+![image.webp](cloud-sync-and-backup-overview/image%204.webp)
 
-![image.png](cloud-sync-and-backup-overview/image%205.png)
+![image.webp](cloud-sync-and-backup-overview/image%205.webp)
 
 ### 4. Recover your lost data
 
@@ -96,7 +96,7 @@ While Cloud Sync allows you to sync your data across devices, TypingMind Cloud B
 
 Click “**Re-sync everything**” or Re log into your Cloud account within Cloud Sync settings in case you lost any of your data while syncing. 
 
-![image.png](cloud-sync-and-backup-overview/image%206.png)
+![image.webp](cloud-sync-and-backup-overview/image%206.webp)
 
 ## Data privacy
 

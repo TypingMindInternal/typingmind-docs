@@ -9,7 +9,7 @@ Some users reported that AI responses are trimmed while using Llama-based model 
 
 For example: set max_tokens to 1000 (or any value that suits your needs) to extend the reply context.
 
-![image.png](custom-body-params/image.png)
+![image.webp](custom-body-params/image.webp)
 
 ## ✨ Stay updated
 

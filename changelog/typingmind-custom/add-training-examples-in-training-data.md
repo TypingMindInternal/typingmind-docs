@@ -5,7 +5,7 @@ title: "Add training examples in Training Data"
 
 Added Training Messages to Typing Mind Custom. 
 
-![image.png](add-training-examples-in-training-data/image.png)
+![image.webp](add-training-examples-in-training-data/image.webp)
 
 ### ✨ Stay updated
 

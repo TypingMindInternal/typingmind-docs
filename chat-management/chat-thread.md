@@ -10,7 +10,7 @@ When you regenerate or edit a message, the app preserves the original conversati
 
 You can easily switch back and forth among versions, view each message thread independently, and continue the conversation based on any version you choose.
 
-![image.png](chat-thread/image.png)
+![image.webp](chat-thread/image.webp)
 
 More than that, you can start a new thread at any point in the conversation. This uses all previous conversation history as context up to that point, and the new thread’s flow will be saved independently from the original path.
 

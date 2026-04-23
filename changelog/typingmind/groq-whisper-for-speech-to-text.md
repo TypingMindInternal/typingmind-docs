@@ -16,7 +16,7 @@ Supported models:
 - Enter your [Groq API Key](https://console.groq.com/keys) and click Check key
 - Toggle the Advanced Options to select a Whisper model and enter the [Groq Whisper prompt](https://console.groq.com/docs/speech-text#prompting-guidelines)
 
-![image.png](groq-whisper-for-speech-to-text/image.png)
+![image.webp](groq-whisper-for-speech-to-text/image.webp)
 
 ## 📌 Stay updated
 

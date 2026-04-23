@@ -23,13 +23,13 @@ Context7 is a Model Context Protocol (MCP) server that pulls real-time documenta
 
 Go to Plugin → MCP Connectors → Add Connector 
 
-![image.png](typingmind-mcp-github/image%201.png)
+![image.webp](typingmind-mcp-github/image%201.webp)
 
 - Add Server URL: `https://mcp.context7.com/mcp`
 - Connection name: Context7
 - Description: Integrate AI assistants with Context7 to fetch and inject the most up-to-date documentation and code examples for major libraries into your LLM prompt context.
 
-![image.png](typingmind-mcp-context7/image.png)
+![image.webp](typingmind-mcp-context7/image.webp)
 
 - Click **Create Connection**
 
@@ -37,7 +37,7 @@ Go to Plugin → MCP Connectors → Add Connector
 
 After creating the connection with Context7 MCP, you will see Context7 appear in the plugin list, click on that to start setup your MCP connector with TypingMind:
 
-![image.png](typingmind-mcp-context7/image%201.png)
+![image.webp](typingmind-mcp-context7/image%201.webp)
 
 - If you select TypingMind Cloud, you can connect to our remote MCP server in one-click without any further setup
 - If you choose to set up Private MCP Connector, then follow the steps here: [Use MCP with Private MCP Connector](https://docs.typingmind.com/model-context-protocol-(mcp)-in-typingmind/use-mcp-with-private-mcp-connector)
@@ -46,10 +46,10 @@ After creating the connection with Context7 MCP, you will see Context7 appear in
 
 After successfully connecting with Context7 MCP, you can control which actions Context7 MCP should trigger within TypingMind by switching to Tools tab → Enable/disable specific tools.
 
-![image.png](typingmind-mcp-context7/image%202.png)
+![image.webp](typingmind-mcp-context7/image%202.webp)
 
 ### Step 4: Start chatting
 
 You’re all set! 
 
-![image.png](typingmind-mcp-context7/image%203.png)
+![image.webp](typingmind-mcp-context7/image%203.webp)

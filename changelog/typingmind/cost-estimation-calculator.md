@@ -9,7 +9,7 @@ Cost estimation calculator is now available! This calculator helps you estimate 
 
 Find out more here: https://custom.typingmind.com/tools/estimate-llm-usage-costs
 
-![image.png](cost-estimation-calculator/image.png)
+![image.webp](cost-estimation-calculator/image.webp)
 
 ### ✨ Stay updated
 

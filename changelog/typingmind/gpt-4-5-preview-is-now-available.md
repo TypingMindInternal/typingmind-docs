@@ -5,7 +5,7 @@ title: "GPT-4.5 Preview is now available!"
 
 GPT-4.5 Preview is now available on TypingMind.com!
 
-![image.png](gpt-4-5-preview-is-now-available/image.png)
+![image.webp](gpt-4-5-preview-is-now-available/image.webp)
 
 ## 📌 Stay updated
 

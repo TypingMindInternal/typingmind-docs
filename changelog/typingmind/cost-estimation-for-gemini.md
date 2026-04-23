@@ -7,7 +7,7 @@ Cost estimation for Gemini models is now available!
 
 Chat with Gemini models and the cost estimation will appear on the top right corner of the app.
 
-![image.png](cost-estimation-for-gemini/image.png)
+![image.webp](cost-estimation-for-gemini/image.webp)
 
 ### ✨ Stay updated:
 

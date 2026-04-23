@@ -26,15 +26,15 @@ The **OpenAI File Search** plugin enables you to search and retrieve relevant in
 - Go to [https://platform.openai.com/storage](https://platform.openai.com/storage)
 - Switch to Vector stores tab and click “Create” to create a new vector store
 
-![image.png](openai-file-search-(rag)/image.png)
+![image.webp](openai-file-search-(rag)/image.webp)
 
 - Click on Add Files and upload your documents
 
-![image.png](openai-file-search-(rag)/image%201.png)
+![image.webp](openai-file-search-(rag)/image%201.webp)
 
 - After creating the vector store, copy the **Vector Store ID**—you will need it in the next step.
 
-![image.png](openai-file-search-(rag)/image%202.png)
+![image.webp](openai-file-search-(rag)/image%202.webp)
 
 ### Step 2: Set up OpenAI File Search plugin on TypingMind
 
@@ -48,10 +48,10 @@ Please note that the OpenAI API Key and Vector store need to be created on the s
 
 </aside>
 
-![image.png](openai-file-search-(rag)/image%203.png)
+![image.webp](openai-file-search-(rag)/image%203.webp)
 
 ### Step 3: Test the plugin
 
 Start a chat and ask any questions related to your uploaded data to see how it works!
 
-![image.png](openai-file-search-(rag)/image%204.png)
+![image.webp](openai-file-search-(rag)/image%204.webp)

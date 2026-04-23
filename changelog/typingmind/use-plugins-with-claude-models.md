@@ -3,7 +3,7 @@ title: "Use plugins with Claude models"
 ---
 ## **🚀 What's New?**
 
-![image.png](use-plugins-with-claude-models/image.png)
+![image.webp](use-plugins-with-claude-models/image.webp)
 
 ## ✨ Stay updated
 

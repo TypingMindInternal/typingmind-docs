@@ -7,7 +7,7 @@ GPT-4-1106-preview (128k tokens) is now available!
 
 Comes with 128K token length and it's WICKED FAST!!!
 
-![image.png](gpt-4-1106-preview-(128k-tokens)-is-now-available/image.png)
+![image.webp](gpt-4-1106-preview-(128k-tokens)-is-now-available/image.webp)
 
 Set up OpenAI GPT models on TypingMind: https://docs.typingmind.com/chat-models-settings/use-with-openai-api-(gpt-4o-gpt-3.5)
 

@@ -7,7 +7,7 @@ title: "Access to your license manager"
 
 Now you can track and monitor your license and device usage effortlessly.
 
-![image.png](access-to-your-license-manager/image.png)
+![image.webp](access-to-your-license-manager/image.webp)
 
 ### ✨ Stay updated
 

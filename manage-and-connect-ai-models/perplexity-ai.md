@@ -15,7 +15,7 @@ It’s easy to set up Typing Mind for using with Perplexity AI ([https://www.per
 
 Go to [https://www.perplexity.ai/](https://www.perplexity.ai/) and sign up for an account. Then go to  [https://www.perplexity.ai/settings/api](https://www.perplexity.ai/settings/api) to get your API key.
 
-![Untitled](perplexity-ai/Untitled.png)
+![Untitled](perplexity-ai/Untitled.webp)
 
 Note that you may need to **top-up your credit** to use the API.
 
@@ -35,11 +35,11 @@ Go to [typingmind.com](http://typingmind.com) and create a new Custom Model as f
 
 - Click “**Test**” to verify the information is correct
 - Click **Add Model**.
-- Logo URL (suggested): [https://seeklogo.com/images/P/perplexity-ai-logo-13120A0AAE-seeklogo.com.png](https://seeklogo.com/images/P/perplexity-ai-logo-13120A0AAE-seeklogo.com.png)
+- Logo URL (suggested): [https://seeklogo.com/images/P/perplexity-ai-logo-13120A0AAE-seeklogo.com.webp](https://seeklogo.com/images/P/perplexity-ai-logo-13120A0AAE-seeklogo.com.webp)
 
 Here is what it looks like:
 
-![image.png](perplexity-ai/image.png)
+![image.webp](perplexity-ai/image.webp)
 
 <Warning>
   **Quick Troubleshooting**
@@ -51,10 +51,10 @@ Here is what it looks like:
   If you see errors like "…After the (optional) system message(s), user and assistant roles should be alternating", please enable **Support System Role** in the custom model settings.
 </Warning>
 
-![Untitled](perplexity-ai/Untitled%201.png)
+![Untitled](perplexity-ai/Untitled%201.webp)
 
 ## Use Perplexity AI model
 
 You can now select and use Perplexity model from the dropdown menu.
 
-![Untitled](perplexity-ai/Untitled%202.png)
+![Untitled](perplexity-ai/Untitled%202.webp)

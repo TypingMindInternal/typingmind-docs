@@ -5,9 +5,9 @@ title: "Add Login Message"
 
 When "Login required to view chat interface" is enabled in Access Mode, the chat interface will be hidden behind a login screen. This Login message will be displayed on that login page.
 
-![image.png](add-login-message/image.png)
+![image.webp](add-login-message/image.webp)
 
-![image.png](add-login-message/image%201.png)
+![image.webp](add-login-message/image%201.webp)
 
 ### ✨ Stay updated
 

@@ -16,9 +16,9 @@ You can add or manage API keys in any of these places:
 - Go to **Settings** and open **API Keys**.
 - Click your **profile icon** in the bottom-left corner and select **API Keys**.
 
-![API Keys settings screen](../quickstart/get-started-with-typingmind/image%208.png)
+![API Keys settings screen](../quickstart/get-started-with-typingmind/image%208.webp)
 
-![API Keys configuration](set-up-api-keys/image.png)
+![API Keys configuration](set-up-api-keys/image.webp)
 
 ## For other models
 
@@ -36,4 +36,4 @@ In case you want to use chat models not available within our provided list above
   More guidelines can be found at [https://docs.typingmind.com/chat-models-settings](https://docs.typingmind.com/manage-and-connect-ai-models)
 </Tip>
 
-![Add Custom Models dialog](set-up-api-keys/image%201.png)
+![Add Custom Models dialog](set-up-api-keys/image%201.webp)

@@ -5,7 +5,7 @@ Writing a clear and structured instruction is the foundation for building a usef
 
 Let’s check out!
 
-![image.png](write-effective-instruction-for-ai-agent/image.png)
+![image.webp](write-effective-instruction-for-ai-agent/image.webp)
 
 ## Why instruction matters
 

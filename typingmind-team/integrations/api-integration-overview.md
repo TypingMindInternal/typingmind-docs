@@ -16,13 +16,13 @@ You can manage users via API in the following ways:
 - **Remove a user:** remove a user from your chat instance.
 - **Update a user:** update a user's details. Currently, you can only update user tags, but more options may be added in the future
 
-![](https://framerusercontent.com/images/ctpQZdphBJwCaRbks8SQrmwJRA.png)
+![](https://framerusercontent.com/images/ctpQZdphBJwCaRbks8SQrmwJRA.webp)
 
 ### **Manage Chats**
 
 - **Create a model response:** create a model response for a given chat conversation.
 
-![](https://framerusercontent.com/images/TTOjIgMzI9MwAZMqCcDBeCMzU.png)
+![](https://framerusercontent.com/images/TTOjIgMzI9MwAZMqCcDBeCMzU.webp)
 
 ## **Use Cases**
 
@@ -45,7 +45,7 @@ To get started with using the API:
 
 1. Generate an API key by logging into your instance admin panel > go to **Integrations** > **API Integration** > **Generate API key**
 
-![](https://framerusercontent.com/images/EkUbAs7N5ftWOYMujLCv7UhkE.png)
+![](https://framerusercontent.com/images/EkUbAs7N5ftWOYMujLCv7UhkE.webp)
 
 1. Once you create a new API key, an **api-user-xxxx** will be added to your User list. You can then:
 - Set restrictions for the API user just like any other user

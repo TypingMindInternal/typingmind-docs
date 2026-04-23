@@ -11,7 +11,7 @@ We have released an API for TypingMind Custom!
 
 >> Find more details: https://custom.typingmind.com/features/api-access
 
-![image.png](api-access/image.png)
+![image.webp](api-access/image.webp)
 
 ### ✨ Stay updated
 

@@ -20,7 +20,7 @@ Created by [asad](https://discord.com/channels/1087527241505853520/1120236521732
 
 Import this plugin: [https://cloud.typingmind.com/plugins/p-01H902NDJCY02F134RWYSBBSCX](https://cloud.typingmind.com/plugins/p-01H902NDJCY02F134RWYSBBSCX)
 
-![Untitled](user-contributed-plugins/Untitled.png)
+![Untitled](user-contributed-plugins/Untitled.webp)
 
 ## Code Execution
 
@@ -28,7 +28,7 @@ Created by [hermanzdosilovic](https://discord.com/channels/1087527241505853520/1
 
 Import this plugin: [https://cloud.typingmind.com/plugins/p-01H7G3DZ8TC5W8EDTZB627ARS8](https://cloud.typingmind.com/plugins/p-01H7G3DZ8TC5W8EDTZB627ARS8)
 
-![Untitled](user-contributed-plugins/Untitled%201.png)
+![Untitled](user-contributed-plugins/Untitled%201.webp)
 
 ## Python Interpreter
 
@@ -38,7 +38,7 @@ Import this plugin: [https://cloud.typingmind.com/plugins/p-01H5KNASQG9Z7TT6M0FH
 
 \*Please note that this plugin is not the same as Code Interpreter (Advanced Data Analysis) on ChatGPT
 
-![Untitled](user-contributed-plugins/Untitled%202.png)
+![Untitled](user-contributed-plugins/Untitled%202.webp)
 
 ## **Draw PlantUML diagram**
 
@@ -46,7 +46,7 @@ Created by [@TeMPOraL](https://discord.com/channels/1087527241505853520/11202365
 
 Import this plugin: [https://cloud.typingmind.com/plugins/p-01H73XE2CWPD81V6TJ5KX0A15K](https://cloud.typingmind.com/plugins/p-01H73XE2CWPD81V6TJ5KX0A15K)
 
-![Untitled](user-contributed-plugins/Untitled%203.png)
+![Untitled](user-contributed-plugins/Untitled%203.webp)
 
 ## Find something to do
 
@@ -54,7 +54,7 @@ Created by [@TeMPOraL](https://discord.com/channels/1087527241505853520/11202365
 
 Import this plugin: [https://cloud.typingmind.com/plugins/p-01H76EEYRAMW6FM443T5QZ1SNX](https://cloud.typingmind.com/plugins/p-01H76EEYRAMW6FM443T5QZ1SNX)
 
-![Untitled](user-contributed-plugins/Untitled%204.png)
+![Untitled](user-contributed-plugins/Untitled%204.webp)
 
 ## Password Generator
 
@@ -62,4 +62,4 @@ Created by [@underestimated](https://discord.com/channels/1087527241505853520/11
 
 Import this plugin: [https://cloud.typingmind.com/plugins/p-01H7AATY7991DSK4ZP3YTXJ6NZ](https://cloud.typingmind.com/plugins/p-01H7AATY7991DSK4ZP3YTXJ6NZ)
 
-![Untitled](user-contributed-plugins/Untitled%205.png)
+![Untitled](user-contributed-plugins/Untitled%205.webp)

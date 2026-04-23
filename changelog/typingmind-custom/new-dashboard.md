@@ -10,7 +10,7 @@ With this update, you can:
 ✅ Quick overview 
 ✅ Easy access to your chat instance settings.
 
-![image.png](new-dashboard/image.png)
+![image.webp](new-dashboard/image.webp)
 
 ### ✨ Stay updated
 

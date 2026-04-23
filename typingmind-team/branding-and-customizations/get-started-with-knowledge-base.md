@@ -11,7 +11,7 @@ You can link data from various places, such as uploaded documents, Notion, Googl
 
 This keeps all your important information in one place and easy to access.
 
-![image.png](four-levels-of-data-integrations/image%202.png)
+![image.webp](four-levels-of-data-integrations/image%202.webp)
 
 ### **2. Use RAG to boost AI capabilities**
 
@@ -19,15 +19,15 @@ With Retrieval-Augmented Generation (RAG), your AI model can fetch the most rele
 
 **Learn more:** https://docs.typingmind.com/typingmind-custom/branding-and-customizations/how-knowledge-base-works-in-typingmind-custom
 
-![image.png](get-started-with-knowledge-base/image.png)
+![image.webp](get-started-with-knowledge-base/image.webp)
 
 ### 3. Cite sources with links
 
 When you enable “Show reference sources of training documents to users”, the system can cite sources with clickable links. This helps users to trace the origin of the AI’s responses to provide more transparency and reliability in the generated responses.
 
-![image.png](get-started-with-knowledge-base/image%201.png)
+![image.webp](get-started-with-knowledge-base/image%201.webp)
 
-![image.png](get-started-with-knowledge-base/image%202.png)
+![image.webp](get-started-with-knowledge-base/image%202.webp)
 
 ### 4. Connect knowledge base to AI Agent
 
@@ -37,22 +37,22 @@ Tags let you control which parts of the Knowledge Base the AI can access, making
 
 Learn more: https://docs.typingmind.com/typingmind-custom/branding-and-customizations/connect-knowledge-base-to-your-ai-agents
 
-![image.png](get-started-with-knowledge-base/image%203.png)
+![image.webp](get-started-with-knowledge-base/image%203.webp)
 
 ## How to get started with Knowledge base
 
 - Go to the **Knowledge Base** section under **Data Management**.
 - Click **Add Data Sources** and select a source.
 
-![image.png](four-levels-of-data-integrations/image%201.png)
+![image.webp](four-levels-of-data-integrations/image%201.webp)
 
 - Follow the steps in the app to connect your data.
 - Each source is stored in a folder. To update a connection, click the folder and select **Configure.**
 
-![image.png](get-started-with-knowledge-base/image%204.png)
+![image.webp](get-started-with-knowledge-base/image%204.webp)
 
-![image.png](get-started-with-knowledge-base/image%205.png)
+![image.webp](get-started-with-knowledge-base/image%205.webp)
 
-![image.png](get-started-with-knowledge-base/image%206.png)
+![image.webp](get-started-with-knowledge-base/image%206.webp)
 
 Done! Your data is now connected and ready to use.

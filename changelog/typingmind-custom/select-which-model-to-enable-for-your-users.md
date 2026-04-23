@@ -5,9 +5,9 @@ title: "Select which model to enable for your users"
 
 You can now select which model to enable for your users in Typing Mind Custom Deployment: [https://typingmind.com/custom](https://typingmind.com/custom)
 
-![image.png](select-which-model-to-enable-for-your-users/image.png)
+![image.webp](select-which-model-to-enable-for-your-users/image.webp)
 
-![image.png](select-which-model-to-enable-for-your-users/image%201.png)
+![image.webp](select-which-model-to-enable-for-your-users/image%201.webp)
 
 ### ✨ Stay updated
 

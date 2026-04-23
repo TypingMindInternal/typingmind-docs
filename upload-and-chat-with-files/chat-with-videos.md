@@ -16,12 +16,12 @@ TypingMind allows you to upload your videos and utilize AI models to analyze vid
     - Click the attachment icon within the message area to begin.
     - Alternatively, drag and drop your video directly into the message area for instant upload.
 
-![image.png](chat-with-videos/image.png)
+![image.webp](chat-with-videos/image.webp)
 
 - Type in specific questions or prompts related to the video content you want to know.
 - Get the results
 
-![image.png](chat-with-videos/image%201.png)
+![image.webp](chat-with-videos/image%201.webp)
 
 ## Use cases
 

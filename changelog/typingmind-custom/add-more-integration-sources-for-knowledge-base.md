@@ -9,7 +9,7 @@ These new sources give you even more flexibility to connect and train your chatb
 
 Learn more about [Knowledge base](https://custom.typingmind.com/features/upload-training-data)
 
-![image.png](add-more-integration-sources-for-knowledge-base/image.png)
+![image.webp](add-more-integration-sources-for-knowledge-base/image.webp)
 
 ### ✨ Stay updated
 

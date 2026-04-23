@@ -9,7 +9,7 @@ Set your local Whisper endpoint for voice input on [http://typingmind.com](http:
 - Select Proxy & Org ID
 - Change the OpenAI Whisper Endpoint to your local endpoint.
 
-![image.png](set-up-local-whisper/image.png)
+![image.webp](set-up-local-whisper/image.webp)
 
 ## ✨ Stay updated
 

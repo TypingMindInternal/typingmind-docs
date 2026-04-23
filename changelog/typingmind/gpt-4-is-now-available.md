@@ -5,7 +5,7 @@ title: "GPT-4 is now available!"
 
 You can use GPT-4 on [typingmind.com](http://typingmind.com/) now!
 
-![image.png](gpt-4-is-now-available/image.png)
+![image.webp](gpt-4-is-now-available/image.webp)
 
 ### ✨ Stay updated
 

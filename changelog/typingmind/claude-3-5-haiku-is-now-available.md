@@ -11,7 +11,7 @@ Haiku is fast and particularly strong at coding. It is stated to outperform stat
 
 Plugins supported. Try now!
 
-![image.png](claude-3-5-haiku-is-now-available/image.png)
+![image.webp](claude-3-5-haiku-is-now-available/image.webp)
 
 ## 📌 Stay updated
 

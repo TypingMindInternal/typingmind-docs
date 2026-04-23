@@ -5,7 +5,7 @@ title: "TypingMind now supports LaTeX"
 
 TypingMind now supports LaTeX!!!
 
-![image.png](typingmind-now-supports-latex/image.png)
+![image.webp](typingmind-now-supports-latex/image.webp)
 
 ### ✨ Stay updated
 

@@ -16,7 +16,7 @@ By default, your users’ chat conversations are not logged. You can enable this
 
 Once chat logs is enabled, you can start to see you chat logs via the Admin Panel and export them to an external system automatically via API (next section).
 
-![Untitled](export-chat-logs/Untitled.png)
+![Untitled](export-chat-logs/Untitled.webp)
 
 ## Step 2: Create an API key for integration
 
@@ -26,7 +26,7 @@ Go to **Admin Panel → Integrations → API Integration** and click “Generate
 
 Then copy the newly generated API key, you will need this in the next step.
 
-![Untitled](export-chat-logs/Untitled%201.png)
+![Untitled](export-chat-logs/Untitled%201.webp)
 
 ## Step 3: Export chat logs via API
 

@@ -12,7 +12,7 @@ Once you select an AI Agent, new chats within that project will start with the s
 
 Note: if the AI agent already has an assigned model, it will override the starting model setting.
 
-![image.png](assign-ai-agent-to-project-folder/image.png)
+![image.webp](assign-ai-agent-to-project-folder/image.webp)
 
 ## 📌 Stay updated
 

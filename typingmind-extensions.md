@@ -10,7 +10,7 @@ title: "TypingMind Extensions"
 
 **Typing Mind Extensions** allows users to embed custom JavaScript code into Typing Mind. The JavaScript code will have access to all internal data and application state of Typing Mind, allowing the users to add custom logic and application behavior to fit their workflow.
 
-![Untitled](typingmind-extensions/Untitled.png)
+![Untitled](typingmind-extensions/Untitled.webp)
 
 ## How it works
 
@@ -55,7 +55,7 @@ All of the user’s data is located in the browser’s local data storage:
 
 The data can be inspected in the Developer Tool on the web:
 
-![Untitled](typingmind-extensions/Untitled%201.png)
+![Untitled](typingmind-extensions/Untitled%201.webp)
 
 If your extension needs to make use of the app data, here are some best practices:
 
@@ -79,7 +79,7 @@ If your extension needs to make use of the app data, here are some best practice
 
 Below is an example extension that changes the “New Chat” button label to `Good Morning!`, `Good Afternoon!` or `Good Evening!` depends on the time of day.
 
-![Untitled](typingmind-extensions/Untitled%202.png)
+![Untitled](typingmind-extensions/Untitled%202.webp)
 
 File **greeting-ext.js:**
 
@@ -97,7 +97,7 @@ https://user.fm/files/v2-9200e5b1315b2ea15f49d1b6d8621223/greeting-ext.js
 
 Install the extension: Go to Typing Mind → Preferences → Advanced Settings → Extensions, then enter the URL, click “Install”
 
-![Untitled](typingmind-extensions/Untitled%203.png)
+![Untitled](typingmind-extensions/Untitled%203.webp)
 
 Once installed, you need to **restart the app** for the change to take effect.
 

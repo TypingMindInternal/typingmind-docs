@@ -9,14 +9,14 @@ You will need to access to [typingmind.com](http://typingmind.com) first then In
 
 Here’s how you can add PWA on desktop:
 
-![Untitled](install-typingmind-app/Untitled.png)
+![Untitled](install-typingmind-app/Untitled.webp)
 
 ### On mobile
 
 Here’s how you can add PWA on mobile:
 
-![image.png](install-typingmind-app/image.png)
+![image.webp](install-typingmind-app/image.webp)
 
-![Untitled](install-typingmind-app/Untitled%201.png)
+![Untitled](install-typingmind-app/Untitled%201.webp)
 
 By adding TypingMind as PWA, you will see the TypingMind icon right on your homescreen or desktop so you can easily click on and get started.

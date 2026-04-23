@@ -9,7 +9,7 @@ By default, TypingMind supports Gemini models out of the box. However, if you pr
 - Click on the **“Models”** icon in the left sidebar.
 - Click **“\+ Add Custom Model”** (top right).
 
-![image.png](google-gemini-as-custom-model/image.png)
+![image.webp](google-gemini-as-custom-model/image.webp)
 
 ## 2. Set up Gemini as Custom Model
 
@@ -29,4 +29,4 @@ By default, TypingMind supports Gemini models out of the box. However, if you pr
 - **Test Connection:** Click **Test** to check if the endpoint works.
 - **Save** to add the model to your list
 
-![image.png](google-gemini-as-custom-model/image%201.png)
+![image.webp](google-gemini-as-custom-model/image%201.webp)

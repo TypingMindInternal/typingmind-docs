@@ -8,7 +8,7 @@ Some minor UI improvements:
 - Re-organized the AI Characters list
 - Added sorting
 
-![image.png](ui-improvement-for-ai-character/image.png)
+![image.webp](ui-improvement-for-ai-character/image.webp)
 
 ## ✨ Stay updated
 

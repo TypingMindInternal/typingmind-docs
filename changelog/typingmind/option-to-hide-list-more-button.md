@@ -5,7 +5,7 @@ title: "Option to hide List More button"
 
 We have just added an option to hide List more button. Please note that this option only appears if the AI response includes a list of items.
 
-![image.png](option-to-hide-list-more-button/image.png)
+![image.webp](option-to-hide-list-more-button/image.webp)
 
 <aside>
 💡
@@ -19,7 +19,7 @@ For TypingMind Custom users, you can also turn this off via the Admin Panel → 
 1. Ask the AI assistant to give a list of anything you want.
 2. The List more button appears → Click on the Square icon next to it and unpin List More option.
 
-![image.png](option-to-hide-list-more-button/image.png)
+![image.webp](option-to-hide-list-more-button/image.webp)
 
 ## 📌 Stay updated
 

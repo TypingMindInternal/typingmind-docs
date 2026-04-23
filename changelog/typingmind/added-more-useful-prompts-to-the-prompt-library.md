@@ -5,7 +5,7 @@ title: "Added more useful prompts to the Prompt Library"
 
 We have just added more prompts to the prompt library!
 
-![image.png](added-more-useful-prompts-to-the-prompt-library/image.png)
+![image.webp](added-more-useful-prompts-to-the-prompt-library/image.webp)
 
 ## 📌 Stay updated
 

@@ -8,11 +8,11 @@ If you mostly exceeds this number and want to upload more data, you also have th
 - Go to Billing
 - Click on “Add Training Characters”
 
-![Untitled](purchase-training-characters/Untitled.png)
+![Untitled](purchase-training-characters/Untitled.webp)
 
 You can purchase from 1M up to 100M characters: 
 
-![Untitled](purchase-training-characters/Untitled%201.png)
+![Untitled](purchase-training-characters/Untitled%201.webp)
 
 <aside>
 💡 Please note that this is a monthly subscription base. You are billeed every month for extra training characters.

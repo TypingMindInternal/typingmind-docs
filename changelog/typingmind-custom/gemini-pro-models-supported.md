@@ -5,7 +5,7 @@ title: "Gemini Pro models supported"
 
 Gemini models are now natively supported in [typingmind.com](http://typingmind.com/)!
 
-![image.png](gemini-pro-models-supported/image.png)
+![image.webp](gemini-pro-models-supported/image.webp)
 
 ### ✨ Stay updated
 

@@ -39,7 +39,7 @@ You can create plugins using one of the following methods:
 - [**HTTP action**](https://docs.typingmind.com/plugins/build-a-typingmind-plugin) — connect to external APIs and services.
 - [**Model Context Protocols (MCP)**](https://docs.typingmind.com/model-context-protocol-(mcp)-in-typingmind) — integrate structured data and actions into your AI workflows.
 
-![image.png](overview/image.png)
+![image.webp](overview/image.webp)
 
 ## Example Automation Flows You Can Run on TypingMind Chat
 

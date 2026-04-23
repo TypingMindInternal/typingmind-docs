@@ -7,7 +7,7 @@ Typing Mind now supports custom training data & custom system instructions.
 
 Available in the Custom Deployment version [http://typingmind.com/custom](http://typingmind.com/custom)
 
-![image.png](custom-training-data-and-custom-system-instruction/image.png)
+![image.webp](custom-training-data-and-custom-system-instruction/image.webp)
 
 ### ✨ Stay updated
 

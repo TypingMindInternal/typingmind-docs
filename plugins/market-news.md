@@ -8,7 +8,7 @@ Here are some simple steps to set this up:
 
 - Go to [https://www.alphavantage.co/support/#api-key](https://www.alphavantage.co/support/#api-key) to get API key
 
-![Untitled](market-news/Untitled.png)
+![Untitled](market-news/Untitled.webp)
 
 - Copy your API key into a safe place
 - Go to typingmind.com, click on the plugin icon 🧩 right next to the model selection
@@ -16,4 +16,4 @@ Here are some simple steps to set this up:
 - Switch to Settings tab
 - Enter your copied API key
 
-![Untitled](market-news/Untitled%201.png)
+![Untitled](market-news/Untitled%201.webp)

@@ -13,9 +13,9 @@ This allows AI model to:
 - Interactive experiences for you users directly in TypingMind
 - Can view and copy source (HTML/JS/CSS)
 
-![image.png](interactive-canvas-plugin/image.png)
+![image.webp](interactive-canvas-plugin/image.webp)
 
-![image.png](interactive-canvas-plugin/image%201.png)
+![image.webp](interactive-canvas-plugin/image%201.webp)
 
 ### ✨ Stay updated:
 

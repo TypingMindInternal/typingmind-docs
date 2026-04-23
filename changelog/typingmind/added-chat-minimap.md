@@ -5,7 +5,7 @@ title: "Added chat minimap"
 
 We have just added Chat Minimap to TypingMind so you can navigate your old messages within a conversation quickly.
 
-![image.png](added-chat-minimap/image.png)
+![image.webp](added-chat-minimap/image.webp)
 
 ## 📌 Stay updated
 

@@ -41,7 +41,7 @@ Frequently export your data from [TypingMind.com](http://typingmind.com/) to kee
 
 Guideline to [Export Your Data](https://docs.typingmind.com/cloud-sync-and-backup/export-import-data)
 
-![image.png](your-chat-data-is-lost-causes-and-solutions/image.png)
+![image.webp](your-chat-data-is-lost-causes-and-solutions/image.webp)
 
 ## 4. Use a separate browsing profile for typingmind.com
 
@@ -51,7 +51,7 @@ Consider using a separate browsing profile for TypingMind without any extensions
 
 If you've enabled Cloud Sync and still encounter issues, you simply can click on “Resync everything” to retrieve the most current version of your data. 
 
-![image.png](your-chat-data-is-lost-causes-and-solutions/image%201.png)
+![image.webp](your-chat-data-is-lost-causes-and-solutions/image%201.webp)
 
 In case this still doesn’t work, it’s possibly due to:
 
@@ -67,6 +67,6 @@ If your chat size is larger than 10MB due to file uploads or images, it won't be
 
 In the meantime, you can manually delete uploaded images or files via Manage Data, or export your chats to prevent potential losses.
 
-![image.png](your-chat-data-is-lost-causes-and-solutions/image%202.png)
+![image.webp](your-chat-data-is-lost-causes-and-solutions/image%202.webp)
 
 If you've tried all these solutions but are still facing issues, please submit a report through the [Report Bug Form](https://www.typingmind.com/report-bug) so our technical team can investigate further.

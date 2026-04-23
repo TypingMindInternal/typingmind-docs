@@ -19,11 +19,11 @@ Automatic Prompt Caching for Claude is now available on [typingmind.com](http://
 - The cache has a 5-minute lifetime, refreshed each time the cached content is used.
 - Avoid using Prompt Caching with Dynamic Context, as changing system prompts cannot be cached.
 
-![image.png](prompt-caching-for-claude/image.png)
+![image.webp](prompt-caching-for-claude/image.webp)
 
-![image.png](prompt-caching-for-claude/image%201.png)
+![image.webp](prompt-caching-for-claude/image%201.webp)
 
-![image.png](prompt-caching-for-claude/image%202.png)
+![image.webp](prompt-caching-for-claude/image%202.webp)
 
 To help you clearly understand about Prompt Caching, check out here: 
 

@@ -11,7 +11,7 @@ If you find that your default cloud storage is not sufficient, you have the opti
 - Switch to **Account & Settings tab**
 - Toggle Storage Upgrade and Choose a storage plan
 
-![image.png](cloud-storage/image.png)
+![image.webp](cloud-storage/image.webp)
 
 We offer two additional storage plans: 1GB and 5GB. You can choose to pay monthly or annually.
 
@@ -19,7 +19,7 @@ We offer two additional storage plans: 1GB and 5GB. You can choose to pay monthl
 
 - To make the most of your cloud storage, regularly remove old or unnecessary chats and files. This helps free up space for newer and more relevant data. You can review what is using your storage by going to **Settings → Cloud Sync & Backup → Stored Data**.
 
-![image.png](cloud-storage/image%201.png)
+![image.webp](cloud-storage/image%201.webp)
 
 - Although we've estimated the number of chats these storage amounts can handle, the actual number can vary based on the extent of the content in your chats. Always monitor your usage and adjust your plan as necessary.
 

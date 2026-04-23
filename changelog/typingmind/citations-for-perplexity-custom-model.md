@@ -9,7 +9,7 @@ Learn how to set up the Perplexity model:
 
 https://t.co/R7idQGh5lk
 
-![image.png](citations-for-perplexity-custom-model/image.png)
+![image.webp](citations-for-perplexity-custom-model/image.webp)
 
 ## 📌 Stay updated
 

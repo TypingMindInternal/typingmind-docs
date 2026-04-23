@@ -12,11 +12,11 @@ We’ve made a major improvement around the plugin system for plugin developers 
 - **Added Output Options:** You can now render your plugin output directly to the user instead of giving the output to the AI models. The output can be rendered using **Markdown** or **HTML.** This gives you more flexibility to render interactive experiences to the users and, in some cases, saves more tokens!
 - **JavaScript code changes:** The `__CUSTOM_OUTPUT` special property is now deprecated (replaced by the **Output Options** feature). If you have developed a plugin that uses this property in your JavaScript implementation, please update your plugins according to the new [Plugins documentation](https://docs.typingmind.com/plugins/build-a-typingmind-plugin) (just updated!).
 
-![image.png](big-update-for-plugin-system/image.png)
+![image.webp](big-update-for-plugin-system/image.webp)
 
-![image.png](big-update-for-plugin-system/image%201.png)
+![image.webp](big-update-for-plugin-system/image%201.webp)
 
-![image.png](big-update-for-plugin-system/image%202.png)
+![image.webp](big-update-for-plugin-system/image%202.webp)
 
 Read newly update of plugin here: https://docs.typingmind.com/plugins/build-a-typingmind-plugin
 

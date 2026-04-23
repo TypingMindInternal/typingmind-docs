@@ -87,9 +87,9 @@ npx @typingmind/mcp [auth_token]
 
 **Do not run this command directly.**
 
-![image.png](set-up-https-for-private-mcp-connector/image.png)
+![image.webp](set-up-https-for-private-mcp-connector/image.webp)
 
-![image.png](set-up-https-for-private-mcp-connector/image%201.png)
+![image.webp](set-up-https-for-private-mcp-connector/image%201.webp)
 
 You need to modify it to use the HTTPS certificates:
 
@@ -111,10 +111,10 @@ CERTFILE=./localhost.pem KEYFILE=./localhost-key.pem npx @typingmind/mcp [auth_t
 
 You should see output like:
 
-![image.png](set-up-https-for-private-mcp-connector/image%202.png)
+![image.webp](set-up-https-for-private-mcp-connector/image%202.webp)
 
 On TypingMind interface, you will see the status “Server Ready”, you can easily click on Get started:
 
-![image.png](set-up-https-for-private-mcp-connector/image%203.png)
+![image.webp](set-up-https-for-private-mcp-connector/image%203.webp)
 
 Keep this Terminal window open while using TypingMind.

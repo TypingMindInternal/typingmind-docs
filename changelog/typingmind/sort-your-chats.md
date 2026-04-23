@@ -14,7 +14,7 @@ Easily organize your chats by:
 
 Just click the sort icon in your left-side panel to choose your preference.
 
-![image.png](sort-your-chats/image.png)
+![image.webp](sort-your-chats/image.webp)
 
 ## 📌 Stay updated
 

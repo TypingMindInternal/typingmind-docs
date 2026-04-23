@@ -15,7 +15,7 @@ We now support uploading XLSX files!
 - DOCX
 - JSON
 - HTML
-- Image files (GPT-4 Vision only, such as .jpeg, .jpg, .png)
+- Image files (GPT-4 Vision only, such as .jpeg, .jpg, .webp)
 
 Drag - drop - ask, easy as 1 - 2 - 3!
 

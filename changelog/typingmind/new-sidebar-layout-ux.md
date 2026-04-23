@@ -5,7 +5,7 @@ title: "New sidebar layout + UX"
 
 New sidebar layout + UX for [typingmind.com](http://typingmind.com/) 👇 
 
-![image.png](new-sidebar-layout-ux/image.png)
+![image.webp](new-sidebar-layout-ux/image.webp)
 
 ### ✨ Stay updated
 

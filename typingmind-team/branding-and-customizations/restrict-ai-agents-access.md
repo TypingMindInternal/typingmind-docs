@@ -15,22 +15,22 @@ Please follow these steps to create groups for your members:
 - Navigate to the **Groups** section under **User Management**.
 - Click on **Add New Group**.
 
-![image.png](../getting-started/getting-started-with-typingmind-team-(cloud-host)/image%2020.png)
+![image.webp](../getting-started/getting-started-with-typingmind-team-(cloud-host)/image%2020.webp)
 
 - Enter a **Group Name** that reflects the purpose or role of the group.
 - *(Optional)* Enable **Admin Access** for this group if they can have access to the admin panel.
     - If you enable this option, ensure you assign appropriate **Admin Roles** to the group. These roles should align with the permissions you’ve defined in the [**Roles and Permissions**](../User%20Management/Roles%20and%20Permissions%202256943d288b473b8139f6fb0fdc653f.md) settings.
 
-![image.png](restrict-model-access/image.png)
+![image.webp](restrict-model-access/image.webp)
 
 - Click **Manage** next to the created group
 - Click **Add Members**
 
-![image.png](restrict-model-access/image%201.png)
+![image.webp](restrict-model-access/image%201.webp)
 
 - Select the users you want to include in this group from the list.
 
-![image.png](restrict-model-access/image%202.png)
+![image.webp](restrict-model-access/image%202.webp)
 
 <aside>
 💡
@@ -48,16 +48,16 @@ You can manage the AI Agents visibility and usage limit using User Groups follow
 - Navigate to the "**Usage & Limit**" under the **Access & Limits** section in the Admin Panel.
 - Click on **AI Agent Limits** and select **Add Limit**.
 
-![image.png](restrict-ai-agents-access/image.png)
+![image.webp](restrict-ai-agents-access/image.webp)
 
 - Select the AI Agents you want to set the limit
 - Click to **Limit Group** —> **Add New Limit Group** —> Add limits for messages and characters
 
-![image.png](restrict-model-access/image%205.png)
+![image.webp](restrict-model-access/image%205.webp)
 
 - Scroll down to the **Apply for User Groups** section. Select the user groups you want to apply the limits to by choosing **Users in specific groups / All users except users from specific groups.**
 
-![image.png](restrict-ai-agents-access/image%201.png)
+![image.webp](restrict-ai-agents-access/image%201.webp)
 
 ### **Option 2: Manage limit directly within AI Agent Settings**
 
@@ -77,7 +77,7 @@ For example, if you want only Marketing group to use the Marketing Expert AI Age
     - Set its visibility to the "Marketing" group.
     - Apply usage limits as needed for messages and characters.
 
-![image.png](restrict-ai-agents-access/image%202.png)
+![image.webp](restrict-ai-agents-access/image%202.webp)
 
 </aside>
 

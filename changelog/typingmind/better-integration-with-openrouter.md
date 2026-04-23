@@ -5,7 +5,7 @@ title: "Better integration with OpenRouter"
 
 Import all models from OpenRouter to your app within just a few clicks:
 
-![image.png](better-integration-with-openrouter/image.png)
+![image.webp](better-integration-with-openrouter/image.webp)
 
 More detailed guidelines: https://docs.typingmind.com/chat-models-settings/use-openrouter-models
 

@@ -7,7 +7,7 @@ title: "Email Reports"
 
 If you enable this option, you will receive a daily report email containing the users' messages within that day!
 
-![image.png](email-reports/image.png)
+![image.webp](email-reports/image.webp)
 
 ### ✨ Stay updated
 

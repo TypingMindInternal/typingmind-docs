@@ -7,7 +7,7 @@ Added an option to deactivate individual keyboard shortcuts!
 
 Learn more: https://docs.typingmind.com/general-settings/keyboard-shortcuts
 
-![image.png](deactivate-single-keyboard-shortcut/image.png)
+![image.webp](deactivate-single-keyboard-shortcut/image.webp)
 
 ## ✨ Stay updated
 

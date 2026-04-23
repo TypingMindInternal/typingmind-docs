@@ -14,7 +14,7 @@ You can also enable Admin Panel access with custom roles and permissions for eac
 
 **Learn more:** https://docs.typingmind.com/typingmind-custom/user-management/create-and-manage-user-groups
 
-![image.png](introducing-user-groups/image.png)
+![image.webp](introducing-user-groups/image.webp)
 
 ### ✨ Stay updated
 

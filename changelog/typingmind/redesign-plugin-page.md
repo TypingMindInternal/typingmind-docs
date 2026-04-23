@@ -15,7 +15,7 @@ Improve UX / UI for our plugin setting page!
 
 - Go to Plugin **settings** on the left side panel to see the new updates.
 
-![image.png](redesign-plugin-page/image.png)
+![image.webp](redesign-plugin-page/image.webp)
 
 ### 📌 Stay updated
 

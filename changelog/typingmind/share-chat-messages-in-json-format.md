@@ -7,9 +7,9 @@ As OpenAI now supports fine-tuning...
 
 TypingMind now allows you to share chat messages in JSON format that can be used directly as the fine-tuning input.
 
-![image.png](share-chat-messages-in-json-format/image.png)
+![image.webp](share-chat-messages-in-json-format/image.webp)
 
-![image.png](share-chat-messages-in-json-format/image%201.png)
+![image.webp](share-chat-messages-in-json-format/image%201.webp)
 
 ## ✨ Stay updated
 

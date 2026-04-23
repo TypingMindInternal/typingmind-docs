@@ -24,7 +24,7 @@ After that, add tools to the created server:
 - Connect your app account if prompted
 - Save your tool configuration.
 
-![](https://i0.wp.com/blog.typingmind.com/wp-content/uploads/2025/07/image-6.png?resize=1290%2C861&ssl=1)
+![](https://i0.wp.com/blog.typingmind.com/wp-content/uploads/2025/07/image-6.webp?resize=1290%2C861&ssl=1)
 
 - Switch to the **Connect** tab of your MCP server.
 - Copy the **Server URL** provided by Zapier (e.g. `https://mcp.zapier.com/api/mcp/s/xxxxx/mcp`).
@@ -32,18 +32,18 @@ After that, add tools to the created server:
 > ⚠️ Treat this URL like a password. It gives TypingMind access to your configured tools.
 > 
 
-![](https://i0.wp.com/blog.typingmind.com/wp-content/uploads/2025/07/image-7.png?resize=1290%2C856&ssl=1)
+![](https://i0.wp.com/blog.typingmind.com/wp-content/uploads/2025/07/image-7.webp?resize=1290%2C856&ssl=1)
 
 ### Step 2: Add Zapier as custom MCP connection
 
 Go to Plugin → MCP Connectors → Add Connector 
 
-![image.png](typingmind-mcp-github/image%201.png)
+![image.webp](typingmind-mcp-github/image%201.webp)
 
 - Add Server URL: add the copied server URL in step 1
 - Connection name: Zapier
 
-![image.png](typingmind-mcp-zapier/image.png)
+![image.webp](typingmind-mcp-zapier/image.webp)
 
 - Click **Create Connection**
 
@@ -51,7 +51,7 @@ Go to Plugin → MCP Connectors → Add Connector
 
 After creating the connection with Zapier MCP, you will see Zapier appear in the plugin list, click on that to start setup your MCP connector with TypingMind:
 
-![image.png](typingmind-mcp-github/image%204.png)
+![image.webp](typingmind-mcp-github/image%204.webp)
 
 - If you select TypingMind Cloud, you can connect to our remote MCP server in one-click without any further setup
 - If you choose to set up Private MCP Connector, then follow the steps here: [Use MCP with Private MCP Connector](https://docs.typingmind.com/model-context-protocol-(mcp)-in-typingmind/use-mcp-with-private-mcp-connector)
@@ -60,10 +60,10 @@ After creating the connection with Zapier MCP, you will see Zapier appear in the
 
 You can control which actions your Zapier MCP should trigger within TypingMind by switching to Tools tab → Enable/disable specific tools.
 
-![image.png](typingmind-mcp-zapier/image%201.png)
+![image.webp](typingmind-mcp-zapier/image%201.webp)
 
 ### Step 5: Start chatting
 
 You’re all set! 
 
-![image.png](typingmind-mcp-zapier/image%202.png)
+![image.webp](typingmind-mcp-zapier/image%202.webp)

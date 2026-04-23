@@ -12,7 +12,7 @@ CLAUDE 3 IS NOW AVAILABLE!
 
 Fully supported now on [TypingMind.com](http://typingmind.com/) 🥳
 
-![image.png](claude-3-is-now-available/image.png)
+![image.webp](claude-3-is-now-available/image.webp)
 
 ### ✨ Stay updated
 

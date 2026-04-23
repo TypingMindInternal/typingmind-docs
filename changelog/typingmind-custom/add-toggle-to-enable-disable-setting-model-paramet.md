@@ -5,7 +5,7 @@ title: "Add toggle to enable/disable setting model parameters"
 
 When this option is disabled, your users can only switch among models but can not adjust the custom parameters.
 
-![image.png](add-toggle-to-enable-disable-setting-model-paramet/image.png)
+![image.webp](add-toggle-to-enable-disable-setting-model-paramet/image.webp)
 
 ### ✨ Stay updated
 

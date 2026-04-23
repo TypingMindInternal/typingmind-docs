@@ -57,7 +57,7 @@ With TypingMind, you can:
   💡 Check out [full feature list](../Feature%20List%2051da062de2764fd4911ccd7cba7fdff7.md)
 </aside>
 
-![image.png](typingmind-vs-typingmind-team/image.png)
+![image.webp](typingmind-vs-typingmind-team/image.webp)
 
 TypingMind license version comes in three different plans: Standard, Extended, and Premium, with **One-time Purchase** (starts at \$39).
 
@@ -67,9 +67,9 @@ To use the app, you just need to input your API key and License Key.
 
 **TypingMind Team** is built for **teams, businesses, and communities**. It delivers the same AI workspace as **TypingMind.com**, but with powerful admin tools and advanced customization via the **Admin Panel**.
 
-![image.png](typingmind-vs-typingmind-team/image%201.png)
+![image.webp](typingmind-vs-typingmind-team/image%201.webp)
 
-![image.png](typingmind-vs-typingmind-team/image%202.png)
+![image.webp](typingmind-vs-typingmind-team/image%202.webp)
 
 With **TypingMind Team**, admins can:
 

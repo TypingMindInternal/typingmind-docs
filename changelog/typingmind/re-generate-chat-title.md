@@ -7,7 +7,7 @@ You can now regenerate chat titles to match your conversation better.
 
 The title will be re-generated based on your current chat content and the custom instructions set for title generation.
 
-![image.png](re-generate-chat-title/image.png)
+![image.webp](re-generate-chat-title/image.webp)
 
 ## 📌 Stay updated
 

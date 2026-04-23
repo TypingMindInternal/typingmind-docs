@@ -27,11 +27,11 @@ The demo instance is created to be a trial environment with certain limits:
 2. Go to **Billing → Manage Subscription** and cancel any active subscriptions to enable the switch to the demo instance.
 3. In the **Danger Zone** section, select **"Convert to Demo Instance."**
 
-![image.png](reseller-license-and-demo-chat-instance/image.png)
+![image.webp](reseller-license-and-demo-chat-instance/image.webp)
 
 1. Follow the prompts to **purchase the reseller license.** After purchasing, you will be granted you access to the demo instance.
 
-![image.png](reseller-license-and-demo-chat-instance/image%201.png)
+![image.webp](reseller-license-and-demo-chat-instance/image%201.webp)
 
 1. After purchasing the demo instance, you will get the access to the demo instance.
 

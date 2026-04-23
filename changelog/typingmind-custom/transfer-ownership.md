@@ -9,7 +9,7 @@ You can now easily transfer the ownership of your chat instance to another team 
 
 ***Note***: Before you can set a member as the new owner, they must first be elevated to an Admin role.
 
-![image.png](transfer-ownership/image.png)
+![image.webp](transfer-ownership/image.webp)
 
 ### ✨ Stay updated
 

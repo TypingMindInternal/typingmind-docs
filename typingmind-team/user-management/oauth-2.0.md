@@ -5,7 +5,7 @@ Users can log in to your chat instance with Google, Facebook, and other accounts
 
 This page will guide you on how to set up OAuth 2.0 for user authentication.
 
-![Untitled](single-sign-on-(sso)/Untitled.png)
+![Untitled](single-sign-on-(sso)/Untitled.webp)
 
 ## Overview
 
@@ -36,11 +36,11 @@ Go to [https://console.cloud.google.com](https://console.cloud.google.com) and s
 
 Then click “OAuth consent screen” and start setting up your OAuth app info (name, logo, website, etc.). This info will be shown to the user when they try to login to your chat instance with Google.
 
-![Untitled](single-sign-on-(sso)/Untitled%201.png)
+![Untitled](single-sign-on-(sso)/Untitled%201.webp)
 
 Then go to “Credentials” and create a new credentials using **OAuth Client ID**
 
-![Untitled](single-sign-on-(sso)/Untitled%202.png)
+![Untitled](single-sign-on-(sso)/Untitled%202.webp)
 
 Under the “Authorized redirect URIs”, enter the following value:
 
@@ -48,34 +48,34 @@ Under the “Authorized redirect URIs”, enter the following value:
 
 You will also see this URL at a later step and copy it.
 
-![Untitled](single-sign-on-(sso)/Untitled%203.png)
+![Untitled](single-sign-on-(sso)/Untitled%203.webp)
 
 Once you are done, take note of the Client ID and Client Secret. You will need to use these values in the next step.
 
-![Untitled](oauth-2.0/Untitled%204.png)
+![Untitled](oauth-2.0/Untitled%204.webp)
 
 ## Step 2: Add a new OAuth connection
 
 - Login to your **Admin Panel → User Management → Authentication → OAuth 2.0**
 - Click Add New OAuth 2.0 Connection
 
-![Untitled](oauth-2.0/Untitled%205.png)
+![Untitled](oauth-2.0/Untitled%205.webp)
 
 At this step, you will see your **OAuth Callback URL.** You need to set this URL in your Google Cloud OAuth credentials setting, under the “**Authorized redirect URIs”** section.
 
 Then select “Google” from the UI.
 
-![Untitled](oauth-2.0/Untitled%206.png)
+![Untitled](oauth-2.0/Untitled%206.webp)
 
 Next, enter your Client ID and Client Secret. Then click Add Connection.
 
-![Untitled](oauth-2.0/Untitled%207.png)
+![Untitled](oauth-2.0/Untitled%207.webp)
 
 Once the connection is added, you will see the new entry in the admin panel and under the login section of your chat instance.
 
-![Untitled](oauth-2.0/Untitled%208.png)
+![Untitled](oauth-2.0/Untitled%208.webp)
 
-![Untitled](oauth-2.0/Untitled%209.png)
+![Untitled](oauth-2.0/Untitled%209.webp)
 
 ## Use other identity providers (Generic OAuth 2.0 with OIDC)
 
@@ -89,7 +89,7 @@ In this mode, you will need to provide all the relevant information needed to fo
 - Content Type
 - Scopes
 
-![Untitled](oauth-2.0/Untitled%2010.png)
+![Untitled](oauth-2.0/Untitled%2010.webp)
 
 TypingMind uses standard OAuth 2.0 / OIDC authorization flow to identify the user. For this reason, if your OAuth provider does not follow the OAuth 2.0 standard and OIDC protocol, the user authorization flow might not work.
 

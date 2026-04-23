@@ -69,7 +69,7 @@ Please note that, to connect with your systems, you will need to build your own 
 
 </aside>
 
-![image.png](build-multi-agent-workflows/image.png)
+![image.webp](build-multi-agent-workflows/image.webp)
 
 > Learn more on what you can do with AI Agent before bringing it into the workflow: https://docs.typingmind.com/ai-agents/ai-agents-overview
 > 
@@ -114,7 +114,7 @@ By sequencing the AI Agents like this, the system will automatically execute the
 
 That’s how the Agent flow works, with no action needed from you!
 
-![image.png](build-multi-agent-workflows/image%201.png)
+![image.webp](build-multi-agent-workflows/image%201.webp)
 
 [multiagent flow.mov](Build%20Multi-Agent%20Workflows/multiagent_flow.mov)
 

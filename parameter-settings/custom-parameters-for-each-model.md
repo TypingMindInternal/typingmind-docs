@@ -16,7 +16,7 @@ Customizing parameters for each AI model allows you to optimize their performanc
 - Toggle on **Override Global Model Parameters** to create a custom preset for that AI model. This way, it won't use your global settings.
 - Set up the [parameters value](Parameter%20settings%20bee0dab52cc847b4b1504ef8c195436f.md) as you want. (Context limit, Temperature, Top-p, Top-k, Max tokens, etc.)
 
-![image.png](custom-parameters-for-each-model/image.png)
+![image.webp](custom-parameters-for-each-model/image.webp)
 
 - After you done customizing the settings, you can click back to “Chat” and select the AI model with preset parameters to chat with its custom parameters.
 

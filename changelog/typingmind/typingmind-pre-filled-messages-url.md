@@ -5,7 +5,7 @@ title: "TypingMind pre-filled messages URL"
 
 You can now prefill the message on [typingmind.com](http://typingmind.com/) with ?message= URL parameter 😄
 
-![image.png](typingmind-pre-filled-messages-url/image.png)
+![image.webp](typingmind-pre-filled-messages-url/image.webp)
 
 ### ✨ Stay updated
 

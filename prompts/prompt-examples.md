@@ -23,6 +23,6 @@ This eBook including 50\+ ChatGPT Advanced Prompts with 8 categories:
   💡 Free Download: [https://typingmind.com/ebook](https://typingmind.com/ebook)
 </Note>
 
-![Untitled](prompt-examples/Untitled.png)
+![Untitled](prompt-examples/Untitled.webp)
 
 We will continuously update new prompts into the ebook!

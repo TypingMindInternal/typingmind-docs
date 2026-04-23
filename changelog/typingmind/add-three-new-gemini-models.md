@@ -9,7 +9,7 @@ Added 3 new Gemini models on [http://TypingMind.com](http://typingmind.com/)!
 - Gemini 2.0 Flash-Lite Preview
 - Gemini 2.0 Pro Experimental
 
-![image.png](add-three-new-gemini-models/image.png)
+![image.webp](add-three-new-gemini-models/image.webp)
 
 ## 📌 Stay updated
 

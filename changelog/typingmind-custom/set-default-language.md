@@ -9,9 +9,9 @@ Admins now have the option to set the default language for your chat interface.
 
 Check it out: [custom.typingmind.com](http://custom.typingmind.com/)
 
-![image.png](set-default-language/image.png)
+![image.webp](set-default-language/image.webp)
 
-![image.png](set-default-language/image%201.png)
+![image.webp](set-default-language/image%201.webp)
 
 ### ✨ Stay updated
 

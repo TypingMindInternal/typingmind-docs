@@ -12,7 +12,7 @@ You can use AWS Bedrock Claude models on TypingMind Custom by adding a Custom Mo
 
 If you do not have an account yet, register for an AWS account here: [https://signin.aws.amazon.com/signup?request\_type=register](https://signin.aws.amazon.com/signup?request_type=register)
 
-![image.png](aws-bedrock-anthropic/image.png)
+![image.webp](aws-bedrock-anthropic/image.webp)
 
 Once you complete signup, move to the next steps.
 
@@ -20,23 +20,23 @@ Once you complete signup, move to the next steps.
 
 - Search for the "Bedrock" service on the Navigation bar and click on “Amazon Beckrock”
 
-![image.png](aws-bedrock-anthropic/image%201.png)
+![image.webp](aws-bedrock-anthropic/image%201.webp)
 
 - Click “Get Started” under the Try Bedrock rection
 
-![image.png](aws-bedrock-anthropic/image%202.png)
+![image.webp](aws-bedrock-anthropic/image%202.webp)
 
 - Select Base Models and hover to the Claude models you want to access → click “Model Access”
 
-![image.png](aws-bedrock-anthropic/image%203.png)
+![image.webp](aws-bedrock-anthropic/image%203.webp)
 
 - Click on “Available to request” and there’s a popup that will prompt you to Request model access.
 
-![image.png](aws-bedrock-anthropic/image%204.png)
+![image.webp](aws-bedrock-anthropic/image%204.webp)
 
 - Click on that and select the Anthropic models you want to access → click “Next”  → click “Submit” to submit the model request access. It might take a few minutes to get approved and access to the chosen models.
 
-![image.png](aws-bedrock-anthropic/image%205.png)
+![image.webp](aws-bedrock-anthropic/image%205.webp)
 
 <aside>
   📌
@@ -49,43 +49,43 @@ Once you complete signup, move to the next steps.
 - Search for “IAM” service on the search bar
 - Click on Users right below the IAM service to navigate to the User Groups page.
 
-![image.png](aws-bedrock-anthropic/image%206.png)
+![image.webp](aws-bedrock-anthropic/image%206.webp)
 
 - Click on “Create user” to create a new user with the Bedrock permissions.
 
-![image.png](aws-bedrock-anthropic/image%207.png)
+![image.webp](aws-bedrock-anthropic/image%207.webp)
 
 - Enter the username and click “Next”
 
-![image.png](aws-bedrock-anthropic/image%208.png)
+![image.webp](aws-bedrock-anthropic/image%208.webp)
 
 - Within the Set Permission options, select “Attach policies directly”
 - Within the Permission policies, search for Bedrock and select all the polices → Click Next
 
-![image.png](aws-bedrock-anthropic/image%209.png)
+![image.webp](aws-bedrock-anthropic/image%209.webp)
 
-![image.png](aws-bedrock-anthropic/image%2010.png)
+![image.webp](aws-bedrock-anthropic/image%2010.webp)
 
 - Click “Create user” to create a new user.
 - After completing creating a new user, click on that user to navigate to the new user's details page and generate access and secret keys.
 
-![image.png](aws-bedrock-anthropic/image%2011.png)
+![image.webp](aws-bedrock-anthropic/image%2011.webp)
 
 - Click “Create access key”
 
-![image.png](aws-bedrock-anthropic/image%2012.png)
+![image.webp](aws-bedrock-anthropic/image%2012.webp)
 
 - Within the Access key best practices and alternatives section, select “Application running outside AWS” and click Next
 
-![image.png](aws-bedrock-anthropic/image%2013.png)
+![image.webp](aws-bedrock-anthropic/image%2013.webp)
 
 - Click on “Create access key” to have the access key and secret access key.
 
-![image.png](aws-bedrock-anthropic/image%2014.png)
+![image.webp](aws-bedrock-anthropic/image%2014.webp)
 
 - Store these access key and secret access key along with the AWS region. Also go back to the Base models page and navigate the Claude model id to copy. We will use this information to create custom model on TypingMind.
 
-![image.png](aws-bedrock-anthropic/image%2015.png)
+![image.webp](aws-bedrock-anthropic/image%2015.webp)
 
 # 4. Create a custom model on TypingMind
 
@@ -102,12 +102,12 @@ Fill in all required information as follows:
   - `awsSecretkey` : `your_secret_access_key` (copied in step 3)
   - `awsRegion` : `your_aws_region` (for example: ap-southeast-2)
 
-![image.png](aws-bedrock-anthropic/image%2016.png)
+![image.webp](aws-bedrock-anthropic/image%2016.webp)
 
-![image.png](aws-bedrock-anthropic/image%2017.png)
+![image.webp](aws-bedrock-anthropic/image%2017.webp)
 
 - After complete filling all the necessary details, click “Test” and click “Add Model”
 
 # 5. Chat with the new model
 
-![image.png](aws-bedrock-anthropic/image%2018.png)
+![image.webp](aws-bedrock-anthropic/image%2018.webp)

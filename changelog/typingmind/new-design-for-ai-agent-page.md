@@ -8,7 +8,7 @@ We have just improved UX/UI for our AI Agent page to help you better navigate th
 - Navigate AI Agent categories more easily with a sleek, modern design!
 - Designed to boost your productivity and improve the usability of the AI Agent while using the app.
 
-![image.png](new-design-for-ai-agent-page/image.png)
+![image.webp](new-design-for-ai-agent-page/image.webp)
 
 ## 📌 Stay updated
 

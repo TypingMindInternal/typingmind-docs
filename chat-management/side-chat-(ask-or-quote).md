@@ -9,7 +9,7 @@ The **Side Chat** feature allows you to dive deeper into specific parts of an AI
 1. **Select or highlight a section** of the AI’s response.
 2. Choose **“Ask” or “Quote”** option
 
-![image.png](side-chat-\(ask-or-quote\)/image.png)
+![image.webp](side-chat-\(ask-or-quote\)/image.webp)
 
 ## **Side chat or Ask option**
 
@@ -23,7 +23,7 @@ When you highlight any specific part of the AI response and select Ask, this ope
 
 All while keeping your primary chat clean and easy to follow.
 
-![image.png](side-chat-\(ask-or-quote\)/image%201.png)
+![image.webp](side-chat-\(ask-or-quote\)/image%201.webp)
 
 ## **Quote option**
 
@@ -35,4 +35,4 @@ When you highlight a specific part of the AI response and select Quote, the high
 
 This ensures clearer communication and more accurate refinements.
 
-![image.png](side-chat-\(ask-or-quote\)/image%202.png)
+![image.webp](side-chat-\(ask-or-quote\)/image%202.webp)

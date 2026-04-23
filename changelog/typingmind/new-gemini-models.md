@@ -11,7 +11,7 @@ We have just updated these new Gemini models: on TypingMind:
 - Gemini 1.5 Flash 002
 - Gemini 1.5 Pro 002
 
-![image.png](new-gemini-models/image.png)
+![image.webp](new-gemini-models/image.webp)
 
 ### ❓**Why This Matters**
 

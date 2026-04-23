@@ -8,7 +8,7 @@ Inspired by Anthropic’s concept, **TypingMind Artifacts** are designed to seam
 
 Let’s see how it works!
 
-![image.png](interactive-canvas-\(artifacts\)/image.png)
+![image.webp](interactive-canvas-\(artifacts\)/image.webp)
 
 # What is TypingMind Artifacts?
 
@@ -32,15 +32,15 @@ TypingMind Artifacts are designed to support a wide range of applications, makin
 
 - **Interactive dashboards**: create interactive data visualizations that update as you work
 
-![image.png](interactive-canvas-\(artifacts\)/image%201.png)
+![image.webp](interactive-canvas-\(artifacts\)/image%201.webp)
 
 - **Software or website development**: developers can manage and refine code within an Artifact to build and enhance your projects.
 
-![image.png](interactive-canvas-\(artifacts\)/image%202.png)
+![image.webp](interactive-canvas-\(artifacts\)/image%202.webp)
 
 - **Create an interactive game**: develop and tweak your interactive games using Artifacts.
 
-![image.png](interactive-canvas-\(artifacts\)/image%203.png)
+![image.webp](interactive-canvas-\(artifacts\)/image%203.webp)
 
 # Best Practices
 

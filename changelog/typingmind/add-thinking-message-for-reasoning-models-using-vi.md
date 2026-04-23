@@ -7,11 +7,11 @@ TypingMind now support rendering `<think>` tags from OpenRouter and Azure AI Fou
 
 Note: Open Router models does not show reasoning tokens by default, so you need to add the include_reasoning (boolean) = true for the custom model. This can be done when adding new models or by editting existing models.
 
-![image.png](add-thinking-message-for-reasoning-models-using-vi/image.png)
+![image.webp](add-thinking-message-for-reasoning-models-using-vi/image.webp)
 
-![image.png](add-thinking-message-for-reasoning-models-using-vi/image%201.png)
+![image.webp](add-thinking-message-for-reasoning-models-using-vi/image%201.webp)
 
-![image.png](add-thinking-message-for-reasoning-models-using-vi/image%202.png)
+![image.webp](add-thinking-message-for-reasoning-models-using-vi/image%202.webp)
 
 ## 📌 Stay updated
 

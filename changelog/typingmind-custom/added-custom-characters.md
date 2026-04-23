@@ -8,7 +8,7 @@ Huge upgrade for Custom Deployment users:
 - Add custom AI Characters for your users
 - Only show custom AI Characters for logged-in users
 
-![image.png](added-custom-characters/image.png)
+![image.webp](added-custom-characters/image.webp)
 
 ### ✨ Stay updated
 

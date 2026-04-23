@@ -3,7 +3,7 @@ title: "o1-preview and o1-mini are now available!"
 ---
 🧩 The new OpenAI models O1 Preview and O1 Mini are now available on [typingmind.com](http://typingmind.com/) 🔥
 
-![image.png](o1-preview-and-o1-mini-are-now-available/image.png)
+![image.webp](o1-preview-and-o1-mini-are-now-available/image.webp)
 
 ## 🔥 What’s New?
 
@@ -16,7 +16,7 @@ title: "o1-preview and o1-mini are now available!"
 
 If you are using these models via Custom Models, make sure to untick the **"Streaming Output"** and **"System Role"** when adding the model, as these new models do not support those two features.
 
-![image.png](o1-preview-and-o1-mini-are-now-available/image%201.png)
+![image.webp](o1-preview-and-o1-mini-are-now-available/image%201.webp)
 
 ### 📌 Stay updated
 
