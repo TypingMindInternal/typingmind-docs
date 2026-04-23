@@ -2,7 +2,6 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "TypingMind",
-  "favicon": "https://media.brand.dev/4a4909b6-38ec-4031-b505-4f6e223c2c57.webp",
   "colors": {
     "primary": "#1539a3",
     "light": "#1e4bd4",
@@ -492,5 +491,6 @@
       "youtube": "https://www.youtube.com/@TypingMind/",
       "website": "https://www.typingmind.com/?utm_source=docs"
     }
-  }
+  },
+  "favicon": "/images/logotypingmind3.png"
 }
