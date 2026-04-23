@@ -15,13 +15,13 @@ To find the model parameter settings:
 
 </Note>
 
-![image.png](parameter-settings/image.png)
+![image.webp](parameter-settings/image.webp)
 
 ## 1. Context Limit
 
 The number of messages to include in the context of the AI assistant. When set to 1, the AI assistant will only see and remember the most recent message.
 
-![Untitled](parameter-settings/Untitled.png)
+![Untitled](parameter-settings/Untitled.webp)
 
 ## **2. Temperature (0 - 2)**
 
@@ -32,7 +32,7 @@ The Temperature parameter is a setting in ChatGPT that you can use to adjust the
 
 A temperature between 0.7 and 0.9 allows for a good balance between creativity and relevance. You can adjust this to see what works best for your specific use case. 
 
-![Untitled](parameter-settings/Untitled%201.png)
+![Untitled](parameter-settings/Untitled%201.webp)
 
 ## 3. **Presence penalty (0-2)**
 
@@ -41,7 +41,7 @@ The Presence penalty parameter encourages the model to include a diverse range
 - **Low value (closer to 0)**: the chat model will stick more closely to the concepts in the input and is less likely to generate new ideas.
 - **High value (closer to 2)**: the chat model is more likely to generate new concepts that were not in the input.
 
-![Untitled](parameter-settings/Untitled%202.png)
+![Untitled](parameter-settings/Untitled%202.webp)
 
 ## 4. **Frequency penalty (0-2)**
 
@@ -53,7 +53,7 @@ This parameter used to discourage the model from repeating the same words or phr
     > One use case for a higher frequency penalty could be in creative writing, where you want more novel and less clichéd phrases.
     > 
 
-![Untitled](parameter-settings/Untitled%203.png)
+![Untitled](parameter-settings/Untitled%203.webp)
 
 ## 5. **Top P (0-1)**
 
@@ -71,7 +71,7 @@ When you set a value for Top P, you're telling the model to restrict its select
 - **Lower values (closer to 0)**: the model only looks at the very most likely next words. This makes its responses more predictable, but they might also be less diverse and interesting.
 - **Higher values(closer to 1)**: the chat model will a larger pool of possible next words, even ones that aren't the most likely. This makes its responses more varied and creative, but they might also be less logical or coherent.
 
-![Untitled](parameter-settings/Untitled%204.png)
+![Untitled](parameter-settings/Untitled%204.webp)
 
 <Note>
   Note: The settings of these parameters can drastically affect the output of the model. It's important to experiment with different settings to find the ones that best meet your needs.
@@ -86,7 +86,7 @@ While Top P (nucleus sampling) focuses on a percentage of highest-scoring words,
 
 When the AI model calculates a score for each possible next word, applying Top-k means that only the top k words with the highest scores are considered for the next word choice.
 
-![Untitled](parameter-settings/Untitled%205.png)
+![Untitled](parameter-settings/Untitled%205.webp)
 
 - **Lower values (smaller k)**: by narrowing down to a small set of top choices, the model's responses become more predictable and coherent, as only the most likely next words are considered.
 - **Higher values (larger k)**: allow a broader range of options (increasing k) and incorporate less likely next words, thus enhancing the diversity and novelty of the model's responses.
@@ -100,7 +100,7 @@ Control the maximum number of tokens that the chat models can generate before st
 
 </Tip>
 
-![Untitled](parameter-settings/Untitled%206.png)
+![Untitled](parameter-settings/Untitled%206.webp)
 
 ## 8. Safety Settings (for Gemini only)
 
@@ -108,4 +108,4 @@ The safety settings for the Gemini API allow developers to adjust filters to blo
 
 Check here for more detail information [https://ai.google.dev/gemini-api/docs/safety-settings](https://ai.google.dev/gemini-api/docs/safety-settings)
 
-![Untitled](parameter-settings/Untitled%207.png)
+![Untitled](parameter-settings/Untitled%207.webp)

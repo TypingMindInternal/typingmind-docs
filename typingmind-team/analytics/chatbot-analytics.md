@@ -13,7 +13,7 @@ This feature enables tracking of individual member's usage related to specific c
 - Go to **Usage & Limit**
 - Scroll down to the Token usage section
 
-![Untitled](chatbot-analytics/Untitled.png)
+![Untitled](chatbot-analytics/Untitled.webp)
 
 You'll find a list of your members, along with their token consumption and a cost estimation. It's important to note that this cost estimation is approximate; you'll need to verify the actual costs via your API provider's dashboard for accuracy.
 
@@ -23,11 +23,11 @@ The usage frequency of specific Prompts or AI Agents is displayed in two places:
 
 - On the Dashboard
 
-![Untitled](chatbot-analytics/Untitled%201.png)
+![Untitled](chatbot-analytics/Untitled%201.webp)
 
 - On the specific Prompt / AI Agents section
 
-![Untitled](chatbot-analytics/Untitled%202.png)
+![Untitled](chatbot-analytics/Untitled%202.webp)
 
 ## User chat history / Chat logs
 

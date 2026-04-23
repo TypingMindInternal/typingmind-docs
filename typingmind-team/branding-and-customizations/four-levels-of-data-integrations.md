@@ -15,19 +15,19 @@ Training ChatGPT on your own data can significantly improve its usefulness and e
 
 - **Provide more relevant and accurate responses**: training on your specific data makes sure responses are more pertinent and accurate to your context with terminology use and issue address directly relevant to your field or interests.
 
-![Plug your training data into the AI Agent to get personalized responses](four-levels-of-data-integrations/Untitled.png)
+![Plug your training data into the AI Agent to get personalized responses](four-levels-of-data-integrations/Untitled.webp)
 
 Plug your training data into the AI Agent to get personalized responses
 
 - **Get more personalized solutions**: generate detailed sales reports, insightful analytics, and personalized marketing strategies, all aligned with your business metrics and market needs.
 
-![Get sales forecast customized for your business](four-levels-of-data-integrations/Untitled%201.png)
+![Get sales forecast customized for your business](four-levels-of-data-integrations/Untitled%201.webp)
 
 Get sales forecast customized for your business
 
 - **Gain a competitive advantage**: help analyze interactions and feedback can provide valuable insights into customer preferences, market trends, and areas for improvement to give you a strategic edge over competitors.
 
-![Analyze current trends](four-levels-of-data-integrations/Untitled%202.png)
+![Analyze current trends](four-levels-of-data-integrations/Untitled%202.webp)
 
 Analyze current trends
 
@@ -60,7 +60,7 @@ To set this up on TypingMind, please follow the steps below:
 - Navigate the System Prompts menu
 - Enter your instruction in the Global System Instruction
 
-![image.png](four-levels-of-data-integrations/image.png)
+![image.webp](four-levels-of-data-integrations/image.webp)
 
 <Tip>
   Best practices to set up System prompts from popular AI providers:
@@ -109,11 +109,11 @@ This method allows you to easily manage and update your data sources.
 - Navigate the Knowledge Base section
 - Click on “Add data source” —\> Configure to connect with your data
 
-![image.png](four-levels-of-data-integrations/image%201.png)
+![image.webp](four-levels-of-data-integrations/image%201.webp)
 
 - Select a source of knowledge base to connect with your chatbot
 
-![image.png](four-levels-of-data-integrations/image%202.png)
+![image.webp](four-levels-of-data-integrations/image%202.webp)
 
 - The AI model will implement RAG via your connected knowledge base.
 
@@ -121,7 +121,7 @@ This method allows you to easily manage and update your data sources.
 
 TypingMind lets you **connect your database via a plugin (function calling)** that allows the AI model to query and retrieve data in real time.
 
-![Azure AI Search plugin allows you connect your vector database in Azure AI Search](four-levels-of-data-integrations/Untitled%204.png)
+![Azure AI Search plugin allows you connect your vector database in Azure AI Search](four-levels-of-data-integrations/Untitled%204.webp)
 
 Azure AI Search plugin allows you connect your vector database in Azure AI Search
 
@@ -137,7 +137,7 @@ Here's a **general process for implementing RAG via a plugin**:
 
 _Example conversation with Azure AI Search - a built-in plugin allows you to connect with your database in Azure AI Search._
 
-![Azure AI Search plugin retrieves data to answer your queries on TypingMind](four-levels-of-data-integrations/Untitled%205.png)
+![Azure AI Search plugin retrieves data to answer your queries on TypingMind](four-levels-of-data-integrations/Untitled%205.webp)
 
 Azure AI Search plugin retrieves data to answer your queries on TypingMind
 
@@ -175,7 +175,7 @@ This process can be done via an AI Agent set up on TypingMind:
 
 More details on [How to set up Dynamic Context via API](https://www.youtube.com/watch?v=S08qAngaM-E&t=110s)
 
-![Dynamic Context via API](four-levels-of-data-integrations/Untitled%206.png)
+![Dynamic Context via API](four-levels-of-data-integrations/Untitled%206.webp)
 
 Dynamic Context via API
 
@@ -201,7 +201,7 @@ RLHF involves a continuous loop of interaction where humans provide feedback on 
 - **Human feedback**: collect feedback from human evaluators who rate the quality and accuracy of the AI's responses.
 - **Reinforcement learning**: use this feedback to adjust the model's behavior to enhance its performance iteratively.
 
-![An overview of the RLHF learning process. Source: AWS](Four%20levels%20of%20data%20integrations/Untitled%207.png)
+![An overview of the RLHF learning process. Source: AWS](Four%20levels%20of%20data%20integrations/Untitled%207.webp)
 
 An overview of the RLHF learning process. Source: [AWS](https://aws.amazon.com/what-is/reinforcement-learning-from-human-feedback/)
 
@@ -229,7 +229,7 @@ Combining the strengths and addressing the weaknesses of different integration l
 - Use system prompts for handling general inquiries.
 - Implement RAG for retrieving specific order status information.
 
-![A combination of system prompt and RAG](four-levels-of-data-integrations/Untitled%208.png)
+![A combination of system prompt and RAG](four-levels-of-data-integrations/Untitled%208.webp)
 
 A combination of system prompt and RAG
 
@@ -237,7 +237,7 @@ A combination of system prompt and RAG
 
 Fine-tuning involves adjusting the pre-trained model with additional domain-specific data to improve its performance in particular tasks or contexts. This helps the model produce outputs that are more aligned with specific needs.
 
-![Create a fine-tuned model via OpenAI](Four%20levels%20of%20data%20integrations/Untitled%209.png)
+![Create a fine-tuned model via OpenAI](Four%20levels%20of%20data%20integrations/Untitled%209.webp)
 
 Create a fine-tuned model via [OpenAI](https://platform.openai.com/finetune)
 
@@ -245,7 +245,7 @@ Create a fine-tuned model via [OpenAI](https://platform.openai.com/finetune)
 
 Few-shot learning provides the model with a set number of examples (N) to learn from, guiding it to produce more accurate responses in similar situations.
 
-![Add training examples for your AI models](four-levels-of-data-integrations/Untitled%2010.png)
+![Add training examples for your AI models](four-levels-of-data-integrations/Untitled%2010.webp)
 
 Add training examples for your AI models
 

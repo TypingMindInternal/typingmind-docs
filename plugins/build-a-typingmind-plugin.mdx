@@ -26,9 +26,9 @@ Plugins can be implemented using the following implementation types:
 
 Open TypingMind → Plugins → Click "Create Plugin" to start creating your own plugins.
 
-![image.png](build-a-typingmind-plugin/image.png)
+![image.webp](build-a-typingmind-plugin/image.webp)
 
-![image.png](build-a-typingmind-plugin/image%201.png)
+![image.webp](build-a-typingmind-plugin/image%201.webp)
 
 Enter the relevant information about the plugin.
 
@@ -73,7 +73,7 @@ The User Settings value is a JSON string with the following format:
 
 This tells the UI to render input fields where users can enter their own specific data. Each object in the array represents a single user input field. Below is an example of user settings required by the [Azure AI Search](https://github.com/TypingMind/plugin-query-azure-training-data) plugin.
 
-![image.png](build-a-typingmind-plugin/image%202.png)
+![image.webp](build-a-typingmind-plugin/image%202.webp)
 
 Here's what each key represents:
 
@@ -92,7 +92,7 @@ Plugin Context is a way to provide additional context and instructions to the AI
 
 Plugin context will be added directly to the AI's context (system prompt) when the plugin is enabled for the conversation, even when the plugin is not running.
 
-![image.png](build-a-typingmind-plugin/image%203.png)
+![image.webp](build-a-typingmind-plugin/image%203.webp)
 
 You can provide context in two ways:
 
@@ -113,7 +113,7 @@ TypingMind Plugin supports 3 options for Authentication.
 - **API Key:** requires the user to add an API key to use the plugin.
 - **OAuth 2.0:** requires the user to log in to an OAuth provider to use the plugin.
 
-![image.png](build-a-typingmind-plugin/image%204.png)
+![image.webp](build-a-typingmind-plugin/image%204.webp)
 
 ### API Key Authentication
 
@@ -132,7 +132,7 @@ Authentication via API key is done by using the combination of User Settings and
 
 This field will be exposed via a variable with the same name `{firecrawl_api_key}`. You can access this variable (in the later step) to add to your request to Firecrawl API.
 
-![image.png](build-a-typingmind-plugin/image%205.png)
+![image.webp](build-a-typingmind-plugin/image%205.webp)
 
 ### OAuth 2.0 Authentication
 
@@ -149,7 +149,7 @@ This authentication type makes it easy to work with external services that requi
   Read our tutorial: [**create a Google Calendar plugin with OAuth 2.0**](https://docs.typingmind.com/plugins/google-calendar).
 </Tip>
 
-![image.png](build-a-typingmind-plugin/image%206.png)
+![image.webp](build-a-typingmind-plugin/image%206.webp)
 
 OAuth 2.0 flow overview:
 
@@ -160,7 +160,7 @@ OAuth 2.0 flow overview:
 
 Here is a diagram of the full flow (excluding the refresh token process):
 
-![image.png](build-a-typingmind-plugin/image%207.png)
+![image.webp](build-a-typingmind-plugin/image%207.webp)
 
 **Handling refresh token for persistent access**
 
@@ -204,14 +204,14 @@ TypingMind supports **Shared OAuth Connections**, allowing multiple plugins to s
 1. **Create a Shared Connection**:
    - Navigate to the Plugins Manager
    - Select the **"Shared OAuth Connections"** tab 
-   - Click **"Add New Connection"** to create a new OAuth connection <img src="build-a-typingmind-plugin/image%208.png" alt="image.png" />
+   - Click **"Add New Connection"** to create a new OAuth connection <img src="build-a-typingmind-plugin/image%208.webp" alt="image.webp" />
 2. **Configure OAuth Credentials**:
-   - Enter necessary details such as Authorization URL, Token URL, Client ID, Client Secret, Scopes, Prompt, and Access Type <img src="build-a-typingmind-plugin/image%209.png" alt="image.png" />
+   - Enter necessary details such as Authorization URL, Token URL, Client ID, Client Secret, Scopes, Prompt, and Access Type <img src="build-a-typingmind-plugin/image%209.webp" alt="image.webp" />
 3. **Apply Shared OAuth to Plugins**:
    - Edit the desired plugin
    - Under the **"Authentication"** section, select **OAuth 2.0**
    - Choose your **"OAuth Configuration Source"** from the dropdown menu, selecting your newly created shared OAuth connection
-   - Plugin credentials will automatically apply from the shared connection—no further setup required <img src="build-a-typingmind-plugin/image%2010.png" alt="image.png" /> <img src="build-a-typingmind-plugin/image%2011.png" alt="image.png" />
+   - Plugin credentials will automatically apply from the shared connection—no further setup required <img src="build-a-typingmind-plugin/image%2010.webp" alt="image.webp" /> <img src="build-a-typingmind-plugin/image%2011.webp" alt="image.webp" />
 
 ### **Built-in OAuth Plugins:**
 
@@ -255,8 +255,8 @@ Allow the plugin to read the user message and its attachments that was sent righ
 {
   "text": "the user message content as string",
   "attachments": [
-	  { "type": "image/png", "url": "https://...", "name": "screenshot1.png" },
-	  { "type": "image/png", "url": "https://...", "name": "screenshot2.png" }
+	  { "type": "image/png", "url": "https://...", "name": "screenshot1.webp" },
+	  { "type": "image/png", "url": "https://...", "name": "screenshot2.webp" }
   ]
 }
 ```
@@ -358,7 +358,7 @@ Here are the best practices:
 
 You can implement your plugin using JavaScript code. The code will be run directly on the user’s browser. Below are the details.
 
-![image.png](build-a-typingmind-plugin/image%2012.png)
+![image.webp](build-a-typingmind-plugin/image%2012.webp)
 
 **Make sure it’s a valid JavaScript**
 
@@ -404,7 +404,7 @@ It’s important that you define a function with the exact same name as defined 
   		  {
   			  "type": "image/png", 
   			  "url": "https://...",
-  			  "name": "screenshot1.png"
+  			  "name": "screenshot1.webp"
   	    }
   	  ]
   	},
@@ -440,13 +440,13 @@ If there is an error or exception while running your plugin, you should throw it
 
 If your error is throw correctly, the app will display the error message like this:
 
-![Untitled](build-a-typingmind-plugin/Untitled.png)
+![Untitled](build-a-typingmind-plugin/Untitled.webp)
 
 ### HTTP Action
 
 Another option to implement your plugin is **HTTP Action**.
 
-![Untitled](build-a-typingmind-plugin/Untitled%201.png)
+![Untitled](build-a-typingmind-plugin/Untitled%201.webp)
 
 When the plugin runs, it will send a request from the user’s browser using the information provided.
 
@@ -469,11 +469,11 @@ For example, in the DALL-E 3 server plugin:
 
 The `{prompt}` parameter is provided by the AI when using the plugin, the other parameters are provided by the user via the plugin setting UI.
 
-![Untitled](build-a-typingmind-plugin/Untitled%202.png)
+![Untitled](build-a-typingmind-plugin/Untitled%202.webp)
 
 In the example above, all variables are used in a string value to be valid in JSON format. But for number variables, you might want to use them directly as a value, not between the double quotes, we support an exception for that case:
 
-![Untitled](build-a-typingmind-plugin/Untitled%203.png)
+![Untitled](build-a-typingmind-plugin/Untitled%203.webp)
 
 **Built-in variables for HTTP Action on server side**
 
@@ -498,11 +498,11 @@ Typing Mind supports two Post-Processing engines:
 
 For example, here is how the DALLE-3 plugin uses Handlebars.js template to transform the JSON response into a Markdown document to be rendered to the user:
 
-![Untitled](build-a-typingmind-plugin/Untitled%204.png)
+![Untitled](build-a-typingmind-plugin/Untitled%204.webp)
 
 You can also use all variables in this post-processing via a special property called `__VARIABLES` (Only support for object responses):
 
-![Untitled](build-a-typingmind-plugin/Untitled%205.png)
+![Untitled](build-a-typingmind-plugin/Untitled%205.webp)
 
 **Test your HTTP Action**
 
@@ -510,7 +510,7 @@ To make sure the HTTP requests are working normally, you can send a test request
 
 The test result will be what the AI model see (or what will be rendered to the user, depends on your plugin setting).
 
-![Untitled](build-a-typingmind-plugin/Untitled%206.png)
+![Untitled](build-a-typingmind-plugin/Untitled%206.webp)
 
 ## Output Options
 
@@ -527,7 +527,7 @@ This can be configured in the Output Options. The supported output types are:
 - Render plugin output as interactive HTML
 - Render plugin output as special cards format
 
-![Untitled](build-a-typingmind-plugin/Untitled%207.png)
+![Untitled](build-a-typingmind-plugin/Untitled%207.webp)
 
 ### When to use custom output
 
@@ -537,11 +537,11 @@ However, in some cases, you prefer to render the output to the users directly by
 
 For example, the **DALL-E 3** plugin will render the generated images directly to the users in Markdown format. This saves time for the users because the AI will not need to “type” the long image URLs manually after it received the return value from the plugin.
 
-![Untitled](build-a-typingmind-plugin/Untitled%208.png)
+![Untitled](build-a-typingmind-plugin/Untitled%208.webp)
 
 In order to do this, the **DALL-E 3** plugin uses the “**Render plugin output as markdown**” option.
 
-![Untitled](build-a-typingmind-plugin/Untitled%209.png)
+![Untitled](build-a-typingmind-plugin/Untitled%209.webp)
 
 ### Render markdown
 
@@ -556,7 +556,7 @@ This is useful if you want to show interactive content to the user. Examples:
 
 When selecting the Output type to be “Render as HTML”, your plugin function can simply return a HTML string, TypingMind will automatically render it to the UI for the user.
 
-![image.png](build-a-typingmind-plugin/image%2013.png)
+![image.webp](build-a-typingmind-plugin/image%2013.webp)
 
 ### Render as TypingMind Card
 
@@ -572,13 +572,13 @@ Render a grid of images. JSON example:
 
 ```json
 [
-  { type: "image", image: { url: "https://link-to-image.png" } }
+  { type: "image", image: { url: "https://link-to-image.webp" } }
 ]
 ```
 
 Output preview:
 
-![image.png](build-a-typingmind-plugin/image%2014.png)
+![image.webp](build-a-typingmind-plugin/image%2014.webp)
 
 <Info>
   We are working on adding more card types soon!
@@ -588,7 +588,7 @@ Output preview:
 
 After filling in all the information, click “Show Plugin Preview” to start testing your plugin.
 
-![image.png](build-a-typingmind-plugin/image%2015.png)
+![image.webp](build-a-typingmind-plugin/image%2015.webp)
 
 Note that the AI will decide to use your plugin only when necessary. Make sure your JSON spec has meaningful and accurate names and description.
 

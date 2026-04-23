@@ -63,7 +63,7 @@ Software updates will be released via the GitHub repo.
 
 ## Installation
 
-![](https://framerusercontent.com/images/sCMvdiqcFn0q2uk1H5Mx7kOcJYg.png)
+![](https://framerusercontent.com/images/sCMvdiqcFn0q2uk1H5Mx7kOcJYg.webp)
 
 ## Data Privacy
 

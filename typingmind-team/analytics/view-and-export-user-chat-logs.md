@@ -4,7 +4,7 @@ title: 'View User Chat Logs'
 
 TypingMind Team allows Admins to review chat logs by all users to understand use cases, detect issues, and adjust prompts to better handle user queries.
 
-![Untitled](view-and-export-user-chat-logs/Untitled.png)
+![Untitled](view-and-export-user-chat-logs/Untitled.webp)
 
 Let’s check out on how to do that!
 
@@ -16,7 +16,7 @@ Let’s check out on how to do that!
    - Click on **Settings**
    - Enable **Record all chats from your users**
 
-![Untitled](view-and-export-user-chat-logs/Untitled%201.png)
+![Untitled](view-and-export-user-chat-logs/Untitled%201.webp)
 
 # Best practices for monitoring your chat logs
 

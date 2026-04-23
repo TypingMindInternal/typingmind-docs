@@ -6,14 +6,14 @@
 
 Go to **Admin panel → User Authentication → Single Sign-On** and toggle on the “Enable Single Sign-On”.
 
-![Untitled](single-sign-on-\(sso\)/Untitled.png)
+![Untitled](single-sign-on-\(sso\)/Untitled.webp)
 
 You can now add new SAML connection to your chat instance. Click **“Add New Connection”**. You will be provided with the necessary information to add Typing Mind to your organization as a Service Provider.
 
 - Entity ID
 - Reply URL
 
-![Untitled](single-sign-on-\(sso\)/Untitled%201.png)
+![Untitled](single-sign-on-\(sso\)/Untitled%201.webp)
 
 Next, you can use these information to obtain the Metadata XML from the identity provider in your organization.
 
@@ -41,6 +41,6 @@ Please follow the link below for the instruction to setup SAML for your selected
 
 Once you have set up SSO, your users will see a new button “Use Single Sign-On (SSO)” in the login popup.
 
-![Untitled](single-sign-on-\(sso\)/Untitled%202.png)
+![Untitled](single-sign-on-\(sso\)/Untitled%202.webp)
 
-![Untitled](single-sign-on-\(sso\)/Untitled%203.png)
+![Untitled](single-sign-on-\(sso\)/Untitled%203.webp)
