@@ -1,56 +1,33 @@
----
-title: "Mintlify Starter Kit"
----
-Use the starter kit to get your docs deployed and ready to customize.
+# TypingMind Docs
+ 
+Official documentation for [TypingMind](https://www.typingmind.com) — a powerful AI chat interface that lets you bring your own API keys and connect to GPT, Claude, Gemini, and other AI models.
+ 
+## What is TypingMind?
+ 
+TypingMind gives you a better UI for ChatGPT and other AI models. You connect your own API keys, keep full control of your data (stored locally on your device), and get access to features like AI Agents, Plugins, RAG Knowledge Base, multi-model chat, voice input/output, and more.
+ 
+## What's covered in these docs
+ 
+- **Quickstart** — get started with TypingMind in minutes
+- **AI Models** — connect GPT, Claude, Gemini, LLaMA, DeepSeek, and more
+- **AI Agents** — build and run specialized agents and multi-agent workflows
+- **Plugins** — extend AI capabilities with built-in and custom plugins
+- **Model Context Protocol (MCP)** — integrate MCP servers into TypingMind
+- **RAG & Knowledge Base** — upload documents and train agents with custom knowledge
+- **Prompts** — manage your prompt library and use prompt templates with variables
+- **Chat Management** — folders, tags, threads, canvas editor, share & export chats
+- **Cloud Sync & Backup** — sync your data across devices
+- **Voice Input & Text-to-Speech** — speak to and hear from your AI
+- **TypingMind Team** — shared workspace for teams
+- **Self-host** — host the static app on your own server
+- **Security & Compliance** — how TypingMind keeps your data private
+- **Troubleshooting & FAQs** — common issues and solutions
+- **Changelog** — what's new in TypingMind
 
-Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
+## Links
+ 
+- Website: [typingmind.com](https://www.typingmind.com)
+- Live docs: [docs.typingmind.com](https://docs.typingmind.com)
+- Support: [typingmind.com/support](https://www.typingmind.com/support)
 
-- Guide pages
-- Navigation
-- Customizations
-- API reference pages
-- Use of popular components
-
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
-
-## AI-assisted writing
-
-Set up your AI coding tool to work with Mintlify:
-
-```bash
-npx skills add https://mintlify.com/docs
-```
-
-This command installs Mintlify's documentation skill for your configured AI tools like Claude Code, Cursor, Windsurf, and others. The skill includes component reference, writing standards, and workflow guidance.
-
-See the [AI tools guides](/ai-tools) for tool-specific setup.
-
-## Development
-
-Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
-
-```
-npm i -g mint
-```
-
-Run the following command at the root of your documentation, where your `docs.json` is located:
-
-```
-mint dev
-```
-
-View your local preview at `http://localhost:3000`.
-
-## Publishing changes
-
-Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/settings/organization/github-app) to propagate changes from your repo to your deployment. Changes are deployed to production automatically after pushing to the default branch.
-
-## Need help?
-
-### Troubleshooting
-
-- If your dev environment isn't running: Run `mint update` to ensure you have the most recent version of the CLI.
-- If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.
-
-### Resources
-- [Mintlify documentation](https://mintlify.com/docs)
+ 

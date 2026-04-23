@@ -296,6 +296,31 @@
             ]
           },
           {
+            "group": "TypingMind via SetApp",
+            "icon": "app-window",
+            "pages": [
+              "typingmind-via-setapp",
+              "typingmind-via-setapp/general-faqs",
+              "typingmind-via-setapp/setapp-limitation"
+            ]
+          },
+          {
+            "group": "Additional resources",
+            "icon": "external-link",
+            "pages": [
+              "typingmind-team",
+              "app-translation",
+              "app-translation/translation-collaboration",
+              "app-translation/set-up-crowdin",
+              "affiliate-program-(closed)"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "TypingMind Team",
+        "pages": [
+          {
             "group": "TypingMind Team",
             "icon": "person-standing",
             "pages": [
@@ -423,26 +448,6 @@
                 ]
               }
             ]
-          },
-          {
-            "group": "TypingMind via SetApp",
-            "icon": "app-window",
-            "pages": [
-              "typingmind-via-setapp",
-              "typingmind-via-setapp/general-faqs",
-              "typingmind-via-setapp/setapp-limitation"
-            ]
-          },
-          {
-            "group": "Additional resources",
-            "icon": "external-link",
-            "pages": [
-              "typingmind-team",
-              "app-translation",
-              "app-translation/translation-collaboration",
-              "app-translation/set-up-crowdin",
-              "affiliate-program-(closed)"
-            ]
           }
         ]
       }
@@ -472,8 +477,8 @@
         "href": "mailto:support@typindmind.com"
       },
       {
-        "label": "Login",
-        "href": "https://www.typingmind.com/"
+        "label": "Changelog",
+        "href": "https://feedback.typingmind.com/changelog"
       }
     ]
   }

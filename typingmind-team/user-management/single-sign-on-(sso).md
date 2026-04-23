@@ -1,20 +1,19 @@
----
-title: "Single Sign-On (SSO)"
----
-[https://www.youtube.com/watch?v=zL05zONJJec](https://www.youtube.com/watch?v=zL05zONJJec)
+# Single Sign-On (SSO)
+
+<iframe src="https://www.youtube.com/embed/zL05zONJJec" title="YouTube video player" frameborder="0" className="w-full aspect-video rounded-xl" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen />
 
 ## Enable SSO for your chat instance
 
 Go to **Admin panel → User Authentication → Single Sign-On** and toggle on the “Enable Single Sign-On”.
 
-![Untitled](single-sign-on-(sso)/Untitled.webp)
+![Untitled](single-sign-on-\(sso\)/Untitled.png)
 
 You can now add new SAML connection to your chat instance. Click **“Add New Connection”**. You will be provided with the necessary information to add Typing Mind to your organization as a Service Provider.
 
 - Entity ID
 - Reply URL
 
-![Untitled](single-sign-on-(sso)/Untitled%201.webp)
+![Untitled](single-sign-on-\(sso\)/Untitled%201.png)
 
 Next, you can use these information to obtain the Metadata XML from the identity provider in your organization.
 
@@ -42,6 +41,6 @@ Please follow the link below for the instruction to setup SAML for your selected
 
 Once you have set up SSO, your users will see a new button “Use Single Sign-On (SSO)” in the login popup.
 
-![Untitled](single-sign-on-(sso)/Untitled%202.webp)
+![Untitled](single-sign-on-\(sso\)/Untitled%202.png)
 
-![Untitled](single-sign-on-(sso)/Untitled%203.webp)
+![Untitled](single-sign-on-\(sso\)/Untitled%203.png)
