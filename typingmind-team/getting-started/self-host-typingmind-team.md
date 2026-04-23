@@ -1,6 +1,7 @@
 ---
-title: "Self-host TypingMind Team"
+title: 'Self-host TypingMind Team'
 ---
+
 Self-host Typing Mind Team allows you to host TypingMind Team on your infrastructure. 
 
 ## Features & Limitations
@@ -62,7 +63,7 @@ Software updates will be released via the GitHub repo.
 
 ## Installation
 
-![](https://framerusercontent.com/images/sCMvdiqcFn0q2uk1H5Mx7kOcJYg.webp)
+![](https://framerusercontent.com/images/sCMvdiqcFn0q2uk1H5Mx7kOcJYg.png)
 
 ## Data Privacy
 

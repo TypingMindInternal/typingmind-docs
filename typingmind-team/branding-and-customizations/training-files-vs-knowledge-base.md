@@ -1,17 +1,18 @@
 ---
-title: "Training Files vs Knowledge Base"
+title: 'Training Files vs Knowledge Base'
 ---
+
 **When setting up [AI Agents](https://docs.typingmind.com/ai-agents/ai-agents-overview) in TypingMind Custom, you might wonder: what’s the difference between “Training Files” and “Knowledge Base Access”?**
 
 These two options help you customize your AI Agent responses with higher quality and more relevant, but they work differently. Let’s see the differences.
 
-![image.webp](training-files-vs-knowledge-base/image.webp)
+![image.png](training-files-vs-knowledge-base/image.png)
 
 ## **What are Training Files?**
 
 Training files let you upload documents that are **directly injected into the system prompt** to provide context for the AI Agent. The information provided in your documents becomes a part of the immediate interaction between the user and the model.
 
-![image.webp](training-files-vs-knowledge-base/image%201.webp)
+![image.png](training-files-vs-knowledge-base/image%201.png)
 
 The system will automatically extract texts from your uploaded documents to inject it into the system prompt of the AI Agent, therefore, the file size will be limited by the context length of the base model you choose for the AI Agent.
 
@@ -40,12 +41,12 @@ This is only available via TypingMind Custom:
 
 - You upload the documents or connect your data sources via the Knowledge Base center
 
-![image.webp](four-levels-of-data-integrations/image%202.webp)
+![image.png](four-levels-of-data-integrations/image%202.png)
 
 - Each data you connect to the center will be managed by tags, assign a specific tag to that data to categorize it
 - Assign that tag to the AI Agent so it can access the training data you select.
 
-![image.webp](training-files-vs-knowledge-base/image%202.webp)
+![image.png](training-files-vs-knowledge-base/image%202.png)
 
 Here’s a typical RAG workflow on TypingMind:
 

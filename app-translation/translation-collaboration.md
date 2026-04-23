@@ -1,9 +1,13 @@
 ---
 title: "Translation collaboration"
 ---
+<Warning>
+  We are no longer accepting collaborators for app translation at this time. We'll make an announcement if/when we open it up again. Thank you for your interest! 
+</Warning>
+
 We are working on support multi-language on [TypingMind.com](http://TypingMind.com).
 
-If you can help with translation, please contact **support@typingmind.com** and we’ll share more details.
+If you can help with translation, please contact [**support@typingmind.com**](mailto:support@typingmind.com) and we’ll share more details.
 
 ![Untitled](translation-collaboration/Untitled.webp)
 
@@ -15,10 +19,10 @@ If you can help with translation, please contact **support@typingmind.com** and 
 
 ## Guidelines
 
-- Please try to keep the translated text the same length as the original text. This is to ensure it doesn’t break the UI layout when displayed on the app. For example, the text “*Disabled*” when translated to Vietnamese, “*Đã tắt*” and “*Đã bị vô hiệu hóa*” both have the same meaning, but “*Đã tắt*” is preferred instead of “*Đã bị vô hiệu hóa*” because it has roughly the same amount of characters, and displayed with the same size on the app UI.
+- Please try to keep the translated text the same length as the original text. This is to ensure it doesn’t break the UI layout when displayed on the app. For example, the text “_Disabled_” when translated to Vietnamese, “_Đã tắt_” and “_Đã bị vô hiệu hóa_” both have the same meaning, but “_Đã tắt_” is preferred instead of “_Đã bị vô hiệu hóa_” because it has roughly the same amount of characters, and displayed with the same size on the app UI.
 - Avoid translating key technical terms and brand names where you seem fit. For example: TypingMind (brand name, don’t translate), prompts, etc.
 
-Please check more detail: [Detail guidelines for TypingMind translation process](Set%20up%20Crowdin%20fa75452527aa4bb1b53e50e57ffc766e.md)
+Please check more detail: [Detail guide on TypingMind translation process](/app-translation/set-up-crowdin)
 
 ## Contribution Term
 

@@ -320,52 +320,55 @@
               {
                 "group": "Branding & Customizations",
                 "pages": [
-                  "typingmind-team/branding-and-customizations",
+                  "typingmind-team/branding-and-customizations/branding-and-customizations",
                   "typingmind-team/branding-and-customizations/custom-branding",
                   "typingmind-team/branding-and-customizations/custom-domain",
                   "typingmind-team/branding-and-customizations/customize-the-chat-interface",
                   "typingmind-team/branding-and-customizations/custom-email-sender-via-smtp",
                   "typingmind-team/branding-and-customizations/build-a-shared-prompt-library",
                   "typingmind-team/branding-and-customizations/build-a-shared-ai-agent-collection",
-                  "typingmind-team/branding-and-customizations/four-levels-of-data-integrations",
                   "typingmind-team/branding-and-customizations/system-prompts-on-admin-panel",
+                  "typingmind-team/branding-and-customizations/enable-llms-to-cite-sources-when-using-rag"
+                ]
+              },
+              {
+                "group": "Connect with Your Data",
+                "pages": [
+                  "typingmind-team/branding-and-customizations/four-levels-of-data-integrations",
                   "typingmind-team/branding-and-customizations/get-started-with-knowledge-base",
                   "typingmind-team/branding-and-customizations/how-knowledge-base-works-in-typingmind-team",
-                  "typingmind-team/branding-and-customizations/training-files-vs-knowledge-base",
-                  "typingmind-team/branding-and-customizations/connect-with-your-notion-pages",
                   "typingmind-team/branding-and-customizations/connect-knowledge-base-to-your-ai-agents",
-                  "typingmind-team/branding-and-customizations/restrict-model-access",
-                  "typingmind-team/branding-and-customizations/restrict-prompt-access",
-                  "typingmind-team/branding-and-customizations/restrict-ai-agents-access",
-                  "typingmind-team/branding-and-customizations/enable-llms-to-cite-sources-when-using-rag"
+                  "typingmind-team/branding-and-customizations/connect-with-your-notion-pages",
+                  "typingmind-team/branding-and-customizations/training-files-vs-knowledge-base"
                 ]
               },
               {
                 "group": "User Management",
                 "pages": [
-                  "typingmind-team/user-management",
-                  "typingmind-team/user-management/invite-team-members",
-                  "typingmind-team/user-management/create-and-manage-user-groups",
-                  "typingmind-team/user-management/external-authentication-via-jwt",
-                  "typingmind-team/user-management/directory-sync-(scim-v2)",
-                  "typingmind-team/user-management/oauth-2.0",
-                  "typingmind-team/user-management/oauth-2.0",
-                  "typingmind-team/user-management/single-sign-on-(sso)",
-                  "typingmind-team/user-management/set-up-sso-via-jumpcloud",
-                  "typingmind-team/user-management/access-control:-private-and-authorized-mode",
-                  "typingmind-team/user-management/roles-and-permissions",
-                  "typingmind-team/user-management/usage-limits:-set-limits-per-ai-model-agent-and-user",
-                  "typingmind-team/user-management"
-                ]
-              },
-              {
-                "group": "Account Management",
-                "pages": [
-                  "typingmind-team/account-management",
-                  "typingmind-team/account-management/manage-your-subscription",
-                  "typingmind-team/account-management/change-the-owner-email",
-                  "typingmind-team/account-management/eu-data-center",
-                  "typingmind-team/account-management/purchase-training-characters"
+                  "user-management",
+                  {
+                    "group": "Users & Authentication",
+                    "pages": [
+                      "typingmind-team/user-management/invite-team-members",
+                      "typingmind-team/user-management/create-and-manage-user-groups",
+                      "typingmind-team/user-management/roles-and-permissions",
+                      "typingmind-team/user-management/o-auth-2-0",
+                      "typingmind-team/user-management/single-sign-on-(sso)",
+                      "typingmind-team/user-management/set-up-sso-via-jumpcloud",
+                      "typingmind-team/user-management/external-authentication-via-jwt",
+                      "typingmind-team/user-management/directory-sync-(scim-v2)"
+                    ]
+                  },
+                  {
+                    "group": "Access Control",
+                    "pages": [
+                      "typingmind-team/user-management/access-control:-private-and-authorized-mode",
+                      "typingmind-team/user-management/usage-limits:-set-limits-per-ai-model-agent-and-user",
+                      "typingmind-team/branding-and-customizations/restrict-model-access",
+                      "typingmind-team/branding-and-customizations/restrict-prompt-access",
+                      "typingmind-team/branding-and-customizations/restrict-ai-agents-access"
+                    ]
+                  }
                 ]
               },
               {
@@ -377,10 +380,19 @@
                 ]
               },
               {
+                "group": "Account Management",
+                "pages": [
+                  "typingmind-team/account-management/account-management",
+                  "typingmind-team/account-management/manage-your-subscription",
+                  "typingmind-team/account-management/change-the-owner-email",
+                  "typingmind-team/account-management/eu-data-center",
+                  "typingmind-team/account-management/purchase-training-characters"
+                ]
+              },
+              {
                 "group": "Analytics",
                 "pages": [
-                  "typingmind-team/analytics",
-                  "typingmind-team/analytics",
+                  "typingmind-team/analytics/analytics",
                   "typingmind-team/integrations/export-chat-logs",
                   "typingmind-team/analytics/view-and-export-user-chat-logs",
                   "typingmind-team/analytics/chatbot-analytics"
@@ -390,8 +402,16 @@
                 "group": "Use Cases",
                 "pages": [
                   "typingmind-team/use-cases",
-                  "typingmind-team/use-cases/build-a-customer-support-bot-exactly-like-typingmind-support-bot",
+                  "typingmind-team/use-cases/build-a-customer-support-bot-exactly-like-typingmi",
                   "typingmind-team/use-cases/build-an-ai-coaching-agent-for-your-members"
+                ]
+              },
+              {
+                "group": "Self-host Guides",
+                "pages": [
+                  "typingmind-team/self-host-guides",
+                  "typingmind-team/self-host-guides/get-started-with-self-host-installation-instruct",
+                  "typingmind-team/self-host-guides/setup-external-connectors-for-knowledge-base"
                 ]
               },
               {
@@ -400,14 +420,6 @@
                   "typingmind-team/reseller-program",
                   "typingmind-team/reseller-program/how-to-monetize-with-typingmind",
                   "typingmind-team/reseller-program/reseller-license-and-demo-chat-instance"
-                ]
-              },
-              {
-                "group": "Self-host Guides",
-                "pages": [
-                  "typingmind-team/self-host-guides",
-                  "typingmind-team/self-host-guides/get-started-with-self-host-installation-instruction-(docker)",
-                  "typingmind-team/self-host-guides/setup-external-connectors-for-knowledge-base"
                 ]
               }
             ]

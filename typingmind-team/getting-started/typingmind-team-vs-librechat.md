@@ -1,4 +1,6 @@
-# TypingMind Team vs LibreChat
+---
+title: 'TypingMind Team vs LibreChat'
+---
 
 A comparison between [TypingMind Custom](https://custom.typingmind.com) and LibreChat.
 

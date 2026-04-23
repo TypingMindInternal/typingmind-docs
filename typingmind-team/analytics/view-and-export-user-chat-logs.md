@@ -1,9 +1,10 @@
 ---
-title: "View and Export User Chat Logs"
+title: 'View User Chat Logs'
 ---
+
 TypingMind Team allows Admins to review chat logs by all users to understand use cases, detect issues, and adjust prompts to better handle user queries.
 
-![Untitled](view-and-export-user-chat-logs/Untitled.webp)
+![Untitled](view-and-export-user-chat-logs/Untitled.png)
 
 Let’s check out on how to do that!
 
@@ -12,10 +13,10 @@ Let’s check out on how to do that!
 1. Log in to your chat instance
 2. Go to “**Chat Logs**” menu in the General section
 3. By default, only [Anonymous chats](https://www.notion.so/a1e5539c082b4ef8a76a7e30677ca66f?pvs=21) are recorded. However, you can choose to record all chats from all users:
-    - Click on **Settings**
-    - Enable **Record all chats from your users**
+   - Click on **Settings**
+   - Enable **Record all chats from your users**
 
-![Untitled](view-and-export-user-chat-logs/Untitled%201.webp)
+![Untitled](view-and-export-user-chat-logs/Untitled%201.png)
 
 # Best practices for monitoring your chat logs
 

@@ -1,9 +1,10 @@
 ---
-title: "Custom domain"
+title: 'Custom Domain'
 ---
+
 When you connect your domain to your chat instance, you'll need to update the DNS records in your DNS provider. Below are general instructions for updating your DNS records, as well as detailed instructions for the most common DNS providers.
 
-![Untitled](custom-domain/Untitled.webp)
+![Untitled](custom-domain/Untitled.png)
 
 # **Access DNS Record Information**
 

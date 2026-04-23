@@ -1,15 +1,12 @@
 ---
 title: "How Knowledge Base works in TypingMind Team"
 ---
-<aside>
-🔥 **Note:** The Knowledge Base feature is currently in **Early Access**. Many more changes will be made in the near future on how the knowledge base is done for the AI assistant.
-We’ll make announcements via email, [our Blog](https://blog.typingmind.com), and via our [Discord channel](https://typingmind.com/discord) when there is any change in this document.
 
-</aside>
+<Note>
+  **Note:** The Knowledge Base feature is currently in **Early Access**. Many more changes will be made in the near future on how the knowledge base is done for the AI assistant. We’ll make announcements via email, and via our [changelog](https://feedback.typingmind.com/changelog) when there is any change in this document.
+</Note>
 
 Connecting knowledge base as training data helps you train the AI assistant with your domain-specific knowledge and let the AI assistant understand context, respond accurately, and improve over time with your updated data. Let's see how you can set up knowledge base and how these data work with TypingMind Team.
-
-**Table of contents:**
 
 ## Setup knowledge base for your chat instance.
 
@@ -18,13 +15,13 @@ Go to the Admin Panel → Knowledge Base. Here you can setup your knowledge base
 1. Upload files up to 50MB per file. Supported format: PDF, DOCX, TXT, CSV, etc.
 2. Pulling data from other services (Notion, Google Drive like Google Docs, Google Sheet, etc.)
 
-![image.webp](four-levels-of-data-integrations/image%201.webp)
+![image.png](four-levels-of-data-integrations/image%201.png)
 
 ## How knowledge base is provided to the assistant.
 
 ### Knowledge base provided via Uploaded Files
 
-![image.webp](how-knowledge-base-works-in-typingmind-team/image.webp)
+![image.png](how-knowledge-base-works-in-typingmind-team/image.png)
 
 The AI assistant gets the data from uploaded files via a vector database. Here is how the files are processed:
 
@@ -40,7 +37,7 @@ All of your uploaded files are stored securely on our system. We never share you
 
 ### Knowledge base provided **via connected sources (Notion, Github,…)**
 
-![image.webp](four-levels-of-data-integrations/image%202.webp)
+![image.png](four-levels-of-data-integrations/image%202.png)
 
 In addition to uploading files, you can also connect external data sources, such as Notion, Intercom, etc., to train your AI assistant.
 
@@ -48,14 +45,13 @@ In addition to uploading files, you can also connect external data sources, such
 - **Data extraction and chunking**: The process of data extraction and chunking works the same way as it does for uploaded files. The system extracts the raw text, preserves the meaningful context, and splits the text into manageable chunks.
 - **Data refresh**: the system will refresh the data from the connected sources once per day. This ensures that your AI assistant always has access to the most up-to-date information.
 
-![image.webp](how-knowledge-base-works-in-typingmind-team/image%201.webp)
+![image.png](how-knowledge-base-works-in-typingmind-team/image%201.png)
 
-<aside>
-💡 There are many options to connect your knowledge base with LLMs on TypingMind, learn more:
+<Tip>
+  There are many options to connect your knowledge base with LLMs on TypingMind, learn more:
 
-[Four levels of data integrations](Four%20levels%20of%20data%20integrations%2091f313344d634701875e22ecb6ddd530.md)
-
-</aside>
+  [Four levels of data integrations](/typingmind-team/branding-and-customizations/four-levels-of-data-integrations)
+</Tip>
 
 ## Be aware of Prompt Injection attacks
 
@@ -66,11 +62,11 @@ However, all LLM models are subject to [Prompt Injection](https://arxiv.org/abs/
 ## Best practices to provide knowledge base
 
 1. Use raw text in [Markdown](https://en.wikipedia.org/wiki/Markdown) format if you can. LLM model understands markdown very well and can make sense of the content much more efficient compare to PDFs, DOCX, etc.
-2. Use both Upload Files and [System Prompts](System%20Prompts%20on%20Admin%20Panel%20efd91f599aea4426b825648b9cb527ba.md). A combination of a well-prompted system instruction and a clean knowledge base is proven to have the best result for the end users.
-3. Stay tuned for quality updates from us. We improve the knowledge base processing and handling all the time. We’re working on some approaches that will guarantee to provide much better quality overall for the AI assistant to lookup knowledge base. Be sure to check our updates at our [Blog](https://blog.typingmind.com/).
+2. Use both Upload Files and [System Prompts](/system-prompt/system-instruction). A combination of a well-prompted system instruction and a clean knowledge base is proven to have the best result for the end users.
+3. Stay tuned for quality updates from us. We improve the knowledge base processing and handling all the time. We’re working on some approaches that will guarantee to provide much better quality overall for the AI assistant to lookup knowledge base. 
 
 ## Notes
 
-By default, you will have 1M training characters to upload your data for free. If your uploaded training characters for knowledge base exceeds this number,  please go to Admin > Billing page to buy more training characters.
+By default, you will have 1M training characters to upload your data for free. If your uploaded training characters for knowledge base exceeds this number,  please go to Admin \> Billing page to buy more training characters.
 
 **Last update:**  10 Nov 2025.

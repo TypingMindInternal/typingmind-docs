@@ -1,6 +1,7 @@
 ---
-title: "TypingMind Team vs Claude Team"
+title: 'TypingMind Team vs Claude Team'
 ---
+
 A comparison between [TypingMind Custom](https://www.notion.so/TypingMind-Custom-10343041038e445d9fb5ececf4728869?pvs=21) and Claude Team Plan:
 
 | **Feature** | **Typing Mind Custom** | **Claude Team** |

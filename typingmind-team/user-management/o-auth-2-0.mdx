@@ -1,11 +1,12 @@
 ---
 title: "OAuth 2.0"
 ---
+
 Users can log in to your chat instance with Google, Facebook, and other accounts. In order to do this, you need to set up OAuth 2.0 as a user authentication method in your TypingMind instance.
 
 This page will guide you on how to set up OAuth 2.0 for user authentication.
 
-![Untitled](single-sign-on-(sso)/Untitled.webp)
+![Untitled](single-sign-on-\(sso\)/Untitled.png)
 
 ## Overview
 
@@ -27,20 +28,19 @@ TypingMind needs an OAuth Client ID and OAuth Client Secret to integrate with th
 
 In this example, we will use Google as our provider.
 
-<aside>
-💡 The steps to create an OAuth app are mostly the same across all providers (Facebook, Microsoft, LinkedIn, etc.). If you don’t know how to create an OAuth app with your provider, a quick Google search should give you the necessary information.
-
-</aside>
+<Tip>
+  The steps to create an OAuth app are mostly the same across all providers (Facebook, Microsoft, LinkedIn, etc.). If you don’t know how to create an OAuth app with your provider, a quick Google search should give you the necessary information.
+</Tip>
 
 Go to [https://console.cloud.google.com](https://console.cloud.google.com) and sign up an account if you don’t already have one.
 
 Then click “OAuth consent screen” and start setting up your OAuth app info (name, logo, website, etc.). This info will be shown to the user when they try to login to your chat instance with Google.
 
-![Untitled](single-sign-on-(sso)/Untitled%201.webp)
+![Untitled](single-sign-on-\(sso\)/Untitled%201.png)
 
 Then go to “Credentials” and create a new credentials using **OAuth Client ID**
 
-![Untitled](single-sign-on-(sso)/Untitled%202.webp)
+![Untitled](single-sign-on-\(sso\)/Untitled%202.png)
 
 Under the “Authorized redirect URIs”, enter the following value:
 
@@ -48,34 +48,34 @@ Under the “Authorized redirect URIs”, enter the following value:
 
 You will also see this URL at a later step and copy it.
 
-![Untitled](single-sign-on-(sso)/Untitled%203.webp)
+![Untitled](single-sign-on-\(sso\)/Untitled%203.png)
 
 Once you are done, take note of the Client ID and Client Secret. You will need to use these values in the next step.
 
-![Untitled](oauth-2.0/Untitled%204.webp)
+![Untitled](oauth-2.0/Untitled%204.png)
 
 ## Step 2: Add a new OAuth connection
 
 - Login to your **Admin Panel → User Management → Authentication → OAuth 2.0**
 - Click Add New OAuth 2.0 Connection
 
-![Untitled](oauth-2.0/Untitled%205.webp)
+![Untitled](oauth-2.0/Untitled%205.png)
 
 At this step, you will see your **OAuth Callback URL.** You need to set this URL in your Google Cloud OAuth credentials setting, under the “**Authorized redirect URIs”** section.
 
 Then select “Google” from the UI.
 
-![Untitled](oauth-2.0/Untitled%206.webp)
+![Untitled](oauth-2.0/Untitled%206.png)
 
 Next, enter your Client ID and Client Secret. Then click Add Connection.
 
-![Untitled](oauth-2.0/Untitled%207.webp)
+![Untitled](oauth-2.0/Untitled%207.png)
 
 Once the connection is added, you will see the new entry in the admin panel and under the login section of your chat instance.
 
-![Untitled](oauth-2.0/Untitled%208.webp)
+![Untitled](oauth-2.0/Untitled%208.png)
 
-![Untitled](oauth-2.0/Untitled%209.webp)
+![Untitled](oauth-2.0/Untitled%209.png)
 
 ## Use other identity providers (Generic OAuth 2.0 with OIDC)
 
@@ -89,7 +89,7 @@ In this mode, you will need to provide all the relevant information needed to fo
 - Content Type
 - Scopes
 
-![Untitled](oauth-2.0/Untitled%2010.webp)
+![Untitled](oauth-2.0/Untitled%2010.png)
 
 TypingMind uses standard OAuth 2.0 / OIDC authorization flow to identify the user. For this reason, if your OAuth provider does not follow the OAuth 2.0 standard and OIDC protocol, the user authorization flow might not work.
 
@@ -97,11 +97,11 @@ Here are some tips and workarounds if the user authorization fails:
 
 - Ensure that the `access_token` and `id_token` property is returned from the request to **Token URL**.
 - The `id_token` must be a JWT token with the following property in its payload:
-    - `sub` : system wide unique user identification number
-    - `email`
-    - `given_name`
-    - `family_name`
-    - `picture` : URL to the user’s profile picture.
+  - `sub` : system wide unique user identification number
+  - `email`
+  - `given_name`
+  - `family_name`
+  - `picture` : URL to the user’s profile picture.
 
 ## Notes and limitations
 
@@ -111,4 +111,4 @@ Here are some tips and workarounds if the user authorization fails:
 4. At this time, the user account does not get logged out or deleted if you revoke the access token from the identity provider. You will need to remove the user manually from TypingMind’s Admin Panel. If you encounter this case and need a better solution, please contact us.
 5. If the OAuth account have the same email as an existing account in your instance, the user will be automatically connected to that OAuth connection.
 6. At this time, a user can only connect with exactly one OAuth connection. For example, if they already connect using Google login and later connect again using Facebook login, they will need to unlink their account from Google login first.
-7. You can use the `access_token` (or `id_token`) via plugins using a special parameter in the plugin’s code, see the [**TypingMind Plugins**](../../Plugins/Build%20a%20TypingMind%20Plugin%207ecc24adfcde4443b37ce7e4aea73b05.md) for more details.
+7. You can use the `access_token` (or `id_token`) via plugins using a special parameter in the plugin’s code, see the [**TypingMind Plugins**](/plugins/use-typing-mind-plugin) for more details.

@@ -1,16 +1,17 @@
 ---
-title: "Build an AI Coaching Agent for your members"
+title: 'Build an AI Coaching Agent'
 ---
+
 If you are looking to develop an AI Coaching agent and want to sell memberships to your users, follow these step-by-step instructions to get started:
 
-<aside>
-💡 Please note that this coaching bot can only be done with TypingMind Custom (custom.typingmind.com).
+<Note>
+    Please note that this coaching bot can only be done with TypingMind Team (custom.typingmind.com).
 
-With Typing Mind Custom, you can create a chat instance under your own domain that functions just like [TypingMind.com](http://typingmind.com/). It allows full control and customization of the chat instance through an Admin Panel.
+    With Typing Mind Team, you can create a chat instance under your own domain that functions just like [TypingMind.com](http://typingmind.com/). It allows full control and customization of the chat instance through an Admin Panel.
 
-</aside>
+</Note>
 
-# First, define your goals
+## First, define your goals
 
 First you will need to define what you are going to offer your users and how it should be delivered:
 
@@ -27,20 +28,20 @@ In this case, we are **assuming that you are building a coaching agent for busin
 
 Let’s get started on how to build this type of chatbot!
 
-# 9 steps to build a coaching agent on TypingMind Custom
+## 9 steps to build a coaching agent on TypingMind Custom
 
-## Step 1: Set up a chat instance
+### Step 1: Set up a chat instance
 
 In case you haven’t had a chat instance for TypingMind Custom yet, please sign up for one at [https://www.typingmind.com/new-deployment](https://www.typingmind.com/new-deployment)
 
-<aside>
-💡 You can choose your hosting location: US and EU to better comply with your company policy.
+<Tip>
+    You can choose your hosting location: US and EU to better comply with your company policy.
 
-</aside>
+</Tip>
 
-![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%201.webp)
+![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%201.png)
 
-## Step 2: Connect the chatbot with your API keys
+### Step 2: Connect the chatbot with your API keys
 
 After signing up, you will be landed in the Admin Panel, where you can customize almost everything on the chat interface. 
 
@@ -51,15 +52,15 @@ To get the chatbot to work properly, you will need to **connect it with the chat
     - `Anthropic Claude`: Claude 3, Claude Instant, etc.
     - `Gemini models`: Gemini 1.0, Gemini 1.5, Gemini 1.0 Pro Vision, Gemini Ultra
 
-![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled.webp)
+![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled.png)
 
 - Go to **Manage Models** menu and click **Add Custom Models** if you want to use Azure OpenAI, Perplexity, Mistral, etc. by adding custom models on your Admin Panel.
 
-![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%201.webp)
+![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%201.png)
 
-## Step 3: Customize the chatbot’s UI
+### Step 3: Customize the chatbot’s UI
 
-### 1. Branding
+#### 1. Branding
 
 Get the bot to work under your branding:
 
@@ -69,23 +70,23 @@ Get the bot to work under your branding:
 - Choose your chatbot language
 - Pick a theme for the bot to match your brand style
 
-![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%202.webp)
+![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%202.png)
 
 Here’s how members will see on the chat interface:
 
-![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%203.webp)
+![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%203.png)
 
-### 2. Feature visibility
+#### 2. Feature visibility
 
 Determine which features should be visible in the chat interface. Navigate to the "**Chat Features**" section to enable or disable features on the user interface (UI).
 
-![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%204.webp)
+![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%204.png)
 
 Once a feature is disabled, it will no longer appear on the chat interface, meaning that your members will not be able to see or use it
 
-![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%205.webp)
+![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%205.png)
 
-## Step 4: Define user tags
+### Step 4: Define user tags
 
 Assigning tags to members helps you control member access to specific prompts and AI Agents. Below is an example:
 
@@ -94,16 +95,16 @@ Assigning tags to members helps you control member access to specific prompts an
 - “pro” as Pro users
 - “custom” as Custom users
 
-![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%206.webp)
+![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%206.png)
 
-## Step 5: Build AI Agent for each tier and restrict usage
+### Step 5: Build AI Agent for each tier and restrict usage
 
-<aside>
-💡 Building AI Agents allow you to build multiple AI experts specialized in different use case for your members. You just need to provide the instructions (and training data if any) to the AI Agents to guide the AI model on how to answer the member queries.
+<Tip>
+    Building AI Agents allow you to build multiple AI experts specialized in different use case for your members. You just need to provide the instructions (and training data if any) to the AI Agents to guide the AI model on how to answer the member queries.
 
-More details at: [https://custom.typingmind.com/features/ai-characters-with-custom-data](https://custom.typingmind.com/features/ai-characters-with-custom-data)
+    More details at: [https://custom.typingmind.com/features/ai-characters-with-custom-data](https://custom.typingmind.com/features/ai-characters-with-custom-data)
 
-</aside>
+</Tip>
 
 First you need to create **AI Agent** for different member tiers. Go to **AI Agents** section and click **Add Agents:**
 
@@ -112,7 +113,7 @@ First you need to create **AI Agent** for different member tiers. Go to **AI Age
 - Pro: use Sales Strategist
 - Custom: use Financial Advisor
 
-![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%207.webp)
+![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%207.png)
 
 By default, these AI Agents will be shown on the chat UI and accessible by all members.
 
@@ -120,9 +121,9 @@ To prevent mix access of members from different tiers, you will need to limit th
 
 To do this, you should assign each AI Agents with different user tags that you have set in step 4:
 
-![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%208.webp)
+![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%208.png)
 
-![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%209.webp)
+![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%209.png)
 
 Members can only see the AI Agent that you provide access for them.
 
@@ -134,10 +135,10 @@ You can restrict usage on your Coaching bot to control cost and ensure fair use 
 - Choose the chat model you are currently using for the Coaching bot
 - Control its visibility and its allowed usage
 
-<aside>
-💡 Detail on how to limit usage: [https://custom.typingmind.com/features/limit-chat-model-access](https://custom.typingmind.com/features/limit-chat-model-access)
+<Tip>
+    Detail on how to limit usage: [https://custom.typingmind.com/features/limit-chat-model-access](https://custom.typingmind.com/features/limit-chat-model-access)
 
-</aside>
+</Tip>
 
 For example:
 
@@ -145,23 +146,23 @@ For example:
 - **Basic users** can use GPT-4 with cap at 70 messages / hour
 - **Pro users** can use GPT-4 with cap at 150 messages / hour and use with other chat models such as Claude 3 Opus, Google Gemini 1.5
 
-![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%2010.webp)
+![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%2010.png)
 
-![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%2011.webp)
+![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%2011.png)
 
-## Step 7: Connect with your payment system
+### Step 7: Connect with your payment system
 
 Make use of our API to integrate with your existing payment system. Here’s more details: [https://custom.typingmind.com/features/api-access](https://custom.typingmind.com/features/api-access)
 
-![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%2012.webp)
+![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%2012.png)
 
-## Step 8: Test your chatbot
+### Step 8: Test your chatbot
 
 Test your chatbot with multiple questions varied in different scenarios to ensure the chatbot answers correctly on your queries. 
 
 Update your system instruction and training data within the AI Agent accordingly, and continue until you are confident with the AI responses.
 
-## Step 9: Enable Chat Logs to track how members engage with the chatbot
+### Step 9: Enable Chat Logs to track how members engage with the chatbot
 
 This option allows you to view user chat history to make sure the AI model response as expected and adjust your guidelines accordingly:
 
@@ -169,9 +170,9 @@ This option allows you to view user chat history to make sure the AI model respo
 - Click Settings on the top right corner
 - Enable the option “**Record all chats from your users**”
 
-![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%2013.webp)
+![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled%2013.png)
 
-# Conclusion
+## Conclusion
 
 TypingMind Custom offers 14-day free trial for all plans, no upfront cost. You can give it a try, explore the capabilities here [https://www.typingmind.com/new-deployment](https://www.typingmind.com/new-deployment)
 
