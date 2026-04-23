@@ -449,8 +449,8 @@
     "drilldown": false
   },
   "logo": {
-    "light": "/images/tmlogo-light.png",
-    "dark": "/images/tmlogodark.png",
+    "light": "/images/tmlogo-light.webp",
+    "dark": "/images/tmlogo-dark.webp",
     "href": "https://www.typingmind.com/?utm_source=docs"
   },
   "navbar": {
