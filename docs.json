@@ -13,7 +13,7 @@
       {
         "tab": "Documentation",
         "pages": [
-          "introduction",
+          "index",
           "install-typingmind-app",
           {
             "group": "Get Started",
@@ -308,7 +308,6 @@
             "group": "Additional resources",
             "icon": "external-link",
             "pages": [
-              "typingmind-team",
               "app-translation",
               "app-translation/translation-collaboration",
               "app-translation/set-up-crowdin",
@@ -320,7 +319,7 @@
       {
         "tab": "TypingMind Team",
         "pages": [
-          "typingmind-team",
+          "typingmind-teams",
           {
             "group": "Get started",
             "icon": "rocket",
