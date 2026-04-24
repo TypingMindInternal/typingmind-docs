@@ -1,18 +1,18 @@
 ---
 title: "TypingMind"
 ---
-<aside>
-🚨
+<Warning>
 
-**IMPORTANT NOTE - WE HAVE MOVED OUR CHANGELOG PAGE!**
+  **IMPORTANT NOTE - WE HAVE MOVED OUR CHANGELOG PAGE!**
 
-All product updates, improvements, and new features are now available at our new changelog page 👉 [https://typingmind.canny.io/changelog](https://typingmind.canny.io/changelog)
+  All product updates, improvements, and new features are now available at our new changelog page 👉 [www.typingmind.com/changelog](https://www.typingmind.com/changelog)
 
-Follow along to stay up to date with what’s new!
+  Follow along to stay up to date with what’s new!
 
-You can still access the older changelogs via this page.
+  You can still access the older changelogs via this page.
 
-</aside>
+</Warning>
+
 
 Latest feature updates on typingmind.com:
 

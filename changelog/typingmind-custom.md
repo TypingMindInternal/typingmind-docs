@@ -1,18 +1,17 @@
 ---
 title: "TypingMind Custom"
 ---
-<aside>
-🚨
+<Warning>
 
-**IMPORTANT NOTE - WE HAVE MOVED OUR CHANGELOG PAGE!**
+  **IMPORTANT NOTE - WE HAVE MOVED OUR CHANGELOG PAGE!**
 
-All product updates, improvements, and new features are now available at our new changelog page 👉 [www.typingmind.com/changelog](https://www.typingmind.com/changelog)
+  All product updates, improvements, and new features are now available at our new changelog page 👉 [www.typingmind.com/changelog](https://www.typingmind.com/changelog)
 
-Follow along to stay up to date with what’s new!
+  Follow along to stay up to date with what’s new!
 
-You can still access the older changelogs via this page.
+  You can still access the older changelogs via this page.
 
-</aside>
+</Warning>
 
 👉 [**View changelog for user-facing features**](https://docs.typingmind.com/46f836dc495c4e88b3eea8ba0a45cd58)
 
