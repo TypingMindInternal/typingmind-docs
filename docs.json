@@ -17,6 +17,7 @@
           {
             "group": "Changelog",
             "icon": "newspaper",
+            "hidden": true,
             "pages": [
               "changelog/typingmind",
               "changelog/typingmind-custom"
@@ -210,6 +211,14 @@
             ]
           },
           {
+            "group": "Upload and Chat with Files",
+            "icon": "arrow-big-up",
+            "pages": [
+              "upload-and-chat-with-files/chat-with-documents",
+              "upload-and-chat-with-files/chat-with-videos"
+            ]
+          },
+          {
             "group": "Voice",
             "icon": "speaker",
             "pages": [
@@ -227,11 +236,12 @@
             ]
           },
           {
-            "group": "Upload and Chat with Files",
-            "icon": "arrow-big-up",
+            "group": "Static Self-host",
+            "icon": "rocket",
             "pages": [
-              "upload-and-chat-with-files/chat-with-documents",
-              "upload-and-chat-with-files/chat-with-videos"
+              "static-self-host",
+              "static-self-host/static-self-host-package-and-updates",
+              "static-self-host/static-self-host-faqs"
             ]
           },
           {
@@ -253,15 +263,6 @@
               "cloud-sync-and-backup/cloud-sync-and-backup-overview",
               "cloud-sync-and-backup/cloud-storage",
               "cloud-sync-and-backup/export-import-data"
-            ]
-          },
-          {
-            "group": "Static Self-host",
-            "icon": "rocket",
-            "pages": [
-              "static-self-host",
-              "static-self-host/static-self-host-package-and-updates",
-              "static-self-host/static-self-host-faqs"
             ]
           },
           {
@@ -296,10 +297,10 @@
             "group": "Account & support",
             "icon": "phone-call",
             "pages": [
+              "manage-license-and-devices",
               "general-faqs",
               "support",
-              "support/zero-tolerance-policy",
-              "manage-license-and-devices"
+              "support/zero-tolerance-policy"
             ]
           },
           {

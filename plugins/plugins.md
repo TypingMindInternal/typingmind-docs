@@ -4,13 +4,12 @@ hidden: true
 
 # Plugins
 
-<aside>
-  💡
+<Note>
 
   **TypingMind Plugins** is a powerful system that allow you to extend the capabilities of the AI assistant by giving it access to external tools.
 
   Explore and share your awesome extensions here! 👉 [**awesome-typingmind**](http://github.com/TypingMind/awesome-typingmind)
-</aside>
+</Note>
 
 ![image.webp](plugins/image.webp)
 

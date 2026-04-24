@@ -1,6 +1,8 @@
 ---
 title: "TypingMind Custom"
+hidden: true
 ---
+
 <Warning>
 
   **IMPORTANT NOTE - WE HAVE MOVED OUR CHANGELOG PAGE!**
