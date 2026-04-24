@@ -1,25 +1,19 @@
 ---
 title: "Roles and Permissions"
+description: "Add team members to your chat instance, assign specific roles and permissions, and enable them to access the Admin Panel."
 ---
+
 Running and managing a chat instance on your own can be challenging. Beyond managing users, you also need to train AI agents, monitor interactions, and ensure that AI responses are consistently high quality.
 
-That’s where our advanced **Roles and Permissions** system comes in. This feature allows you to add team members to your chat instance, assign specific roles and permissions, and enable them to access the Admin Panel to support you in their designated functions.
+That's where our advanced **Roles and Permissions** system comes in. This feature allows you to add team members to your chat instance, assign specific roles and permissions, and enable them to access the Admin Panel to support you in their designated functions.
 
-This also give you - the instance owners more granular control over the permissions you give to your team members.
-
-The new system is designed to be customizable and highly flexible, so let’s dive into the details to get a better understanding of how this advanced role and permission setup works on TypingMind!
-
-![image.webp](roles-and-permissions/image.webp)
+This also gives you — the instance owner — more granular control over the permissions you grant to your team members.
 
 ## What are Roles and Permissions on TypingMind?
 
 ### TypingMind Roles
 
-Instance owners can create **Custom Roles** within each chat instance.
-
-You can define a variety of roles, each with a unique set of permissions, and then assign these roles directly to team members. 
-
-This ensures that each person has access only to the features necessary for their role.
+Instance owners can create **Custom Roles** within each chat instance. You can define a variety of roles, each with a unique set of permissions, and then assign these roles directly to team members. This ensures that each person has access only to the features necessary for their role.
 
 ### TypingMind Permissions
 
@@ -27,152 +21,128 @@ This ensures that each person has access only to the features necessary for thei
 
 **For example**, if a role lacks the *View Chat Logs* permission, users assigned to that role will be unable to access the chat logs page. Similarly, if a role does not have the *View the API Keys page* permission, users in that role will be restricted from viewing or configuring API keys.
 
-<aside>
-💡
-
-**Previously,** TypingMind included two predefined roles: Admin and Content Moderator.
-
-The Admin role will remain as the role with the highest level of permissions and will be available by default.
-
-However, the Content Moderator role will be removed. We provide you with more flexible options instead - custom-defined roles that better suit your team’s specific needs. 
-
-</aside>
+<Note>
+  **Previously,** TypingMind included two predefined roles: Admin and Content Moderator. The Admin role will remain as the role with the highest level of permissions and will be available by default. However, the Content Moderator role has been removed in favor of more flexible, custom-defined roles that better suit your team's specific needs.
+</Note>
 
 ### Why use TypingMind Roles and Permissions?
 
-- **Flexibility and control:** bundle the required permissions into the right roles and assign them to users across the organization to suit your workflow needs.
-- **Security and compliance:** minimize security risks by granting only necessary permissions to your users with custom roles.
-- **Improved productivity:** custom roles ensure that users access only the necessary parts of the chat instance Admin Panel relevant to their functions, avoiding overwhelm.
-- **Scalability:** custom roles simplify permission management as teams grow and ensure the right people have the right access.
+<CardGroup cols={2}>
+  <Card title="Flexibility and control" icon="sliders-horizontal">
+    Bundle the required permissions into the right roles and assign them to users across the organization to suit your workflow needs.
+  </Card>
+  <Card title="Security and compliance" icon="shield-check">
+    Minimize security risks by granting only necessary permissions to your users with custom roles.
+  </Card>
+  <Card title="Improved productivity" icon="gauge">
+    Custom roles ensure that users access only the relevant parts of the Admin Panel for their function, avoiding overwhelm.
+  </Card>
+  <Card title="Scalability" icon="trending-up">
+    Custom roles simplify permission management as teams grow and ensure the right people have the right access.
+  </Card>
+</CardGroup>
 
-## A full list of TypingMind permissions
+---
 
-Let’s take a look at all available permissions for the access to your Admin Panel! 
+## Full list of TypingMind permissions
+
+The table below covers all available permissions for access to your Admin Panel.
 
 | Feature | Control |
-| --- | --- |
+|---|---|
 | **Models** | Full access to manage LLM models (OpenAI, Anthropic, Gemini, custom models) |
 | **Plugins** | Full access to manage Plugins |
-| **AI Agents** | Full access to manage AI agents and related agents settings: plugins, models, usage limits, and knowledge base. |
-| **Reporting** | - View analytics
-- Full access to manage chat logs
-- Full access to manage email reports |
-| **Billing** | - View billing details
-- Full access to manage billing |
-| **User Management** | - View users
-- Full access to manage users (invite, remove, update profile, etc.)
-- Full access to manage user authentication settings (SSO, SAML, OAuth, etc.)
-- Full access to manage instance access control (public/authorized/private mode)
-- Full access to manage usage limits
-- Full access to manage roles & permissions |
-| **API Keys** | - View the API Keys page
-- Full access to manage API keys |
-| **Knowledge Base** | - View data from the Knowledge Base
-- Full access to manage data from the knowledge base |
+| **AI Agents** | Full access to manage AI agents and related settings: plugins, models, usage limits, and knowledge base |
+| **Reporting** | View analytics<br/>Full access to manage chat logs<br/>Full access to manage email reports |
+| **Billing** | View billing details<br/>Full access to manage billing |
+| **User Management** | View users<br/>Full access to manage users (invite, remove, update profile, etc.)<br/>Full access to manage user authentication settings (SSO, SAML, OAuth, etc.)<br/>Full access to manage instance access control (public/authorized/private mode)<br/>Full access to manage usage limits<br/>Full access to manage roles & permissions |
+| **API Keys** | View the API Keys page<br/>Full access to manage API keys |
+| **Knowledge Base** | View data from the Knowledge Base<br/>Full access to manage knowledge base data |
 | **Portal Settings** | Full access to manage Portal Settings (branding, domain, chat features, etc.) |
 | **Prompt Library** | Full access to manage Prompt Library |
 | **System Prompts** | Full access to manage Global System Instruction, Global Few-shot Prompting, etc. |
-| **Integrations** | Full access to manage integrations (Chat Widget, API integration). |
+| **Integrations** | Full access to manage integrations (Chat Widget, API integration) |
 
-![image.webp](roles-and-permissions/image%201.webp)
+---
 
-## Guideline to create roles and permissions
+## Create roles and permissions
 
 You can create custom roles with specific permissions via the Admin Panel:
 
-- Log into the **Admin Panel**
-- Toggle the **User Management** section
-- Click on **Roles and Permissions**
-- Click on **Add New Role**
+<Steps>
+  <Step title="Open Roles and Permissions">
+    Log into the **Admin Panel**, toggle the **User Management** section, then click **Roles and Permissions**.
+  </Step>
+  <Step title="Add a new role">
+    Click **Add New Role** and give the role a name.
+  </Step>
+  <Step title="Assign permissions">
+    Select the permissions this role should have, then save.
+  </Step>
+</Steps>
 
-![image.webp](roles-and-permissions/image%202.webp)
+### Example roles
 
-**Example roles:**
+<AccordionGroup>
+  <Accordion title="Customer Support" icon="headphones">
+    For team members who respond to customer inquiries. They need access to chat logs to understand customer issues and provide solutions.
 
-1. **Role: Customer support**
+    **Permissions:**
+    - User Management → View users
+    - Reporting → Full access to manage chat logs
+  </Accordion>
 
-Custom support role is for team members who respond to customer inquiries. They need access to chat logs to understand customer issues and provide solutions.
+  <Accordion title="Content Curator" icon="book-open">
+    Allowed to upload knowledge base content to train AI Agents and use the prompt library to produce marketing content.
 
-Permissions:
+    **Permissions:**
+    - Knowledge Base → View data · Full access to manage knowledge base data
+    - Prompt Library → Full access to manage Prompt Library
+    - AI Agents → Full access to manage AI agents and related settings
+  </Accordion>
 
-- Use Management
-    - View users
-- Reporting
-    - Full access to manage chat logs
+  <Accordion title="Team Lead" icon="user-check">
+    Team leads manage users, monitor all customer interactions, and ensure the team follows best practices.
 
-![image.webp](roles-and-permissions/image%203.webp)
+    **Permissions:**
+    - Reporting → View analytics · Full access to manage chat logs · Full access to manage email reports
+    - User Management → View users · Full access to manage users
+    - Billing → View billing details · Full access to manage billing
+  </Accordion>
+</AccordionGroup>
 
-1. **Role: Content curator**
+<Tip>
+  To update permissions within an existing role, click the **Edit** button next to that role on the Roles and Permissions page.
+</Tip>
 
-Content Curator role is allowed to upload knowledge base to train the AI Agents and use the prompt library to produce marketing content.
+---
 
-Permissions:
+## Assign roles to members
 
-- Knowledge Base
-    - View data from the Knowledge Base
-    - Full access to manage data from the knowledge base
-- Prompt Library
-    - Full access to manage Prompt Library
-- AI Agents
-    - Full access to manage AI agents and related agents settings: plugins, models, usage limits, and knowledge base.
+After creating your custom roles, assign them to members within the chat instance:
 
-![image.webp](roles-and-permissions/image%204.webp)
+<Steps>
+  <Step title="Open User List">
+    Go to the **User List** in the Admin Panel.
+  </Step>
+  <Step title="Select a user">
+    Click on a user account to open their profile.
+  </Step>
+  <Step title="Assign a role">
+    Navigate to the **Role** section and select one or more roles created via the Roles and Permissions page.
+  </Step>
+</Steps>
 
-1. **Role: Team lead**
+Users who are assigned roles will be able to log into the Admin Panel and access only the features covered by their permissions.
 
-Team leads need to manage users, monitor all customer interactions, and ensure that the team is following best practices.
+<Note>
+  Each user can be assigned **multiple roles**. When a user holds multiple roles with overlapping permissions, they automatically inherit permissions from the role with the highest access level.
 
-Permissions:
+  Coming soon: you'll also be able to assign roles to a **User Group** — a collection of users who share the same category (such as department or function).
+</Note>
 
-- Reporting:
-    - View analytics
-    - Full access to manage chat logs
-    - Full access to manage email reports
-- User Management:
-    - View users
-    - Full access to manage users (invite, remove, update profile, etc.)
-- Billing:
-    - View billing details
-    - Full access to manage billing
+---
 
-![image.webp](roles-and-permissions/image%205.webp)
+## There's more to come
 
-<aside>
-💡
-
-To update permissions within a role, click on Edit button next to each role. 
-
-![image.webp](roles-and-permissions/image%206.webp)
-
-</aside>
-
-## Guideline to add roles to members
-
-After done creating the custom roles, you can assign these roles to your members within the chat instance: 
-
-- Go to **User List**
-- Select a user account
-- Navigate the **Role** section and select a Role you created via the Role and Permissions page
-
-![image.webp](roles-and-permissions/image%207.webp)
-
-- Users who are assigned roles will be able to log into the Admin Panel and use the features they have permissions only:
-
-![image.webp](roles-and-permissions/image%208.webp)
-
-<aside>
-💡
-
-Each user can be assigned multiple roles.
-
-When a user is assigned multiple roles with overlapping permissions, they will automatically inherit permissions from the role with the highest access level.
-
-Soon, you'll also be able to assign roles to a **User Group** - a collection of users who share the same category (such as department, function, etc.).
-
-</aside>
-
-## There’s more to come!
-
-We’re continually enhancing our platform, and more permissions will be added to help you better control your user access to the Admin Panel!
-
-Stay tuned for more updates!
+We're continually enhancing our platform, and more permissions will be added to help you better control user access to the Admin Panel. Stay tuned for more updates!

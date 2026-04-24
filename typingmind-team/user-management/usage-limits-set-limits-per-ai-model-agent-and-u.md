@@ -1,13 +1,14 @@
 ---
-title: "Usage Limits: Set Limits Per AI Model, Agent, and User"
+title: 'Usage Limits: Set Limits Per AI Model, Agent, and User'
 ---
+
 Managing AI resources effectively for your chat instance is more important than ever. 
 
 That’s why we've revamped our Usage Limits system which provides you with better control over your AI resources! 
 
 This guide will walk you through the different types of usage limits you can set - **Global Limits**, **Model Limits**, **AI Agent Limits**, and **User Limits -** and how to implement them step by step.
 
-![image.webp](usage-limits-set-limits-per-ai-model-agent-and-u/image.webp)
+![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image.png)
 
 # Why Usage and Limits Matter?
 
@@ -36,7 +37,7 @@ Basically, you can set limits based on:
 
 These limits are managed via **Limit Groups**.
 
-![image.webp](usage-limits-set-limits-per-ai-model-agent-and-u/image%201.webp)
+![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%201.png)
 
 <aside>
 💡 **Using Limit Groups allows admins to reuse the limits you've already set up**. 
@@ -52,7 +53,7 @@ You can **apply the limits from your Limit Groups** in four different levels:
 3. **AI Agent Limits:** apply limits to individual AI Agents for all users or specific groups.
 4. **User Limits:** set limits for individual users.
 
-![image.webp](usage-limits-set-limits-per-ai-model-agent-and-u/image.webp)
+![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image.png)
 
 Let’s see how to set up these limits for your chat instance!
 
@@ -70,7 +71,7 @@ You can view more details guideline on how to create user groups here:
 
 [Create and manage User Groups](Create%20and%20manage%20User%20Groups%2050c629c14e0447f387e536bde726bc75.md)
 
-![image.webp](../getting-started/getting-started-with-typingmind-team-(cloud-host)/image%2020.webp)
+![image.png](../getting-started/getting-started-with-typingmind-team-(cloud-host)/image%2020.png)
 
 ## Step 2: Create Limit Groups
 
@@ -78,7 +79,7 @@ You can view more details guideline on how to create user groups here:
 - Scroll down to Limit Groups
 - Click on “**Add New Group**”
 
-![image.webp](usage-limits-set-limits-per-ai-model-agent-and-u/image%202.webp)
+![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%202.png)
 
 - Define the limits for your group by setting:
     - Message Limits
@@ -93,7 +94,7 @@ For example, you can create different limit groups as follows:
 - **Basic Use**: 50 messages can be sent per 3 hours - suitable for users who need minimal interaction with AI, such as those who send fewer messages or shorter content.
 - **In-depth Use**: 200 messages can be sent per 3 hours - for users who require extensive AI interactions, allow sending more messages and longer content.
 
-![image.webp](usage-limits-set-limits-per-ai-model-agent-and-u/image%203.webp)
+![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%203.png)
 
 These Limit Groups are reusable, which means once you've created them, you can apply them to different AI Models, AI Agents, or individual Users without needing to redefine the limits each time.
 
@@ -108,7 +109,7 @@ You can now apply the limits in the following ways:
 
 Go to **User Management** —> **Usage Limits** to set up the limits.
 
-![image.webp](usage-limits-set-limits-per-ai-model-agent-and-u/image%204.webp)
+![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%204.png)
 
 ### 1. Global Limits
 
@@ -120,7 +121,7 @@ To apply limits across all users or specific groups:
 
 **For example:** Apply “Basic Use” limit group you created previously for All Users.
 
-![image.webp](usage-limits-set-limits-per-ai-model-agent-and-u/image%205.webp)
+![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%205.png)
 
 ### 2. Model Limits
 
@@ -133,7 +134,7 @@ To apply limits to specific AI models:
 
 **For example**,  if the "Content Team" uses GPT-4o more frequently, you might set tighter restrictions on that model for this group - with GPT-4o, set “In-depth Use” for “content” group
 
-![image.webp](usage-limits-set-limits-per-ai-model-agent-and-u/image%206.webp)
+![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%206.png)
 
 ### 2. AI Agent Limits
 
@@ -150,7 +151,7 @@ To restrict usage per AI Agent:
 - Basic Use for Marketing Team
 - In-depth Use for Support Team
 
-![image.webp](usage-limits-set-limits-per-ai-model-agent-and-u/image%207.webp)
+![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%207.png)
 
 ### 3. User Limits
 
@@ -161,7 +162,7 @@ To set limits for individual users:
 
 **For example:** If a particular user consistently exceeds usage limits, you can apply a stricter Limit Group specifically for them.
 
-![image.webp](usage-limits-set-limits-per-ai-model-agent-and-u/image%208.webp)
+![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%208.png)
 
 ## Step 4: Monitor Limits in the Chat Interface
 
@@ -169,7 +170,7 @@ Users who have restrictions applied will see a notification below the message ar
 
 You can hide this notification via the Chat Features section within the Portal settings if you want.
 
-![image.webp](usage-limits-set-limits-per-ai-model-agent-and-u/image%209.webp)
+![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%209.png)
 
 # Best Practices
 

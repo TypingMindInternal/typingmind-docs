@@ -1,6 +1,7 @@
 ---
-title: "Restrict Prompt Access"
+title: 'Restrict Prompt Access'
 ---
+
 With TypingMind Team, you can restrict the visibility of prompts for certain user groups. This allows you to control which prompts each user group can be used.
 
 You can restrict their access to specific prompts by grouping your team members into different groups and assigning these groups to specific prompts, here's the details.
@@ -15,22 +16,22 @@ Please follow these steps to create groups for your members:
 - Navigate to the **Groups** section under **User Management**.
 - Click on **Add New Group**.
 
-![image.webp](../getting-started/getting-started-with-typingmind-team-(cloud-host)/image%2020.webp)
+![image.png](../getting-started/getting-started-with-typingmind-team-(cloud-host)/image%2020.png)
 
 - Enter a **Group Name** that reflects the purpose or role of the group.
 - *(Optional)* Enable **Admin Access** for this group if they can have access to the admin panel.
     - If you enable this option, ensure you assign appropriate **Admin Roles** to the group. These roles should align with the permissions you’ve defined in the [**Roles and Permissions**](../User%20Management/Roles%20and%20Permissions%202256943d288b473b8139f6fb0fdc653f.md) settings.
 
-![image.webp](restrict-model-access/image.webp)
+![image.png](restrict-model-access/image.png)
 
 - Click **Manage** next to the created group
 - Click **Add Members**
 
-![image.webp](restrict-model-access/image%201.webp)
+![image.png](restrict-model-access/image%201.png)
 
 - Select the users you want to include in this group from the list.
 
-![image.webp](restrict-model-access/image%202.webp)
+![image.png](restrict-model-access/image%202.png)
 
 <aside>
 💡
@@ -46,13 +47,13 @@ You can control the prompt visibility to specific user groups as follows:
 - Go to the **“Prompts Library”** section from the Admin Dashboard.
 - Select **“Add Prompt”** to create a new prompt, or **“Edit”** an existing prompt.
 
-![image.webp](restrict-prompt-access/image.webp)
+![image.png](restrict-prompt-access/image.png)
 
 - Scroll down to the **“Visibility”** section and select from the drop-down menu:
     - **“Visible only to users in specific groups”:** once you add groups, users in these certain groups are allowed to use the model
     - or **“Visible to all users except users from specific groups”:** once you add groups, users in these certain groups ARE NOT allowed to use the model.
 
-![image.webp](restrict-prompt-access/image%201.webp)
+![image.png](restrict-prompt-access/image%201.png)
 
 <aside>
 💡

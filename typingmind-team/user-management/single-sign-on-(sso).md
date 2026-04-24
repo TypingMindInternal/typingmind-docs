@@ -1,4 +1,6 @@
-# Single Sign-On (SSO)
+---
+title: 'Single Sign-On (SSO)'
+---
 
 <iframe src="https://www.youtube.com/embed/zL05zONJJec" title="YouTube video player" frameborder="0" className="w-full aspect-video rounded-xl" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen />
 

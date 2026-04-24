@@ -1,60 +1,131 @@
 ---
-title: 'TypingMind Team vs Claude Team'
+title: "TypingMind Team vs Claude Team"
+description: "A detailed feature comparison between TypingMind Custom and the Claude Team Plan."
 ---
 
-A comparison between [TypingMind Custom](https://www.notion.so/TypingMind-Custom-10343041038e445d9fb5ececf4728869?pvs=21) and Claude Team Plan:
+A comparison between [TypingMind Custom](https://www.typingmind.com/custom) and the [Claude Team Plan](https://www.anthropic.com/claude) to help you choose the right platform for your team.
 
-| **Feature** | **Typing Mind Custom** | **Claude Team** |
-| --- | --- | --- |
-| 🔐 **Security & Privacy** |  |  |
-| No training on business data/conversations | ✅ | ✅ |
-| Self-host on your private server | ✅ | ❌ |
-| **🎨 Branding & Customizations** |  |  |
-| Custom domain | ✅ | ❌ |
-| Customize Branding & User Interface | ✅ | ❌ |
-| Customize chat interface / custom theme | ✅ | ❌ |
-| Multilingual | ✅  | ❌ |
-| 💬 **Chat Models Support** |  |  |
-| Support multi-models (OpenAI GPT, Azure OpenAI, LLama, and other open-source LLM models) | ✅ | ❌ |
-| Claude 3.5 Sonnet | ✅ (Bring your own API Key) | ✅ |
-| Claude 3 Haiku, Sonnet, Opus | ✅ (Bring your own API Key) | ✅ |
-| Voice Input / Text-to-Speech | ✅ | ❌ |
-| **✨ Chat Features** |  |  |
-| Chat Folders, Search Chat, Tags, Pin Messages… | ✅ | ❌ |
-| Artifacts | ✅ (can be done via Render HTML or Interactive Canvas) | ✅ |
-| Custom Instructions | ✅ (User Profile) | ✅ |
-| Build Prompt, AI Agent library | ✅ | ❌ |
-| Chat with files | ✅  | ✅  |
-| Image analysis  | ✅  | ✅  |
-| Fork chats / Branch | ✅  | ❌ |
-| 🧩 **Plugins** |  |  |
-| DALL-E | ✅ | ❌ |
-| Web Search | ✅ | ❌ |
-| Browsing | ✅  | ❌ |
-| Image generator | ✅  | ❌ |
-| Plugin store | ✅ (continuously develop new plugins) | ❌ |
-| Build your own plugin | ✅ ([More details](https://docs.typingmind.com/plugins/build-a-typingmind-plugin)) | ❌ |
-| **👥 Collaborations** |  |  |
-| Project workspaces | ✅ | ✅ |
-| Shared Team Prompts | ✅ | ❌ |
-| Shared Team AI Agents | ✅ | ❌ |
-| Shared Plugins | ✅ | ❌ |
-| **🖥️ Admin Management** |  |  |
-| Invite team members | ✅ | ✅ |
-| Role based access control | ✅ ([See docs](https://custom.typingmind.com/features/usage-and-limits)) | ❌ |
-| Token usage analytics | ✅ | ❌  |
-| Set usage limit per user | ✅ ([See docs](https://custom.typingmind.com/features/usage-and-limits)) | ❌ |
-| Connect with your training data | ✅ ([More flexible](https://custom.typingmind.com/features/upload-training-data)) | ✅ |
-| 🔓 **User Authentication** |  |  |
-| Email login | ✅ | ✅ |
-| Single Sign-On | ✅ | ❌ |
-| JWT Secret | ✅ | ❌ |
-| **🧩 Integrations** |  |  |
-| [API Integration](https://api.typingmind.com/docs) with external systems | ✅ | ❌ |
-| Embed to website as chatbot | ✅ ([See docs](https://custom.typingmind.com/features/embed-chat-widget)) | ❌ |
-| **⚡️ Customer support** |  |  |
-| Community and Support | - Email Support
-- Discord Community
-- 24/7 Support Bot | - Email support |
-| **💵 Pricing** |  |  |
-| Pricing | Flat fee from [$99/month](https://custom.typingmind.com/pricing) (5 users included) + API fee. | $30/month/user subscription, minimum 5 users. |
+## Feature Comparison
+
+### <Icon icon="lock" /> Security & Privacy
+
+| Feature | TypingMind Custom | Claude Team |
+|---|:---:|:---:|
+| No training on business data or conversations | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
+| Self-host on your private server | <Icon icon="check" color="#16a34a" /> | — |
+
+---
+
+### <Icon icon="paintbrush" /> Branding & Customization
+
+| Feature | TypingMind Custom | Claude Team |
+|---|:---:|:---:|
+| Custom domain | <Icon icon="check" color="#16a34a" /> | — |
+| Custom branding & user interface | <Icon icon="check" color="#16a34a" /> | — |
+| Custom chat interface / theme | <Icon icon="check" color="#16a34a" /> | — |
+| Multilingual support | <Icon icon="check" color="#16a34a" /> | — |
+
+---
+
+### <Icon icon="message" /> Chat Model Support
+
+| Feature | TypingMind Custom | Claude Team |
+|---|:---:|:---:|
+| Multi-model support (OpenAI GPT, Azure OpenAI, LLaMA, and other open-source LLMs) | <Icon icon="check" color="#16a34a" /> | — |
+| Claude 3.5 Sonnet | <Icon icon="check" color="#16a34a" /><br/>Bring your own API key | <Icon icon="check" color="#16a34a" /> |
+| Claude 3 Haiku, Sonnet, Opus | <Icon icon="check" color="#16a34a" /><br/>Bring your own API key | <Icon icon="check" color="#16a34a" /> |
+| Voice input / Text-to-Speech | <Icon icon="check" color="#16a34a" /> | — |
+
+---
+
+### <Icon icon="stars" /> Chat Features
+
+| Feature | TypingMind Custom | Claude Team |
+|---|:---:|:---:|
+| Chat folders, search, tags, pinned messages | <Icon icon="check" color="#16a34a" /> | — |
+| Artifacts | <Icon icon="check" color="#16a34a" /><br/>Via Render HTML or Interactive Canvas | <Icon icon="check" color="#16a34a" /> |
+| Custom instructions | <Icon icon="check" color="#16a34a" /><br/>User profile | <Icon icon="check" color="#16a34a" /> |
+| Prompt & AI agent library | <Icon icon="check" color="#16a34a" /> | — |
+| Chat with files | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
+| Image analysis | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
+| Fork chats / branching | <Icon icon="check" color="#16a34a" /> | — |
+
+---
+
+### <Icon icon="puzzle-piece" /> Plugins
+
+| Feature | TypingMind Custom | Claude Team |
+|---|:---:|:---:|
+| DALL-E image generation | <Icon icon="check" color="#16a34a" /> | — |
+| Web search | <Icon icon="check" color="#16a34a" /> | — |
+| Web browsing | <Icon icon="check" color="#16a34a" /> | — |
+| Image generator | <Icon icon="check" color="#16a34a" /> | — |
+| Plugin store (continuously updated) | <Icon icon="check" color="#16a34a" /> | — |
+| Build your own plugin | <Icon icon="check" color="#16a34a" /><br/>[See docs](https://docs.typingmind.com/plugins/build-a-typingmind-plugin) | — |
+
+---
+
+### <Icon icon="users" /> Collaboration
+
+| Feature | TypingMind Custom | Claude Team |
+|---|:---:|:---:|
+| Project workspaces | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
+| Shared team prompts | <Icon icon="check" color="#16a34a" /> | — |
+| Shared team AI agents | <Icon icon="check" color="#16a34a" /> | — |
+| Shared plugins | <Icon icon="check" color="#16a34a" /> | — |
+
+---
+
+### <Icon icon="desktop" /> Admin Management
+
+| Feature | TypingMind Custom | Claude Team |
+|---|:---:|:---:|
+| Invite team members | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
+| Role-based access control | <Icon icon="check" color="#16a34a" /><br/>[See docs](https://custom.typingmind.com/features/usage-and-limits) | — |
+| Token usage analytics | <Icon icon="check" color="#16a34a" /> | — |
+| Per-user usage limits | <Icon icon="check" color="#16a34a" /><br/>[See docs](https://custom.typingmind.com/features/usage-and-limits) | — |
+| Connect with training data | <Icon icon="check" color="#16a34a" /><br/>[More flexible](https://custom.typingmind.com/features/upload-training-data) | <Icon icon="check" color="#16a34a" /> |
+
+---
+
+### <Icon icon="key" /> User Authentication
+
+| Feature | TypingMind Custom | Claude Team |
+|---|:---:|:---:|
+| Email login | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
+| Single Sign-On (SSO) | <Icon icon="check" color="#16a34a" /> | — |
+| JWT Secret | <Icon icon="check" color="#16a34a" /> | — |
+
+---
+
+### <Icon icon="plug" /> Integrations
+
+| Feature | TypingMind Custom | Claude Team |
+|---|:---:|:---:|
+| [API integration](https://api.typingmind.com/docs) with external systems | <Icon icon="check" color="#16a34a" /> | — |
+| Embed as website chatbot | <Icon icon="check" color="#16a34a" /><br/>[See docs](https://custom.typingmind.com/features/embed-chat-widget) | — |
+
+---
+
+### <Icon icon="headset" /> Customer Support
+
+| Feature | TypingMind Custom | Claude Team |
+|---|:---:|:---:|
+| Support channels | Email support, Discord community, 24/7 support bot | Email support |
+
+---
+
+### <Icon icon="circle-dollar-to-slot" /> Pricing
+
+<CardGroup cols={2}>
+  <Card title="TypingMind Custom" icon="building">
+    Flat fee from **[\$99/month](https://custom.typingmind.com/pricing)** (5 users included), plus API usage fees. Cost-effective for teams that want full control and predictable billing.
+  </Card>
+  <Card title="Claude Team" icon="anthropic">
+    **\$30/month per user**, with a minimum of 5 users (\$150/month minimum). Per-seat pricing scales directly with team size.
+  </Card>
+</CardGroup>
+
+<Note>
+  TypingMind Custom requires you to bring your own API keys (e.g. Anthropic, OpenAI), so total cost includes both the platform fee and API usage. Claude Team bundles model access into the per-seat price.
+</Note>

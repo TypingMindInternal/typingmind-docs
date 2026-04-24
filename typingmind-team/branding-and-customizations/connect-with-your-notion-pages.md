@@ -1,6 +1,7 @@
 ---
-title: "Connect with your Notion pages"
+title: 'Connect with your Notion pages'
 ---
+
 When setting up a **TypingMind Custom** chat instance, you can seamlessly connect your Notion database. This integration allows the AI chatbot to learn from your specific content and make its responses more relevant and personalized to your company's needs. 
 
 By leveraging your Notion pages, your AI chatbot will deliver context-aware answers and efficiently handle detailed queries related to your business, team, or community.
@@ -36,16 +37,16 @@ Integrating Notion pages as a training source enables your AI chatbot to underst
 - Go to **Training Data**
 - Click **Add Data Sources**
 
-![image.webp](connect-with-your-notion-pages/image.webp)
+![image.png](connect-with-your-notion-pages/image.png)
 
 - Pick the specific Notion pages or databases you wish to connect and click **Add** to link them to the chat instance.
 
-![image.webp](connect-with-your-notion-pages/image%201.webp)
+![image.png](connect-with-your-notion-pages/image%201.png)
 
 - Once added, wait a few minutes while the data syncs from your Notion account to your TypingMind instance.
 - After syncing, go to the chat interface to start interacting with your Notion-based training data.
 
-![image.webp](connect-with-your-notion-pages/image%202.webp)
+![image.png](connect-with-your-notion-pages/image%202.png)
 
 <aside>
 📌

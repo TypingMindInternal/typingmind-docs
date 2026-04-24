@@ -1,4 +1,6 @@
-# Chatbot analytics
+---
+title: 'Chatbot analytics'
+---
 
 As of now, TypingMind Team provides insights through several key metrics:
 

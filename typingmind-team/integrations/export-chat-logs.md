@@ -1,6 +1,7 @@
 ---
-title: "Export chat logs"
+title: 'Export chat logs'
 ---
+
 You can export all of your chat logs to an external system. The chat logs contain all the user messages in your chat instance.
 
 This is useful for:
@@ -16,7 +17,7 @@ By default, your users’ chat conversations are not logged. You can enable this
 
 Once chat logs is enabled, you can start to see you chat logs via the Admin Panel and export them to an external system automatically via API (next section).
 
-![Untitled](export-chat-logs/Untitled.webp)
+![Untitled](export-chat-logs/Untitled.png)
 
 ## Step 2: Create an API key for integration
 
@@ -26,7 +27,7 @@ Go to **Admin Panel → Integrations → API Integration** and click “Generate
 
 Then copy the newly generated API key, you will need this in the next step.
 
-![Untitled](export-chat-logs/Untitled%201.webp)
+![Untitled](export-chat-logs/Untitled%201.png)
 
 ## Step 3: Export chat logs via API
 
