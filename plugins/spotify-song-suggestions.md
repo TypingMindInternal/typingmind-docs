@@ -1,17 +1,18 @@
 ---
-title: "Spotify Song Suggestions"
+title: 'Spotify Song Suggestions'
 ---
+
 ## Overview
 
 In this tutorial, we'll create a **Spotify Song Suggestions** plugin that recommends a list of songs from Spotify. By the end, you'll have built a plugin similar to the one shown in the screenshot below:
 
-![Screenshot 2024-10-16 at 21.51.06.webp](spotify-song-suggestions/Screenshot_2024-10-16_at_21.51.06.webp)
+![Screenshot 2024-10-16 at 21.51.06.png](spotify-song-suggestions/Screenshot_2024-10-16_at_21.51.06.png)
 
 When using this plugin, users must authenticate their Spotify account via OAuth 2.0. Once authenticated, the AI can access the user's Spotify data and provide personalized song suggestions.
 
 The plugin will ask users to authenticate their Spotify account, as shown in the image below:
 
-![Screenshot 2024-10-16 at 21.56.55.webp](spotify-song-suggestions/Screenshot_2024-10-16_at_21.56.55.webp)
+![Screenshot 2024-10-16 at 21.56.55.png](spotify-song-suggestions/Screenshot_2024-10-16_at_21.56.55.png)
 
 Here is the link to the repository of the completed plugin:
 
@@ -64,7 +65,7 @@ Before we begin, let's explore the Spotify Web API to find the endpoints we need
 
 A quick look at the documentation shows the **endpoint** and the supported **OAuth 2.0** authentication, which we'll configure later.
 
-![Screenshot 2024-10-16 at 22.20.10.webp](spotify-song-suggestions/Screenshot_2024-10-16_at_22.20.10.webp)
+![Screenshot 2024-10-16 at 22.20.10.png](spotify-song-suggestions/Screenshot_2024-10-16_at_22.20.10.png)
 
 Now, let's scroll down under the **Request** section to look at some parameters that we'll use to build our plugin:
 
@@ -77,7 +78,7 @@ These parameters will allow us to customize the recommendations based on user re
 
 You can also test the API on the right side of the page. Scroll down and click the "Try It" button to view an example request and response.
 
-![Screenshot 2024-10-16 at 22.51.34.webp](spotify-song-suggestions/Screenshot_2024-10-16_at_22.51.34.webp)
+![Screenshot 2024-10-16 at 22.51.34.png](spotify-song-suggestions/Screenshot_2024-10-16_at_22.51.34.png)
 
 As you can see, the HTTP request requires an Authorization header with a Bearer Token, which is part of the OAuth setup. Now that we've identified the appropriate API, let's move on to setting up our Spotify App.
 
@@ -96,25 +97,25 @@ To create a Spotify App, follow these steps:
     - Which API/SDKs are you planning to use? (select "Web API")
 4. Agree to the terms of service and click "Save".
 
-![image.webp](spotify-song-suggestions/image.webp)
+![image.png](spotify-song-suggestions/image.png)
 
 After creating the app, navigate to the App Details Page and click on "Settings" in the top right corner.
 
-![Screenshot 2024-10-16 at 23.20.59.webp](spotify-song-suggestions/Screenshot_2024-10-16_at_23.20.59.webp)
+![Screenshot 2024-10-16 at 23.20.59.png](spotify-song-suggestions/Screenshot_2024-10-16_at_23.20.59.png)
 
 Here, you can access your **Client ID** and **Client Secret**. Let's save your credentials, as we'll need them later when setting up OAuth authentication for our plugin.
 
-![Screenshot 2024-10-16 at 23.22.58.webp](spotify-song-suggestions/Screenshot_2024-10-16_at_23.22.58.webp)
+![Screenshot 2024-10-16 at 23.22.58.png](spotify-song-suggestions/Screenshot_2024-10-16_at_23.22.58.png)
 
 You can also test your credentials by going to the [Spotify Create an App Tutorial](https://developer.spotify.com/documentation/web-api/tutorials/getting-started#create-an-app) and scrolling down to the "**Request an access token**" section. You can replace your client ID and secret and test the cURL command in your terminal as shown in the image below.
 
-![image.webp](spotify-song-suggestions/image%201.webp)
+![image.png](spotify-song-suggestions/image%201.png)
 
 ### OAuth 2.0 Authorization Flow
 
 At the end of the previous section, we learned how to test simple Client Credentials. However, for this tutorial, we'll use the OAuth Authorization Code Flow. This process is described in detail in the [Spotify Authorization Code Flow Documentation](https://developer.spotify.com/documentation/web-api/tutorials/code-flow).
 
-![auth-code-flow.webp](spotify-song-suggestions/auth-code-flow.webp)
+![auth-code-flow.png](spotify-song-suggestions/auth-code-flow.png)
 
 Additionally, you can refer to the [TypingMind OAuth plugin documentation](https://docs.typingmind.com/plugins/oauth-for-plugin) to understand how TypingMind plugins integrate with OAuth.
 
@@ -144,7 +145,7 @@ A quick tip to obtain the above information without reading through the entire d
 
 </aside>
 
-![Screenshot 2024-10-17 at 08.24.40.webp](spotify-song-suggestions/Screenshot_2024-10-17_at_08.24.40.webp)
+![Screenshot 2024-10-17 at 08.24.40.png](spotify-song-suggestions/Screenshot_2024-10-17_at_08.24.40.png)
 
 Now, with our Spotify App in place and an understanding of the OAuth flow, let's move on to creating a TypingMind Plugin.
 
@@ -156,7 +157,7 @@ Let's create our Spotify Song Suggestions plugin using TypingMind's built-in edi
 - Name the plugin "**Spotify Song Suggestions**"
 - Description: "This plugin suggests Spotify playlists based on user descriptions using the Spotify Web API".
 
-![image.webp](spotify-song-suggestions/image%202.webp)
+![image.png](spotify-song-suggestions/image%202.png)
 
 ### OpenAI Function Spec
 
@@ -216,7 +217,7 @@ As we prepared in the **OAuth 2.0 Authorization Flow** section, let's fill in th
 - **Scopes:** Leave this empty, as no scopes are required for the Get Recommendations API
 - **Content-Type:** Select **URL Encoded**, which corresponds to `application/x-www-form-urlencoded`
 
-![Screen Shot 2024-10-17 at 20.41.08.webp](spotify-song-suggestions/Screen_Shot_2024-10-17_at_20.41.08.webp)
+![Screen Shot 2024-10-17 at 20.41.08.png](spotify-song-suggestions/Screen_Shot_2024-10-17_at_20.41.08.png)
 
 After completing the OAuth configuration, click the "Save OAuth Config" button to go to the next step.
 
@@ -246,17 +247,17 @@ Note: Ensure that the labels inside curly braces `{}` match exactly with the **A
 
 </aside>
 
-![image.webp](spotify-song-suggestions/image%203.webp)
+![image.png](spotify-song-suggestions/image%203.png)
 
 ### Finish creating the plugin
 
 For the **Output Options**, select "Give plugin output to the AI". This setting allows the AI to interpret the response JSON and present the results to the user in a user-friendly format. Then, click the "Update Plugin" button to finalize the plugin creation.
 
-![Screen Shot 2024-10-17 at 21.12.14.webp](spotify-song-suggestions/Screen_Shot_2024-10-17_at_21.12.14.webp)
+![Screen Shot 2024-10-17 at 21.12.14.png](spotify-song-suggestions/Screen_Shot_2024-10-17_at_21.12.14.png)
 
 Now, you can find your newly created plugin listed on your Plugins Page. To share this plugin with others, simply click the "Share" button.
 
-![Screen Shot 2024-10-17 at 21.22.31.webp](spotify-song-suggestions/Screen_Shot_2024-10-17_at_21.22.31.webp)
+![Screen Shot 2024-10-17 at 21.22.31.png](spotify-song-suggestions/Screen_Shot_2024-10-17_at_21.22.31.png)
 
 ## Part 2: Install and setup the plugin
 
@@ -273,7 +274,7 @@ In this example, I will create a new TypingMind instance named “**Coffee Shop 
 
 **Coffee Shop AI** will be a private AI platform I've created for my coffee shop staff. I can invite them to join the platform, allowing them to use this plugin to generate daily song playlists.
 
-![image.webp](spotify-song-suggestions/image%204.webp)
+![image.png](spotify-song-suggestions/image%204.png)
 
 ### Install the Spotify Song Suggestions plugin
 
@@ -283,7 +284,7 @@ Now that we have created our Spotify Song Suggestions plugin, we can install it 
 - Enter the **Client ID** and **Client Secret** that you set up in the "Create a Spotify App" section. After entering these credentials
 - Click "**Save Credentials**".
 
-![Screen Shot 2024-10-17 at 21.52.27.webp](spotify-song-suggestions/Screen_Shot_2024-10-17_at_21.52.27.webp)
+![Screen Shot 2024-10-17 at 21.52.27.png](spotify-song-suggestions/Screen_Shot_2024-10-17_at_21.52.27.png)
 
 You have successfully set up the Credentials. Now, let's copy the **OAuth Callback URL**, which we'll use in the next step.
 
@@ -291,25 +292,25 @@ You have successfully set up the Credentials. Now, let's copy the **OAuth Callba
 
 In this section, we'll add the copied OAuth Callback URL to our Spotify App. Let's navigate back to the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard). 
 
-![Screen Shot 2024-10-17 at 22.07.25.webp](spotify-song-suggestions/Screen_Shot_2024-10-17_at_22.07.25.webp)
+![Screen Shot 2024-10-17 at 22.07.25.png](spotify-song-suggestions/Screen_Shot_2024-10-17_at_22.07.25.png)
 
 Click on the "Typing Mind Test" app to go to its details page. Then, click on "Settings" to navigate to the Settings page. Under the Basic Information tab, click on the "Edit" button.
 
-![image.webp](spotify-song-suggestions/image%205.webp)
+![image.png](spotify-song-suggestions/image%205.png)
 
 Under "Redirect URIs," paste your copied OAuth Callback URL and click "Save".
 
-![image.webp](spotify-song-suggestions/image%206.webp)
+![image.png](spotify-song-suggestions/image%206.png)
 
 ## Part 3: Users use the plugin
 
 As a user, I will log in to the Coffee Shop AI instance and start using the **Spotify Song Suggestions** plugin.
 
-![image.webp](spotify-song-suggestions/image%207.webp)
+![image.png](spotify-song-suggestions/image%207.png)
 
 Start a new chat. If the plugin is currently disabled, enable it. 
 
-![image.webp](spotify-song-suggestions/image%208.webp)
+![image.png](spotify-song-suggestions/image%208.png)
 
 Now I can ask the AI for playlist suggestions using prompts like this:
 
@@ -318,15 +319,15 @@ Now I can ask the AI for playlist suggestions using prompts like this:
 
 The plugin will first prompt me to authenticate with Spotify
 
-![Screen Shot 2024-10-17 at 22.29.45.webp](spotify-song-suggestions/Screen_Shot_2024-10-17_at_22.29.45.webp)
+![Screen Shot 2024-10-17 at 22.29.45.png](spotify-song-suggestions/Screen_Shot_2024-10-17_at_22.29.45.png)
 
 When I click "Authenticate Now," TypingMind redirects me to authorize the **Typing Mind Test** Spotify app. I then click the "Agree" button to complete the authentication process.
 
-![image.webp](spotify-song-suggestions/image%209.webp)
+![image.png](spotify-song-suggestions/image%209.png)
 
 Finally, the AI can now access my Spotify account and generate playlist recommendations. The AI then displays the suggested playlist based on my request. 
 
-![image.webp](spotify-song-suggestions/image%2010.webp)
+![image.png](spotify-song-suggestions/image%2010.png)
 
 ## Conclusion
 

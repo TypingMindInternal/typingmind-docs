@@ -1,6 +1,7 @@
 ---
-title: "TypingMind MCP + Airbnb"
+title: 'TypingMind MCP + Airbnb'
 ---
+
 This guide will help you set up the Airbnb **MCP server**, provides AI assistants on TypingMind with the ability to search Airbnb listings with advanced filtering capabilities and detailed property information retrieval.
 
 ## Why setting Airbnb MCP on TypingMind?
@@ -25,11 +26,11 @@ MCP servers require a server to run on. TypingMind allows you to connect to the 
 - Your own local device
 - Or a private remote server.
 
-![image.webp](../rag-knowledge-base/connect-to-llamaindex/image%204.webp)
+![image.png](../rag-knowledge-base/connect-to-llamaindex/image%204.png)
 
 If you choose to run the MCP servers on your device, run the command displayed on the screen.
 
-![image.webp](../rag-knowledge-base/connect-to-llamaindex/image%205.webp)
+![image.png](../rag-knowledge-base/connect-to-llamaindex/image%205.png)
 
 <aside>
 💡
@@ -60,7 +61,7 @@ For detailed setup instructions or guidance on setting up the Team version, visi
 
 More information about Airbnb mcp: [https://github.com/openbnb-org/mcp-server-airbnb](https://github.com/openbnb-org/mcp-server-airbnb)
 
-![image.webp](typingmind-mcp-airbnb/image.webp)
+![image.png](typingmind-mcp-airbnb/image.png)
 
 ### Step 3: Enable Airbnb via Plugin section
 
@@ -70,10 +71,10 @@ After the MCP servers are added successfully, it will show up in your **Plugins*
 - You should see a new plugin called **"airbnb"**.
 - Enable the plugin
 
-![image.webp](typingmind-mcp-airbnb/image%201.webp)
+![image.png](typingmind-mcp-airbnb/image%201.png)
 
 ### Step 4: Start chatting
 
 You’re all set! Now you can search Airbnb listings and plan your trip instantly!
 
-![image.webp](typingmind-mcp-airbnb/image%202.webp)
+![image.png](typingmind-mcp-airbnb/image%202.png)

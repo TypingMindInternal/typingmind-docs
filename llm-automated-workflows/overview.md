@@ -1,6 +1,7 @@
 ---
-title: "Overview"
+title: 'Overview'
 ---
+
 With TypingMind, every conversation with AI can launch workflows, update CRMs, resolve support tickets, publish content, or trigger reports — all automatically, across the tools you already use.
 
 ## Why Businesses Automate with TypingMind
@@ -39,7 +40,7 @@ You can create plugins using one of the following methods:
 - [**HTTP action**](https://docs.typingmind.com/plugins/build-a-typingmind-plugin) — connect to external APIs and services.
 - [**Model Context Protocols (MCP)**](https://docs.typingmind.com/model-context-protocol-(mcp)-in-typingmind) — integrate structured data and actions into your AI workflows.
 
-![image.webp](overview/image.webp)
+![image.png](overview/image.png)
 
 ## Example Automation Flows You Can Run on TypingMind Chat
 

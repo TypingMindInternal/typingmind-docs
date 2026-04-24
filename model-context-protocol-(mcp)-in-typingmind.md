@@ -16,17 +16,17 @@ TypingMind **MCP Store** contains some of the popular remote MCP servers by popu
 - Click “Connect”
 - Follow the authentication steps.
 
-![image.webp](model-context-protocol-\(mcp\)-in-typingmind/image.webp)
+![image.png](model-context-protocol-\(mcp\)-in-typingmind/image.png)
 
 Once added and connected, an MCP connect will show up as a regular plugin and can be used in any chat.
 
-![image.webp](model-context-protocol-\(mcp\)-in-typingmind/image%201.webp)
+![image.png](model-context-protocol-\(mcp\)-in-typingmind/image%201.png)
 
-![image.webp](model-context-protocol-\(mcp\)-in-typingmind/image%202.webp)
+![image.png](model-context-protocol-\(mcp\)-in-typingmind/image%202.png)
 
 If you don't find the service you need in the MCP store, you can add it manually by clicking **Add custom connector** and filling out the info. Check the documentation from the service provider to get their MCP server URL and relevant info.
 
-![image.webp](model-context-protocol-\(mcp\)-in-typingmind/image%203.webp)
+![image.png](model-context-protocol-\(mcp\)-in-typingmind/image%203.png)
 
 ## Customize active tools list
 
@@ -34,7 +34,7 @@ TypingMind allows you to enable/disable the set of tools you want to use from an
 
 To enable/disable tools, toggle them in the tool list table:
 
-![image.webp](model-context-protocol-\(mcp\)-in-typingmind/image%204.webp)
+![image.png](model-context-protocol-\(mcp\)-in-typingmind/image%204.png)
 
 ## Long running sessions and refresh token
 
@@ -57,7 +57,7 @@ For example, if you have multiple Notion accounts and want to use both in Typing
 
 If the service OAuth server supports **OpenID**, TypingMind will display the account information that you are currently connected to.
 
-![image.webp](model-context-protocol-\(mcp\)-in-typingmind/image%205.webp)
+![image.png](model-context-protocol-\(mcp\)-in-typingmind/image%205.png)
 
 ## Using a custom OAuth client
 
@@ -65,7 +65,7 @@ By default, TypingMind will register itself with the MCP server using OAuth 2.0 
 
 If the service provider doesn't support it, you can connect using your own OAuth client. Go to Plugins → MCP Store → Add custom connector → Advanced options → OAuth Client.
 
-![image.webp](model-context-protocol-\(mcp\)-in-typingmind/image%206.webp)
+![image.png](model-context-protocol-\(mcp\)-in-typingmind/image%206.png)
 
 For the **Personal version**, the official redirect URLs for the OAuth client are:
 
@@ -80,11 +80,9 @@ For the **Team version**, you will see your own unique redirect URL displayed in
 
 ## Using private MCP connector
 
-<aside>
-  ℹ️
-
+<Info>
   MCP Connector is only needed in the **Personal version** of TypingMind.
-</aside>
+</Info>
 
 **MCP Connector** is an intermediate server to facilitate your connection between the TypingMind app and the remote MCP servers. It is needed because most MCP servers don’t allow direct connection between TypingMind app running in the browsers to their server.
 
@@ -93,10 +91,10 @@ When you connect to a remote MCP server the first time, TypingMind will ask you 
 - **TypingMind Cloud:** is the easiest and requires no setup. You will need to signup for an account with TypingMind Cloud first, it’s free and required to avoid spam to our cloud server.
 - **Private MCP Connector:** this is a private [self-hosted MCP connector](https://www.npmjs.com/package/@typingmind/mcp) that you can setup on your local device or on a private server.
 
-![image.webp](model-context-protocol-\(mcp\)-in-typingmind/image%207.webp)
+![image.png](model-context-protocol-\(mcp\)-in-typingmind/image%207.png)
 
 ## Connect to local MCP servers
 
 You can connect to local MCP servers using a Private MCP Connector. Check the following page to see more details:
 
-[Use MCP with Private MCP Connector](Model%20Context%20Protocol%20\(MCP\)%20in%20TypingMind/Use%20MCP%20with%20Private%20MCP%20Connector%202ab7c3f1757a8058958bcb22a06ea160.md)
+[Use MCP with Private MCP Connector](/model-context-protocol-\(mcp\)-in-typingmind/use-mcp-with-private-mcp-connector)

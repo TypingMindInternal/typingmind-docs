@@ -1,6 +1,7 @@
 ---
-title: "TypingMind MCP + Make.com"
+title: 'TypingMind MCP + Make.com'
 ---
+
 This guide will help you set up the **Make MCP server**, enabling your AI assistant in **TypingMind** to connect with Make to connect with thousands apps and run automation workflows.
 
 ## **What is Make MCP?**
@@ -26,17 +27,17 @@ To obtain an MCP token:
 3. Navigate to the **API / MCP access** tab.
 4. Click **Add token**.
 
-![image.webp](image.webp)
+![image.png](image.png)
 
 1. Select the scope `mcp:use`
 2. Name your token
 3. Click **Add**.
 
-![image.webp](image%201.webp)
+![image.png](image%201.png)
 
 1. Copy the token to a safe place to use later on TypingMind:
 
-![image.webp](image%202.webp)
+![image.png](image%202.png)
 
 > ⚠️ Treat this URL like a password. It gives TypingMind access to your configured scenarios.
 > 
@@ -45,7 +46,7 @@ To obtain an MCP token:
 
 - Go to Plugin → MCP Connectors → Add Connector
 
-![image.webp](typingmind-mcp-github/image%201.webp)
+![image.png](typingmind-mcp-github/image%201.png)
 
 - Add Server URL: add the MCP server URL in the format:
 
@@ -53,7 +54,7 @@ To obtain an MCP token:
 
 - Connection name: Make
 
-![image.webp](image%203.webp)
+![image.png](image%203.png)
 
 - Click **Create Connection**
 
@@ -61,7 +62,7 @@ To obtain an MCP token:
 
 After creating the connection with Make MCP, you will see Make appear in the plugin list, click on that to start setup your MCP connector with TypingMind:
 
-![image.webp](typingmind-mcp-github/image%204.webp)
+![image.png](typingmind-mcp-github/image%204.png)
 
 - If you select TypingMind Cloud, you can connect to our remote MCP server in one-click without any further setup
 - If you choose to set up Private MCP Connector, then follow the steps here: [Use MCP with Private MCP Connector](https://docs.typingmind.com/model-context-protocol-(mcp)-in-typingmind/use-mcp-with-private-mcp-connector)
@@ -70,10 +71,10 @@ After creating the connection with Make MCP, you will see Make appear in the plu
 
 You can control which scenarios your Make MCP should trigger within TypingMind by switching to Tools tab → Enable/disable specific tools.
 
-![image.webp](image%204.webp)
+![image.png](image%204.png)
 
 ### Step 5: Start chatting
 
 You’re all set! Now you can access all Make scenarios and trigger automations via TypingMind!
 
-![image.webp](image%205.webp)
+![image.png](image%205.png)

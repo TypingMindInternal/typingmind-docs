@@ -1,6 +1,7 @@
 ---
-title: "TypingMind MCP + Figma"
+title: 'TypingMind MCP + Figma'
 ---
+
 Using TypingMind with Figma via MCP allows you to access your Figma files so you can automate tasks, streamline collaboration, and bridge design-to-dev workflows
 
 ## Why use TypingMind MCP + Figma?
@@ -22,11 +23,11 @@ MCP servers require a server to run on. TypingMind allows you to connect to the 
 - Your own local device
 - Or a private remote server.
 
-![image.webp](../rag-knowledge-base/connect-to-llamaindex/image%204.webp)
+![image.png](../rag-knowledge-base/connect-to-llamaindex/image%204.png)
 
 If you choose to run the MCP servers on your device, run the command displayed on the screen.
 
-![image.webp](../rag-knowledge-base/connect-to-llamaindex/image%205.webp)
+![image.png](../rag-knowledge-base/connect-to-llamaindex/image%205.png)
 
 Detail setup can be found at [https://docs.typingmind.com/model-context-protocol-in-typingmind](https://docs.typingmind.com/model-context-protocol-in-typingmind)
 
@@ -54,9 +55,9 @@ Here’s how you can get the Figma API key to put into `<YOUR_KEY>` :
 - Enter a name for your new token and provide permissions for your token.
 - Copy the token that is generated
 
-![image.webp](typingmind-mcp-figma/image.webp)
+![image.png](typingmind-mcp-figma/image.png)
 
-![image.webp](typingmind-mcp-figma/image%201.webp)
+![image.png](typingmind-mcp-figma/image%201.png)
 
 <aside>
 💡
@@ -67,7 +68,7 @@ View more about [Figma MCP Server](https://github.com/GLips/Figma-Context-MCP)
 
 - Click Save changes to save the MCP server
 
-![image.webp](typingmind-mcp-figma/image%202.webp)
+![image.png](typingmind-mcp-figma/image%202.png)
 
 ### Step 3: Enable Framelink Figma MCP via Plugin section
 
@@ -77,10 +78,10 @@ After the MCP servers are added successfully, it will show up in your **Plugins*
 - You should see a new plugin called **"**Framelink Figma MCP**"**.
 - Enable the plugin
 
-![image.webp](typingmind-mcp-figma/image%203.webp)
+![image.png](typingmind-mcp-figma/image%203.png)
 
 ### Step 4: Start chatting
 
 You can now interact with Figma files through TypingMind:
 
-![image.webp](typingmind-mcp-figma/image%204.webp)
+![image.png](typingmind-mcp-figma/image%204.png)

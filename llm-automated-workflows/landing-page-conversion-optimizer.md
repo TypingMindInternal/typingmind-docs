@@ -1,11 +1,12 @@
 ---
-title: "Landing Page Conversion Optimizer"
+title: 'Landing Page Conversion Optimizer'
 ---
+
 Let’s be honest: most landing pages suck. Not because founders and CMOs don’t care, but because when you’re too close to your own product, you stop seeing the cracks. The boring headline, the confusing call-to-action, the design that feels like it was pulled out of a 2015 template.
 
 That’s why we built this flow. You don’t need another fluffy “10 best tips for higher conversions” article. You need someone to roast your landing page *brutally*, then hand you **specific, battle-tested conversion optimization ideas** you can actually deploy. 
 
-# Who’s this for?
+## Who’s this for?
 
 This is for founders, CMOs, growth leads or basically, anyone whose **job depends on turning clicks into customers**.
 
@@ -13,7 +14,7 @@ This is for founders, CMOs, growth leads or basically, anyone whose **job depend
 - If you keep hearing “we need more traffic” but secretly know your site can’t convert what you already have, this is for you.
 - If your landing page is your sales rep but it’s currently mumbling in the corner with low energy, yep, this is especially for you.
 
-# How does it work?
+## How does it work?
 
 1. You submit your landing page URL
 2. The AI model reads the web page using Firecrawl
@@ -21,7 +22,7 @@ This is for founders, CMOs, growth leads or basically, anyone whose **job depend
     - Roast the user’s landing page
     - Provide specific recommendations to improve its conversion rate.
 
-# Set up the AI Agent for this workflow
+## Set up the AI Agent for this workflow
 
 Here’s how you can plug this into your workflow:
 
@@ -29,7 +30,7 @@ Here’s how you can plug this into your workflow:
 
 Go to Agent —> Create a new AI Agent
 
-![image.webp](landing-page-conversion-optimizer/image.webp)
+![image.png](landing-page-conversion-optimizer/image.png)
 
 ### 2. Set up your AI Agent
 
@@ -105,12 +106,12 @@ Provide the following details to set up your AI Agent:
     ```
     
 
-![image.webp](landing-page-conversion-optimizer/image%201.webp)
+![image.png](landing-page-conversion-optimizer/image%201.png)
 
 ## Expected Outputs
 
 Here’s the output you can expect when running this AI Agent:
 
-![image.webp](landing-page-conversion-optimizer/image%202.webp)
+![image.png](landing-page-conversion-optimizer/image%202.png)
 
 Try now on TypingMind!

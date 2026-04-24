@@ -1,9 +1,10 @@
 ---
-title: "Connect Multiple MCP Servers"
+title: 'Connect Multiple MCP Servers'
 ---
-Once you have finished setting up [MCP connectors](https://docs.typingmind.com/model-context-protocol-(mcp)-in-typingmind), you can connect multiple MCP servers to TypingMind.
 
-## **Step 1: Edit the server configuration**
+Once you have finished setting up [MCP connectors](https://docs.typingmind.com/model-context-protocol-\(mcp\)-in-typingmind), you can connect multiple MCP servers to TypingMind.
+
+## Step 1: Edit the server configuration
 
 Click on Edit Servers to configure your MCP servers:
 
@@ -46,7 +47,7 @@ Click on Edit Servers to configure your MCP servers:
 }
 ```
 
-![image.webp](connect-multiple-mcp-servers/image.webp)
+![image.png](connect-multiple-mcp-servers/image.png)
 
 Each server entry includes:
 
@@ -56,14 +57,14 @@ Each server entry includes:
 
 You can add as many servers as you like using the same structure.
 
-## **Step 2: Save the configuration**
+## Step 2: Save the configuration
 
 Save your changes after editing the file. TypingMind will use this configuration to recognize and launch your MCP servers.
 
-## **Step 3: Enable each server**
+## Step 3: Enable each server
 
-In TypingMind, enable each MCP server as a **separate plugin**. Go Plugins —> Enable the connected MCP servers:
+In TypingMind, enable each MCP server as a **separate plugin**. Go Plugins —\> Enable the connected MCP servers:
 
-![image.webp](connect-multiple-mcp-servers/image%201.webp)
+![image.png](connect-multiple-mcp-servers/image%201.png)
 
 Once enabled, TypingMind will automatically connect to all configured servers at startup.

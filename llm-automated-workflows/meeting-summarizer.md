@@ -1,13 +1,14 @@
 ---
 title: "Meeting Summarizer"
 ---
+
 Meetings matter, but handling the details afterward can be tedious. Writing minutes, sharing summaries on Slack, and scheduling the next meeting all take up valuable time.
 
 What if you could automate all of it?
 
 This guide shows you how to set up an AI agent to summarize meetings, send those notes to Slack, and schedule the next meeting in Google Calendar—all automatically.
 
-## Step 1: **Integrate Slack and Google Calendar to TypingMind**
+## Step 1: Integrate Slack and Google Calendar to TypingMind
 
 To streamline things, connect your TypingMind to:
 
@@ -16,20 +17,18 @@ To streamline things, connect your TypingMind to:
 
 The AI assistant on TypingMind will help summarize your meeting and takes care of the follow-up, so your team stays updated with zero manual effort.
 
-<aside>
-💡
+<Note>
+  Connect TypingMind to these apps via MCP:
 
-Connect TypingMind to these apps via MCP:
-
-- You can both connect the two apps via [Zapier MCP](../Model%20Context%20Protocol%20(MCP)%20in%20TypingMind/TypingMind%20MCP%20+%20Zapier%2023b7c3f1757a8006affbd0af883d320f.md)
-- Or set them up separately via their MCP servers:
-    - [Set up Slack MCP on TypingMind](../Model%20Context%20Protocol%20(MCP)%20in%20TypingMind/TypingMind%20MCP%20+%20Slack%202957c3f1757a802ba3f7fc9a542c9908.md)
+  - You can both connect the two apps via [Zapier MCP](/model-context-protocol-\(mcp\)-in-typingmind/typingmind-mcp-zapier)
+  - Or set them up separately via their MCP servers:
+    - [Set up Slack MCP on TypingMind](/model-context-protocol-\(mcp\)-in-typingmind/typingmind-mcp-slack)
     - Set up Google Calendar on TypingMind (setup guide coming soon, refer to [Google Calendar MCP](https://github.com/nspady/google-calendar-mcp) for more details)
-</aside>
+</Note>
 
-![image.webp](meeting-summarizer/image.webp)
+![image.png](meeting-summarizer/image.png)
 
-![image.webp](meeting-summarizer/image%201.webp)
+![image.png](meeting-summarizer/image%201.png)
 
 ## Step 2: Build an AI Agent for Meeting Summaries
 
@@ -80,7 +79,7 @@ Note all **next steps**, including:
 - Ask users if they want to schedule the next meeting or not
 ```
 
-![image.webp](meeting-summarizer/image%202.webp)
+![image.png](meeting-summarizer/image%202.png)
 
 ## Step 3: Run the workflow
 
@@ -90,8 +89,8 @@ Here's how to run the workflow:
 2. Upload your recorded meeting to TypingMind to create a transcript, or upload an existing text transcript.
 3. The AI Agent will help turn the transcript into detailed minutes.
 
-![image.webp](meeting-summarizer/image%203.webp)
+![image.png](meeting-summarizer/image%203.png)
 
 1. Send the meeting minutes to your team in Slack and schedule next checkpoint automatically:
 
-![image.webp](meeting-summarizer/image%204.webp)
+![image.png](meeting-summarizer/image%204.png)

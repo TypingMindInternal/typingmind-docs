@@ -1,93 +1,82 @@
 ---
-title: "Context Summary"
+title: 'Context Summary'
 ---
-## **What Is the Context Summary Feature?**
+
+## What Is the Context Summary Feature?
 
 **Context Summary** allows TypingMind to automatically condense older messages in long conversations so the chat stays within your model's context limit.
 
-![Xnapper-2026-02-15-13.50.08.webp](context-summary/Xnapper-2026-02-15-13.50.08.webp)
+![Xnapper-2026-02-15-13.50.08.png](context-summary/Xnapper-2026-02-15-13.50.08.png)
 
 You can choose whether to see the summary checkpoints in the chat, and (depending on your setup) customize the summarization prompt to control how the summary is generated.
 
-# **How Context Summary Works**
+## How Context Summary Works
 
 1. **Automatic trigger**: When the conversation uses about 70% of the model's context window, TypingMind checks if summarization is needed.
-
 2. **Summary generation**: The AI creates a structured summary of the older messages (roughly the first 70% of the conversation).
-
 3. **Context replacement**: The summary replaces the older messages in the context sent to the model. Recent messages stay as-is.
-
 4. **Checkpoint display**: If enabled, a "Context summarized" checkpoint appears in the chat where the summary was inserted.
 
-<aside>
-💡 **Pro Tip:** You can expand the "Context summarized" checkpoint to read the full summary and verify what the AI remembered from the earlier conversation. You can also customize the summarization prompt in settings to tailor the summary to your needs.
+<Tip>
+  **Pro Tip:** You can expand the "Context summarized" checkpoint to read the full summary and verify what the AI remembered from the earlier conversation. You can also customize the summarization prompt in settings to tailor the summary to your needs.
 
-![image.webp](context-summary/image.webp)
+  ![image.png](context-summary/image.png)
+</Tip>
 
-</aside>
+## Individual Version
 
-## **Individual Version**
+_Note: If you're on a team or organization instance, Context Summary is controlled by your admin. See the Team Version section below._
 
-*Note: If you're on a team or organization instance, Context Summary is controlled by your admin. See the Team Version section below.*
-
-### **How to Enable Context Summary**
+### How to Enable Context Summary
 
 1. Open **Settings** (gear icon in the sidebar).
-
 2. Go to **Internal prompts** under Advanced Settings.
-
 3. Turn on **Auto summarize long conversations**.
-
 4. (Optional) Expand **Advanced Settings** to customize the summarization prompt.
 
-![image.webp](context-summary/image%201.webp)
+![image.png](context-summary/image%201.png)
 
-### **How to Customize the Summary Prompt**
+### How to Customize the Summary Prompt
 
 1. In **Settings** → **Internal prompts**, ensure **Auto summarize long conversations** is on.
-
 2. Expand **Advanced Settings** under that toggle.
-
 3. Edit the text to change how the AI summarizes conversations.
-
 4. Click **Reset to default** to restore the built-in prompt.
 
-## **Team Version**
+## Team Version
 
-### **Enabling Context Summary for Your Team**
+### Enabling Context Summary for Your Team
 
 1. Go to **Admin Panel** → **Chat Features**.
-
 2. Enable **Context Summary** to allow automatic summarization for your organization.
-
 3. (Optional) Enable **Show Context Summary Checkpoints** so users see where summaries were inserted.
 
-![image.webp](context-summary/image%202.webp)
+![image.png](context-summary/image%202.png)
 
 4. When **Context Summary** is enabled, expand the **Advanced Settings** to set a custom **Context Summary Prompt** for your chat instance.
 
-![image.webp](context-summary/image%203.webp)
+![image.png](context-summary/image%203.png)
 
-### **Context Summary vs. Show Context Summary**
+### Context Summary vs. Show Context Summary
 
 | **Setting** | **What it does** |
 | --- | --- |
-| **Context Summary** | Turns automatic summarization on or off. When off, long chats may hit context limits.  |
-| **Show Context Summary Checkpoints** | Controls whether users see the "Context summarized" message in the chat. Summarization still runs in the background when enabled; this only affects the UI. 
- |
+| **Context Summary** | Turns automatic summarization on or off. When off, long chats may hit context limits. |
+| **Show Context Summary Checkpoints** | Controls whether users see the "Context summarized" message in the chat. Summarization still runs in the background when enabled; this only affects the UI. |
+|  |  |
 
 ### **Defaults for Team Version**
 
 - **Context Summary**: On by default.
 - **Show Context Summary Checkpoints**: Off by default (users don't see the checkpoint, but summarization still happens).
 
-## **User Experience in Team Version**
+## User Experience in Team Version
 
 - Users do not configure Context Summary themselves; it is controlled by admins.
 - If **Context Summary** is enabled, long conversations are automatically summarized.
 - If **Show Context Summary Checkpoints** is enabled, users see the "Context summarized" checkpoint and can expand it to read the summary.
 
-## **FAQs**
+## FAQs
 
 - **Does context summarization delete my messages?**
 

@@ -1,6 +1,7 @@
 ---
-title: "Pre-Fill Chat Data via URL"
+title: 'Pre-Fill Chat Data via URL'
 ---
+
 You can now pre-fill chat data on [TypingMind](http://typingmind.com/) using URL parameters. Follow the guide below to configure your chat sessions.
 
 ## 1. Pre-Fill Initial System Message
@@ -37,7 +38,7 @@ You can also set the initial agent for a new chat via the URL. To do so:
 
 1. Obtain the agent ID.
     
-    ![image.webp](pre-fill-chat-data-via-url/image.webp)
+    ![image.png](pre-fill-chat-data-via-url/image.png)
     
 2. Open the app with the following URL format:
 

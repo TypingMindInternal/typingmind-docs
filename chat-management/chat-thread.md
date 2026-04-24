@@ -10,7 +10,7 @@ When you regenerate or edit a message, the app preserves the original conversati
 
 You can easily switch back and forth among versions, view each message thread independently, and continue the conversation based on any version you choose.
 
-![image.webp](chat-thread/image.webp)
+![image.png](chat-thread/image.png)
 
 More than that, you can start a new thread at any point in the conversation. This uses all previous conversation history as context up to that point, and the new thread’s flow will be saved independently from the original path.
 
@@ -30,8 +30,6 @@ More than that, you can start a new thread at any point in the conversation. Thi
 - **Decision making**: compare different options or plans you brainstorm with AI models.
 - **Coding:** regenerate code solutions with slight prompt changes and compare efficiency or style.
 
-[https://vimeo.com/1079446637?share=copy#t=0](https://vimeo.com/1079446637?share=copy#t=0)
-
 ## How to Use Chat Threads
 
 1. **Edit or Regenerate a message**
@@ -46,8 +44,6 @@ More than that, you can start a new thread at any point in the conversation. Thi
 4. **View threads independently**
    - Each thread acts as a mini-conversation.
    - You can explore different conversation paths without confusion.
-
-[https://vimeo.com/1079442707?share=copy#t=0](https://vimeo.com/1079442707?share=copy#t=0)
 
 > Pro Tip:
 >

@@ -1,6 +1,7 @@
 ---
-title: "TypingMind MCP + FileSystem"
+title: 'TypingMind MCP + FileSystem'
 ---
+
 This guide walks you through setting up the **FileSystem MCP server** so your AI assistant in **TypingMind** can read and interact with files stored locally on your computer.
 
 ## Why access your local files?
@@ -22,11 +23,11 @@ MCP servers require a server to run on. TypingMind allows you to connect to the 
 - Your own local device
 - Or a private remote server.
 
-![image.webp](../rag-knowledge-base/connect-to-llamaindex/image%204.webp)
+![image.png](../rag-knowledge-base/connect-to-llamaindex/image%204.png)
 
 If you choose to run the MCP servers on your device, run the command displayed on the screen.
 
-![image.webp](../rag-knowledge-base/connect-to-llamaindex/image%205.webp)
+![image.png](../rag-knowledge-base/connect-to-llamaindex/image%205.png)
 
 Detail setup can be found at [https://docs.typingmind.com/model-context-protocol-in-typingmind](https://docs.typingmind.com/model-context-protocol-in-typingmind)
 
@@ -53,13 +54,13 @@ Detail setup can be found at [https://docs.typingmind.com/model-context-protocol
 
 Replace the folder paths with those you want the AI to access. Make sure these folders exist on your device.
 
-![image.webp](typingmind-mcp-filesystem/image.webp)
+![image.png](typingmind-mcp-filesystem/image.png)
 
 Github Reference: [Official FileSystem MCP Server on GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)
 
 - Click Save changes to save the MCP server
 
-![image.webp](typingmind-mcp-filesystem/image%201.webp)
+![image.png](typingmind-mcp-filesystem/image%201.png)
 
 ### Step 3: Enable filesystem via Plugin section
 
@@ -69,7 +70,7 @@ After the MCP servers are added successfully, it will show up in your **Plugins*
 - You should see a new plugin called **"filesystem"**.
 - Enable the plugin
 
-![image.webp](typingmind-mcp-filesystem/image%202.webp)
+![image.png](typingmind-mcp-filesystem/image%202.png)
 
 ### Step 4: Start chatting
 
@@ -81,14 +82,13 @@ You can now interact with your local files through natural language. For example
 
 Ensure that the files are inside one of the directories you added in Step 2.
 
-![image.webp](typingmind-mcp-filesystem/image%203.webp)
+![image.png](typingmind-mcp-filesystem/image%203.png)
 
-<aside>
-💡
+<Tip>
 
-You can find more MCP servers at [https://github.com/modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
+  You can find more MCP servers at [https://github.com/modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
 
-</aside>
+</Tip>
 
 ## Use cases to use File System
 
@@ -97,10 +97,3 @@ You can find more MCP servers at [https://github.com/modelcontextprotocol/server
 - **Enhanced AI Assistance**: give TypingMind contextual awareness of your local files for smarter support.
 - **Workflow Integration**: automate project organization, backups, and document processing.
 - **Development Support**: manage code, test environments, and generate documentation efficiently.
-
-<aside>
-💡
-
-View example use cases in managing download files: [https://blog.typingmind.com/organize-download-files-with-typingmind-and-filesystem-mcp/](https://blog.typingmind.com/organize-download-files-with-typingmind-and-filesystem-mcp/)
-
-</aside>

@@ -1,9 +1,10 @@
 ---
-title: "Google Calendar"
+title: Google Calendar
 ---
+
 **Google Calendar** plugin allows the AI to access the user’s calendar via Google API. By the end of this tutorial, you will be able to create a plugin like the screenshot below:
 
-![image.webp](google-calendar/image.webp)
+![image.png](google-calendar/image.png)
 
 When using this plugin, the end user must authenticate with their Google account. The AI will then use the user permission to access their calendar to provide assistants and useful information.
 
@@ -17,21 +18,17 @@ In this tutorial, we will go through 3 parts:
 
 Let’s get started.
 
-<aside>
-💡
+<Note>
+  For clarity, this document is written in context of the [**TypingMind Team Version**](https://custom.typingmind.com). If you are using the [**TypingMind License Version**](https://www.typingmind.com), everything is the same except for some small differences. Read until the end for more information.
 
-For clarity, this document is written in context of the [**TypingMind Team Version**](https://custom.typingmind.com). If you are using the [**TypingMind License Version**](https://www.typingmind.com), everything is the same except for some small differences. Read until the end for more information.
-
-</aside>
+</Note>
 
 ## Part 1: Create the plugin
 
-<aside>
-💡
+<Note>
+  In this step, **we will act as a Plugin Developer** to create a plugin. This plugin can later be listed on the plugin store or share directly to other people in the community via a share URL or a GitHub repo.
 
-In this step, **we will act as a Plugin Developer** to create a plugin. This plugin can later be listed on the plugin store or share directly to other people in the community via a share URL or a GitHub repo.
-
-</aside>
+</Note>
 
 Let’s start creating the “Google Calendar” plugin step-by-step.
 
@@ -41,7 +38,7 @@ The easiest way to implement this plugin is by using [HTTP Action](Build%20a%20T
 
 A quick Google search will gives us the HTTP endpoint we need on the [Google Calendar API docs](https://developers.google.com/calendar/api/v3/reference/calendarList/list): 
 
-![image.webp](google-calendar/image%201.webp)
+![image.png](google-calendar/image%201.png)
 
 From this page, we will learn that:
 
@@ -63,7 +60,7 @@ https://www.googleapis.com/auth/calendar.readonly
 
 We can use the API Explorer to test the endpoint and check a sample response:
 
-![image.webp](google-calendar/image%202.webp)
+![image.png](google-calendar/image%202.png)
 
 Based on this, we can construct a simple HTTP request to get the user’s calendar event in a specific time frame like follow:
 
@@ -77,11 +74,11 @@ To test this endpoint, we will need an access token (shown as `{{ACCESS_TOKEN}}`
 
 I used the [Google OAuth 2.0 playground](https://developers.google.com/oauthplayground/) to get a test access token with my Google account. You can do the same with your Google account, just go to the playground, enter the desired scope, then follow the flow to get your access token.
 
-![image.webp](google-calendar/image%203.webp)
+![image.png](google-calendar/image%203.png)
 
 Then I tested the endpoint with my access token and can confirm that the endpoint is working and returning my events in JSON format.
 
-![image.webp](google-calendar/image%204.webp)
+![image.png](google-calendar/image%204.png)
 
 Now that we understand what are needed to get the user’s calendar events, let’s start creating the “Google Calendar” plugin.
 
@@ -93,7 +90,7 @@ The easiest way to create a new TypingMind plugin is to use the editor provided 
 - Name the plugin “**Google Calendar**”
 - Description: “**Give AI read-only access to your Google Calendar**”
 
-![image.webp](google-calendar/image%205.webp)
+![image.png](google-calendar/image%205.png)
 
 ### OpenAI Function Spec
 
@@ -160,19 +157,19 @@ For OAuth configurations, we will need the following information:
 
 The URLs can be found from Google documentations, sometimes it can be difficult to navigate their documents, but in those cases, you can always ask AI!
 
-![image.webp](google-calendar/image%206.webp)
+![image.png](google-calendar/image%206.png)
 
 You can verify the AI’s response by visiting [`https://accounts.google.com/.well-known/openid-configuration`](https://accounts.google.com/.well-known/openid-configuration) get the auth URL and token URL from there.
 
 So here is the OAuth config I setup to the plugin:
 
-![image.webp](google-calendar/image%207.webp)
+![image.png](google-calendar/image%207.png)
 
 ### Implementation
 
 For this plugin, as planned, we will use the HTTP Action implementation.
 
-![image.webp](google-calendar/image%208.webp)
+![image.png](google-calendar/image%208.png)
 
 Based on the information we entered to the plugin, we have access to the following variables to use:
 
@@ -198,7 +195,7 @@ You can add some test variables and click “Send Test Request” to verify that
 
 Here I use the same test access token I got from the Google OAuth 2.0 playground:
 
-![image.webp](google-calendar/image%209.webp)
+![image.png](google-calendar/image%209.png)
 
 As for the **Output Options**, we select “Give plugin output to the AI”, so that the AI can read the information in the response JSON and represent the result to the user in a friendly format.
 
@@ -208,7 +205,7 @@ Click “Add Plugins” to finish creating the plugin. After created, it will be
 
 You can click “Share” to share this plugin to other people to use.
 
-![image.webp](google-calendar/image%2010.webp)
+![image.png](google-calendar/image%2010.png)
 
 ## Part 2: Install and setup the plugin
 
@@ -225,7 +222,7 @@ In this example, I will create a new TypingMind instance named “**ExampleAI**�
 
 I will invite my teammates to this platform and let them use the AI with the Google Calendar plugin.
 
-![image.webp](google-calendar/image%2011.webp)
+![image.png](google-calendar/image%2011.png)
 
 ### Prepare the OAuth app
 
@@ -249,67 +246,64 @@ Note that it say “**ExampleAI**” is requesting the permission, not TypingMin
 
 To create an OAuth app, go to [https://console.cloud.google.com/](https://console.cloud.google.com/) and click on the project navigation area, then click **New Project.**
 
-![image.webp](google-calendar/image%2012.webp)
+![image.png](google-calendar/image%2012.png)
 
 I will name this project “**ExampleAI**”.
 
-![image.webp](google-calendar/image%2013.webp)
+![image.png](google-calendar/image%2013.png)
 
 Next, search for the “**Google Calendar API**” and enable it for the project. You can enable multiple different APIs at the same time for the same project.
 
-![image.webp](google-calendar/image%2014.webp)
+![image.png](google-calendar/image%2014.png)
 
 Once enabled, click go to Credentials → Create Credentials → OAuth client ID.
 
-![image.webp](google-calendar/image%2015.webp)
+![image.png](google-calendar/image%2015.png)
 
 At this step, you will be asked to setup the Consent Screen (you only need to do this once per project).
 
-![image.webp](google-calendar/image%2016.webp)
+![image.png](google-calendar/image%2016.png)
 
 On the next screen, select **Internal** if you are setting up with your Google Workspace account, otherwise, select **External**.
 
-![image.webp](google-calendar/image%2017.webp)
+![image.png](google-calendar/image%2017.png)
 
 On the next screen, you can set up the branding info of the OAuth app. The details you enter here will be shown to the user when they authorize with Google.
 
 Following the example we are doing, I will name this “ExampleAI” to match with the branding of my TypingMind instance.
 
-![image.webp](google-calendar/image%2018.webp)
+![image.png](google-calendar/image%2018.png)
 
 Click Save. On the next screen, you need to specify the scopes needed for OAuth app.
 
-<aside>
-💡
+<Tip>
 
-**Tips:** You can use one OAuth app for multiple plugins, and the same one for [Login with OAuth](../TypingMind%20Team/User%20Management/OAuth%202%200%207bc28ee62d684e6a8f88314830cddd69.md). In such case, you can select multiple scopes as needed.
+  **Tips:** You can use one OAuth app for multiple plugins, and the same one for [Login with OAuth](../TypingMind%20Team/User%20Management/OAuth%202%200%207bc28ee62d684e6a8f88314830cddd69.md). In such case, you can select multiple scopes as needed.
 
-</aside>
+</Tip>
 
 For the current example, we search and select the “Google Calendar API” read-only scope.
 
-![image.webp](google-calendar/image%2019.webp)
+![image.png](google-calendar/image%2019.png)
 
 On the next screen, you can add your own Google account as a test user to start testing your OAuth app right away.
 
-<aside>
-💡
+<Note>
+  Before your OAuth app is reviewed and approved by Google, you can only use it for a limited number of accounts (called test users). Once you tested that everything is working normally, you can request for review from Google so that your OAuth app can work with any Google account (or accounts within your Google Workspace if you choose Internal at the earlier step).
 
-Before your OAuth app is reviewed and approved by Google, you can only use it for a limited number of accounts (called test users). Once you tested that everything is working normally, you can request for review from Google so that your OAuth app can work with any Google account (or accounts within your Google Workspace if you choose Internal at the earlier step).
+</Note>
 
-</aside>
-
-![image.webp](google-calendar/image%2020.webp)
+![image.png](google-calendar/image%2020.png)
 
 Once you have setup the OAuth consent screen, go back to the Credentials tab and start creating your OAuth Client ID again.
 
 Select “**Web application**” Application Type. You can skip the “Authorized Javascript Origin” options as we are not using those in this example.
 
-![image.webp](google-calendar/image%2021.webp)
+![image.png](google-calendar/image%2021.png)
 
 Once created, you will see a **Client ID** and **Client Secret**. Take note of these values, we will need them at the next step.
 
-![image.webp](google-calendar/image%2022.webp)
+![image.png](google-calendar/image%2022.png)
 
 ### Install the Google Calendar plugin
 
@@ -321,11 +315,11 @@ https://github.com/TypingMind/plugin-read-google-calendar
 
 When enabled, the plugin asks for the **OAuth Client ID** and **OAuth Client Secret**. Enter the details using the client ID and secret you get from your OAuth client in the previous step.
 
-![image.webp](google-calendar/image%2023.webp)
+![image.png](google-calendar/image%2023.png)
 
 You can also have an “OAuth Callback URL”. Copy this and go back to Google Cloud Console and add it to your OAuth app and click **Save**.
 
-![image.webp](google-calendar/image%2024.webp)
+![image.png](google-calendar/image%2024.png)
 
 Now the **Google Calendar** plugin is enabled and configured, ready to be used by the user!
 
@@ -333,23 +327,23 @@ Now the **Google Calendar** plugin is enabled and configured, ready to be used b
 
 Now I will login to the ExampleAI instance as a user and start to use the **Google Calendar** plugin.
 
-![image.webp](google-calendar/image%2025.webp)
+![image.png](google-calendar/image%2025.png)
 
 Start a new chat with the Google Calendar plugin enabled:
 
-![image.webp](google-calendar/image%2026.webp)
+![image.png](google-calendar/image%2026.png)
 
 When I ask the AI “What’s on my calendar this week”, it activates the Google Calendar plugin and ask me to authenticate.
 
-![image.webp](google-calendar/image%2027.webp)
+![image.png](google-calendar/image%2027.png)
 
 When I click Authenticate Now, TypingMind sends me to authorize with the **ExampleAI** OAuth app.
 
-![image.webp](google-calendar/image%2028.webp)
+![image.png](google-calendar/image%2028.png)
 
 Once I authorized, the AI now have access to my Google calendar and can show me the events I have on my calendar in the week:
 
-![image.webp](google-calendar/image%2029.webp)
+![image.png](google-calendar/image%2029.png)
 
 ## Conclusion
 
@@ -374,14 +368,13 @@ If you are using the license version (individual version) at www.typingmind.com,
 - The TypingMind License Version is intended for single-user use. We don’t recommend sharing the license version to other users as they will have access to your OAuth Client Secret, which is not secure.
 - To share access to other users in a secure way, please use [**TypingMind Custom**](https://custom.typingmind.com).
 
-<aside>
-💡
+<Note>
 
-TypingMind License Version does not have a built-in OAuth app for plugins. This is because having an OAuth app means that we (TypingMind) will have access to your Google account after you authorize, and we don’t want to have access your data.
+  TypingMind License Version does not have a built-in OAuth app for plugins. This is because having an OAuth app means that we (TypingMind) will have access to your Google account after you authorize, and we don’t want to have access your data.
 
-We are committed to make TypingMind License Version a truly static web app where all of your data is only stored locally on your device. By using your own OAuth credentials, you can still use all of the OAuth features without giving await access to your data.
+  We are committed to make TypingMind License Version a truly static web app where all of your data is only stored locally on your device. By using your own OAuth credentials, you can still use all of the OAuth features without giving await access to your data.
 
-</aside>
+</Note>
 
 ## Learn more
 

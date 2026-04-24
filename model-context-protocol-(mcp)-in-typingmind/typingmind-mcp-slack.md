@@ -1,6 +1,7 @@
 ---
-title: "TypingMind MCP + Slack"
+title: 'TypingMind MCP + Slack'
 ---
+
 This guide will help you set up the Slack **MCP server**, provides AI assistants on TypingMind with the ability to interact with Slack workspaces. This integration allows you to list channels, post messages, reply to threads, add reactions, get channel history, and manage users on Slack via TypingMind.
 
 ## Step-by-step to install Slack MCP on TypingMind
@@ -16,7 +17,7 @@ To use this MCP server, you need to create a Slack app and configure it with the
 - Choose "From scratch"
 - Name your app and select your workspace
 
-![image.webp](typingmind-mcp-slack/image.webp)
+![image.png](typingmind-mcp-slack/image.png)
 
 **2. Configure Bot Token Scopes**
 
@@ -29,17 +30,17 @@ Navigate to "OAuth & Permissions" > Bot token scopes and add these scopes:
 - `users:read` - View users and their basic information
 - `users.profile:read` - View detailed profiles about users
 
-![image.webp](typingmind-mcp-slack/image%201.webp)
+![image.png](typingmind-mcp-slack/image%201.png)
 
 **3. Install App to Workspace**
 
 - Click "Install to Workspace" and authorize the app
 
-![image.webp](typingmind-mcp-slack/image%202.webp)
+![image.png](typingmind-mcp-slack/image%202.png)
 
 - Save the "Bot User OAuth Token" that starts with `xoxb-`
 
-![image.webp](typingmind-mcp-slack/image%203.webp)
+![image.png](typingmind-mcp-slack/image%203.png)
 
 **4. Get Your Team ID**
 
@@ -58,11 +59,11 @@ MCP servers require a server to run on. TypingMind allows you to connect to the 
 - Your own local device
 - Or a private remote server.
 
-![image.webp](../rag-knowledge-base/connect-to-llamaindex/image%204.webp)
+![image.png](../rag-knowledge-base/connect-to-llamaindex/image%204.png)
 
 If you choose to run the MCP servers on your device, run the command displayed on the screen.
 
-![image.webp](../rag-knowledge-base/connect-to-llamaindex/image%205.webp)
+![image.png](../rag-knowledge-base/connect-to-llamaindex/image%205.png)
 
 <aside>
 💡
@@ -96,7 +97,7 @@ For detailed setup instructions or guidance on setting up the Team version, visi
 
 More information about Slack MCP: [https://github.com/zencoderai/slack-mcp-server](https://github.com/zencoderai/slack-mcp-server)
 
-![image.webp](typingmind-mcp-slack/image%204.webp)
+![image.png](typingmind-mcp-slack/image%204.png)
 
 ### Step 3: Enable Slack via Plugin section
 
@@ -106,10 +107,10 @@ After the MCP servers are added successfully, it will show up in your **Plugins*
 - You should see a new plugin called **"slack"**.
 - Enable the plugin
 
-![image.webp](typingmind-mcp-slack/image%205.webp)
+![image.png](typingmind-mcp-slack/image%205.png)
 
 ### Step 4: Start chatting
 
 You’re all set! Now you can view, manage and send messages to Slack effortlessly from TypingMind!
 
-![image.webp](typingmind-mcp-slack/image%206.webp)
+![image.png](typingmind-mcp-slack/image%206.png)

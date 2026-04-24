@@ -1,12 +1,11 @@
 ---
-title: "OpenAI File Search (RAG)"
+title: 'OpenAI File Search (RAG)'
 ---
-<aside>
-💡
 
-Share your plugin/extension ideas at our [Awesome TypingMind Github Repo](https://github.com/TypingMind/awesome-typingmind)
+<Tip>
+  Share your plugin/extension ideas at our [Awesome TypingMind Github Repo](https://github.com/TypingMind/awesome-typingmind)
 
-</aside>
+</Tip>
 
 The **OpenAI File Search** plugin enables you to search and retrieve relevant information from your uploaded files efficiently. Follow these steps to set it up on TypingMind.
 
@@ -26,32 +25,30 @@ The **OpenAI File Search** plugin enables you to search and retrieve relevant in
 - Go to [https://platform.openai.com/storage](https://platform.openai.com/storage)
 - Switch to Vector stores tab and click “Create” to create a new vector store
 
-![image.webp](openai-file-search-(rag)/image.webp)
+![image.png](openai-file-search-(rag)/image.png)
 
 - Click on Add Files and upload your documents
 
-![image.webp](openai-file-search-(rag)/image%201.webp)
+![image.png](openai-file-search-(rag)/image%201.png)
 
 - After creating the vector store, copy the **Vector Store ID**—you will need it in the next step.
 
-![image.webp](openai-file-search-(rag)/image%202.webp)
+![image.png](openai-file-search-(rag)/image%202.png)
 
 ### Step 2: Set up OpenAI File Search plugin on TypingMind
 
 - Go to Plugin store and install the OpenAI File Search plugin
 - Enter your [**OpenAI API Key](https://platform.openai.com/settings/organization/api-keys)** (go to Settings on OpenAI platform —> API keys) and **Vector Store ID** (from Step 1)
 
-<aside>
-💡
+<Note>
+  Please note that the OpenAI API Key and Vector store need to be created on the same OpenAI API account.
 
-Please note that the OpenAI API Key and Vector store need to be created on the same OpenAI API account.
+</Note>
 
-</aside>
-
-![image.webp](openai-file-search-(rag)/image%203.webp)
+![image.png](openai-file-search-(rag)/image%203.png)
 
 ### Step 3: Test the plugin
 
 Start a chat and ask any questions related to your uploaded data to see how it works!
 
-![image.webp](openai-file-search-(rag)/image%204.webp)
+![image.png](openai-file-search-(rag)/image%204.png)

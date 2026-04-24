@@ -1,17 +1,18 @@
 ---
-title: "Firecrawl Web Page Reader"
+title: 'Firecrawl Web Page Reader'
 ---
+
 Firecrawl Web Page Reader allows you to read and analyze a web page by scraping its content using the [**Firecrawl Scrape API**](https://docs.firecrawl.dev/api-reference/endpoint/scrape).
 
 Here’s how to set up on TypingMind.
 
-![image.webp](firecrawl-web-page-reader/image.webp)
+![image.png](firecrawl-web-page-reader/image.png)
 
 ## Step 1: Sign up for a Firecrawl account
 
 Go to [https://www.firecrawl.dev/signin/password_signin](https://www.firecrawl.dev/signin/password_signin) to **sign up for a Firecrawl account.**
 
-![image.webp](firecrawl-web-page-reader/image%201.webp)
+![image.png](firecrawl-web-page-reader/image%201.png)
 
 ## Step 2: Get the API key
 
@@ -19,7 +20,7 @@ Go to [https://www.firecrawl.dev/signin/password_signin](https://www.firecrawl.d
 - **Copy your API key**
 - **Save this key** in a secure place, as you’ll need it to set it up on TypingMind.
 
-![image.webp](firecrawl-web-page-reader/image%202.webp)
+![image.png](firecrawl-web-page-reader/image%202.png)
 
 ## Step 3: Set up the plugin on TypingMind
 
@@ -28,20 +29,20 @@ Go to [https://www.firecrawl.dev/signin/password_signin](https://www.firecrawl.d
 - Select the plugin **Firecrawl Web Page Reader**
 - Switch to the settings tab to **enter the copied API key.**
 
-![image.webp](firecrawl-web-page-reader/image%203.webp)
+![image.png](firecrawl-web-page-reader/image%203.png)
 
 - You can also select the following options:
     - **Only main content:** indicates whether to scrape only the main content. Optional, default value is true.
     - **Response format**: specifies the format of the response from Firecrawl such as markdown, html, rawHtml, links, screenshot, extract, screenshot@fullPage. Optional, default value is markdown.
 
-![image.webp](firecrawl-web-page-reader/image%204.webp)
+![image.png](firecrawl-web-page-reader/image%204.png)
 
 ## Step 4: Start chatting!
 
 - Enter the URL of the web page you wish to scrape and analyze.
 - The Firecrawl Web Page Reader will retrieve the content, allowing you to explore, read, and analyze data from that page.
 
-![image.webp](firecrawl-web-page-reader/image%205.webp)
+![image.png](firecrawl-web-page-reader/image%205.png)
 
 ## Some important notes
 

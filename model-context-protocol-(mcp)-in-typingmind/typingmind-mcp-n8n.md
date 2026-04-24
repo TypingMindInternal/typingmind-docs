@@ -1,10 +1,10 @@
 ---
-title: 'TypingMind MCP + n8n'
+title: "TypingMind MCP + n8n"
 ---
 
 This guide will help you set up the **n8n MCP server**, provides AI assistants on TypingMind with comprehensive access to n8n node documentation, properties, and operations so you can create or manage n8n workflows effortlessly on TypingMind.
 
-## **Why setting up n8n MCP on TypingMind?**
+## Why setting up n8n MCP on TypingMind?
 
 [**n8n-MCP**](https://github.com/czlonkowski/n8n-mcp) serves as a bridge between n8n's workflow automation platform and TypingMind, enabling the AI assistants on TypingMind to understand and work with n8n nodes effectively.
 
@@ -96,7 +96,7 @@ If you choose to run the MCP servers on your device, run the command displayed o
 
 Detail setup can be found at [https://docs.typingmind.com/model-context-protocol-(mcp)-in-typingmind/use-mcp-with-private-mcp-connector](https://docs.typingmind.com/model-context-protocol-\(mcp\)-in-typingmind/use-mcp-with-private-mcp-connector)
 
-### Step 2: Obtain n8n instance URL and API key
+#### Step 2: Obtain n8n instance URL and API key
 
 **First you need to log in to your n8n instance** - this could be your self-hosted instance or your n8n Cloud account.
 
@@ -113,7 +113,7 @@ Detail setup can be found at [https://docs.typingmind.com/model-context-protocol
 
 ![image.png](typingmind-mcp-n8n/image%206.png)
 
-### Step 3: Add the n8n MCP Server to TypingMind
+#### Step 3: Add the n8n MCP Server to TypingMind
 
 - Click on Edit Servers to add MCP server
 - Add the following JSON to configure the n8n MCP server:
@@ -142,7 +142,7 @@ With the URL and the API key are your copied n8n instance URL and API key in s
 
 More information about n8n mcp: [https://github.com/czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp)
 
-### Step 3: Enable n8n via Plugin section
+#### Step 4: Enable n8n via Plugin section
 
 After the MCP servers are added successfully, it will show up in your **Plugins** page to be used like plugin. You can use the MCP tools directly or assign them to AI agent like other plugins.
 
@@ -158,7 +158,7 @@ After the MCP servers are added successfully, it will show up in your **Plugins*
 
 This allows you to manage and create n8n workflows directly on TypingMind.
 
-### Step 4: Start chatting
+#### Step 5: Start chatting
 
 You’re all set! Now you can access, update, manage and create n8n workflows on TypingMind interface:
 

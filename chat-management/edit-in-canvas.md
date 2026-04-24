@@ -1,4 +1,6 @@
-# Edit in Canvas
+---
+title: 'Edit in Canvas'
+---
 
 **TypingMind Edit in Canvas** is here to streamline your workflow by allowing you to directly refine responses in a dedicated canvas, especially when you need to edit, collaborate, or review your work. 
 
@@ -8,7 +10,7 @@ Let’s explore the details.
 
 <Note>
 
-Please note that this feature is only available for Premium license. 
+  Please note that this feature is only available for Premium license. 
 
 </Note>
 
@@ -22,7 +24,7 @@ Edit in Canvas can make your work smoother and more effective by allowing you to
 - **Rewrite specific parts of your text or the entire message**: make your text longer, shorter, friendlier or enter custom prompts to adjust tone, voice, style of your text.
 - **Use markdown formatting**: you update basic styles for your text including bold, italics, headers, lists, quotes, and more.
 
-![image.webp](edit-in-canvas/image.webp)
+![image.png](edit-in-canvas/image.png)
 
 ## Why use Edit in Canvas on TypingMind?
 
@@ -39,9 +41,9 @@ Collaboration is key with Edit in Canvas on TypingMind:
 - When you receive an AI response, hover over it, click on the three-dot icon and select "Edit in Canvas."
 - Clicking "Edit in Canvas" opens a window on the right where you can easily see and edit the response.
 
-![image.webp](edit-in-canvas/image.webp)
+![image.png](edit-in-canvas/image.png)
 
-![image.webp](edit-in-canvas/image%201.webp)
+![image.png](edit-in-canvas/image%201.png)
 
 ### **1. Edit or add text directly**
 
@@ -71,7 +73,7 @@ Edit in Canvas makes your writing tasks easy and efficient:
 - Refine blog articles for publication
 - Develop project proposals from your basic ideas
 
-![image.webp](edit-in-canvas/image%202.webp)
+![image.png](edit-in-canvas/image%202.png)
 
 ### 2. Simplify complex texts
 
@@ -81,7 +83,7 @@ Edit in Canvas allows you to simplify dense articles, technical documents, or re
 - Make challenging subjects more understandable by asking the AI model to break down complex language.
 - Improve comprehension of scientific or legal texts
 
-![image.webp](edit-in-canvas/image%203.webp)
+![image.png](edit-in-canvas/image%203.png)
 
 ## FAQs
 

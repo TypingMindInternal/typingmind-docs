@@ -1,4 +1,6 @@
-# Custom Settings for Specific Chats
+---
+title: 'Custom Settings for Specific Chats'
+---
 
 Beside setting up parameters that apply for all chats,TypingMind also offers the flexibility to customize settings for individual chats.
 
@@ -10,17 +12,17 @@ Here’s how to do that.
 
 First, open a new chat and start a conversation:
 
-![image.webp](custom-settings-for-specific-chats/image.webp)
+![image.png](custom-settings-for-specific-chats/image.png)
 
 ## Step 2: Change parameters for the conversation
 
 Click on Model selection on top of the conversation —\> Change chat parameters
 
-![image.webp](custom-settings-for-specific-chats/image%201.webp)
+![image.png](custom-settings-for-specific-chats/image%201.png)
 
 Scroll down to change the model parameters for the current conversation:
 
-![image.webp](custom-settings-for-specific-chats/image%202.webp)
+![image.png](custom-settings-for-specific-chats/image%202.png)
 
 All changes will be only applied for that specific chat.
 

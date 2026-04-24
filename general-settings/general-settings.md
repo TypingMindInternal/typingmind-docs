@@ -2,8 +2,6 @@
 title: "General Settings"
 ---
 
-# General settings
-
 The General Settings allow you to enable or disable various enhanced features within the app to customize your experience.
 
 ## Access General Settings
@@ -11,7 +9,7 @@ The General Settings allow you to enable or disable various enhanced features wi
 - Click on “Settings” on the left sidebar to access the app settings
 - Click on the General tab
 
-![image.webp](general-settings/image.webp)
+![image.png](general-settings/image.png)
 
 ## Available options
 
@@ -37,23 +35,23 @@ This setting automatically restores your most recent chat when you relaunch the 
 
 This option automatically moves chats older than a chosen time period into the archive. Chats in folders, favorited chats, and chats with tags are excluded from automatic archiving.
 
-![image.webp](general-settings/image%201.webp)
+![image.png](general-settings/image%201.png)
 
 You can find archived chats by going to Settings → App Data & Storage → View archived chats:
 
-![image.webp](general-settings/image%202.webp)
+![image.png](general-settings/image%202.png)
 
 ### **6. Auto Delete Archived Chats:**
 
 This setting automatically removes archived chats after they have remained archived for a specified period. It helps keep old conversations from accumulating indefinitely.
 
-![image.webp](general-settings/image%203.webp)
+![image.png](general-settings/image%203.png)
 
 ### **7. Optimize Message Rendering for Long Chats:**
 
 This option improves performance in long conversations by using lazy rendering and pagination. It helps the app stay responsive when chats contain many messages.
 
-![image.webp](general-settings/image%204.webp)
+![image.png](general-settings/image%204.png)
 
 **Number of Messages to Show Per Page: t**his controls how many messages are loaded at a time in long chats. A larger number shows more history per page, while a smaller number can make loading faster.
 
@@ -61,16 +59,16 @@ This option improves performance in long conversations by using lazy rendering a
 
 This setting adds a small pause between queued messages before they are sent. It helps reduce the chance of sending messages too quickly and running into rate limit issues.
 
-![image.webp](general-settings/image%205.webp)
+![image.png](general-settings/image%205.png)
 
 **Delay per Queued Message:** This defines how many seconds to wait between each queued message. A longer delay spaces messages out more.
 
-![image.webp](general-settings/image%206.webp)
+![image.png](general-settings/image%206.png)
 
 ### **9. Enable Floating Toolbar on Text Selection:**
 
 This option shows a floating toolbar whenever you select text in a conversation. It gives quick access to extra actions without leaving the message view.
 
-![image.webp](general-settings/image%207.webp)
+![image.png](general-settings/image%207.png)
 
-![image.webp](general-settings/image%208.webp)
+![image.png](general-settings/image%208.png)

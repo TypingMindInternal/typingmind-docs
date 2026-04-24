@@ -1,18 +1,18 @@
 ---
-title: "Does TypingMind work when you log out?"
+title: 'Does TypingMind work when you log out?'
 ---
+
 If you're using TypingMind, you may be wondering: **“Do I need to stay logged in for it to work?”** The short answer is **no**—TypingMind continues to work normally even after you log out.
 
 In this article, we’ll explain why TypingMind works independently of your login status, how your data is managed, and when logging in *does* make a difference.
 
-<aside>
-💡
+<Note>
 
-This post is also the answer for the question “Can you use TypingMind without cloud sync?”
+  This post is also the answer for the question “Can you use TypingMind without cloud sync?”
 
-</aside>
+</Note>
 
-![image.webp](does-typingmind-work-when-you-log-out/image.webp)
+![image.png](does-typingmind-work-when-you-log-out/image.png)
 
 ## Works Without Login
 
@@ -38,14 +38,12 @@ Cloud sync is useful if you want to:
 
 When you're logged in, TypingMind can securely upload your data to your linked account. That way, even if you switch devices or reinstall your browser, your data will be safely restored.
 
-<aside>
-💡
+<Note>
+  Cloud sync is completely optional and flexible.
 
-Cloud sync is completely optional and flexible.
-
-- **You can choose which types of data** (e.g., chats, agents, prompts, license key) get synced to the cloud.
-- 🔒 **You can disable cloud sync at any time**
-</aside>
+  - **You can choose which types of data** (e.g., chats, agents, prompts, license key) get synced to the cloud.
+  - 🔒 **You can disable cloud sync at any time**
+</Note>
 
 ## Want to Stay Offline or Use Your Private Cloud Sync?
 
@@ -60,9 +58,7 @@ Once logged out, TypingMind will continue to function as expected. However, keep
 - **If you clear your browser cache, cookies, or local storage**, or if you switch devices or browsers, you may lose your saved data.
 - To avoid accidental data loss, consider backing up your data manually or using a private sync option.
 
-<aside>
-💡
+<Note>
+  If you want to sync data using your own cloud setup (e.g., Dropbox, Google Drive, or a self-hosted solution), you can do so using the [**TypingMind Extension**](https://docs.typingmind.com/typing-mind-extensions).
 
-If you want to sync data using your own cloud setup (e.g., Dropbox, Google Drive, or a self-hosted solution), you can do so using the [**TypingMind Extension**](https://docs.typingmind.com/typing-mind-extensions).
-
-</aside>
+</Note>

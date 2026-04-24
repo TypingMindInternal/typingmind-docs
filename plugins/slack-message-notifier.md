@@ -1,11 +1,12 @@
 ---
-title: "Slack Message Notifier"
+title: 'Slack Message Notifier'
 ---
+
 ## Overview
 
 Let's create a **Slack Message Notifier** plugin. This plugin allows you to send messages from TypingMind to a Slack channel. By the end of this tutorial, you'll be able to build a plugin that looks like the one in the screenshot below:
 
-![image.webp](slack-message-notifier/image.webp)
+![image.png](slack-message-notifier/image.png)
 
 When using this plugin, the user must authenticate with their Slack account. The AI will then use the user's permissions to send messages to their Slack channel.
 
@@ -21,12 +22,11 @@ In this tutorial, we will go through 3 parts:
 
 Let's get started!
 
-<aside>
-💡
+<Note>
 
-For clarity, this document is written in context of the [**TypingMind Team Version**](https://custom.typingmind.com/). If you are using the [**TypingMind License Version**](https://www.typingmind.com/), please be aware that it is not supported yet. Read until the end for more details.
+  For clarity, this document is written in context of the [**TypingMind Team Version**](https://custom.typingmind.com/). If you are using the [**TypingMind License Version**](https://www.typingmind.com/), please be aware that it is not supported yet. Read until the end for more details.
 
-</aside>
+</Note>
 
 ### Table of Contents
 
@@ -49,12 +49,11 @@ For clarity, this document is written in context of the [**TypingMind Team Versi
 
 ## Part 1: Create the plugin
 
-<aside>
-💡
+<Note>
 
-In this step, **we will act as a Plugin Developer** to create a plugin. This plugin can later be listed on the plugin store or share directly to other people in the community via a share URL or a GitHub repo.
+  In this step, **we will act as a Plugin Developer** to create a plugin. This plugin can later be listed on the plugin store or share directly to other people in the community via a share URL or a GitHub repo.
 
-</aside>
+</Note>
 
 Let's start creating the "Slack Message Notifier" plugin step-by-step.
 
@@ -64,7 +63,7 @@ The easiest way to implement this plugin is by using [**HTTP Action**](https://d
 
 Before we begin, let's find the HTTP endpoint we need to send messages to Slack. A quick Google search reveals the relevant information in the [Slack Web API Documentation](https://api.slack.com/methods/chat.postMessage)
 
-![image.webp](slack-message-notifier/image%201.webp)
+![image.png](slack-message-notifier/image%201.png)
 
 From this page, we will learn that:
 
@@ -86,7 +85,7 @@ From this page, we will learn that:
 
 We can navigate to [API Tester Page](https://api.slack.com/methods/chat.postMessage/test) to test the endpoint and check a sample response:
 
-![Screenshot 2024-10-04 at 21.31.27.webp](slack-message-notifier/Screenshot_2024-10-04_at_21.31.27.webp)
+![Screenshot 2024-10-04 at 21.31.27.png](slack-message-notifier/Screenshot_2024-10-04_at_21.31.27.png)
 
 To run the test, you'll need to provide your test access token. Here's how to get one:
 
@@ -94,7 +93,7 @@ To run the test, you'll need to provide your test access token. Here's how to ge
 - Go to the OAuth & Permissions tab
 - Find and copy the Bot User OAuth Token
 
-![Screenshot 2024-10-04 at 21.38.49.webp](slack-message-notifier/Screenshot_2024-10-04_at_21.38.49.webp)
+![Screenshot 2024-10-04 at 21.38.49.png](slack-message-notifier/Screenshot_2024-10-04_at_21.38.49.png)
 
 Alternatively, we can construct a simple HTTP request to send a message to a Slack channel like this:
 
@@ -118,7 +117,7 @@ The easiest way to create a new TypingMind plugin is to use the editor provided 
 - Name the plugin “**Slack Message Notifier**”
 - Description: “With this plugin, you can send messages from TypingMind to a Slack channel once you authenticate with your Slack account”
 
-![image.webp](slack-message-notifier/image%202.webp)
+![image.png](slack-message-notifier/image%202.png)
 
 ### OpenAI Function Spec
 
@@ -163,17 +162,17 @@ For authentication, let's choose "OAuth 2.0" and set up the OAuth configurations
 
 The URLs can be found from Slack documentations, sometimes it can be difficult to navigate their documents, but in those cases, you can always ask AI!
 
-![Screenshot 2024-10-04 at 21.46.08.webp](slack-message-notifier/Screenshot_2024-10-04_at_21.46.08.webp)
+![Screenshot 2024-10-04 at 21.46.08.png](slack-message-notifier/Screenshot_2024-10-04_at_21.46.08.png)
 
 Here's the OAuth configuration we set up for the plugin. Let's click "Save OAuth Config" to move on to the next step.
 
-![Screenshot 2024-10-04 at 11.15.47.webp](slack-message-notifier/Screenshot_2024-10-04_at_11.15.47.webp)
+![Screenshot 2024-10-04 at 11.15.47.png](slack-message-notifier/Screenshot_2024-10-04_at_11.15.47.png)
 
 ### Implementation
 
 Now, let's implement our plugin using the HTTP Action as planned. This approach allows us to easily send messages to Slack channels without complex coding.
 
-![Screenshot 2024-10-04 at 11.37.10.webp](slack-message-notifier/Screenshot_2024-10-04_at_11.37.10.webp)
+![Screenshot 2024-10-04 at 11.37.10.png](slack-message-notifier/Screenshot_2024-10-04_at_11.37.10.png)
 
 Based on the information we entered for the plugin, we have access to the following variables:
 
@@ -206,28 +205,27 @@ Here are the details to enter for the HTTP Action:
 
 You can add some test variables and click “Send Test Request” to verify that all of your settings are correct. Here I use the same test access token I got from the Slack app:
 
-![Screenshot 2024-10-04 at 11.50.13.webp](slack-message-notifier/Screenshot_2024-10-04_at_11.50.13.webp)
+![Screenshot 2024-10-04 at 11.50.13.png](slack-message-notifier/Screenshot_2024-10-04_at_11.50.13.png)
 
 ### Finish creating the plugin
 
 For the **Output Options**, we select "Give plugin output to the AI". This allows the AI to read the information in the response JSON and present the result to the user in a friendly format. 
 
-![Screenshot 2024-10-04 at 11.54.07.webp](slack-message-notifier/Screenshot_2024-10-04_at_11.54.07.webp)
+![Screenshot 2024-10-04 at 11.54.07.png](slack-message-notifier/Screenshot_2024-10-04_at_11.54.07.png)
 
 After configuring these settings, click "Update Plugin" to finalize the process. The plugin will be installed to your current instance. You can now see your plugin listed on your Plugins Page.
 
 You can click “Share” to share this plugin to other people to use.
 
-![Screenshot 2024-10-04 at 12.10.58.webp](slack-message-notifier/Screenshot_2024-10-04_at_12.10.58.webp)
+![Screenshot 2024-10-04 at 12.10.58.png](slack-message-notifier/Screenshot_2024-10-04_at_12.10.58.png)
 
 ## Part 2: Install and setup the plugin
 
-<aside>
-💡
+<Note>
 
-In this step, we will act as an **Admin User**. We will install the Slack Message Notifier to our TypingMind instance, enable it, and set it up OAuth with our Slack App.
+  In this step, we will act as an **Admin User**. We will install the Slack Message Notifier to our TypingMind instance, enable it, and set it up OAuth with our Slack App.
 
-</aside>
+</Note>
 
 ### Prepare your TypingMind instance
 
@@ -235,7 +233,7 @@ In this example, I will create a new TypingMind instance named “**Example AI**
 
 I will invite my teammates to this platform and let them use the AI with the Google Calendar plugin.
 
-![aHR0cHM6Ly93d3cubm90aW9uLnNvL2ltYWdlL2h0dHBzJTNBJTJGJTJGcHJvZC1maWxlcy1zZWN1cmUuczMudXMtd2VzdC0yLmFtYXpvbmF3cy5jb20lMkY4N2NmOTdjZS05OTQ2LTRjM2QtYTdlMC1hNzkxZWVhMmE0ZTIlMkY1ZDZlZDM5Zi1mYzA4LTRkZjgtYjU5Yy04MTc3OTJhYzVhODYlMkZpbWFnZS5wbmc_dGFi.webp](slack-message-notifier/aHR0cHM6Ly93d3cubm90aW9uLnNvL2ltYWdlL2h0dHBzJTNBJTJGJTJGcHJvZC1maWxlcy1zZWN1cmUuczMudXMtd2VzdC0yLmFtYXpvbmF3cy5jb20lMkY4N2NmOTdjZS05OTQ2LTRjM2QtYTdlMC1hNzkxZWVhMmE0ZTIlMkY1ZDZlZDM5Zi1mYzA4LTRkZjgtYjU5Yy04MTc3OTJhYzVhODYlMkZpbWFnZS5wbmc_dGFi.webp)
+![aHR0cHM6Ly93d3cubm90aW9uLnNvL2ltYWdlL2h0dHBzJTNBJTJGJTJGcHJvZC1maWxlcy1zZWN1cmUuczMudXMtd2VzdC0yLmFtYXpvbmF3cy5jb20lMkY4N2NmOTdjZS05OTQ2LTRjM2QtYTdlMC1hNzkxZWVhMmE0ZTIlMkY1ZDZlZDM5Zi1mYzA4LTRkZjgtYjU5Yy04MTc3OTJhYzVhODYlMkZpbWFnZS5wbmc_dGFi.png](slack-message-notifier/aHR0cHM6Ly93d3cubm90aW9uLnNvL2ltYWdlL2h0dHBzJTNBJTJGJTJGcHJvZC1maWxlcy1zZWN1cmUuczMudXMtd2VzdC0yLmFtYXpvbmF3cy5jb20lMkY4N2NmOTdjZS05OTQ2LTRjM2QtYTdlMC1hNzkxZWVhMmE0ZTIlMkY1ZDZlZDM5Zi1mYzA4LTRkZjgtYjU5Yy04MTc3OTJhYzVhODYlMkZpbWFnZS5wbmc_dGFi.png)
 
 ### Create the Slack app for OAuth
 
@@ -261,27 +259,27 @@ In this tutorial, we're creating a Slack app called "**TypingMind Notifier**" fo
 
 To begin, we need to create a Slack App. Visit the Slack API website ([https://api.slack.com/apps](https://api.slack.com/apps)) and click on "Create an App".
 
-![Screenshot 2024-09-28 at 13.06.46.webp](slack-message-notifier/Screenshot_2024-09-28_at_13.06.46.webp)
+![Screenshot 2024-09-28 at 13.06.46.png](slack-message-notifier/Screenshot_2024-09-28_at_13.06.46.png)
 
 Choose "From scratch"
 
-![Screenshot 2024-09-28 at 13.04.42.webp](slack-message-notifier/Screenshot_2024-09-28_at_13.04.42.webp)
+![Screenshot 2024-09-28 at 13.04.42.png](slack-message-notifier/Screenshot_2024-09-28_at_13.04.42.png)
 
 Name your app "**TypingMind Notifier**" and select the workspace where you want to install it. Then, click "Create App" to initialize your app.
 
-![Screenshot 2024-09-28 at 13.09.45.webp](slack-message-notifier/Screenshot_2024-09-28_at_13.09.45.webp)
+![Screenshot 2024-09-28 at 13.09.45.png](slack-message-notifier/Screenshot_2024-09-28_at_13.09.45.png)
 
 After creating the app, we'll configure OAuth for our Slack app. Navigate to the app details page and select "OAuth & Permissions" from the sidebar.
 
-![Screenshot 2024-10-04 at 14.13.41.webp](slack-message-notifier/Screenshot_2024-10-04_at_14.13.41.webp)
+![Screenshot 2024-10-04 at 14.13.41.png](slack-message-notifier/Screenshot_2024-10-04_at_14.13.41.png)
 
 Scroll down to the Scopes section and add the `chat:write` scope to your **Bot Token Scopes**.
 
-![Screenshot 2024-10-04 at 14.16.10.webp](slack-message-notifier/Screenshot_2024-10-04_at_14.16.10.webp)
+![Screenshot 2024-10-04 at 14.16.10.png](slack-message-notifier/Screenshot_2024-10-04_at_14.16.10.png)
 
 Next, navigate to "Basic Information" in the sidebar. Find the **Client ID** and **Client Secret**. Make sure to securely store these values, as you'll need them for the TypingMind Plugin configuration later.
 
-![Screenshot 2024-10-04 at 14.22.43.webp](slack-message-notifier/Screenshot_2024-10-04_at_14.22.43.webp)
+![Screenshot 2024-10-04 at 14.22.43.png](slack-message-notifier/Screenshot_2024-10-04_at_14.22.43.png)
 
 ### Integrate Slack App with Designated Channels
 
@@ -291,15 +289,15 @@ Let's log in to your Slack Workspace and integrate the Slack app to your channel
 
 Click on the "Menu" icon in the top right, then choose "Edit settings".
 
-![Screenshot 2024-10-04 at 16.22.39.webp](slack-message-notifier/Screenshot_2024-10-04_at_16.22.39.webp)
+![Screenshot 2024-10-04 at 16.22.39.png](slack-message-notifier/Screenshot_2024-10-04_at_16.22.39.png)
 
 When the Edit settings popup show up, switch to integration tabs, click on “Add an App” button under Apps section.
 
-![Screenshot 2024-10-04 at 16.26.18.webp](slack-message-notifier/Screenshot_2024-10-04_at_16.26.18.webp)
+![Screenshot 2024-10-04 at 16.26.18.png](slack-message-notifier/Screenshot_2024-10-04_at_16.26.18.png)
 
 Find the Slack app "TypingMind Notifier" and click Add
 
-![image.webp](slack-message-notifier/image%203.webp)
+![image.png](slack-message-notifier/image%203.png)
 
 You can also set up for other channels based on your needs
 
@@ -309,37 +307,37 @@ Now that we have configured our Slack App for OAuth and integrated it to your ch
 
 When the plugin turned on, it asks for two things: the **OAuth Client ID** and **OAuth Client Secret**. Enter the **Client ID** and **Client Secret** you got in the previous step, then click “**Save Credentials**”
 
-![Screenshot 2024-10-04 at 14.58.01.webp](slack-message-notifier/Screenshot_2024-10-04_at_14.58.01.webp)
+![Screenshot 2024-10-04 at 14.58.01.png](slack-message-notifier/Screenshot_2024-10-04_at_14.58.01.png)
 
 You can also have an **OAuth Callback URL**. Copy this URL and navigate back to the **OAuth & Permissions** section in your Slack App settings. In the Redirect URLs section, paste the copied URL and click Add button to save your changes.
 
-![Screenshot 2024-10-04 at 15.09.11.webp](slack-message-notifier/Screenshot_2024-10-04_at_15.09.11.webp)
+![Screenshot 2024-10-04 at 15.09.11.png](slack-message-notifier/Screenshot_2024-10-04_at_15.09.11.png)
 
 ## Part 3: Users use the plugin
 
 As a user, I will login to the Example AI instance and start using the **Slack Message Notifier** plugin.
 
-![Screenshot 2024-10-04 at 15.22.28.webp](slack-message-notifier/Screenshot_2024-10-04_at_15.22.28.webp)
+![Screenshot 2024-10-04 at 15.22.28.png](slack-message-notifier/Screenshot_2024-10-04_at_15.22.28.png)
 
 Start a new Chat. If the plugin is currently disabled, I'll make sure to enable it. 
 
-![Screenshot 2024-10-04 at 15.23.05.webp](slack-message-notifier/Screenshot_2024-10-04_at_15.23.05.webp)
+![Screenshot 2024-10-04 at 15.23.05.png](slack-message-notifier/Screenshot_2024-10-04_at_15.23.05.png)
 
 When I ask the AI to help me send a message to the #general channel notifying my teammates that a guest is coming on Friday, the plugin will first prompt me to authenticate with Slack.
 
-![Screenshot 2024-10-04 at 15.36.42.webp](slack-message-notifier/Screenshot_2024-10-04_at_15.36.42.webp)
+![Screenshot 2024-10-04 at 15.36.42.png](slack-message-notifier/Screenshot_2024-10-04_at_15.36.42.png)
 
 When I click "Authenticate Now," TypingMind sends me to authorize with the **TypingMind Notifier** Slack app.
 
-![Screenshot 2024-10-04 at 15.43.47.webp](slack-message-notifier/Screenshot_2024-10-04_at_15.43.47.webp)
+![Screenshot 2024-10-04 at 15.43.47.png](slack-message-notifier/Screenshot_2024-10-04_at_15.43.47.png)
 
 Once I've authorized, the AI now has access and can send the message to the Slack channel. The AI shows that the message has been sent successfully. 
 
-![Screenshot 2024-10-04 at 17.03.08.webp](slack-message-notifier/Screenshot_2024-10-04_at_17.03.08.webp)
+![Screenshot 2024-10-04 at 17.03.08.png](slack-message-notifier/Screenshot_2024-10-04_at_17.03.08.png)
 
 Finally, I switch to my Slack Workspace and check that the message has arrived.
 
-![Screenshot 2024-10-04 at 17.08.33.webp](slack-message-notifier/Screenshot_2024-10-04_at_17.08.33.webp)
+![Screenshot 2024-10-04 at 17.08.33.png](slack-message-notifier/Screenshot_2024-10-04_at_17.08.33.png)
 
 ## **Conclusion**
 

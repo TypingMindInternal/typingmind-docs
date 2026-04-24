@@ -8,15 +8,15 @@ Inspired by Anthropic’s concept, **TypingMind Artifacts** are designed to seam
 
 Let’s see how it works!
 
-![image.webp](interactive-canvas-\(artifacts\)/image.webp)
+![image.png](interactive-canvas-\(artifacts\)/image.png)
 
-# What is TypingMind Artifacts?
+## What is TypingMind Artifacts?
 
 TypingMind Artifacts serves as a dedicated workspace within the app interface where complex, structured outputs such as code snippets, documents, dashboards, and interactive prototypes can be created, edited, and viewed in real time.
 
 Interesting part? TypingMind Artifacts are not restricted to just the Claude models - they are compatible with ANY AI MODELS that support plugins, offering unmatched flexibility.
 
-# How to Access Artifacts on TypingMind?
+## How to Access Artifacts on TypingMind?
 
 Artifacts in TypingMind are automatically triggered when you prompt the AI model to generate specific types of content that require structured display or interaction, such as code snippets, documents, or data visualizations.
 
@@ -26,23 +26,23 @@ The AI model will automatically deploy the appropriate plugins, such as Interact
 
 [visualize data.mov](Interactive%20Canvas%20\(Artifacts\)/visualize_data.mov)
 
-# Use Cases for TypingMind Artifacts
+## Use Cases for TypingMind Artifacts
 
 TypingMind Artifacts are designed to support a wide range of applications, making them ideal for:
 
 - **Interactive dashboards**: create interactive data visualizations that update as you work
 
-![image.webp](interactive-canvas-\(artifacts\)/image%201.webp)
+![image.png](interactive-canvas-\(artifacts\)/image%201.png)
 
 - **Software or website development**: developers can manage and refine code within an Artifact to build and enhance your projects.
 
-![image.webp](interactive-canvas-\(artifacts\)/image%202.webp)
+![image.png](interactive-canvas-\(artifacts\)/image%202.png)
 
 - **Create an interactive game**: develop and tweak your interactive games using Artifacts.
 
-![image.webp](interactive-canvas-\(artifacts\)/image%203.webp)
+![image.png](interactive-canvas-\(artifacts\)/image%203.png)
 
-# Best Practices
+## Best Practices
 
 Since the AI model relies on your prompt to trigger the appropriate plugin for Artifacts, it's essential that the prompt should be crafted well:
 
