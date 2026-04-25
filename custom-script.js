@@ -1,6 +1,9 @@
 /**
  * Mintlify custom script: top progress bar for client-side doc navigation.
  * Fills 0% → (trickle toward ~90%) → always 100% with a minimum on-screen time.
+ *
+ * CHANGED: Bar only appears if navigation takes longer than SHOW_DELAY_MS (100ms).
+ * Fast page loads are invisible to the user.
  */
 (function () {
   'use strict';
@@ -12,6 +15,7 @@
   var TRICKLE_MS = 55;
   var COMPLETE_MS = 100;
   var SAFETY_MS = 4000;
+  var SHOW_DELAY_MS = 100; // Only show bar if navigation takes longer than this
 
   var lastPath = location.pathname + location.search;
   var session = 0;
@@ -23,6 +27,7 @@
   var safetyTimer;
   var doneTimer;
   var settleTimer;
+  var showTimer;   // NEW: timer that gates whether bar appears at all
   var elRoot;
   var elFill;
 
@@ -103,6 +108,11 @@
       clearTimeout(settleTimer);
       settleTimer = null;
     }
+    // NEW: also clear the show-delay timer
+    if (showTimer) {
+      clearTimeout(showTimer);
+      showTimer = null;
+    }
   }
 
   function hideAndReset() {
@@ -142,32 +152,53 @@
     var sid = session;
     activeSid = sid;
     startedAt = Date.now();
-    inject();
-    if (elRoot) {
-      elRoot.setAttribute('data-tm-active', '1');
-    }
-    setFill(0, false);
-    requestAnimationFrame(function () {
+    fillLevel = 0;
+
+    // NEW: Don't show bar immediately — wait SHOW_DELAY_MS first.
+    // If markRouteSettled() fires before this timer, sid will have changed
+    // (or settled flag checked) and the bar never appears. Fast = invisible.
+    showTimer = setTimeout(function () {
+      showTimer = null;
       if (sid !== session) {
-        return;
+        return; // navigation already finished, skip showing bar
       }
+      inject();
+      if (elRoot) {
+        elRoot.setAttribute('data-tm-active', '1');
+      }
+      setFill(0, false);
       requestAnimationFrame(function () {
         if (sid !== session) {
           return;
         }
-        setFill(0.1, true);
-        startTrickle(sid);
-        safetyTimer = setTimeout(function () {
+        requestAnimationFrame(function () {
           if (sid !== session) {
             return;
           }
-          markRouteSettled();
-        }, SAFETY_MS);
+          setFill(0.1, true);
+          startTrickle(sid);
+        });
       });
-    });
+    }, SHOW_DELAY_MS);
+
+    // Safety net: force-complete after SAFETY_MS regardless
+    safetyTimer = setTimeout(function () {
+      if (sid !== session) {
+        return;
+      }
+      markRouteSettled();
+    }, SAFETY_MS);
   }
 
   function markRouteSettled() {
+    // NEW: if the bar hasn't appeared yet (showTimer still pending), just
+    // cancel everything silently — the user sees nothing, which is perfect.
+    if (showTimer) {
+      clearAllTimers();
+      hideAndReset();
+      return;
+    }
+
     if (safetyTimer) {
       clearTimeout(safetyTimer);
       safetyTimer = null;
