@@ -1,7 +1,8 @@
 ---
-title: "Reseller License & Demo Chat Instance"
+title: 'Reseller License & Demo Chat Instance'
 ---
-By joining our Reseller Program, you will get a **Reseller License and** **Free Demo Instance with 50 users available.** 
+
+By joining our Reseller Program, you will get a **Reseller License and** **Free Demo Instance with 50 users available.**
 
 This demo instance allows resellers to showcase the platform to their potential customers effectively and experience its capabilities firsthand. Here’s what you need to know about this offer.
 
@@ -19,7 +20,7 @@ The demo instance is created to be a trial environment with certain limits:
 - All invited users can access the demo instance **for 14 days**.
 - After this period, both their accounts and any data created within the instance will be suspended and deleted automatically. (exclude The owner of the demo instance)
 
-**To obtain a demo instance, you must first purchase a Reseller License, priced at a one-time fee of $399.** You can acquire this license by following the steps outlined in our instructions.
+**To obtain a demo instance, you must first purchase a Reseller License, priced at a one-time fee of \$399.** You can acquire this license by following the steps outlined in our instructions.
 
 ## **How to Get a Reseller License and Your Free Demo Instance**
 
@@ -27,24 +28,22 @@ The demo instance is created to be a trial environment with certain limits:
 2. Go to **Billing → Manage Subscription** and cancel any active subscriptions to enable the switch to the demo instance.
 3. In the **Danger Zone** section, select **"Convert to Demo Instance."**
 
-![image.webp](reseller-license-and-demo-chat-instance/image.webp)
+![image.png](reseller-license-and-demo-chat-instance/image.png)
 
 1. Follow the prompts to **purchase the reseller license.** After purchasing, you will be granted you access to the demo instance.
 
-![image.webp](reseller-license-and-demo-chat-instance/image%201.webp)
+![image.png](reseller-license-and-demo-chat-instance/image%201.png)
 
 1. After purchasing the demo instance, you will get the access to the demo instance.
 
-<aside>
-📌
+<Note>
+  Please note:
 
-Please note:
-
-- Once you convert to a demo instance, you cannot revert back.
-- The demo instance is intended for demon purposes only and should not be used to resell access to your clients. To provide official access for your clients, please create a separate chat instance specifically for that purpose.
-- Each reseller is entitled to one free demo instance. For additional instances or custom solutions, please contact us.
-</aside>
+  * Once you convert to a demo instance, you cannot revert back.
+  * The demo instance is intended for demon purposes only and should not be used to resell access to your clients. To provide official access for your clients, please create a separate chat instance specifically for that purpose.
+  * Each reseller is entitled to one free demo instance. For additional instances or custom solutions, please contact us.
+</Note>
 
 ## Useful Resources
 
-1. [Reseller Program Details](../Reseller%20Program%2041051738ee5a41c69a09578bb14ae964.md)
+1. [Reseller Program Details](/typingmind-team/reseller-program)
