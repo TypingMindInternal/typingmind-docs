@@ -10,7 +10,7 @@ You can use AWS Bedrock Claude models on TypingMind Custom by adding a Custom Mo
 
 ## 1. Create an AWS account
 
-## If you do not have an account yet, register for an AWS account here: [https://signin.aws.amazon.com/signup?request\_type=register](https://signin.aws.amazon.com/signup?request_type=register)
+If you do not have an account yet, register for an AWS account here: [https://signin.aws.amazon.com/signup?request\_type=register](https://signin.aws.amazon.com/signup?request_type=register)
 
 ![image.png](aws-bedrock-anthropic/image.png)
 

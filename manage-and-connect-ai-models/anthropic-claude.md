@@ -2,8 +2,6 @@
 title: "Anthropic Claude"
 ---
 
-# Anthropic Claude
-
 Use Claude models such as Claude Sonnet 4.6, Claude Haiku, Claude Opus on TypingMind via API!
 
 Here’s how to set up on TypingMind.
@@ -12,34 +10,34 @@ Here’s how to set up on TypingMind.
 
 - Create an Anthropic Claude API account at [https://console.anthropic.com/login](https://console.anthropic.com/login)
 
-![image.webp](anthropic-claude/image.webp)
+![image.png](anthropic-claude/image.png)
 
 ## Step 2: Top up your API credit
 
 Go to [Billing](https://console.anthropic.com/settings/billing) section to top up your API credit to use the models:
 
-![image.webp](anthropic-claude/image%201.webp)
+![image.png](anthropic-claude/image%201.png)
 
 ## Step 3: Get your API key
 
 - Create a new API key at [https://console.anthropic.com/settings/keys](https://console.anthropic.com/settings/keys)
 - Copy the key to a safe place
 
-![image.webp](anthropic-claude/image%202.webp)
+![image.png](anthropic-claude/image%202.png)
 
 ## Step 4: Enter your API key to TypingMind
 
 - Go to TypingMind → Settings → API keys and Enter your copied Claude API key to TypingMind:
 
-![image.webp](anthropic-claude/image%203.webp)
+![image.png](anthropic-claude/image%203.png)
 
-![image.webp](anthropic-claude/image%204.webp)
+![image.png](anthropic-claude/image%204.png)
 
 ## Advanced settings
 
 **Custom endpoint:** Use the direct endpoint `https://api.anthropic.com/v1/messages` or configure your own custom chat completions endpoint.
 
-![image.webp](anthropic-claude/image%205.webp)
+![image.png](anthropic-claude/image%205.png)
 
 <aside>
   💡 Common issue:
