@@ -1,8 +1,7 @@
 ---
+title: 'Plugins'
 hidden: true
 ---
-
-# Plugins
 
 <Note>
 
