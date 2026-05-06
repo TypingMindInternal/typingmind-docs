@@ -19,7 +19,7 @@ Whether you're developing chatbots, virtual assistants, or any language-driven s
 
 To help you set up and start using this new option, we've prepared a comprehensive guide:
 
-**🔗 [Use AWS Bedrock Anthropic](Use%20AWS%20Bedrock%20Anthropic%201387c3f1757a816cbd8cda2a99fecf88.md)**
+**🔗 [Use AWS Bedrock Anthropic](/changelog/typingmind-custom/use-aws-bedrock-anthropic)**
 
 ![Set up Claude via Bedrock on TypingMind](use-aws-bedrock-anthropic/image.webp)
 

@@ -10,7 +10,7 @@ These syntaxes act as shortcuts to help reduce manual effort and streamline the 
 
 - **Format:** `@[agent name]`
 - **Purpose:** this syntax is used to mention or tag a specific AI agent in the message. When you type `@` followed by the agent's name, the AI Agent will be brought into the conversation.
-- **When to use**: when you want to bring the AI Agent into a conversation to help for specific tasks. This can be used within the regular messages or queued messages (for [Prompt Chaining](Prompt%20Chaining%208df56c7b52e347218ac657a998c8015f.md))
+- **When to use**: when you want to bring the AI Agent into a conversation to help for specific tasks. This can be used within the regular messages or queued messages (for [Prompt Chaining](/prompts/prompt-chaining))
 - **Example:** `@[Marketing Expert], can you help create a business plan for this quarter?`
 
 ![image.webp](message-syntax/image.webp)
@@ -19,7 +19,7 @@ These syntaxes act as shortcuts to help reduce manual effort and streamline the 
 
 - **Format:** `----`
 - **Purpose:** this is used to separate different sections of a queue, especially in more complex interactions involving multiple steps.
-- **When to use**: typically used in [Prompt chaining](Prompt%20Chaining%208df56c7b52e347218ac657a998c8015f.md), where multiple prompts are lined up for sequential execution.
+- **When to use**: typically used in [Prompt chaining](/prompts/prompt-chaining), where multiple prompts are lined up for sequential execution.
 - **Example:**
 
 ```markdown

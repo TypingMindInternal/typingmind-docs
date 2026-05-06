@@ -20,7 +20,7 @@ Please follow these steps to create groups for your members:
 
 - Enter a **Group Name** that reflects the purpose or role of the group.
 - *(Optional)* Enable **Admin Access** for this group if they can have access to the admin panel.
-    - If you enable this option, ensure you assign appropriate **Admin Roles** to the group. These roles should align with the permissions you’ve defined in the [**Roles and Permissions**](../User%20Management/Roles%20and%20Permissions%202256943d288b473b8139f6fb0fdc653f.md) settings.
+    - If you enable this option, ensure you assign appropriate **Admin Roles** to the group. These roles should align with the permissions you’ve defined in the [**Roles and Permissions**](/typingmind-team/user-management/roles-and-permissions) settings.
 
 ![image.png](restrict-model-access/image.png)
 
@@ -36,7 +36,7 @@ Please follow these steps to create groups for your members:
 <aside>
 💡
 
-Learn more on [User Groups](../User%20Management/Create%20and%20manage%20User%20Groups%2050c629c14e0447f387e536bde726bc75.md)
+Learn more on [User Groups](/typingmind-team/user-management/create-and-manage-user-groups)
 
 </aside>
 

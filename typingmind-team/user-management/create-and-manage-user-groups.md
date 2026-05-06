@@ -21,7 +21,7 @@ Let’s see how it works!
 - **Manage resource access**: control which AI agents, prompts, models, or other workspace resources are available to each group.
 - **Set usage limits**: assign specific limits, such as model usage, number of messages a group can send, to each group to better manage your resources and cost.
 
-You can also enable Admin Panel access with tailored [roles and permissions](Roles%20and%20Permissions%202256943d288b473b8139f6fb0fdc653f.md) for each user group. 
+You can also enable Admin Panel access with tailored [roles and permissions](/typingmind-team/user-management/roles-and-permissions) for each user group. 
 
 With User Groups, you can simplify and streamline the way you manage users in your workspace to ensure that resources and permissions align with the needs of specific teams or individuals.
 
@@ -48,7 +48,7 @@ The User Group feature is an upgraded version of TypingMind’s previous user ta
 
 - Enter a **Group Name** that reflects the purpose or role of the group.
 - *(Optional)* Enable **Admin Access** for this group if they can have access to the admin panel.
-    - If you enable this option, ensure you assign appropriate **Admin Roles** to the group. These roles should align with the permissions you’ve defined in the [**Roles and Permissions**](Roles%20and%20Permissions%202256943d288b473b8139f6fb0fdc653f.md) settings.
+    - If you enable this option, ensure you assign appropriate **Admin Roles** to the group. These roles should align with the permissions you’ve defined in the [**Roles and Permissions**](/typingmind-team/user-management/roles-and-permissions) settings.
 
 ![image.png](../branding-and-customizations/restrict-model-access/image.png)
 
@@ -212,4 +212,4 @@ If you have any questions or need help fine-tuning your User Group settings, ple
 
 ## Related Articles
 
-[Usage Limits: Set Limits Per AI Model, Agent, and User](Usage%20Limits%20Set%20Limits%20Per%20AI%20Model,%20Agent,%20and%20U%2025c4f35edbc0408492fefc626ec5345a.md)
+[Usage Limits: Set Limits Per AI Model, Agent, and User](/typingmind-team/user-management/usage-limits-set-limits-per-ai-model-agent-and-u)

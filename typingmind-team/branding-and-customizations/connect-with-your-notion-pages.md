@@ -8,7 +8,7 @@ By leveraging your Notion pages, your AI chatbot will deliver context-aware answ
 
 ## What is TypingMind Custom?
 
-TypingMind Custom is a custom-branded, custom-built version of [TypingMind](Connect%20with%20your%20Notion%20pages%2080292de96bcc428b83a5abd59d6dc905.md). You can create and customize a Chat instance that works exactly like [TypingMind.com](http://typingmind.com/) under your own domain. You can offer and control the accessibility of the chat interface to your team members, community, or customers.
+TypingMind Custom is a custom-branded, custom-built version of [TypingMind](/typingmind-team/branding-and-customizations/connect-with-your-notion-pages). You can create and customize a Chat instance that works exactly like [TypingMind.com](http://typingmind.com/) under your own domain. You can offer and control the accessibility of the chat interface to your team members, community, or customers.
 
 By signing up, you will have access to a chat interface to interact with AI models and an Admin Panel to manage every interaction and element on the chat interface.
 

@@ -105,7 +105,7 @@ TypingMind plugins help enhance the functionality of the AI model, enabling it t
 - Read the content of the provided URL: Firecrawl Web Page Reader
 - Automate task: connect with Zapier, Google Calendar, Slack, etc.
 - Latest stock news: Market News
-- and more [plugins from the community](Plugins/User-contributed%20Plugins%2031b6b3649fcc4397ac0e5f489a90b0f9.md)
+- and more [plugins from the community](/plugins/user-contributed-plugins)
 
 ![image.webp](feature-list/image%207.webp)
 

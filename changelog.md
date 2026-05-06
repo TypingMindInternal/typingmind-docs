@@ -16,6 +16,6 @@ You can still access the older changelogs via this page.
 
 Check out the latest updates on TypingMind and TypingMind Custom
 
-[TypingMind](Changelog/TypingMind%201b750ea62e2b4692917bb04c578fdb0a.md)
+[TypingMind](/changelog/typingmind)
 
-[TypingMind Custom](Changelog/TypingMind%20Custom%20aa432f0a68d945589a0fcab18ecf3a2b.md)
+[TypingMind Custom](/changelog/typingmind-custom)

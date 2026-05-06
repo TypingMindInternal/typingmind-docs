@@ -22,12 +22,12 @@ In total, there are 4 versions:
 
 |  | Cloud host | Self-host |
 | --- | --- | --- |
-| License Version | [Typing Mind](https://www.typingmind.com) | [Typing Mind Static Self-host](../Static%20Self-host%20804e7a70c87244b8af48a5daa0692b92.md) |
+| License Version | [Typing Mind](https://www.typingmind.com) | [Typing Mind Static Self-host](/static-self-host) |
 | Custom Version | [Typing Mind Custom](https://custom.typingmind.com) | [Typing Mind Custom Self-host](https://custom.typingmind.com/features/self-host) |
 
 ## Comparison
 
-| **Features** | **TypingMind (and Static Self-host)** | **TypingMind Team (and Team Self-host)** | | --- | --- | --- | | **Link** | [typingmind.com](https://www.typingmind.com/) | [custom.typingmind.com](https://custom.typingmind.com/) | | **Pricing structure** | One-time Purchase (starts at $39/Standard license) | Monthly Subscription (starts at $99/month to \$299/month) | | **Plans** | Standard, Extended, Premium | Starter, Growth, Professional, Custom (for Enterprises) | | **Self-host** | Yes - Free ([Static Self-host](../Static%20Self-host%20804e7a70c87244b8af48a5daa0692b92.md)) | Yes - Custom Quote (T[yping Mind Custom Self-host](https://custom.typingmind.com/features/self-host)) | | **Target users** | Best for Individuals | Best for Teams, Businesses | | **Purpose** | Provide you with a better Chat UI that allows you to interact with different AI models, fine-tuning options to get better AI responses. See [full feature list](../Feature%20List%2051da062de2764fd4911ccd7cba7fdff7.md) | Also provide a better chat UI that works exactly like TypingMind.com but the Chat UI can be managed and customized with the Admin Panel.
+| **Features** | **TypingMind (and Static Self-host)** | **TypingMind Team (and Team Self-host)** | | --- | --- | --- | | **Link** | [typingmind.com](https://www.typingmind.com/) | [custom.typingmind.com](https://custom.typingmind.com/) | | **Pricing structure** | One-time Purchase (starts at $39/Standard license) | Monthly Subscription (starts at $99/month to \$299/month) | | **Plans** | Standard, Extended, Premium | Starter, Growth, Professional, Custom (for Enterprises) | | **Self-host** | Yes - Free ([Static Self-host](/static-self-host)) | Yes - Custom Quote (T[yping Mind Custom Self-host](https://custom.typingmind.com/features/self-host)) | | **Target users** | Best for Individuals | Best for Teams, Businesses | | **Purpose** | Provide you with a better Chat UI that allows you to interact with different AI models, fine-tuning options to get better AI responses. See [full feature list](/feature-list) | Also provide a better chat UI that works exactly like TypingMind.com but the Chat UI can be managed and customized with the Admin Panel.
 
 Admins can access the Admin Panel to:
 
@@ -54,7 +54,7 @@ With TypingMind, you can:
 - Connect to your own **knowledge base** for context-aware answers.
 
 <aside>
-  💡 Check out [full feature list](../Feature%20List%2051da062de2764fd4911ccd7cba7fdff7.md)
+  💡 Check out [full feature list](/feature-list)
 </aside>
 
 ![image.webp](typingmind-vs-typingmind-team/image.webp)
@@ -91,7 +91,7 @@ TypingMind Team is offered as a **monthly subscription** (starting at \$99/month
 
 Choosing between TypingMind and TypingMind Custom depends on your needs, team size, and how you intend to use the AI chatbot.
 
-- Get started with [TypingMind License](Get%20started%20with%20TypingMind%20fa103fd29211485f8fad739f24e9bd0a.md)
+- Get started with [TypingMind License](/quickstart/get-started-with-typingmind)
 - Get started with [TypingMind Custom](https://custom.typingmind.com/features/get-started-on-our-cloud)
 
 Don’t worry, feel free to dive in, as we offer a 14-day money-back guarantee!

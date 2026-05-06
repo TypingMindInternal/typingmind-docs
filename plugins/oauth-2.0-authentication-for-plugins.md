@@ -24,7 +24,7 @@ Some example plugins you can create using OAuth authentication:
 <Tip>
   **Looking for a step-by-step guide?**
 
-  Read our tutorial: [create a Google Calendar plugin with OAuth 2.0](Google%20Calendar%2010f7c3f1757a80f48d26e644a5d072a1.md).
+  Read our tutorial: [create a Google Calendar plugin with OAuth 2.0](/plugins/google-calendar).
 </Tip>
 
 ## Overview and facts

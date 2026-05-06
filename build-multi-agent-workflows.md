@@ -65,7 +65,7 @@ This integration allows you to manage everything from within TypingMind so you d
 
 Please note that, to connect with your systems, you will need to build your own plugin if it’s not available on TypingMind yet.
 
-***Our plugin system is very flexible. Learn more about [TypingMind Plugin System](../Plugins%20445c2cfdde7e41acb4e068e37234f2a3.md)***
+***Our plugin system is very flexible. Learn more about [TypingMind Plugin System](/plugins/plugins)***
 
 </aside>
 

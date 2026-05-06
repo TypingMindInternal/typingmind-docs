@@ -127,4 +127,4 @@ Step 3:....
   Your members can use the Tab key to quickly jump between variables when filling out templates.
 </aside>
 
-After finalizing your prompt chain, it can be added directly to your Prompt Library, where your users can access these prompts for usage. Please note that you have full control over [prompt access](../TypingMind%20Team/Branding%20and%20Customizations/Build%20a%20Shared%20Prompt%20Library%2014c8456cf11843c88e429abe1e64c7c0.md) and [usage restrictions](../TypingMind%20Team/Branding%20and%20Customizations/Restrict%20Prompt%20Access%206c7993b8f2074e189f8787b689784242.md) for your team members.
+After finalizing your prompt chain, it can be added directly to your Prompt Library, where your users can access these prompts for usage. Please note that you have full control over [prompt access](/typingmind-team/branding-and-customizations/build-a-shared-prompt-library) and [usage restrictions](/typingmind-team/branding-and-customizations/restrict-prompt-access) for your team members.

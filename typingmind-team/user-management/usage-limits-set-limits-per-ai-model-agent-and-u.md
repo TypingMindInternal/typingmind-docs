@@ -69,7 +69,7 @@ Before setting limits, it's helpful to organize users into different groups. Thi
 
 You can view more details guideline on how to create user groups here: 
 
-[Create and manage User Groups](Create%20and%20manage%20User%20Groups%2050c629c14e0447f387e536bde726bc75.md)
+[Create and manage User Groups](/typingmind-team/user-management/create-and-manage-user-groups)
 
 ![image.png](../getting-started/getting-started-with-typingmind-team-(cloud-host)/image%2020.png)
 

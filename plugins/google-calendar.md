@@ -32,7 +32,7 @@ Let’s get started.
 
 Let’s start creating the “Google Calendar” plugin step-by-step.
 
-The easiest way to implement this plugin is by using [HTTP Action](Build%20a%20TypingMind%20Plugin%207ecc24adfcde4443b37ce7e4aea73b05.md), so let’s start by looking for an API endpoint.
+The easiest way to implement this plugin is by using [HTTP Action](/plugins/build-a-typingmind-plugin), so let’s start by looking for an API endpoint.
 
 ### Research Google Calendar API
 

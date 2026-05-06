@@ -29,4 +29,4 @@ You will probably find answers to most of your questions from:
 - Change License Email – [Click here](https://typingmind.com/change-license-email)
 - Request Instant Refund – [Click here](https://typingmind.com/refund)
 
-[Zero Tolerance Policy](Support/Zero%20Tolerance%20Policy%203097c3f1757a80ddbf94e121c6b894ac.md)
+[Zero Tolerance Policy](/support/zero-tolerance-policy)
