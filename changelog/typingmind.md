@@ -1,6 +1,5 @@
 ---
 title: "TypingMind"
-hidden: true
 ---
 
 <Warning>

@@ -1,40 +1,35 @@
 ---
-title: 'Manage your subscription'
+title: "Manage your subscription"
 ---
 
-## 1. Upgrade your subscription
+This guide shows you how to update your subscription, manage add-ons, update your payment method, view past invoices, and add your business tax ID.
 
-You can upgrade your subscription any time to open access to more functionalities within your chat instance.
+You can manage most billing-related settings directly from the **Billing** page in your workspace.
 
-Here are some simple steps to do it:
+## 1. Update your plan/add-ons
+
+Upgrade your subscription / user seats / training characters as following:
 
 - Go to **Billing**
+- **Click on Update Plan / Add ons**
+- Update to a new plan or increase/decrease the number of user seats or training characters.
 
-### Purchased Made Via Stripe
+<Frame>
+  ![Update Plan](/images/update-plan.webp)
+</Frame>
 
-- Click on **Manage Subscription**, you will be directed to the Stripe subscription management page.
+<Frame>
+  ![Update Plan 2](/images/update-plan-2.webp)
+</Frame>
 
-![image.webp](manage-your-subscription/image.webp)
+## 2. Update payment method/View past invoices
 
-You can:
+If you want to view past invoices, update your payment method, or add your business tax ID, go to the billing portal:
 
-- Upgrade or downgrade your current subscription plan
-- Increase or Decrease the number of seat subscription
-- Cancel your subscription
+- Go to **Billing**
+- Click on **Manage Billing** 
+- **Open Billing portal**
 
-![image.webp](manage-your-subscription/image%201.webp)
-
-### Purchased Made Via Lemon Squeezy
-
-- Click on **Manage Subscription**, you will be directed to the Lemon Squeezy subscription management page.
-
-![Untitled](manage-your-subscription/Untitled.webp)
-
-- Click on the three dots (…) icon within your subscription and click **Update**
-
-![Untitled](manage-your-subscription/Untitled%201.webp)
-
-- **Choose a plan** you want to upgrade
-- Click **Save**
-
-![Untitled](manage-your-subscription/Untitled%202.webp)
+<Frame>
+  ![Manage Subs](/images/manage-subs.webp)
+</Frame>

@@ -1,5 +1,5 @@
 ---
-title: "Change the Owner email"
+title: 'Change the owner email'
 ---
 As of now, you can change the owner email following the steps below:
 
@@ -7,6 +7,8 @@ As of now, you can change the owner email following the steps below:
 - Under the User Management menu, click on User
 - Click the three dot icon on the top right corner of your user list dashboard
 
-![image.webp](change-the-owner-email/image.webp)
+<Frame>
+  ![Ownership](/images/ownership.webp)
+</Frame>
 
 Please note that only owner can transfer ownership rights to another admin user.

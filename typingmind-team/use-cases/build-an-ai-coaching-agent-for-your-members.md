@@ -1,14 +1,13 @@
 ---
-title: 'Build an AI Coaching Agent'
+title: "Build an AI Coaching Agent"
 ---
 
 If you are looking to develop an AI Coaching agent and want to sell memberships to your users, follow these step-by-step instructions to get started:
 
 <Note>
-    Please note that this coaching bot can only be done with TypingMind Team (custom.typingmind.com).
+  Please note that this coaching bot can only be done with TypingMind Team (custom.typingmind.com).
 
-    With Typing Mind Team, you can create a chat instance under your own domain that functions just like [TypingMind.com](http://typingmind.com/). It allows full control and customization of the chat instance through an Admin Panel.
-
+  With Typing Mind Team, you can create a chat instance under your own domain that functions just like [TypingMind.com](http://typingmind.com/). It allows full control and customization of the chat instance through an Admin Panel.
 </Note>
 
 ## First, define your goals
@@ -35,22 +34,21 @@ Let’s get started on how to build this type of chatbot!
 In case you haven’t had a chat instance for TypingMind Custom yet, please sign up for one at [https://www.typingmind.com/new-deployment](https://www.typingmind.com/new-deployment)
 
 <Tip>
-    You can choose your hosting location: US and EU to better comply with your company policy.
-
+  You can choose your hosting location: US and EU to better comply with your company policy.
 </Tip>
 
 ![Untitled](build-a-customer-support-bot-exactly-like-typingmi/Untitled%201.webp)
 
 ### Step 2: Connect the chatbot with your API keys
 
-After signing up, you will be landed in the Admin Panel, where you can customize almost everything on the chat interface. 
+After signing up, you will be landed in the Admin Panel, where you can customize almost everything on the chat interface.
 
 To get the chatbot to work properly, you will need to **connect it with the chat model’s API key**:
 
 - Go to **API keys** menu and **enter your API ke**y, currently, we offer:
-    - `OpenAI models`: GPT-4 Turbo, GPT-3.5, GPT-4 Vision
-    - `Anthropic Claude`: Claude 3, Claude Instant, etc.
-    - `Gemini models`: Gemini 1.0, Gemini 1.5, Gemini 1.0 Pro Vision, Gemini Ultra
+  - `OpenAI models`: GPT-5.5, GPT-5.4, etc.
+  - `Anthropic Claude`: Claude Opus 4.7, Claude Sonnet 4.6
+  - `Gemini models`: Gemini 3.1 Pro
 
 ![Untitled](build-an-ai-coaching-agent-for-your-members/Untitled.webp)
 
@@ -100,10 +98,9 @@ Assigning tags to members helps you control member access to specific prompts an
 ### Step 5: Build AI Agent for each tier and restrict usage
 
 <Tip>
-    Building AI Agents allow you to build multiple AI experts specialized in different use case for your members. You just need to provide the instructions (and training data if any) to the AI Agents to guide the AI model on how to answer the member queries.
+  Building AI Agents allow you to build multiple AI experts specialized in different use case for your members. You just need to provide the instructions (and training data if any) to the AI Agents to guide the AI model on how to answer the member queries.
 
-    More details at: [https://custom.typingmind.com/features/ai-characters-with-custom-data](https://custom.typingmind.com/features/ai-characters-with-custom-data)
-
+  More details at: [https://custom.typingmind.com/features/ai-characters-with-custom-data](https://custom.typingmind.com/features/ai-characters-with-custom-data)
 </Tip>
 
 First you need to create **AI Agent** for different member tiers. Go to **AI Agents** section and click **Add Agents:**
@@ -129,15 +126,14 @@ Members can only see the AI Agent that you provide access for them.
 
 ## Step 6: Restrict chat model usage
 
-You can restrict usage on your Coaching bot to control cost and ensure fair use for your members. 
+You can restrict usage on your Coaching bot to control cost and ensure fair use for your members.
 
 - Go to **Usage and Limit**
 - Choose the chat model you are currently using for the Coaching bot
 - Control its visibility and its allowed usage
 
 <Tip>
-    Detail on how to limit usage: [https://custom.typingmind.com/features/limit-chat-model-access](https://custom.typingmind.com/features/limit-chat-model-access)
-
+  Detail on how to limit usage: [https://custom.typingmind.com/features/limit-chat-model-access](https://custom.typingmind.com/features/limit-chat-model-access)
 </Tip>
 
 For example:
@@ -158,7 +154,7 @@ Make use of our API to integrate with your existing payment system. Here’s mor
 
 ### Step 8: Test your chatbot
 
-Test your chatbot with multiple questions varied in different scenarios to ensure the chatbot answers correctly on your queries. 
+Test your chatbot with multiple questions varied in different scenarios to ensure the chatbot answers correctly on your queries.
 
 Update your system instruction and training data within the AI Agent accordingly, and continue until you are confident with the AI responses.
 
