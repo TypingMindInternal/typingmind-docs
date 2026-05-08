@@ -45,9 +45,10 @@ More than that, you can start a new thread at any point in the conversation. Thi
    - Each thread acts as a mini-conversation.
    - You can explore different conversation paths without confusion.
 
-> Pro Tip:
->
-> You can always return to any earlier version by clicking the left arrow (←), even if you've gone many steps ahead on a different branch.
+<Tip>
+   Pro Tip:
+   You can always return to any earlier version by clicking the left arrow (←), even if you've gone many steps ahead on a different branch.
+</Tip>
 
 ## FAQs
 

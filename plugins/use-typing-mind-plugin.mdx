@@ -2,7 +2,7 @@
 title: "Use TypingMind Plugin"
 ---
 
-Plugins allow you to extend the AI model capabilities beyond text generation so you can get better AI responses:
+Plugins/Tools on TypingMind allow you to extend the AI model capabilities beyond text generation so you can get better AI responses:
 
 - Access the latest information in real-time
 - Generate images, graphs, and visual content
@@ -11,40 +11,74 @@ Plugins allow you to extend the AI model capabilities beyond text generation so 
 
 Let’s dive in!
 
-## Use Plugins on TypingMind
+## Use Provider Tools
+
+These tools are provided directly by the AI model provider (no setup needed).
+
+<Frame>
+  ![Model Tool 1](/images/model-tool-1.webp)
+</Frame>
+
+### 1. Web Search
+
+This tool gives the AI model direct access to real-time web content, allowing it to answer questions with up-to-date information beyond its knowledge cutoff.
+
+It is provided directly by the AI model provider:
+
+- Gemini: Powered by Grounding with Google Search and URL Context tool.
+- OpenAI: Powered by the Web Browsing tool
+- Anthropic: Powered by Anthropic's Web Search and Web Fetch tool
+
+### 2. Code Sandbox
+
+The code sandbox is provided natively by the AI provider, your data is only stored and processed in the provider.
+
+This tool enables the model to generate and run Python code. The model can then learn iteratively from the code execution results until it arrives at a final output.
+
+To use Web Browser and Code Sandbox, you just need to enable the tool via Plugins (left-side panel) or right within your chat:
+
+<Frame>
+  ![Model Tool](/images/model-tool.png)
+</Frame>
+
+## Use Built-in Plugins
 
 To use plugins on TypingMind app:
 
-- Click on the 🧩 icon next to model selection
-- Toggle the plugins option to enable plugins
-- Click on the plugin you want to use and enable. Please note that there are some plugins required manual settings from your side, switch to the Settings tab to fill in necessary information to get the plugin to work.
+1. Go to **Plugins** on the left-side panel
+2. Browse the plugin library and click "Install" to install plugins you want to use
+   <Frame>
+     ![Built In Plugins](/images/built-in-plugins.webp)
+   </Frame>
+3. Click on the installed plugin and switch to Settings (if any) to configure the plugin.
+4. After configuring your plugin, make sure to enable the plugin
+5. Go back to your chat, next to the model selector, you will be able to control your plugin
+   <Frame>
+     ![Plugin 2](/images/plugin-2.webp)
+   </Frame>
 
-![image.webp](use-typingmind-plugin/image.webp)
+## Plugin List
 
-## TypingMind Available Plugins
+Here are some plugins that TypingMind supports natively:
 
-Here are the plugins that TypingMind supports natively:
-
-- [Web Search](https://docs.typingmind.com/plugins/use-web-search-and-image-search): allows AI models to search for information from the internet in real-time using Google Search.
-- [Perplexity Search](https://docs.typingmind.com/plugins/set-up-perplexity-search): allows AI models to search for information from the internet using Perplexity.
-- [Web Page Reader](https://docs.typingmind.com/plugins/set-up-web-page-reader): let the AI models read the content of your provided URLs and analyze or summarize it.
-- [Market News](https://docs.typingmind.com/plugins/set-up-market-news): get the latest financial information.
-- [Dall-E 3](https://docs.typingmind.com/plugins/set-up-dall-e-3): allow AI model to generate image using Dall-E 3
-- [Stable Diffusion v2 and v3](https://docs.typingmind.com/plugins/set-up-stable-diffusion): allow AI model to generate an image using Stable Diffusion
-- [Image Search](https://docs.typingmind.com/plugins/use-web-search-and-image-search): search the web for images using Google search.
-- Interactive Canvas: allow the AI to create an interactive canvas with the user. The canvas can be used to create forms, HTML/JS/CSS code, games, visualizations, or any other interactive content.
-- Render HTML: this plugin demonstrates how to render HTML to the end users (mostly the same as Interactive Canvas, this is an example plugin for plugin developers.)
-- Render Chart: help visualize data by drawing charts.
-- Mermaid Diagram: generate and render diagrams using the Mermaid.js library. This can be used to render various types of diagrams, including Flowchart, Sequence Diagram, Class Diagram, etc.
-- [Azure AI Search](https://docs.typingmind.com/plugins/set-up-query-training-data-azure-ai-search): this plugin connects TypingMind to your training data in Azure AI Search (Cognitive Search).
+- **Perplexity Search:** allows AI models to search for information from the internet using Perplexity.
+- **Web Search (Serp):** allows the AI assistant to search for information from the internet in real-time using Google Search via SerpAPI.
+- **Interactive Canvas:** allow the AI to create an interactive canvas with the user. The canvas can be used to create forms, HTML/JS/CSS code, games, visualizations, or any other interactive content.
+- **Web App Builder:** build simple web apps with HTML/CSS/JS (frontend only). Preview and code included.
+- **Render Chart:** help visualize data by drawing charts.
+- **Mermaid Diagram:** generate and render diagrams using the Mermaid.js library. This can be used to render various types of diagrams, including Flowchart, Sequence Diagram, Class Diagram, etc.
+- **Dall-E 3**: allow AI model to generate image using Dall-E 3
+- **Stable Diffusion v2 and v3**: allow AI model to generate an image using Stable Diffusion
+- **Image Search:** search the web for images using Google search.
+- Azure AI Search: this plugin connects TypingMind to your training data in Azure AI Search (Cognitive Search).
 
 ![image.webp](use-typingmind-plugin/image%201.webp)
 
-<aside>
-  💡 You can also Build your own custom plugin that connects with your own system or work as you like using the instructions here: [https://docs.typingmind.com/plugins/build-a-typingmind-plugin](https://docs.typingmind.com/plugins/build-a-typingmind-plugin)
+<Tip>
+  You can also Build your own custom plugin that connects with your own system or work as you like using the instructions here: [https://docs.typingmind.com/plugins/build-a-typingmind-plugin](https://docs.typingmind.com/plugins/build-a-typingmind-plugin)
 
   We are constantly adding new plugins to our collection, so stay tuned!
-</aside>
+</Tip>
 
 ## Best practices
 

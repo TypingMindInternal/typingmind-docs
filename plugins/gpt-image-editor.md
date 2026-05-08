@@ -15,7 +15,7 @@ With this plugin, you can:
 - Click on Plugin Store and install GPT Image Editor.
 - Click on the installed GPT Image Editor plugin to open its settings.
 
-![image.webp](gpt-image-editor/image.webp)
+![image.png](gpt-image-editor/image.png)
 
 ## Step 2: Enter your OpenAI API key
 
@@ -23,7 +23,7 @@ With this plugin, you can:
 - Enter your [OpenAI API key](../Manage%20&%20Connect%20AI%20Models/OpenAI%20\(GPT-5,%20GPT-4%201\)%2097b6ce8cbb6642a9934e81f7b7365575.md)
 - Set up image generated resolution and quality as you want.
 
-![image.webp](gpt-image-editor/image%201.webp)
+![image.png](gpt-image-editor/image%201.png)
 
 ## Step 3: Start prompting the AI model to generate images
 
@@ -31,15 +31,15 @@ You can:
 
 - Create and edit image
 
-![image.webp](gpt-image-editor/image%202.webp)
+![image.png](gpt-image-editor/image%202.png)
 
 - Upload image and edit from your image file
 
-![image.webp](gpt-image-editor/image%203.webp)
+![image.png](gpt-image-editor/image%203.png)
 
 - Create infographic
 
-![image.webp](gpt-image-editor/image%204.webp)
+![image.png](gpt-image-editor/image%204.png)
 
 - And more!
 
@@ -62,5 +62,5 @@ Tips from the OpenAI community, read more [here](https://community.openai.com/t/
 
 With this plugin, you can:
 
-- Generate and edit images using the `gpt-image-1` API (just like ChatGPT’s native image generation)
+- Generate and edit images using the `gpt-image-1`, `gpt-image-1.5`, `gpt-image-2` API (just like ChatGPT’s native image generation)
 - Use image generation with any LLM—not limited to OpenAI models

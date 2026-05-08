@@ -1,5 +1,5 @@
 ---
-title: 'Pin chats or messages'
+title: "Pin chats or messages"
 ---
 
 You can pin important messages or conversations on [TypingMind.com](http://TypingMind.com) for later use or reference.
@@ -11,7 +11,9 @@ You can pin an entire conversation to the top of your chat list so you can find 
 - Hover to a chat
 - Click the star icon
 
-![Untitled](pin-chats-or-messages/Untitled.png)
+<Frame>
+  ![Pin Chats](/images/pin-chats.webp)
+</Frame>
 
 ## Pin a specific message within a conversation
 

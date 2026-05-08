@@ -3,7 +3,7 @@ title: "Web Page Reader"
 ---
 
 <Tip>
-  Use [Read Web Page (Firecrawl)](/changelog/typingmind/firecrawl-web-page-reader) plugin to get better scraping ability.
+  This plugin has been no longer supported because it relied on a legacy plugin server. Please use [Read Web Page (Firecrawl)](/changelog/typingmind/firecrawl-web-page-reader) plugin to get better scraping ability.
 </Tip>
 
 You can use Web Page Reader plugin to let the AI models read the content of your provided URLs and analyze or summarize it.
