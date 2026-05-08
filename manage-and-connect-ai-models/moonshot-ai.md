@@ -1,5 +1,5 @@
 ---
-title: "Moonshot AI (Kimi K2)"
+title: "Moonshot AI"
 ---
 
 **Kimi K2** — Moonshot AI’s newly released open-source **Mixture-of-Experts (MoE)** model — is causing a stir in the AI community.
@@ -16,7 +16,7 @@ Let’s walk through how to set up and test Kimi K2 on TypingMind so you can com
 
 Go to [https://platform.moonshot.ai/console](https://platform.moonshot.ai/console) and create a new Moonshot API account.
 
-![image.webp](moonshot-ai-\(kimi-k2\)/image.webp)
+![image.png](moonshot-ai-\(kimi-k2\)/image.png)
 
 ## Step 2: Set up Moonshot API account
 
@@ -24,7 +24,7 @@ To use the model via API, you’ll need to add balance to your account.
 
 Visit [https://platform.moonshot.ai/console/pay](https://platform.moonshot.ai/console/pay) to top up — you can start with as little as \$1 to test it out.
 
-![image.webp](moonshot-ai-\(kimi-k2\)/image%201.webp)
+![image.png](moonshot-ai-\(kimi-k2\)/image%201.png)
 
 ## Step 3: Get your Moonshot API key
 
@@ -43,4 +43,4 @@ On TypingMind, go to Models —\> Add Custom Models and enter the following deta
 - Click “**Test**” to verify the information is correct
 - Click **Add Model**.
 
-![image.webp](moonshot-ai-\(kimi-k2\)/image%202.webp)
+![image.png](moonshot-ai-\(kimi-k2\)/image%202.png)

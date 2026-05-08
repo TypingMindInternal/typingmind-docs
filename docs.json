@@ -30,8 +30,9 @@
               "quickstart",
               "quickstart/get-started-with-typingmind",
               "quickstart/typingmind-license-plans",
+              "feature-list",
               "quickstart/typingmind-vs-chatgpt-plus-vs-other-chatgpt-uis",
-              "feature-list"
+              "quickstart/typingmind-vs-typingmind-team"
             ]
           },
           {
@@ -50,7 +51,7 @@
               "manage-and-connect-ai-models/openrouter",
               "manage-and-connect-ai-models/deepseek-ai",
               "manage-and-connect-ai-models/novita-ai",
-              "manage-and-connect-ai-models/moonshot-ai-(kimi-k2)",
+              "manage-and-connect-ai-models/moonshot-ai",
               "manage-and-connect-ai-models/azure-openai",
               "manage-and-connect-ai-models/anthropic-models-via-azure",
               "manage-and-connect-ai-models/chutes-ai",
@@ -464,6 +465,92 @@
       }
     ]
   },
+  "redirects": [
+    {
+      "source": "/4d16fb320c2241308a3deeab08633731",
+      "destination": "/typingmind-team/user-management/access-control:-private-and-authorized-mode"
+    },
+    {
+      "source": "/936093de411a4841aa3dc74417bfe9ac",
+      "destination": "/typingmind-team/user-management/access-control:-private-and-authorized-mode"
+    },
+    {
+      "source": "/chat-models-settings/use-with-ollama-(local-models:-llava-llama2-mistral-orca-etc.)",
+      "destination": "/manage-and-connect-ai-models/ollama-(local-models:-llava-llama2-mistral-orca-etc.)"
+    },
+    {
+      "source": "/chat-models-settings/use-with-mistral-ai",
+      "destination": "/manage-and-connect-ai-models/mistral-ai"
+    },
+    {
+      "source": "/chat-models-settings/set-up-local-models-with-local-ai-(llama-gpt4all-vicuna-falcon-etc.)",
+      "destination": "/manage-and-connect-ai-models/local-ai-(llama-gpt4all-vicuna-falcon-etc.)"
+    },
+    {
+      "source": "/chat-models-settings/use-azure-openai",
+      "destination": "/manage-and-connect-ai-models/azure-openai"
+    },
+    {
+      "source": "/chat-models-settings/use-with-lmstudio",
+      "destination": "/manage-and-connect-ai-models/lmstudio-(phi-3-llama-3-falcon-gemma-gpt-neo-x)"
+    },
+    {
+      "source": "/chat-models-settings/use-with-perplexity-ai",
+      "destination": "/manage-and-connect-ai-models/perplexity-ai"
+    },
+    {
+      "source": "/chat-models-settings/use-openrouter-models",
+      "destination": "/manage-and-connect-ai-models/openrouter"
+    },
+    {
+      "source": "/typingmind-custom/compare-with-chatgpt-team",
+      "destination": "/typingmind-team/getting-started/typingmind-team-vs.-chatgpt-for-team"
+    },
+    {
+      "source": "/manage-and-connect-ai-models/xai",
+      "destination": "/manage-and-connect-ai-models/xai-(grok-ai)"
+    },
+    {
+      "source": "/typingmind-custom/eu-data-center",
+      "destination": "/typingmind-team/account-management/eu-data-center"
+    },
+    {
+      "source": "/typingmind-custom/setup-single-sign-on-(sso)",
+      "destination": "/typingmind-team/user-management/single-sign-on-(sso)"
+    },
+    {
+      "source": "/typingmind-custom/anonymous-chats-and-access-mode",
+      "destination": "/typingmind-team/user-management/access-control:-private-and-authorized-mode"
+    },
+    {
+      "source": "/typingmind-custom/external-authentication-via-jwt",
+      "destination": "/typingmind-team/user-management/external-authentication-via-jwt"
+    },
+    {
+      "source": "/typingmind-custom/setup-custom-email-sender-via-smtp",
+      "destination": "/typingmind-team/branding-and-customizations/custom-email-sender-via-smtp"
+    },
+    {
+      "source": "/custom-deployments/setup-custom-email-sender-via-smtp",
+      "destination": "/typingmind-team/branding-and-customizations/custom-email-sender-via-smtp"
+    },
+    {
+      "source": "/typingmind-custom/how-traning-data-works-in-typing-mind-custom",
+      "destination": "/typingmind-team/branding-and-customizations/how-knowledge-base-works-in-typingmind-team"
+    },
+    {
+      "source": "/other-resources/how-tos/how-to-use-open-router-models-on-typing-mind",
+      "destination": "/manage-and-connect-ai-models/openrouter"
+    },
+    {
+      "source": "/typingmind-custom/getting-started/how-traning-data-works-in-typing-mind-custom",
+      "destination": "/typingmind-team/branding-and-customizations/how-knowledge-base-works-in-typingmind-team"
+    },
+    {
+      "source": "/other-resources/custom-deployments/how-traning-data-works-in-typing-mind-custom",
+      "destination": "/typingmind-team/branding-and-customizations/how-knowledge-base-works-in-typingmind-team"
+    }
+  ],
   "background": {
     "color": {
       "light": "#ffffff",
