@@ -17,7 +17,7 @@ You can easily config Typing Mind to run with Ollama, below is the full guide:
 Go to [https://ollama.com/](https://ollama.com/) and download Ollama to your device.
 
 <Frame>
-  ![Untitled](/images/Untitled.webp)
+  ![Untitled](/images/Untitled.png)
 </Frame>
 
 ## Set up Ollama environment variables for CORS
@@ -46,7 +46,7 @@ ollama run llama2
 Open Typing Mind and open the Model Setting button, then click “Add Custom Model”. Then enter the details as show in the screenshot below:
 
 <Frame>
-  ![Untitled 1](/images/Untitled-1.webp)
+  ![Untitled 1](/images/Untitled-1.png)
 </Frame>
 
 ## Chat with Ollama
@@ -54,9 +54,9 @@ Open Typing Mind and open the Model Setting button, then click “Add Custom Mod
 Once the model is tested and added successfully, you can select the custom model and chat with it normally.
 
 <Frame>
-  ![Xnapper 2024 02 11 10 25 18](/images/Xnapper-2024-02-11-10.25.18.webp)
+  ![Xnapper 2024 02 11 10 25 18](/images/Xnapper-2024-02-11-10.25.18.png)
 </Frame>
 
 <Frame>
-  ![Untitled 2](/images/Untitled-2.webp)
+  ![Untitled 2](/images/Untitled-2.png)
 </Frame>

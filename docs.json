@@ -62,7 +62,7 @@
               "manage-and-connect-ai-models/google-gemini-as-custom-model",
               "manage-and-connect-ai-models/deepinfra",
               "manage-and-connect-ai-models/hugging-face-models",
-              "manage-and-connect-ai-models/ollama-(local-models-llava-llama2-mistral-orca",
+              "manage-and-connect-ai-models/ollama",
               "manage-and-connect-ai-models/groq-api-(llama-3-mixtral-8x7b-gemma-7b)",
               "manage-and-connect-ai-models/lmstudio-(phi-3-llama-3-falcon-gemma-gpt-neo-x)",
               "manage-and-connect-ai-models/aws-bedrock-anthropic",
@@ -549,6 +549,10 @@
     {
       "source": "/other-resources/custom-deployments/how-traning-data-works-in-typing-mind-custom",
       "destination": "/typingmind-team/branding-and-customizations/how-knowledge-base-works-in-typingmind-team"
+    },
+    {
+      "source": "/manage-and-connect-ai-models/ollama-(local-models:-llava-llama2-mistral-orca-etc.)",
+      "destination": "/manage-and-connect-ai-models/ollama"
     }
   ],
   "background": {
