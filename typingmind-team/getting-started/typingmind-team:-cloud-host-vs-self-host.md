@@ -33,7 +33,7 @@ title: "TypingMind Team: Cloud-host vs Self-host"
 | [Access Control](https://custom.typingmind.com/features/access-control) | ✅ | ✅ |
 | [Manage usage per model](https://custom.typingmind.com/features/limit-chat-model-access) | ✅ | ✅ |
 | [SSO Authentication](https://docs.typingmind.com/typingmind-custom/user-management/setup-single-sign-on-\(sso\)) | ✅ | ✅ |
-| **Bill users with custom pricing** | ❌ Requires [Reseller Program](https://custom.typingmind.com/reseller) \+ [API](https://api.typingmind.com/docs) | ❌ Requires [Reseller Program](https://custom.typingmind.com/reseller) \+ [API](https://api.typingmind.com/docs) |
+| **Bill users with custom pricing** | ✅ | ✅ |
 | **Custom user guides** | ✅ Customizable via Admin panel | ✅ Customizable via Admin panel |
 
 ## Privacy

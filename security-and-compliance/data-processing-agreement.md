@@ -1,6 +1,7 @@
 ---
-title: "Data Processing Agreement"
+title: 'Data Processing Agreement'
 ---
+
 This Data Protection Agreement (« Agreement ») is entered into between Devuap LLC and the undersigned Customer identified in the applicable Appendix I at Controller section and the signature block below (« Customer ») as of the last date beneath Customer’s and Devuap LLC’s signature blocks below (« Addendum Effective Date »). This Agreement forms part of the agreement between Customer and Devuap LLC covering Customer’s use of the Services (as defined below).
 
 ### ***Clause 1: Purpose and scope***

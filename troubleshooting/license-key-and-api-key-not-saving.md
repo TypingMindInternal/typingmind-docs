@@ -1,5 +1,5 @@
 ---
-title: 'License key and API key not saving?'
+title: "License key and API key not saving?"
 ---
 
 If you're repeatedly asked to enter your license key and API, then this article will give you a better understanding of what causing this issue and how to prevent it.
@@ -12,7 +12,7 @@ Not only your keys, but all of your data including chat history, and chat messag
 
 ## What causes this issue?
 
-This issue can be caused when your browser cache/cookie/storage has been cleared. 
+This issue can be caused when your browser cache/cookie/storage has been cleared.
 
 Here are some possible reasons why your browser data might have been cleared:
 
@@ -24,21 +24,19 @@ Here are some possible reasons why your browser data might have been cleared:
 
 ## What happen to your chat data?
 
-Unfortunately, clearing browser storage may also result in the loss of your chat history. 
+Unfortunately, clearing browser storage may also result in the loss of your chat history.
 
 ## The solution
 
 To prevent losing your chat data, license key and API keys, consider the following solutions:
 
 1. **Enable Cloud Sync**: this allows you to securely back up your chat data, License key and API keys. If your local data gets wiped out, simply log into your Cloud account to restore everything quickly.
-
-![Untitled](license-key-and-api-key-not-saving/Untitled%201.png)
-
+   Learn [how to use Cloud Sync](/cloud-sync-and-backup/cloud-sync-and-backup-overview)
 2. **Add to home screen**: this can also help prevent accidental data loss caused by clearing browser data.
 
 ![Untitled](license-key-and-api-key-not-saving/Untitled%202.png)
 
-3. **Check browser/extension setting** to not clear site data from [www.typingmind.com](http://www.typingmind.com/). 
+3. **Check browser/extension setting** to not clear site data from [www.typingmind.com](http://www.typingmind.com/).
 
 There are 3 options to do this:
 
@@ -46,11 +44,11 @@ There are 3 options to do this:
 
 ![Untitled](license-key-and-api-key-not-saving/Untitled%203.png)
 
-- Export [typingmind.com](http://typingmind.com) data > Clear all browser data > Re-import data from typingmind.com (this can be done using Chrome extension)
+- Export [typingmind.com](http://typingmind.com) data \> Clear all browser data \> Re-import data from typingmind.com (this can be done using Chrome extension)
 - Use a separate browsing profile for [typingmind.com](http://typingmind.com)
 
 ## Conclusion
 
-Re-entering keys can be inconvenient, however, it's a crucial step to ensure your privacy. 
+Re-entering keys can be inconvenient, however, it's a crucial step to ensure your privacy.
 
 By understanding the potential causes and using our suggested solutions, you can minimize data loss and maintain a seamless experience with TypingMind.

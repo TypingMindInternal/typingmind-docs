@@ -1,6 +1,7 @@
 ---
-title: "Privacy Policy"
+title: 'Privacy Policy'
 ---
+
 **Last Updated:** March 30, 2026
 
 ## 1. Introduction

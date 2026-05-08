@@ -24,6 +24,6 @@ To use TypingMind without any limits, you can enter your own API key and switch 
 
 ![Untitled](setapp-limitation/Untitled%203.webp)
 
-Here’s the detailed guideline to get your API key:
+Here’s the detailed guide to get your API key:
 
 [OpenAI (GPT-5, GPT-4.1)](/manage-and-connect-ai-models/openai-\(gpt-5-gpt-4.1\))

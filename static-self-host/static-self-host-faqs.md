@@ -1,5 +1,5 @@
 ---
-title: 'Static Self-host FAQs'
+title: "Static Self-host FAQs"
 ---
 
 ## **What is self-hosting?**
@@ -12,7 +12,7 @@ Some people prefer to run the software on their own server for privacy and avail
 
 ## **What can I customize in the self-host version?**
 
-As of now, you cannot customize anything. The self-host version will be exactly the same as the one you are using on TypingMind.com. If you are looking for a more flexible and customizable way to use Typing Mind, check out https://custom.typingmind.com
+As of now, you cannot customize anything. The self-host version will be exactly the same as the one you are using on TypingMind.com. If you are looking for a more flexible and customizable way to use Typing Mind, check out [https://custom.typingmind.com](https://custom.typingmind.com)
 
 ## **Where can I deploy my self-host version?**
 
@@ -32,15 +32,15 @@ Yes. Both are needed, as the self-hosted version is exactly the same as the vers
 
 ## **Can I let my team/community/customers use the self-host version?**
 
-You can, but keep in mind that they will also need a TypingMind License Key and OpenAI API Key in order to use it. A better way to provide Typing Minf for your team is to use the Custom version at https://custom.typingmind.com
+You can, but keep in mind that they will also need a TypingMind License Key and OpenAI API Key in order to use it. A better way to provide Typing Minf for your team is to use the Custom version at [https://custom.typingmind.com](https://custom.typingmind.com)
 
 ## **Can I embed my License Key/API key to the self-host version somehow and let my team/community/customers use it?**
 
-No you can't, and you shouldn't. It's not safe to share your License Key and API Key to the public like that. The Static Self-host version is meant for personal use. If you are looking to setup a custom deployment of TypingMind for your team/community/customers, please check out https://typingmind.com/custom
+No you can't, and you shouldn't. It's not safe to share your License Key and API Key to the public like that. The Static Self-host version is meant for personal use. If you are looking to setup a custom deployment of TypingMind for your team/community/customers, please check out [https://typingmind.com/custom](https://typingmind.com/custom)
 
 ## **Can I have support on technical issues if I self-host?**
 
-The self-host version comes for free when you buy a license key. There is no support on technical issues if you self-host. If you don't have the technical skills to setup the self-host version, we recommend using the hosted version on https://typingmind.com instead. 
+The self-host version comes for free when you buy a license key. There is no support on technical issues if you self-host. If you don't have the technical skills to setup the self-host version, we recommend using the hosted version on [https://typingmind.com](https://typingmind.com) instead.
 
 ## **Why don't you offer technical support for the self-hosted version?**
 
@@ -48,7 +48,7 @@ There are way too many possible technical issues that could happen with various 
 
 ## **What permissions do I have with the self-host code?**
 
-• ✅ You have access to the compiled code of the app.
-• ✅ You have permission to deploy and use the compiled code on your own server.
-• ❌ You do not have permissions to modify or redistribute the compiled code.
-• ❌ You do not have permissions to share or resell the compiled code.
+- ✅ You have access to the compiled code of the app.
+- ✅ You have permission to deploy and use the compiled code on your own server.
+- ❌ You do not have permissions to modify or redistribute the compiled code.
+- ❌ You do not have permissions to share or resell the compiled code.

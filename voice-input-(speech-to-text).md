@@ -29,9 +29,11 @@ You can use the Web API speech for free. To enable this:
 To enable OpenAI Whisper, you **must enter your OpenAI API key:**
 
 - Go to **API key within your Profile**
-- Enter your [OpenAI API key](https://www.notion.so/a9422fff1e364e31831a9cee99e37965?pvs=21)
+- Enter your [OpenAI API key](/manage-and-connect-ai-models/openai-\(gpt-5-gpt-4.1\))
 
-![Untitled](voice-input-\(speech-to-text\)/Untitled.webp)
+<Frame>
+  ![Openai Api Key](/images/openai-api-key.webp)
+</Frame>
 
 Then follow the steps below to enable it:
 
@@ -40,9 +42,9 @@ Then follow the steps below to enable it:
 - Choose **“OpenAI Whisper”** speech-to-text provider from the drop-down list
 - Start recording your voice, which will be automatically transcribed into text so you can easily feed the AI model
 
-<aside>
-  💡 You can also upload your recorded meetings/webinars with OpenAI Whisper to get the transcription. Please note that the uploaded file can not be exceeded 25MB
-</aside>
+<Tip>
+  You can also upload your recorded meetings/webinars with OpenAI Whisper to get the transcription. Please note that the uploaded file can not be exceeded 25MB
+</Tip>
 
 ![image.webp](voice-input-\(speech-to-text\)/image%201.webp)
 
@@ -50,7 +52,9 @@ Then follow the steps below to enable it:
 
 To enable Groq Whisper, you must provide your **Groq API key**.
 
-![Xnapper-2024-12-23-16.46.22.webp](voice-input-\(speech-to-text\)/Xnapper-2024-12-23-16.46.22.webp)
+<Frame>
+  ![Groq Stt](/images/groq-stt.webp)
+</Frame>
 
 Or, if you are part of a **TypingMind Team**, an administrator can set up the Groq API key in the **API Keys page** of the admin portal.
 
@@ -60,7 +64,9 @@ Or, if you are part of a **TypingMind Team**, an administrator can set up the Gr
 
 To enable Azure Whisper, you must provide your **Azure Whisper API key** and **API endpoint**.
 
-![Xnapper-2024-12-23-16.49.52.webp](voice-input-\(speech-to-text\)/Xnapper-2024-12-23-16.49.52.webp)
+<Frame>
+  ![Azure Whisper Key](/images/azure-whisper-key.webp)
+</Frame>
 
 Or, if you are part of a **TypingMind Team**, an administrator can set up the Azure API key and endpoint in the **API Keys page** of the admin portal.
 
