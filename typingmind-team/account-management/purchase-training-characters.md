@@ -2,22 +2,22 @@
 title: "Purchase add-ons (Seats/Training Characters)"
 ---
 
-When uploading the knowledge base for your chat instance, you will have:
+When signing up for a Growth/Professional plan on TypingMind, you will have:
 
 - 5 user seats
 - 1M training characters to connect with your data
 
-If you mostly exceeds this number and want to upload more data or to invite more users, you also have the option to purchase extra training characters/user seats. Here’s how to do it:
+If you exceeds this number and want to upload more data or to invite more users, you also have the option to purchase extra training characters/user seats. Here’s how to do it:
 
-- Go to Billing
-- Click on “Update Plan / Add-ons”
+- Go to **Admin Panel** → **Billing**
+- Click on “**Update Plan / Add-ons**”
 
 ![Update Plan](/images/update-plan.webp)
 
-You can purchase from 1M up to 100M characters:
+Click \+ or - to increase/decrease the number of seats or training characters.
 
 ![Update Plan 2](/images/update-plan-2.webp)
 
 <Info>
-  Please note that this is a monthly subscription base. You are billeed every month for extra training characters.
+  Please note that this is a monthly/annual subscription base. You are billed every month/year for extra training characters.
 </Info>

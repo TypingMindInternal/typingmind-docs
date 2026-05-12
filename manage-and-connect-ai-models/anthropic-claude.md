@@ -27,9 +27,11 @@ Go to [Billing](https://console.anthropic.com/settings/billing) section to top u
 
 ## Step 4: Enter your API key to TypingMind
 
-- Go to TypingMind → Settings → API keys and Enter your copied Claude API key to TypingMind:
+- Go to [**typingmind.com**](http://typingmind.com)
+- Navigate the Models menu on the left sidebar → Switch to API key tab
+- Input the copied API key
 
-![image.png](anthropic-claude/image%203.png)
+![Api Key Tab](/images/api-key-tab.webp)
 
 ![image.png](anthropic-claude/image%204.png)
 
@@ -39,10 +41,10 @@ Go to [Billing](https://console.anthropic.com/settings/billing) section to top u
 
 ![image.png](anthropic-claude/image%205.png)
 
-<aside>
-  💡 Common issue:
+<Info>
+  Common issue:
 
   `“Could not connect to Anthropic API. Please try again later. Error code:400”`
 
   This issue may appear when your credit balance is too low to access the Claude API. Please check and add your credit balance at [https://console.anthropic.com/settings/plans](https://console.anthropic.com/settings/plans), then try again.
-</aside>
+</Info>

@@ -4,7 +4,7 @@ title: "Custom Branding"
 
 Personalize your chat instance to match your brand identity. From branding elements to custom messages and themes, gain control over how your chat interface should look and feel.
 
-## **1. Brand Your Chat Instance**
+## 1. Brand Your Chat Instance
 
 Start by branding your chat instance with your company's name, logo, and tagline.
 
@@ -20,7 +20,7 @@ This is how your branding setups will appear on your Chat Interface:
   ![Typingmind Team Ui](/images/typingmind-team-ui.webp)
 </Frame>
 
-## **2. Customize Footer Links**
+## 2. Customize Footer Links
 
 Customize the footer links with your FAQs, Terms & Condition, Privacy Policy, and Feedback email.
 
@@ -36,7 +36,7 @@ Here’s how it looks on the chat UI:
   ![Footer Link Ui 2](/images/footer-link-ui-2.webp)
 </Frame>
 
-## **3.Change the Document Links**
+## 3.Change the Document Links
 
 You can change the document links that are included within the chat interface such as Plugins docs, OpenRouter guide, Azure OpenAI guide, etc.
 
@@ -44,7 +44,7 @@ You can change the document links that are included within the chat interface su
   ![Doc Link 2](/images/doc-link-2.webp)
 </Frame>
 
-## **4. Customize to your local language**
+## 4. Customize to your local language
 
 Adapt the chat interface to your local language to enhance user engagement.
 
@@ -60,7 +60,7 @@ Here’s how it looks on the chat interface:
   ![Language Ui](/images/language-ui.webp)
 </Frame>
 
-## **5. Edit Welcome Messages**
+## 5. Edit Welcome Messages
 
 Customize the welcome messages to easily onboard your users. You can provide them with guidance on how to use the chat instance.
 
@@ -70,7 +70,7 @@ Go to **Welcome Message** \> input your messages
   ![Welcome Message](/images/welcome-message.webp)
 </Frame>
 
-## **6. Use Your Own Domain**
+## 6. Use Your Own Domain
 
 You can set up a custom domain for your chat interface.
 
@@ -80,7 +80,7 @@ Go to **Custom Domain** \> Set up your custom domain as instructions in the app.
   ![Custom Domain 2](/images/custom-domain-2.webp)
 </Frame>
 
-## **7. Customize the Chat Interface Theme**
+## 7. Customize the Chat Interface Theme
 
 Customize the chat interface theme to match your brand color. You can use built-in themes or create a custom theme by adding your CSS code.
 

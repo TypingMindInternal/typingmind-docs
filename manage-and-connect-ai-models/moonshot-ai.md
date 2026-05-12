@@ -2,15 +2,7 @@
 title: "Moonshot AI"
 ---
 
-**Kimi K2** — Moonshot AI’s newly released open-source **Mixture-of-Experts (MoE)** model — is causing a stir in the AI community.
-
-Here’s a quick look at what makes Kimi K2 stand out:
-
-- A trillion-parameter architecture optimized for **agentic tasks**, tool use, and reasoning
-- Top-tier benchmark scores in coding and reasoning (e.g., 53.7% on LiveCodeBench vs. GPT‑4.1’s ~54.6%)
-- **Free, open-source access**, allowing full control and deployment flexibility—unlike many proprietary models
-
-Let’s walk through how to set up and test Kimi K2 on TypingMind so you can compare it in your own coding workflows.
+Let’s walk through how to use Kimi K2 on TypingMind!
 
 ## Step 1: Create a Moonshot API account
 
@@ -32,15 +24,18 @@ Go to [https://platform.moonshot.ai/console/api-keys](https://platform.moonshot.
 
 Be sure to copy and save it securely — you’ll need it to set up Kimi K2 on TypingMind.
 
-## Step 4: Set up Kimi as custom model on TypingMind
+## Step 4: Use Kimi models on TypingMind
 
-On TypingMind, go to Models —\> Add Custom Models and enter the following details:
+- Go to [**typingmind.com**](http://typingmind.com)
+- Navigate the Models menu on the left sidebar → Switch to API key tab
+- Input the copied API key for Moonshot.
 
-- Give the model any name you prefer
-- Enter the endpoint: **`https://api.moonshot.ai/v1/chat/completions`**
-- Enter the Model ID and context length: `kimi-k2-thinking`,  `kimi-k2-0711-preview`or `kimi-k2-0905-preview`**.** View all available models here: [https://platform.moonshot.ai/docs/introduction#other-important-notes](https://platform.moonshot.ai/docs/introduction#other-important-notes)
-- Add a custom header row, then enter `Authorization` and the API key in the value textbox in the format: `Bearer your_api_key`
-- Click “**Test**” to verify the information is correct
-- Click **Add Model**.
+<Frame>
+  ![Api Key Tab](/images/api-key-tab.webp)
+</Frame>
 
-![image.png](moonshot-ai-\(kimi-k2\)/image%202.png)
+After entering the API key for Moonshot, switch back to Models tab → select Moonshot → enable Moonshot models you want to chat with.
+
+<Frame>
+  ![Kimi Model](/images/kimi-model.webp)
+</Frame>

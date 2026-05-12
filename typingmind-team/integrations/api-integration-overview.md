@@ -8,55 +8,40 @@ Now, let's explore what our API can do and how it can be used in different busin
 
 ## What the TypingMind Team API can do?
 
-### Manage Users
+You can use it to:
 
-You can manage users via API in the following ways:
+- Manage users: add users, get all users, remove users, and update user details such as user tags or user groups.
+- Manage chats: create a model response for a given chat conversation.
+- Chat with an AI Agent: send a message to an AI Agent and receive a response.
+- Use the Agent’s setup: when chatting with an AI Agent via API, it can use the enabled plugins, knowledge bases, and MCP servers in the background.
 
-- **Add a user:** add a new user to your chat instance.
-- **Get all users:** retrieve a list of all users in your chat instance.
-- **Remove a user:** remove a user from your chat instance.
-- **Update a user:** update a user's details. Currently, you can only update user tags, but more options may be added in the future
-
-![](https://framerusercontent.com/images/ctpQZdphBJwCaRbks8SQrmwJRA.webp)
-
-### **Manage Chats**
-
-- **Create a model response:** create a model response for a given chat conversation.
-
-![](https://framerusercontent.com/images/TTOjIgMzI9MwAZMqCcDBeCMzU.webp)
+<Frame>
+  ![Tm Api Doc](/images/tm-api-doc.webp)
+</Frame>
 
 ## **Use Cases**
 
-1. **User management for large team or community**
-   If you have a large team or community using your chat instance, it can be time-consuming to manually add every new user through the admin panel.
+1. **User management for large team or community** If you have a large team or community using your chat instance, it can be time-consuming to manually add every new user through the admin panel.
    - You can automate this task with the API. When a new user joins, it is automatically added to your chat instance. This ensures that everyone in your team has access to the chat instance as soon as they join.
    - And if a user's role changes or if they leave the team or community, you can easily update their tags or remove their seats directly from your own platform using the API
 2. **Chatbot integration**
    - You can create a chatbot using the training data you have, and this chatbot can be added to any platform like Discord or Telegram.
-   - The chatbot will give responses that are relevant and based on the data you have provided it during its training phase.
-   This can be used with any language learning models (LLMs) such as ChatGPT, Claude, or any other custom LLMs, thus giving you the flexibility to use the model that best fits your requirements.
+   - The chatbot will give responses that are relevant and based on the data you have provided it during its training phase. This can be used with any language learning models (LLMs) such as ChatGPT, Claude, or any other custom LLMs, thus giving you the flexibility to use the model that best fits your requirements.
 
-## **Get Started with TypingMind Team API!**
+## Get Started with TypingMind Team API
 
 To get started with using the API:
 
 1. Generate an API key by logging into your instance admin panel \> go to **Integrations** \> **API Integration** \> **Generate API key**
-
-![](https://framerusercontent.com/images/EkUbAs7N5ftWOYMujLCv7UhkE.webp)
-
-1. Once you create a new API key, an **api-user-xxxx** will be added to your User list. You can then:
+2. Once you create a new API key, an **api-user-xxxx** will be added to your User list. You can then:
 
 - Set restrictions for the API user just like any other user
 - Track API usage by that user
 - Remove the API user if you no longer need the API key
 
-Each API key you generate will create a separate API user.
+Each API key you generate will create a separate API user. When making a request, include the API key in the request headers as `X-API-KEY`.
 
-1. When making a request, include the API key in the request headers as `X-API-KEY`.
-
-<aside>
-  💡
-
+<Tip>
   Please note that if you encounter the error like:
 
   ```json
@@ -71,7 +56,7 @@ Each API key you generate will create a separate API user.
 
   * Go to **User Groups** → Add **api-user-xxxx** to the group that has access to the agent.
   * Check the agent’s **Visibility** settings to make sure you assigned the correct group.
-</aside>
+</Tip>
 
 For more request details, please check out the documentation available on [**api.typingmind.com/docs**](https://api.typingmind.com/docs).
 

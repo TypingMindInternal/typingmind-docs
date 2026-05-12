@@ -12,30 +12,20 @@ You can sign up from [https://mistral.ai/](https://mistral.ai/) or another servi
 
 Once you have an account, go to [https://console.mistral.ai/api-keys/](https://console.mistral.ai/api-keys/) to create an API key:
 
-![image.webp](mistral-ai/image.webp)
+![image.png](mistral-ai/image.png)
 
-## Add a custom model in Typing Mind:
+## Use Mistral on Typing Mind:
 
-Go to [typingmind.com](http://typingmind.com) and create a new Custom Model as follow:
+- Go to [**typingmind.com**](http://typingmind.com)
+- Navigate the Models menu on the left sidebar → Switch to API key tab
+- Input the copied API key for Mistral.
 
-- Go to Models —\> Click Add Custom Model
-- Enter any name.
-- Enter the exact endpoint from the [API document](https://docs.mistral.ai/): [`https://api.mistral.ai/v1/chat/completions`](https://api.mistral.ai/v1/chat/completions)
-- Enter the Model ID and context length: `codestral-latest`, `mistral-large-latest`, `pixtral-large-latest`, etc. View all available models here: [https://docs.mistral.ai/getting-started/models/models\_overview/](https://docs.mistral.ai/getting-started/models/models_overview/)
-- Add a custom header row, then enter `Authorization` and the API key in the value textbox in the format: `Bearer your_api_key`
-- Click “**Test**” to verify the information is correct
-- Click **Add Model**.
+<Frame>
+  ![Api Key Tab](/images/api-key-tab.webp)
+</Frame>
 
-<aside>
-  💡 **Quick troubleshooting guide:**
-  ⚠️ **If you are using mistral.ai**, your account must have an active subscription for the API key to work.
-  **⚠️ Newly created API key will take 2-3 minutes to start working**. If you click the “Test” button but failed, try again in 2-3 minutes.
-</aside>
+After entering the API key for Mistral, switch back to Models tab → select Mistral → enable Mistral models you want to chat with.
 
-![image.webp](mistral-ai/image%201.webp)
-
-## Use Mistral AI in Typing Mind
-
-You can now select the newly created custom model and chat with it.
-
-![image.webp](mistral-ai/image%202.webp)
+<Frame>
+  ![Mistral Model](/images/mistral-model.webp)
+</Frame>

@@ -1,27 +1,29 @@
 ---
-title: 'Invite team members'
+title: "Invite team members"
 ---
 
 Managing seats and member roles in your chat instance is crucial for effective operation and control.
 
 ## Available Seats in a Chat Instance
 
-By default, each chat instance comes with default available seats (the number of seats varies in [different plans)](https://custom.typingmind.com/pricing). The instance owner, who is the creator of the chat instance, automatically occupies one seat. This leaves a certain number of additional seats that the owner can utilize to invite other members.
+By default, each chat instance comes with 5 available seats. The instance owner, who is the creator of the chat instance, automatically occupies one seat. This leaves a certain number of additional seats that the owner can utilize to invite other members.
 
-![](https://framerusercontent.com/images/dFAV0pUaAeRRlmbsJmdbzobeDas.png)
+<Frame>
+  ![Seat Admin](/images/seat-admin.webp)
+</Frame>
 
 ## Invite Members
 
 To invite new members, follow these steps:
 
-- Go to **Members** page
-- Click **Add members**
-- Enter the **member email** you want to add. One email per line
-- Click **Add members**
+- Under the User Management section, go to **Users** page
+- Click **Invite users**
+- Enter the **user email** you want to add. One email per line
+- Click **Invite users.**
 
-![](https://framerusercontent.com/images/z4QgxMlDsNBVANeeiGFmm8BmI8.png)
-
-![](https://framerusercontent.com/images/pVVfa7S8m0pfErnOfK8jna5Fwio.png)
+<Frame>
+  ![Invite Admin](/images/invite-admin.webp)
+</Frame>
 
 After that, the invited email will receive an invitation to join your chat instance:
 
@@ -31,38 +33,14 @@ After that, the invited email will receive an invitation to join your chat insta
 
 If your requirement exceeds the default number of seats provided in your plan, you can purchase additional seats by:
 
-1. Navigate **Members** page
-2. Click ‘**Buy More Seats**’
+1. Navigate **Billing page**
+2. Click **'Update Plan/Add-on'** button
 3. Choose the number of seats you want to buy. One email added will be counted as 1 seat.
 
-![](https://framerusercontent.com/images/Tp17M0KpS5x5QvDxVgiKWg7F1c.png)
+<Frame>
+  ![Update Plan Admin](/images/update-plan-admin.webp)
+</Frame>
 
-## Member Roles
+## User Roles
 
-There are two categories of member roles within your chat instance:
-
-### **Admin Role**
-
-Members assigned the Admin role have access to the Admin Panel, which gives them complete control over the chat interface:
-
-1. Navigate **Members** page
-2. Click to the Dropdown button right next to each member email
-3. Select ‘**Update Roles**’
-4. Choose '**Admin**'
-
-![](https://framerusercontent.com/images/nFL2OhHwvVShe3nBINCH4BDpBg.png)
-
-### **Content Moderator Role**
-
-Members assigned the Content Moderator role can only upload training data (upload files or connect external sources):
-
-1. Navigate **Members** page
-2. Click to the Dropdown button right next to each member email
-3. Select ‘**Update Roles**’
-4. Choose '**Content Moderator**'
-
-![](https://framerusercontent.com/images/5Da9sqwwGUO1NQUt00sGmHmdt4.png)
-
-### **User Role**
-
-Members are not assigned to any role only have access to the chat interface, interact with it, and cannot log into the Admin Panel.
+You can set up different roles with permissions for your users via [Roles and Permissions](/typingmind-team/user-management/roles-and-permissions) page.

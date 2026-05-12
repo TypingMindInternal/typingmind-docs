@@ -10,7 +10,7 @@ Detailed guide on how to use DeepSeek AI on TypingMind.
 
 First, you will need to sign up for a DeepSeek AI account at [https://platform.deepseek.com/sign\_in](https://platform.deepseek.com/sign_in)
 
-![Untitled](deepseek-ai/Untitled.webp)
+![Untitled](deepseek-ai/Untitled.png)
 
 ## Step 2: Get DeepSeek API key
 
@@ -18,21 +18,20 @@ First, you will need to sign up for a DeepSeek AI account at [https://platform.d
 - Create a new API key
 - Copy the generated API key
 
-![Untitled](deepseek-ai/Untitled%201.webp)
+![Untitled](deepseek-ai/Untitled%201.png)
 
-## Step 3: Set up DeepSeek AI on TypingMind
+## Step 3: Use DeepSeek models on TypingMind
 
-- Go to Manage Models
-- Add Custom Models
-- Updates the following information to set up DeepSeek:
-  - **Name**: DeepSeek (or you can give it any name you want)
-  - **Endpoint**: [`https://api.deepseek.com/v1/chat/completions`](https://api.deepseek.com/v1/chat/completions)
-  - **Model ID**: `deepseek-chat` (deepseek-v3.2 without thinking) or `deepseek-reasoner` (deepseek-v3.2 with thinking mode)
-  - **Add Custom Headers**: `Authorization`: `Bearer {{YOUR_API_KEY}}` (enter the copied API key)
+- Go to [**typingmind.com**](http://typingmind.com)
+- Navigate the Models menu on the left sidebar → Switch to API key tab
+- Input the copied API key
 
-![Untitled](deepseek-ai/Untitled%202.webp)
+<Frame>
+  ![Api Key Tab](/images/api-key-tab.webp)
+</Frame>
 
-- Click Test
-- Click Update model
+After entering the API key for DeepSeek, switch back to Models tab → select DeepSeek → enable DeepSeek models you want to chat with.
 
-Now, you can choose the model and interact with it!
+<Frame>
+  ![Deepseek Model](/images/deepseek-model.webp)
+</Frame>

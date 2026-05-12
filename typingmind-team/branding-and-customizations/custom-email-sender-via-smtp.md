@@ -1,10 +1,12 @@
 ---
-title: 'Custom Email Sender via SMTP'
+title: "Custom Email Sender via SMTP"
 ---
 
 To set up a custom email sender, you will need to obtain SMTP credentials from an online service. There are several providers, both free and paid, that you can choose from.
 
-![Untitled](custom-email-sender-via-smtp/Untitled.png)
+<Frame>
+  ![Email Smtp](/images/email-smtp.webp)
+</Frame>
 
 ## Step 1: Choose an Email Service Provider
 
@@ -23,7 +25,7 @@ Optionally, Gmail provides a free SMTP server for all users. To use the Gmail SM
 
 - **Gmail SMTP server address**: smtp.gmail.com
 - **Gmail SMTP name**: Your full name
-- **Gmail SMTP username:** Your full Gmail address (e.g. you@gmail.com)
+- **Gmail SMTP username:** Your full Gmail address (e.g. [you@gmail.com](mailto:you@gmail.com))
 - **Gmail SMTP password:** The password that you use to log in to Gmail
 - **Gmail SMTP port (SSL):** 465
 
