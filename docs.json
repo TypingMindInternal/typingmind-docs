@@ -69,7 +69,8 @@
               "manage-and-connect-ai-models/local-ai-(llama-gpt4all-vicuna-falcon-etc.)",
               "manage-and-connect-ai-models/xai-(grok-ai)",
               "manage-and-connect-ai-models/jina-deep-research",
-              "manage-and-connect-ai-models/openai-fine-tuning-models"
+              "manage-and-connect-ai-models/openai-fine-tuning-models",
+              "manage-and-connect-ai-models/z-ai"
             ]
           },
           {
