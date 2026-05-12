@@ -11,35 +11,43 @@ TypingMind Team allows admins to preset API keys from their Admin Panel, which e
   Note: you must pre-set the API key from the Admin Panel, there’s no option for your users to enter them manually from the chat UI for now.
 </Note>
 
-# Use available models
+## Use available models
 
-We provide chat models from the following providers:
+Go to the **Models** menu →  switch to the **API key** tab → enter the API key for the provider of the models you want to use, such as:
 
-- [**OpenAI**:](/manage-and-connect-ai-models/openai-\(gpt-5-gpt-4.1\)) access GPT-4 Turbo, GPT-4, GPT-3.5, GPT-3.5 Turbo, etc.
-- [**Anthropic Claude**](/manage-and-connect-ai-models/anthropic-claude): access Claude 3 Opus/Sonnet/Haiku, Claude Instant, Claude 2, etc.
-- [**Google Gemini**](/manage-and-connect-ai-models/google-gemini-\(gemini-3.1-nano-banana\)): access Gemini 1.0 Pro, Gemini 1.5 Pro, Gemini 1.0 Ultra, Gemini Pro Vision.
+- **OpenAI:** GPT-5, GPT-4.5, GPT-4.1, etc.
+- **Anthropic Claude:** Claude Sonnet 4.5, Claude Haiku 4.5, etc.
+- **Google Gemini:** Gemini 3.1 Pro, Gemini 2.5 Flash, Nano Banana, etc.
+- **OpenRouter:** multiple models from different providers.
+- **DeepInfra:** Llama, Qwen, DeepSeek, etc.
+- **DeepSeek:** DeepSeek V4
+- **Groq:** Llama, Qwen, etc.
+- **Mistral:** Mistral Large, Magistral, Codestral, etc.
+- **Moonshot:** Kimi models, etc.
+- **Perplexity:** Sonar models
+- **xAI:** Grok models
+- **Z.ai:** GLM models, etc.
 
-By using these models:
+<Frame>
+  ![Org Api Key](/images/org-api-key.webp)
+</Frame>
 
-- Go to API keys under the General section
-- Enter the API key from Anthropic Claude (for Claude models), OpenAI (for GPT models) or Google Gemini (for Gemini models)
+Once you’ve set up your API keys, switch back to the Models tab and enable the models you want to use:
 
-![Untitled](set-up-api-keys/Untitled.webp)
+<Frame>
+  ![Org Use Model](/images/org-use-model.webp)
+</Frame>
 
-# Use with other models
+## Use with other models
 
-In case you want to use chat models not available within our provided list above, such as Azure OpenAI, Perplexity, Mistral, etc., you can completely set up these chat models on the Admin Panel by following the steps below:
+In case you want to use chat models not available within our provided list above, such as Azure OpenAI, Hugging Face, Ollama, etc. you can completely set up these chat models on the Admin Panel by following the steps below:
 
-- Click on "**Manage Models**" under the General section.
-- Scroll down to the bottom and click on "**Add Custom Models**".
+- Click on Models menu
+- On the top right corner, click on Add Custom Model
 - Set up the custom models for:
-  - [Azure OpenAI](https://docs.typingmind.com/chat-models-settings/use-azure-openai)
-  - [Mistral AI](https://docs.typingmind.com/chat-models-settings/use-with-mistral-ai)
-  - [Perplexity](https://docs.typingmind.com/chat-models-settings/use-with-perplexity-ai)
-  - [OpenRouter](https://docs.typingmind.com/chat-models-settings/use-openrouter-models)
 
 <Tip>
-  More guides can be found at [Manage and Connect AI Models](/manage-and-connect-ai-models)
+  Guides for custom model setup can be found at [Manage and Connect AI Models](/manage-and-connect-ai-models)
 </Tip>
 
 ![Untitled](set-up-api-keys/Untitled%201.webp)

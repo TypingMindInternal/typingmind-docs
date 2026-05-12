@@ -1,18 +1,18 @@
 ---
-title: 'Connect with your Notion pages'
+title: "Connect with your Notion pages"
 ---
 
-When setting up a **TypingMind Custom** chat instance, you can seamlessly connect your Notion database. This integration allows the AI chatbot to learn from your specific content and make its responses more relevant and personalized to your company's needs. 
+When setting up a **TypingMind Custom** chat instance, you can seamlessly connect your Notion database. This integration allows the AI chatbot to learn from your specific content and make its responses more relevant and personalized to your company's needs.
 
 By leveraging your Notion pages, your AI chatbot will deliver context-aware answers and efficiently handle detailed queries related to your business, team, or community.
 
-## What is TypingMind Custom?
+## What is TypingMind Teams?
 
-TypingMind Custom is a custom-branded, custom-built version of [TypingMind](/typingmind-team/branding-and-customizations/connect-with-your-notion-pages). You can create and customize a Chat instance that works exactly like [TypingMind.com](http://typingmind.com/) under your own domain. You can offer and control the accessibility of the chat interface to your team members, community, or customers.
+TypingMind Teams is a custom-branded, custom-built version of [TypingMind](/typingmind-team/branding-and-customizations/connect-with-your-notion-pages). You can create and customize a Chat instance that works exactly like [TypingMind.com](http://typingmind.com/) under your own domain. You can offer and control the accessibility of the chat interface to your team members, community, or customers.
 
 By signing up, you will have access to a chat interface to interact with AI models and an Admin Panel to manage every interaction and element on the chat interface.
 
-With TypingMind Custom, Admins (who can log into Admin Panel) have the options to:
+With TypingMind Teams, Admins (who can log into Admin Panel) have the options to:
 
 - Preset API keys (no license key needed) so your team members don’t need to re-enter API key from chat UI
 - Create pre-built Prompts, Plugins, AI Agents
@@ -24,7 +24,7 @@ With TypingMind Custom, Admins (who can log into Admin Panel) have the options t
 
 ## Why should you integrate Notion pages on TypingMind?
 
-While AI models can answer general questions, your company will have specific needs and data that can’t be covered without customization. 
+While AI models can answer general questions, your company will have specific needs and data that can’t be covered without customization.
 
 Integrating Notion pages as a training source enables your AI chatbot to understand and respond with precise, relevant, and personalized answers based on your Notion data. This makes it especially powerful for use cases like internal knowledge bases, customer support, project tracking, and more.
 
@@ -49,8 +49,7 @@ Integrating Notion pages as a training source enables your AI chatbot to underst
 ![image.png](connect-with-your-notion-pages/image%202.png)
 
 <aside>
-📌
+  📌
 
-The quality and relevance of the chatbot’s responses will vary depending on the AI model's performance and capabilities. It's recommended to experiment with different AI models to find the one that interacts best with your training data and meets your needs.
-
+  The quality and relevance of the chatbot’s responses will vary depending on the AI model's performance and capabilities. It's recommended to experiment with different AI models to find the one that interacts best with your training data and meets your needs.
 </aside>

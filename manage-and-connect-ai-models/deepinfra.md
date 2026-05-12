@@ -24,22 +24,21 @@ Go to [https://deepinfra.com/](https://deepinfra.com/) and Log into DeepInfra vi
 
 ![Untitled](deepinfra/Untitled%202.png)
 
-## Step 3: Set up DeepInfra on TypingMind
+## Step 3: Use DeepInfra on TypingMind
 
-You will need to set up DeepInfra as a custom model on TypingMind. Here’s how:
+- Go to [**typingmind.com**](http://typingmind.com)
+- Navigate the Models menu on the left sidebar → Switch to API key tab
+- Input the copied API key for DeepInfra.
 
-- Go to **Manage Models**
-- **Add Custom Models**
-- Updates the following information to set up DeepInfra models:
-  - **Name**: LLaMA 3 70B via DeepInfra (or you can give it any name you want)
-  - **Endpoint**: [`https://api.deepinfra.com/v1/openai/chat/completions`](https://api.deepinfra.com/v1/openai/chat/completions)
-  - **Model ID**: `meta-llama/Meta-Llama-3-70B-Instruct` or you can find all model IDs [here](https://deepinfra.com/models)
-  - **Add Custom Headers**: `Authorization`: `Bearer {{YOUR_API_KEY}}` (enter the copied API key)
+<Frame>
+  ![Api Key Tab](/images/api-key-tab.webp)
+</Frame>
 
-![Untitled](deepinfra/Untitled%203.png)
+After entering the API key for DeepInfra, switch back to Models tab → select DeepInfra → enable DeepInfra models you want to chat with.
 
-- Click Test, If it is successful, there's a message that says, 'Nice, the endpoint is working!’
-- Click Update Model
+<Frame>
+  ![Deepinfra Model](/images/deepinfra-model.webp)
+</Frame>
 
 ## Step 4: Start chatting!
 

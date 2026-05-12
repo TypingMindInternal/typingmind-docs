@@ -26,20 +26,25 @@ Use Google Gemini 2.5 Pro, Gemini 2.5 Flash, Nano Banana, etc. on TypingMind!
 
 ![image.webp](feature-list/image%202.webp)
 
-### 🟢 Use with Custom Models (Open-source LLMs, Local LLMs)
+### 🟢 Mistral, Grok, DeepSeek, Kimi, and more!
 
-Besides our available models (GPT, Claude, Gemini models), you can also use other open-source or local AI models on TypingMind such as:
+Besides GPT, Claude, Gemini models, you can also use other AI models from other AI providers such as:
 
-- Meta LLaMA
-- Mistral AI
+- OpenRouter
+- DeepInfra
 - DeepSeek
-- Cohere: Command R
+- Groq
+- Mistral
+- Moonshot
 - Perplexity
-- and more. Find out [here](https://docs.typingmind.com/chat-models-settings)
+- xAI
+- [**Z.ai**](http://Z.ai)
 
-![image.webp](feature-list/image%203.webp)
+Or if the model you are using is not available in the model list, you can **add custom models** easily on TypingMind as long as it's served via a compatible API endpoint.
 
-![image.webp](feature-list/image%204.webp)
+<Frame>
+  ![Or Model](/images/or-model.webp)
+</Frame>
 
 ## Model Configuration
 

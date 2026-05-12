@@ -4,42 +4,30 @@ title: "Perplexity AI"
 
 It’s easy to set up Typing Mind for using with Perplexity AI ([https://www.perplexity.ai/](https://www.perplexity.ai/)) Here is a quick guide.
 
-<aside>
-  💡 Perplexity AI model is different from the Perplexity Plugin:
+<Tip>
+  Perplexity AI model is different from the Perplexity Plugin:
 
-  * **Perplexity model** optimizes for the entire conversation, and answers user queries effectively using Perplexity datasets.
-  * **Perplexity plugin** optimizes searching information during the conversation to get up-to-date responses. You can enable or disable it whenever you want or use it with other AI models such as GPT-4o, or Claude to enhance the AI responses.
-</aside>
+  - **Perplexity model** optimizes for the entire conversation, and answers user queries effectively using Perplexity datasets.
+  - **Perplexity plugin** optimizes searching information during the conversation to get up-to-date responses. You can enable or disable it whenever you want or use it with other AI models such as GPT-4o, or Claude to enhance the AI responses.
+</Tip>
 
 ## Get a Perplexity AI account
 
 Go to [https://www.perplexity.ai/](https://www.perplexity.ai/) and sign up for an account. Then go to  [https://www.perplexity.ai/settings/api](https://www.perplexity.ai/settings/api) to get your API key.
 
-![Untitled](perplexity-ai/Untitled.webp)
+![Untitled](perplexity-ai/Untitled.png)
 
 Note that you may need to **top-up your credit** to use the API.
 
-## Add a custom model in Typing Mind
+## Use Perplexity models on Typing Mind
 
-Go to [typingmind.com](http://typingmind.com) and create a new Custom Model as follow:
+- Go to [**typingmind.com**](http://typingmind.com)
+- Navigate the Models menu on the left sidebar → Switch to API key tab
+- Input the copied API key for Perplexity.
 
-- Click **Add Custom Model**
-- Enter any name you want, for example “Perplexity”
-- Enter the exact endpoint from the [API document](https://docs.perplexity.ai/reference/post_chat_completions): `https://api.perplexity.ai/chat/completions`
-- Enter the Model ID and context length, for example:
-  - `llama-3-sonar-small-32k-chat`, `llama-3-sonar-large-32k-chat`, `llama-3-sonar-large-32k-online`, `sonar-reasoning`
-  - Find more model ID here: [https://docs.perplexity.ai/guides/model-cards](https://docs.perplexity.ai/guides/model-cards)
-- Click “**Add Custom Headers**” and add the following header:
-
-`Authorization`: `Bearer your_API_key`
-
-- Click “**Test**” to verify the information is correct
-- Click **Add Model**.
-- Logo URL (suggested): [https://seeklogo.com/images/P/perplexity-ai-logo-13120A0AAE-seeklogo.com.webp](https://seeklogo.com/images/P/perplexity-ai-logo-13120A0AAE-seeklogo.com.webp)
-
-Here is what it looks like:
-
-![image.webp](perplexity-ai/image.webp)
+<Frame>
+  ![Api Key Tab](/images/api-key-tab.webp)
+</Frame>
 
 <Warning>
   **Quick Troubleshooting**
@@ -51,10 +39,14 @@ Here is what it looks like:
   If you see errors like "…After the (optional) system message(s), user and assistant roles should be alternating", please enable **Support System Role** in the custom model settings.
 </Warning>
 
-![Untitled](perplexity-ai/Untitled%201.webp)
+After entering the API key for Perplexity, switch back to Models tab → select Perplexity → enable Perplexity models you want to chat with.
+
+<Frame>
+  ![Pplx Model](/images/pplx-model.webp)
+</Frame>
 
 ## Use Perplexity AI model
 
 You can now select and use Perplexity model from the dropdown menu.
 
-![Untitled](perplexity-ai/Untitled%202.webp)
+![Untitled](perplexity-ai/Untitled%202.png)

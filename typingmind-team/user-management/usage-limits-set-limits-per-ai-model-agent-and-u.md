@@ -1,18 +1,20 @@
 ---
-title: 'Usage Limits: Set Limits Per AI Model, Agent, and User'
+title: "Usage Limits: Set Limits Per AI Model, Agent, Plugin and User"
 ---
 
-Managing AI resources effectively for your chat instance is more important than ever. 
+Managing AI resources effectively for your chat instance is more important than ever.
 
-That’s why we've revamped our Usage Limits system which provides you with better control over your AI resources! 
+That’s why we've revamped our Usage Limits system which provides you with better control over your AI resources!
 
-This guide will walk you through the different types of usage limits you can set - **Global Limits**, **Model Limits**, **AI Agent Limits**, and **User Limits -** and how to implement them step by step.
+This guide will walk you through the different types of usage limits you can set - **Global Limits**, **Model Limits**, **AI Agent Limits**, **Plugin Limits** and **User Limits -** and how to implement them step by step.
 
-![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image.png)
+<Frame>
+  ![Usage Limit](/images/usage-limit.webp)
+</Frame>
 
-# Why Usage and Limits Matter?
+## Why Usage and Limits Matter?
 
-With TypingMind, you can set up multiple AI Agents and prompts, enabling your team to interact with various AI models. 
+With TypingMind, you can set up multiple AI Agents and prompts, enabling your team to interact with various AI models.
 
 While this flexibility enhances productivity, it also requires careful management to control API costs. Setting usage limits helps you:
 
@@ -20,46 +22,42 @@ While this flexibility enhances productivity, it also requires careful managemen
 - **Optimize costs:** keep expenses in check by regulating usage.
 - **Enhance fairness:** distribute AI capabilities evenly across users or departments
 
-<aside>
-💡 This is particularly beneficial for resellers, who can create different limit tiers for various user groups based on their needs. 
-
-More details on our [Reseller Program](https://custom.typingmind.com/reseller)
-
-</aside>
-
-# How Usage Limits work
+## How Usage Limits work
 
 Basically, you can set limits based on:
 
 - **Message limits:** the number of messages a user or group can send.
 - **Character limits per message:** the maximum number of characters allowed in a single message.
 - **Character limits per time period:** the total number of characters a user or group can send within a specific time frame.
+- **Tokens limit per time period:** the number of tokens can be used within a specific time framce
 
 These limits are managed via **Limit Groups**.
 
 ![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%201.png)
 
-<aside>
-💡 **Using Limit Groups allows admins to reuse the limits you've already set up**. 
+<Tip>
+  **Using Limit Groups allows admins to reuse the limits you've already set up**.
 
-Once you've created a Limit Group with specific restrictions, you can apply that group across different settings - whether for different AI models, agents, or user groups - without having to redefine the limits each time.
+  Once you've created a Limit Group with specific restrictions, you can apply that group across different settings - whether for different AI models, agents, or user groups - without having to redefine the limits each time.
+</Tip>
 
-</aside>
-
-You can **apply the limits from your Limit Groups** in four different levels:
+You can **apply the limits from your Limit Groups** as follows:
 
 1. **Global Limits:** apply limits to all users or specific groups across the entire chat system.
 2. **Model Limits:** set limits for each specific AI model, which can apply to all users or specific user groups.
 3. **AI Agent Limits:** apply limits to individual AI Agents for all users or specific groups.
-4. **User Limits:** set limits for individual users.
+4. **Plugin limits:** apply limits to Plugins for all users or specific user groups.
+5. **User Limits:** set limits for individual users.
 
-![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image.png)
+<Frame>
+  ![Usage Limit](/images/usage-limit.webp)
+</Frame>
 
 Let’s see how to set up these limits for your chat instance!
 
-# A step-by-step to set up usage limits
+## A step-by-step to set up usage limits
 
-## Step 1: Set up User Groups
+### Step 1: Set up User Groups
 
 Before setting limits, it's helpful to organize users into different groups. This allows you to apply specific limits to different categories of users.
 
@@ -67,13 +65,13 @@ Before setting limits, it's helpful to organize users into different groups. Thi
 - Click to Create a new user group
 - Add members to your created group
 
-You can view more details guideline on how to create user groups here: 
+You can view more details guideline on how to create user groups here:
 
 [Create and manage User Groups](/typingmind-team/user-management/create-and-manage-user-groups)
 
-![image.png](../getting-started/getting-started-with-typingmind-team-(cloud-host)/image%2020.png)
+![image.png](../getting-started/getting-started-with-typingmind-team-\(cloud-host\)/image%2020.png)
 
-## Step 2: Create Limit Groups
+### Step 2: Create Limit Groups
 
 - Within your Admin Panel, go to Usage Limits within Access & Limits menu
 - Scroll down to Limit Groups
@@ -82,36 +80,39 @@ You can view more details guideline on how to create user groups here:
 ![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%202.png)
 
 - Define the limits for your group by setting:
-    - Message Limits
-    - Character Limits Per Message
-    - Character Limits Per Time Period
-    
-    (If a particular limit is not needed, you can leave that field blank)
-    
+  - Message Limits
+  - Character Limits Per Message
+  - Character Limits Per Time Period (If a particular limit is not needed, you can leave that field blank)
+  - Token limits per time period
 
 For example, you can create different limit groups as follows:
 
 - **Basic Use**: 50 messages can be sent per 3 hours - suitable for users who need minimal interaction with AI, such as those who send fewer messages or shorter content.
 - **In-depth Use**: 200 messages can be sent per 3 hours - for users who require extensive AI interactions, allow sending more messages and longer content.
 
-![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%203.png)
+<Frame>
+  ![Limit Group Admin](/images/limit-group-admin.webp)
+</Frame>
 
 These Limit Groups are reusable, which means once you've created them, you can apply them to different AI Models, AI Agents, or individual Users without needing to redefine the limits each time.
 
-## Step 3: Apply Usage Limits
+### Step 3: Apply Usage Limits
 
 You can now apply the limits in the following ways:
 
 - Global limits
 - Model limits
 - AI Agent limits
+- Plugin limits
 - User limits
 
-Go to **User Management** —> **Usage Limits** to set up the limits.
+Go to **User Management** → **Usage Limits** to set up the limits.
 
-![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%204.png)
+<Frame>
+  ![Usage Limit](/images/usage-limit.webp)
+</Frame>
 
-### 1. Global Limits
+#### 1. Global Limits
 
 To apply limits across all users or specific groups:
 
@@ -123,7 +124,7 @@ To apply limits across all users or specific groups:
 
 ![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%205.png)
 
-### 2. Model Limits
+#### 2. Model Limits
 
 To apply limits to specific AI models:
 
@@ -136,14 +137,13 @@ To apply limits to specific AI models:
 
 ![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%206.png)
 
-### 2. AI Agent Limits
+#### 3. AI Agent Limits
 
 To restrict usage per AI Agent:
 
 - Click on **AI Agent Limits**.
 - Select the AI Agent you want to restrict.
 - Choose a Limit Group.
-
 - Apply these limits to the relevant user group.
 
 **For example:** If the Support Agent is primarily used by the "Support Team" and less by the "Marketing Team," you can set different limits for this agent tailored to each group's usage needs:
@@ -153,7 +153,20 @@ To restrict usage per AI Agent:
 
 ![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%207.png)
 
-### 3. User Limits
+#### 4. Plugin Limits
+
+To set limits for plugins:
+
+- Click on Plugin Limits
+- Select a plugin you want to set limit
+- Choose a Limit Group 
+- Apply these limits to the relevant user group
+
+<Frame>
+  ![Plugin Limit](/images/plugin-limit.webp)
+</Frame>
+
+#### 3. User Limits
 
 To set limits for individual users:
 
@@ -164,15 +177,15 @@ To set limits for individual users:
 
 ![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%208.png)
 
-## Step 4: Monitor Limits in the Chat Interface
+### Step 4: Monitor Limits in the Chat Interface
 
-Users who have restrictions applied will see a notification below the message area stating, "The current chat may come with limitations. **See details**." 
+Users who have restrictions applied will see a notification below the message area stating, "The current chat may come with limitations. **See details**."
 
 You can hide this notification via the Chat Features section within the Portal settings if you want.
 
 ![image.png](usage-limits-set-limits-per-ai-model-agent-and-u/image%209.png)
 
-# Best Practices
+## Best Practices
 
 Some best practices so you can effectively manage AI usage:
 
@@ -180,7 +193,7 @@ Some best practices so you can effectively manage AI usage:
 - **Review regularly**: regularly review and update limits to align with changing needs and usage patterns.
 - **Adapt to new AI Models**: test new AI models to evaluate their performance and cost-effectiveness, then adjust your usage limits accordingly if you think the new model is a better fit for your team.
 
-# Notes
+## Notes
 
 - The old **Model Usage Limits (Legacy)** will still be available, but we recommend moving your limit settings to the new Usage Limits system for better control and management.
 - Currently, if you want to set Model Availability for specific user groups without using limit groups, you can scroll down to **Model Usage Limits (Legacy)** to adjust availability. We will be updating this option within the new Usage Limits system soon!

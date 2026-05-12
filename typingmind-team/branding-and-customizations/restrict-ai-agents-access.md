@@ -1,12 +1,12 @@
 ---
-title: 'Restrict AI Agents Access'
+title: "Restrict AI Agents Access"
 ---
 
-With TypingMind Custom, you can restrict the visibility and usage of specific AI Agents for certain groups of users. 
+With TypingMind Custom, you can restrict the visibility and usage of specific AI Agents for certain groups of users.
 
 Here's how to do that:
 
-## **Step 1: Create user groups for your team members**
+## Step 1: Create user groups for your team members
 
 Creating Groups for your team members allows you to categorize them into different groups of users, for example, Private group, Public group, BOD group, etc.
 
@@ -16,11 +16,11 @@ Please follow these steps to create groups for your members:
 - Navigate to the **Groups** section under **User Management**.
 - Click on **Add New Group**.
 
-![image.png](../getting-started/getting-started-with-typingmind-team-(cloud-host)/image%2020.png)
+![image.png](../getting-started/getting-started-with-typingmind-team-\(cloud-host\)/image%2020.png)
 
 - Enter a **Group Name** that reflects the purpose or role of the group.
-- *(Optional)* Enable **Admin Access** for this group if they can have access to the admin panel.
-    - If you enable this option, ensure you assign appropriate **Admin Roles** to the group. These roles should align with the permissions you’ve defined in the [**Roles and Permissions**](/typingmind-team/user-management/roles-and-permissions) settings.
+- _(Optional)_ Enable **Admin Access** for this group if they can have access to the admin panel.
+  - If you enable this option, ensure you assign appropriate **Admin Roles** to the group. These roles should align with the permissions you’ve defined in the [**Roles and Permissions**](/typingmind-team/user-management/roles-and-permissions) settings.
 
 ![image.png](restrict-model-access/image.png)
 
@@ -33,14 +33,11 @@ Please follow these steps to create groups for your members:
 
 ![image.png](restrict-model-access/image%202.png)
 
-<aside>
-💡
+<Tip>
+  Learn more on [User Groups](/typingmind-team/user-management/create-and-manage-user-groups)
+</Tip>
 
-Learn more on [User Groups](/typingmind-team/user-management/create-and-manage-user-groups)
-
-</aside>
-
-## **Step 2: Assign user groups to a specific AI Agent**
+## Step 2: Assign user groups to a specific AI Agent
 
 You can manage the AI Agents visibility and usage limit using User Groups following the below guidelines:
 
@@ -52,7 +49,7 @@ You can manage the AI Agents visibility and usage limit using User Groups follow
 ![image.png](restrict-ai-agents-access/image.png)
 
 - Select the AI Agents you want to set the limit
-- Click to **Limit Group** —> **Add New Limit Group** —> Add limits for messages and characters
+- Click to **Limit Group** —\> **Add New Limit Group** —\> Add limits for messages and characters
 
 ![image.png](restrict-model-access/image%205.png)
 
@@ -65,24 +62,23 @@ You can manage the AI Agents visibility and usage limit using User Groups follow
 - Go to **AI Agent** section
 - Click **Edit** your current AI Agent or **Create new AI Agent**
 - Navigate the Usage section within AI Agent settings:
-    - **Set up Visibility**: choose the user group that can access to the AI Agent
-    - **Set up Usage limits**: create a new limit group or select from existing limit groups as Option 1 to manage messages and characters users can send while using the AI Agent.
+  - **Set up Visibility**: choose the user group that can access to the AI Agent
+  - **Set up Usage limits**: create a new limit group or select from existing limit groups as Option 1 to manage messages and characters users can send while using the AI Agent.
 
-<aside>
-📌
+<Tip>
+  📌
 
-For example, if you want only Marketing group to use the Marketing Expert AI Agent, here are the steps:
+  For example, if you want only Marketing group to use the Marketing Expert AI Agent, here are the steps:
 
-- Add marketing team members to a user group “Marketing”
-- Assign the "Marketing" group to the "Marketing Expert" AI Agent:
+  - Add marketing team members to a user group “Marketing”
+  - Assign the "Marketing" group to the "Marketing Expert" AI Agent:
     - Set its visibility to the "Marketing" group.
     - Apply usage limits as needed for messages and characters.
 
-![image.png](restrict-ai-agents-access/image%202.png)
+  ![image.png](restrict-ai-agents-access/image%202.png)
+</Tip>
 
-</aside>
-
-## **Use Cases**
+## Use Cases
 
 ### **Build a Personalized Chatbot for Each Role / Department in a Company**
 
@@ -105,7 +101,3 @@ TypingMind Team can also be used to control the visibility of AI Agents between:
 - Visitors / Guests and Team members
 
 Visitors could be added into “Visitors” group and have access only to basic AI Agents while Team members who are in the “Member” group can gain access to more advanced AI Agents.
-
-This is also useful if you want to turn your chatbot into a Customer Support bot that allows visitors to use the Customer Support bot only for their inquiries.
-
-You can also restrict users access to [certain prompts](https://custom.typingmind.com/features-old/limit-prompt-access) and [certain chat models](https://you%20can%20also%20restrict%20users%20access%20to%20certain%20prompts%20and%20ai%20characters/).

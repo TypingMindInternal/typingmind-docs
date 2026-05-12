@@ -57,11 +57,14 @@ You can enable the option Automatic recharge so OpenAI can charge you automatica
 
 ## Step 4: Enter your API key to TypingMind
 
-- Go to [typingmind.com](http://typingmind.com)
-- Navigate the Settings menu → API key section
+- Go to [**typingmind.com**](http://typingmind.com)
+- Navigate the Models menu on the left sidebar → Switch to API key tab
 - Input the copied API key
+- Now you can use the available OpenAI models on TypingMind (GPT-5.4, Codex, GPT-5)
 
-![Image 5 1](/images/image-5-1.png)
+<Frame>
+  ![Api Key Tab](/images/api-key-tab.webp)
+</Frame>
 
 - Now you can use the available OpenAI models on TypingMind (GPT-5.4, Codex, GPT-5)
 

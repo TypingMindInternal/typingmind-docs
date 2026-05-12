@@ -83,7 +83,7 @@ Here’s a typical RAG workflow on TypingMind:
 | **Setup complexity** | Simple | More complex |
 | **Cost** | Higher, due to token usage | Lower, as fewer tokens are consumed |
 
-## **Which options should you use?**
+## Which options should you use?
 
 The choice between training files and a knowledge base depends on your requirements:
 
