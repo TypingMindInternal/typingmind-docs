@@ -1,12 +1,12 @@
 ---
-title: 'Privacy Policy'
+title: "Privacy Policy"
 ---
 
 **Last Updated:** March 30, 2026
 
 ## 1. Introduction
 
-Your privacy is critically important to us. This privacy policy explains how Devuap LLC acting as the personal data controller ("we," "us," or "our"), collects, processes, and protects your personal data when you use the TypingMind application, including personal license products, self-hosted versions, TypingMind Cloud Services, our website ([typingmind.com](http://typingmind.com/)), and related services (collectively, the "Services").
+Your privacy is critically important to us. This privacy policy explains how [typingmind.com](http://typingmind.com) acting as the personal data controller ("we," "us," or "our"), collects, processes, and protects your personal data when you use the TypingMind application, including personal license products, self-hosted versions, TypingMind Cloud Services, our website ([typingmind.com](http://typingmind.com)), and related services (collectively, the "Services").
 
 We recognize trust as a key value of our business practice. We have designed TypingMind to give you maximum control over your data, offering a fully local, privacy-first experience by default, alongside convenient, opt-in cloud features.
 
@@ -67,7 +67,7 @@ Since we operate worldwide, we may transfer collected data outside your country 
 We may share your information with:
 
 - **Service Providers (Subprocessors):** We retain trusted third-party providers for hosting, cloud infrastructure, analytics, crash reporting, and payment processing. They may use the information solely in conjunction with the specific services they provide for us. For a complete, up-to-date list of our providers, please refer to our Subprocessors List.
-- **For Legal Purposes:** We may disclose information to respond to duly authorized requests of police and governmental authorities, comply with any law or court order, investigate fraud or security threats, or protect the rights and safety of Devuap LLC and our users.
+- **For Legal Purposes:** We may disclose information to respond to duly authorized requests of police and governmental authorities, comply with any law or court order, investigate fraud or security threats, or protect the rights and safety and our users.
 
 ## 8. Cookies
 
