@@ -468,6 +468,11 @@
   },
   "redirects": [
     {
+      "source": "/getting-started/compare-typingmind-plans",
+      "destination": "/quickstart/typingmind-license-plans",
+      "permanent": true
+    },
+    {
       "source": "/chat-models-settings",
       "destination": "/manage-and-connect-ai-models",
       "permanent": true
