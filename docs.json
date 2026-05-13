@@ -68,9 +68,9 @@
               "manage-and-connect-ai-models/aws-bedrock-anthropic",
               "manage-and-connect-ai-models/local-ai-(llama-gpt4all-vicuna-falcon-etc.)",
               "manage-and-connect-ai-models/xai-(grok-ai)",
+              "manage-and-connect-ai-models/z.ai",
               "manage-and-connect-ai-models/jina-deep-research",
-              "manage-and-connect-ai-models/openai-fine-tuning-models",
-              "manage-and-connect-ai-models/z-ai"
+              "manage-and-connect-ai-models/openai-fine-tuning-models"
             ]
           },
           {
@@ -569,8 +569,8 @@
     "drilldown": false
   },
   "logo": {
-    "light": "/images/tmlogo-light.webp",
-    "dark": "/images/tmlogo-dark.webp",
+    "light": "/images/logo-light.svg",
+    "dark": "/images/logo-dark.svg",
     "href": "https://www.typingmind.com/?utm_source=docs"
   },
   "navbar": {

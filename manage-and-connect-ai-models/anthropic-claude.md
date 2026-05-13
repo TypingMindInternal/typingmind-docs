@@ -33,6 +33,8 @@ Go to [Billing](https://console.anthropic.com/settings/billing) section to top u
 
 ![Api Key Tab](/images/api-key-tab.webp)
 
+After entering the API key for Anthropic, switch back to Models tab → select Anthropic as the AI provider → enable Claude models you want to chat with.
+
 ![image.png](anthropic-claude/image%204.png)
 
 ## Advanced settings
