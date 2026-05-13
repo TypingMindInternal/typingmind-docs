@@ -268,6 +268,7 @@
             ]
           },
           "referral-program",
+          "referral-program",
           {
             "group": "Security & Compliance",
             "icon": "shield-half",
@@ -334,12 +335,7 @@
           {
             "group": "Get started",
             "icon": "rocket",
-            "pages": [
-              "typingmind-team/getting-started/terminology",
-              "typingmind-team/getting-started/set-up-api-keys",
-              "typingmind-team/getting-started/use-markdown",
-              "typingmind-team/getting-started/control-the-response-quality"
-            ]
+            "pages": []
           },
           {
             "group": "Branding & Customizations",
