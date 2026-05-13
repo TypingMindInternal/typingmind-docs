@@ -12,7 +12,7 @@ We recognize trust as a key value of our business practice. We have designed Typ
 
 If you have any doubts or questions, please contact us at [**support@typingmind.com**](mailto:support@typingmind.com).
 
-## 2. The TypingMind Architecture: Local vs. Cloud
+## 2. Local vs. Cloud
 
 How your data is handled depends entirely on how you choose to use the app:
 

@@ -1,14 +1,15 @@
 ---
-title: 'End-User License Agreement'
+title: "End-User License Agreement"
 ---
 
-Last updated: March 08, 2026
+```text wrap
+Last updated: April 17, 2026
 
 Please read this End-User License Agreement ("Agreement") carefully before clicking the "Pay" button, downloading, or using TypingMind ("Application").
 
 By using the Application, you are agreeing to be bound by the terms and conditions of this Agreement.
 
-This Agreement is a legal agreement between you (either an individual or a single entity) and Devuap LLC ("we," "us," or "our"), and it governs your use of the Application made available to you by us.
+This Agreement is a legal agreement between you (either an individual or a single entity) and typingmind.com ("we," "us," or "our"), and it governs your use of the Application made available to you by us.
 
 If you do not agree to the terms of this Agreement, do not click on the "Pay" button and do not download or use the Application.
 
@@ -149,13 +150,13 @@ To the maximum extent permitted by applicable law, any cause of action or claim 
 
 ### For Non-Consumer Users:
 
-Any dispute, controversy, or claim arising out of or relating to this Agreement, or the breach, termination, or invalidity thereof, shall be settled by binding arbitration in accordance with the arbitration rules of the United States. The language of arbitration shall be English.
+Any dispute, controversy, or claim arising out of or relating to this Agreement, or the breach, termination, or invalidity thereof, shall be settled by binding arbitration in accordance with the arbitration rules of the Singapore International Arbitration Centre.
 
 **CLASS ACTION WAIVER:** You agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated, or representative action. You waive any right to participate in a class action lawsuit or class-wide arbitration against us.
 
 ### For Consumers:
 
-A Consumer may take advantage of dispute resolution methods which are alternative to court proceedings (ADR), in particular through mediation, conciliation, or arbitration. If applicable, a Consumer within the European Union may also take advantage of out-of-court means of considering complaints and seeking claims by submitting his or her complaint through the EU ODR online platform available at [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr). If the Consumer does not wish to take advantage of ADR or ODR, any disputes arising out of this Agreement will be settled by a competent court with jurisdiction determined according to the rules prescribed by legal acts applicable to the Consumer.
+A Consumer may take advantage of dispute resolution methods which are alternative to court proceedings (ADR), in particular through mediation, conciliation, or arbitration. If applicable, a Consumer within the European Union may also take advantage of out-of-court means of considering complaints and seeking claims by submitting his or her complaint through the EU ODR online platform available at https://ec.europa.eu/consumers/odr. If the Consumer does not wish to take advantage of ADR or ODR, any disputes arising out of this Agreement will be settled by a competent court with jurisdiction determined according to the rules prescribed by legal acts applicable to the Consumer.
 
 ---
 
@@ -193,7 +194,7 @@ You agree to comply with all applicable export and re-export control laws and re
 
 ## Governing Law
 
-The laws of Wyoming, United States, excluding its conflicts of law rules, shall govern this Agreement and your use of the Application. Your use of the Application may also be subject to other local, state, national, or international laws. Where mandatory consumer protection laws of your jurisdiction provide you with a higher level of protection, those laws shall apply to the extent required.
+The laws of Singapore, excluding its conflicts of law rules, shall govern this Agreement and your use of the Application. Your use of the Application may also be subject to other local, state, national, or international laws. Where mandatory consumer protection laws of your jurisdiction provide you with a higher level of protection, those laws shall apply to the extent required.
 
 ---
 
@@ -208,3 +209,4 @@ If you have any questions about this Agreement, please contact us at: **support@
 This Agreement constitutes the entire agreement between you and us regarding your use of the Application and supersedes all prior and contemporaneous written or oral agreements between you and us.
 
 You may be subject to additional terms and conditions that apply when you use or purchase other services provided by us, which we will provide to you at the time of such use or purchase.
+```
