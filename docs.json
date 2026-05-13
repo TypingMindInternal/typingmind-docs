@@ -468,6 +468,11 @@
   },
   "redirects": [
     {
+      "source": "/chat-models-settings",
+      "destination": "/manage-and-connect-ai-models",
+      "permanent": true
+    },
+    {
       "source": "/4d16fb320c2241308a3deeab08633731",
       "destination": "/typingmind-team/user-management/access-control:-private-and-authorized-mode"
     },
