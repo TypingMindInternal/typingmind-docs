@@ -2,9 +2,6 @@
 title: "Terms of Service"
 ---
 
-# Terms of Service
-
-```
 Last updated: April 20, 2026
 
 1. Introduction
@@ -104,4 +101,3 @@ A "Consumer" means any natural person who enters into transactions for purposes 
 16.6 Amendments: We reserve the right to modify these Terms at any time due to legal, technical, or operational reasons. We will notify you of material changes through the Services. Continued use of the Services after changes become effective constitutes acceptance.
 16.7 Assignment: You may not assign or transfer your rights under these Terms without our prior written consent. We may freely assign our rights and obligations.
 16.8 Entire Agreement: These Terms of Service constitute the entire agreement between you and us regarding the Services and supersede all prior agreements.
-```
