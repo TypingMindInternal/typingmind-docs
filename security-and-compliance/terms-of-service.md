@@ -2,8 +2,6 @@
 title: "Terms of Service"
 ---
 
-# Terms of Service
-
 ```text wrap
 Last updated: April 20, 2026
 
