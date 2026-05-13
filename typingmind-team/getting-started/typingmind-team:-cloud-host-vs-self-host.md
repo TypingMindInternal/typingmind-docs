@@ -1,5 +1,5 @@
 ---
-title: "TypingMind Team: Cloud-host vs Self-host"
+title: "TypingMind Teams: Cloud-host vs Self-host"
 ---
 
 |  | **Cloud-hosted** | **Self-hosted** |

@@ -1,5 +1,5 @@
 ---
-title: 'Self-host TypingMind Team'
+title: "Self-host TypingMind Teams"
 ---
 
 Self-host Typing Mind Team allows you to host TypingMind Team on your infrastructure. 

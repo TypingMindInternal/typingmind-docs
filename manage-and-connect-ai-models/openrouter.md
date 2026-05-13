@@ -41,7 +41,7 @@ Go to **Account** \> **Settings**, scroll down to the credit section to **Add Cr
 After entering the API key for OpenRouter, switch back to Models tab → select OpenRouter → enable OpenRouter models you want to chat with.
 
 <Frame>
-  ![Or Model 1](/images/or-model-1.webp)
+  ![Or Model](/images/or-model.webp)
 </Frame>
 
 ## 5. Use the model

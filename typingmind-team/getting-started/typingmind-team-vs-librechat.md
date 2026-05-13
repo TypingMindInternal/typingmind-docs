@@ -1,5 +1,5 @@
 ---
-title: "TypingMind Team vs LibreChat"
+title: "TypingMind Teams vs LibreChat"
 description: "A detailed feature comparison between TypingMind Custom and LibreChat."
 ---
 

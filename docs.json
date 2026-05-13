@@ -267,6 +267,7 @@
               "cloud-sync-and-backup/export-import-data"
             ]
           },
+          "referral-program",
           {
             "group": "Security & Compliance",
             "icon": "shield-half",
@@ -327,25 +328,17 @@
         ]
       },
       {
-        "tab": "TypingMind Team",
+        "tab": "TypingMind Teams",
         "pages": [
           "typingmind-teams",
           {
             "group": "Get started",
             "icon": "rocket",
             "pages": [
-              "typingmind-team/getting-started/compare-typingmind-team-plans",
-              "typingmind-team/getting-started/getting-started-with-typingmind-team-(cloud-host)",
-              "typingmind-team/getting-started/typingmind-team:-cloud-host-vs-self-host",
               "typingmind-team/getting-started/terminology",
               "typingmind-team/getting-started/set-up-api-keys",
-              "typingmind-team/getting-started/self-host-typingmind-team",
               "typingmind-team/getting-started/use-markdown",
-              "typingmind-team/getting-started/control-the-response-quality",
-              "typingmind-team/getting-started/typingmind-team-vs.-chatgpt-for-team",
-              "typingmind-team/getting-started/typingmind-team-vs-librechat",
-              "typingmind-team/getting-started/typingmind-team-vs-claude-team",
-              "typingmind-team/getting-started/typingmind-team-vs-lobechat"
+              "typingmind-team/getting-started/control-the-response-quality"
             ]
           },
           {
