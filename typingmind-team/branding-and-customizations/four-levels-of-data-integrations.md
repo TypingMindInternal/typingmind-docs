@@ -1,13 +1,14 @@
 ---
-title: 'Four levels of data integrations'
+title: "Four levels of data integrations"
 ---
+
 **ChatGPT and Large Language Models (LLMs)** like Anthropic Claude and Gemini are powerful tools for brainstorming ideas, creating content, generating images, and enhancing daily workflows.
 
 However, they have a major limitation: **LLMs perform best with their training data only.**
 
 They can't provide specific insights into your unique business needs - like detailed sales reports or tailored marketing strategies - **without access to your personalized information**.
 
-Great news! [**TypingMind**](typingmind.com) can help you fill in that gap by allowing you to connect your own training data to ChatGPT and LLMs.
+Great news! [**TypingMind**](https://www.typingmind.com/) can help you fill in that gap by allowing you to connect your own training data to ChatGPT and LLMs.
 
 ## Why train ChatGPT on your data?
 

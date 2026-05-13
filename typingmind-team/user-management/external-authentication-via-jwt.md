@@ -1,11 +1,11 @@
 ---
-title: 'External Authentication via JWT'
+title: "External Authentication via JWT"
 ---
 
 You can authenticate your users using the following methods:
 
 - Email login (default)
-- [Single Sign-On](https://www.notion.so/78ebd53bf166421086153f746c8957b2?pvs=21)
+- [Single Sign-On](/typingmind-team/user-management/single-sign-on-\(sso\))
 - External Authentication (JWT)
 
 This article will help you understand and setup your JWT authentication.
@@ -108,7 +108,7 @@ The token will be verified on **every page load**, you can adjust the expiry dat
 
 You can now add the `externalAuthCode` to the instance URL as follow:
 
-```
+```text
 https://chat.yourcompany.com/?externalAuthCode=XXXXXX
 ```
 

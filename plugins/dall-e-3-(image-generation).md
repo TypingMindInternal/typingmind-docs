@@ -12,15 +12,15 @@ Please follow the steps below to use Dall-3 plugin on TypingMind
 - Click on Plugin Store and install Dall-E 3
 - Click on the installed Dall-E 3 plugin to open its settings.
 
-![image.webp](dall-e-3-\(image-generation\)/image.webp)
+![image.png](dall-e-3-\(image-generation\)/image.png)
 
 ## Step 2: Enter your OpenAI API key
 
 - Switch tab to the Settings tab
-- Enter your [OpenAI API key](../Manage%20&%20Connect%20AI%20Models/OpenAI%20\(GPT-5,%20GPT-4%201\)%2097b6ce8cbb6642a9934e81f7b7365575.md)
+- Enter your [OpenAI API key](/manage-and-connect-ai-models/openai-\(gpt-5-gpt-4.1\))
 - Set up image generated resolution and quality as you want.
 
-![Untitled](dall-e-3-\(image-generation\)/Untitled.webp)
+![Untitled](dall-e-3-\(image-generation\)/Untitled.png)
 
 ## Step 3: Start prompting the AI model to generate images
 

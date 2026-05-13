@@ -19,7 +19,7 @@ Plugins can be implemented using the following implementation types:
 - **MCP**: use a Model Context Protocol server as a plugin.
 
 <Info>
-  All existing TypingMind plugins are open-source under MIT license. You can view the source code of the plugins from our public [GitHub repository](../TypingMind%20Team%2050080fcbe55d4682acfa55780534d1be.md) here. The repos that contain the plugins are ones with names that start with `plugin-`. You can fork or create your own plugin from these plugins.
+  All existing TypingMind plugins are open-source under MIT license. You can view the source code of the plugins from our public [GitHub repository](https://github.com/TypingMind) here. The repos that contain the plugins are ones with names that start with `plugin-`. You can fork or create your own plugin from these plugins.
 </Info>
 
 ## Create new plugin
@@ -203,7 +203,7 @@ TypingMind supports **Shared OAuth Connections**, allowing multiple plugins to s
 
 1. **Create a Shared Connection**:
    - Navigate to the Plugins Manager
-   - Select the **"Shared OAuth Connections"** tab 
+   - Select the **"Shared OAuth Connections"** tab
    - Click **"Add New Connection"** to create a new OAuth connection <img src="build-a-typingmind-plugin/image%208.webp" alt="image.webp" />
 2. **Configure OAuth Credentials**:
    - Enter necessary details such as Authorization URL, Token URL, Client ID, Client Secret, Scopes, Prompt, and Access Type <img src="build-a-typingmind-plugin/image%209.webp" alt="image.webp" />
@@ -483,8 +483,8 @@ When running an HTTP Action on server side (server plugin), your plugin has acce
 | --- | --- |
 | `CHAT_ID` | Unique identifier of a chat (current conversation) where the plugin is used. |
 | `USER_ID` | Unique identifier of the user who is using the plugin. |
-| `OAUTH_USER_ID_TOKEN` | The `id_token` of the user. Only available if the current user is authenticated using [OAuth](../TypingMind%20Team/User%20Management/OAuth%202%200%207bc28ee62d684e6a8f88314830cddd69.md). |
-| `OAUTH_USER_ACCESS_TOKEN` | The `access_token` of the user. Only available if the current user is authenticated using [OAuth](../TypingMind%20Team/User%20Management/OAuth%202%200%207bc28ee62d684e6a8f88314830cddd69.md). |
+| `OAUTH_USER_ID_TOKEN` | The `id_token` of the user. Only available if the current user is authenticated using [OAuth](/typingmind-team/user-management/o-auth-2-0). |
+| `OAUTH_USER_ACCESS_TOKEN` | The `access_token` of the user. Only available if the current user is authenticated using [OAuth](/typingmind-team/user-management/o-auth-2-0). |
 | `OAUTH_PLUGIN_ACCESS_TOKEN` | When the plugin authentication type is set to **OAuth**, the plugin will ask the user to authenticate before using. This is the access token of the user after authentication. |
 
 **HTTP Action Post-Processing**

@@ -104,7 +104,7 @@
             "icon": "plug",
             "pages": [
               "plugins",
-              "plugins/use-typing-mind-plugin",
+              "plugins/use-typingmind-plugin",
               "plugins/build-a-typingmind-plugin",
               "plugins/user-contributed-plugins",
               "plugins/share-import-plugins",

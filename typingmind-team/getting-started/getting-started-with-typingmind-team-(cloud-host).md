@@ -308,9 +308,10 @@ For example:
 
 Learn how to restrict user access to certain:
 
-- [Chat models](https://custom.typingmind.com/features-old/limit-chat-model-access)
-- [Prompts](https://custom.typingmind.com/features-old/limit-prompt-access)
-- [AI Agents](https://custom.typingmind.com/features-old/limit-ai-character-access)
+- [Chat models](/typingmind-team/branding-and-customizations/restrict-model-access)
+- [Prompts](/typingmind-team/branding-and-customizations/restrict-prompt-access)
+- [AI Agents](/typingmind-team/branding-and-customizations/restrict-ai-agents-access)
+- Plugins
 
 ### Step 10: Access control
 

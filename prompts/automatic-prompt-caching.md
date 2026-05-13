@@ -6,9 +6,9 @@ Prompt Caching allows users to make repeated API calls more efficiently by reusi
 
 The Prompt Caching option is now available for Claude, OpenAI and Google Gemini models.
 
-![image.webp](automatic-prompt-caching/image.webp)
+![image.png](automatic-prompt-caching/image.png)
 
-## **Challenges with Current AI Context Handling**
+## Challenges with Current AI Context Handling
 
 Previously, when interacting with an AI model, the entire conversation history must be sent to the LLM for each new query to maintain the conversation context for the AI model.
 
@@ -16,7 +16,7 @@ This repetitive processing may lead to slower responses, increased latency, and 
 
 Using the prompt caching feature, you can pass some content to the model once, cache the input tokens, and then refer to the cached tokens for subsequent requests.
 
-## **How Prompt Caching Works**
+## How Prompt Caching Works
 
 **Prompt Caching** improves AI efficiency by allowing Claude, OpenAI or Google Gemini to store and reuse stable contexts, such as system instructions or background information.
 
@@ -57,11 +57,9 @@ With Google Gemini, Context / Prompt Caching is currently supported on:
 - Gemini 1.5 Pro
 - Gemini 1.5 Flash
 
-<aside>
-  💡
-
+<Tip>
   **Note:** Support for prompt caching is continuously evolving. While this list includes the latest models at the time of writing, **new model releases may add or change caching behavior**.
-</aside>
+</Tip>
 
 ## **Why Use Prompt Caching?**
 
@@ -75,17 +73,13 @@ Discounts are as follows:
 - Claude 3 Opus: 90% off input tokens, 75% off output tokens
 - Claude 3 Haiku: 88% off input tokens, 76% off output tokens
 
-<aside>
-  💡 *Please note: while creating the initial cached prompt incurs a 25% higher cost than the standard API rate, subsequent requests using the cached prompt will be up to 90% cheaper than the usual API cost.*
-</aside>
+<Tip>
+  _Please note: while creating the initial cached prompt incurs a 25% higher cost than the standard API rate, subsequent requests using the cached prompt will be up to 90% cheaper than the usual API cost._
+</Tip>
 
-![Prompt Caching Costs](https://i0.wp.com/blog.typingmind.com/wp-content/uploads/2024/08/image-1.webp?resize=1290%2C727&ssl=1)
-
-Prompt Caching Costs
-
-![Reduce cost and latency](https://i0.wp.com/blog.typingmind.com/wp-content/uploads/2024/08/image.webp?resize=1290%2C674&ssl=1)
-
-Reduce cost and latency
+<Frame>
+  ![Prompt Caching Claude](/images/prompt-caching-claude.webp)
+</Frame>
 
 Here’s what you need to know:
 
@@ -97,7 +91,7 @@ Here’s what you need to know:
 
 You can get a 50% discount on input tokens when using cached prompts. Plus, it can also reduce up to 80% in latency!
 
-![image.webp](automatic-prompt-caching/image%201.webp)
+![image.png](automatic-prompt-caching/image%201.png)
 
 Here’s what you need to know:
 
@@ -114,7 +108,7 @@ Gemini has a complex pricing structure with costs including:
 
 Unlike OpenAI and Anthropic, Gemini charges for cache storage. For details, refer to [here](https://cloud.google.com/vertex-ai/generative-ai/pricing#context-caching), and for an example cost calculation, visit [this page](https://cloud.google.com/vertex-ai/generative-ai/pricing#example-cached-cost-calculation).
 
-![image.webp](automatic-prompt-caching/image%202.webp)
+![image.png](automatic-prompt-caching/image%202.png)
 
 Some important notes:
 
@@ -137,9 +131,9 @@ More applications can be referred at [Prompt Caching with Claude](https://www.a
 
 If you are using Prompt caching for OpenAI models, then you do not need to take any further action. **The prompt caching will be automatically applied on the latest versions of GPT-4o, GPT-4o mini, o1-preview and o1-mini.**
 
-![image.webp](automatic-prompt-caching/image%203.webp)
+![image.png](automatic-prompt-caching/image%203.png)
 
-![image.webp](automatic-prompt-caching/image%204.webp)
+![image.png](automatic-prompt-caching/image%204.png)
 
 If you are using Prompt caching for Claude and Gemini models, here’s the detail guidelines:
 
@@ -147,11 +141,11 @@ If you are using Prompt caching for Claude and Gemini models, here’s the detai
 - Expand the **Advanced Model Parameter**
 - Scroll down to enable the “**Prompt Caching**” option
 
-![image.webp](automatic-prompt-caching/image.webp)
+![image.png](automatic-prompt-caching/image.png)
 
-![image.webp](automatic-prompt-caching/image%205.webp)
+![image.png](automatic-prompt-caching/image%205.png)
 
-![image.webp](automatic-prompt-caching/image%206.webp)
+![image.png](automatic-prompt-caching/image%206.png)
 
 <aside>
   💡 Important notes:

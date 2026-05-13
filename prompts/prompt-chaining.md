@@ -75,7 +75,7 @@ We will create a prompt chain where:
 
 ### **1. Save and re-use chains**
 
-Add your chain of prompts to the [Prompt Library](https://www.notion.so/Prompt-library-9a8683f866754a9e831202fa791a637a?pvs=21) for easy access and re-use. To quickly find a saved prompt, type `/` in the message input box and search by its name.
+Add your chain of prompts to the [Prompt Library](/prompts/use-prompt-library) for easy access and re-use. To quickly find a saved prompt, type `/` in the message input box and search by its name.
 
 ![image.webp](prompt-chaining/image%209.webp)
 
