@@ -267,8 +267,6 @@
               "cloud-sync-and-backup/export-import-data"
             ]
           },
-          "referral-program",
-          "referral-program",
           {
             "group": "Security & Compliance",
             "icon": "shield-half",
@@ -302,6 +300,7 @@
             "icon": "phone-call",
             "pages": [
               "manage-license-and-devices",
+              "support/referral-program",
               "general-faqs",
               "support",
               "support/zero-tolerance-policy"
