@@ -1,15 +1,10 @@
----
-title: "TypingMind Teams vs Claude Team"
-description: "A detailed feature comparison between TypingMind Custom and the Claude Team Plan."
----
-
-A comparison between [TypingMind Custom](https://www.typingmind.com/custom) and the [Claude Team Plan](https://www.anthropic.com/claude) to help you choose the right platform for your team.
+A comparison between [TypingMind Teams](https://www.typingmind.com/custom) and the [Claude Team Plan](https://www.anthropic.com/claude) to help you choose the right platform for your team.
 
 ## Feature Comparison
 
 ### <Icon icon="lock" /> Security & Privacy
 
-| Feature | TypingMind Custom | Claude Team |
+| Feature | TypingMind Teams | Claude Team |
 | --- | :-: | :-: |
 | No training on business data or conversations | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
 | Self-host on your private server | <Icon icon="check" color="#16a34a" /> | — |
@@ -18,7 +13,7 @@ A comparison between [TypingMind Custom](https://www.typingmind.com/custom) and 
 
 ### <Icon icon="paintbrush" /> Branding & Customization
 
-| Feature | TypingMind Custom | Claude Team |
+| Feature | TypingMind Teams | Claude Team |
 | --- | :-: | :-: |
 | Custom domain | <Icon icon="check" color="#16a34a" /> | — |
 | Custom branding & user interface | <Icon icon="check" color="#16a34a" /> | — |
@@ -29,7 +24,7 @@ A comparison between [TypingMind Custom](https://www.typingmind.com/custom) and 
 
 ### <Icon icon="message" /> Chat Model Support
 
-| Feature | TypingMind Custom | Claude Team |
+| Feature | TypingMind Teams | Claude Team |
 | --- | :-: | :-: |
 | Multi-model support (OpenAI GPT, Azure OpenAI, LLaMA, and other open-source LLMs) | <Icon icon="check" color="#16a34a" /> | — |
 | Claude 3.5 Sonnet | <Icon icon="check" color="#16a34a" /><br />Bring your own API key | <Icon icon="check" color="#16a34a" /> |
@@ -40,7 +35,7 @@ A comparison between [TypingMind Custom](https://www.typingmind.com/custom) and 
 
 ### <Icon icon="stars" /> Chat Features
 
-| Feature | TypingMind Custom | Claude Team |
+| Feature | TypingMind Teams | Claude Team |
 | --- | :-: | :-: |
 | Chat folders, search, tags, pinned messages | <Icon icon="check" color="#16a34a" /> | — |
 | Artifacts | <Icon icon="check" color="#16a34a" /><br />Via Render HTML or Interactive Canvas | <Icon icon="check" color="#16a34a" /> |
@@ -54,7 +49,7 @@ A comparison between [TypingMind Custom](https://www.typingmind.com/custom) and 
 
 ### <Icon icon="puzzle-piece" /> Plugins
 
-| Feature | TypingMind Custom | Claude Team |
+| Feature | TypingMind Teams | Claude Team |
 | --- | :-: | :-: |
 | DALL-E image generation | <Icon icon="check" color="#16a34a" /> | — |
 | Web search | <Icon icon="check" color="#16a34a" /> | — |
@@ -67,7 +62,7 @@ A comparison between [TypingMind Custom](https://www.typingmind.com/custom) and 
 
 ### <Icon icon="users" /> Collaboration
 
-| Feature | TypingMind Custom | Claude Team |
+| Feature | TypingMind Teams | Claude Team |
 | --- | :-: | :-: |
 | Project workspaces | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
 | Shared team prompts | <Icon icon="check" color="#16a34a" /> | — |
@@ -78,7 +73,7 @@ A comparison between [TypingMind Custom](https://www.typingmind.com/custom) and 
 
 ### <Icon icon="desktop" /> Admin Management
 
-| Feature | TypingMind Custom | Claude Team |
+| Feature | TypingMind Teams | Claude Team |
 | --- | :-: | :-: |
 | Invite team members | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
 | Role-based access control | <Icon icon="check" color="#16a34a" /><br />[See docs](https://custom.typingmind.com/features/usage-and-limits) | — |
@@ -90,7 +85,7 @@ A comparison between [TypingMind Custom](https://www.typingmind.com/custom) and 
 
 ### <Icon icon="key" /> User Authentication
 
-| Feature | TypingMind Custom | Claude Team |
+| Feature | TypingMind Teams | Claude Team |
 | --- | :-: | :-: |
 | Email login | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
 | Single Sign-On (SSO) | <Icon icon="check" color="#16a34a" /> | — |
@@ -100,7 +95,7 @@ A comparison between [TypingMind Custom](https://www.typingmind.com/custom) and 
 
 ### <Icon icon="plug" /> Integrations
 
-| Feature | TypingMind Custom | Claude Team |
+| Feature | TypingMind Teams | Claude Team |
 | --- | :-: | :-: |
 | [API integration](https://api.typingmind.com/docs) with external systems | <Icon icon="check" color="#16a34a" /> | — |
 | Embed as website chatbot | <Icon icon="check" color="#16a34a" /><br />[See docs](https://custom.typingmind.com/features/embed-chat-widget) | — |
@@ -109,7 +104,7 @@ A comparison between [TypingMind Custom](https://www.typingmind.com/custom) and 
 
 ### <Icon icon="headset" /> Customer Support
 
-| Feature | TypingMind Custom | Claude Team |
+| Feature | TypingMind Teams | Claude Team |
 | --- | :-: | :-: |
 | Support channels | Email support, Discord community, 24/7 support bot | Email support |
 
@@ -118,7 +113,7 @@ A comparison between [TypingMind Custom](https://www.typingmind.com/custom) and 
 ### <Icon icon="circle-dollar-to-slot" /> Pricing
 
 <CardGroup cols={2}>
-  <Card title="TypingMind Custom" icon="building">
+  <Card title="TypingMind Teams" icon="building">
     Flat fee from [**\$99/month**](https://custom.typingmind.com/pricing) (5 users included), plus API usage fees. Cost-effective for teams that want full control and predictable billing.
   </Card>
 

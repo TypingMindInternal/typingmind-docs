@@ -1,14 +1,10 @@
----
-title: "Getting Started with TypingMind Teams (Cloud-host)"
----
+**TypingMind Teams** is an ultimate AI solution designed for teams, businesses, and communities.
 
-**TypingMind Team** is an ultimate AI solution designed for teams, businesses, and communities.
-
-With TypingMind Team, you can create a chat instance under your domain with custom branding, connect it to your training data, and gain full control and customization via the Admin Panel, all while ensuring maximum privacy and security.
+With TypingMind Teams, you can create a chat instance under your domain with custom branding, connect it to your training data, and gain full control and customization via the Admin Panel, all while ensuring maximum privacy and security.
 
 Let's dive into the details of what you can do with TypingMind Team and a step-by-step to set up your own chatbot with TypingMind Team.
 
-## What can you do with TypingMind Team?
+## What can you do with TypingMind Teams?
 
 ### Build a collaborative AI workspace for your team under your brand name
 
@@ -78,7 +74,7 @@ Our API doc: [https://api.typingmind.com/docs](https://api.typingmind.com/docs)
 
 Let's see how to implement these features on TypingMind Team!
 
-## Step-by-step to set up TypingMind Team
+## Step-by-step to set up TypingMind Teams
 
 ### Step 1: Create a new chat instance
 

@@ -335,7 +335,26 @@
           {
             "group": "Get started",
             "icon": "rocket",
-            "pages": []
+            "pages": [
+              "typingmind-team/getting-started/compare-typingmind-team-plans",
+              "typingmind-team/getting-started/getting-started-with-typingmind-team-(cloud-host)",
+              "typingmind-team/getting-started/typingmind-team:-cloud-host-vs-self-host",
+              "typingmind-team/getting-started/terminology",
+              "typingmind-team/getting-started/set-up-api-keys",
+              "typingmind-team/getting-started/self-host-typingmind-team",
+              "typingmind-team/getting-started/use-markdown",
+              "typingmind-team/getting-started/control-the-response-quality"
+            ]
+          },
+          {
+            "group": "TypingMind vs Other Solutions",
+            "icon": "arrows-up-from-line",
+            "pages": [
+              "typingmind-team/getting-started/typingmind-team-vs.-chatgpt-for-team",
+              "typingmind-team/getting-started/typingmind-team-vs-claude-team",
+              "typingmind-team/getting-started/typingmind-team-vs-librechat",
+              "typingmind-team/getting-started/typingmind-team-vs-lobechat"
+            ]
           },
           {
             "group": "Branding & Customizations",

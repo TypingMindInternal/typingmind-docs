@@ -1,15 +1,10 @@
----
-title: "TypingMind Teams vs LibreChat"
-description: "A detailed feature comparison between TypingMind Custom and LibreChat."
----
-
-A comparison between [TypingMind Custom](https://custom.typingmind.com) and LibreChat to help you choose the right platform for your team.
+A comparison between [TypingMind Teams](https://custom.typingmind.com) and LibreChat to help you choose the right platform for your team.
 
 ## Feature Comparison
 
 ### <Icon icon="gauge" /> Usability
 
-| Feature | TypingMind | LibreChat |
+| Feature | TypingMind Teams | LibreChat |
 | --- | --- | --- |
 | Account and instance setup | <Icon icon="check" color="#16a34a" /><br />Quick and easy. [Sign up](https://custom.typingmind.com/signup) and start with no technical knowledge required. | <Icon icon="check" color="#16a34a" /><br />Requires technical setup — need a technical background to configure the environment and connect data sources. |
 
@@ -17,7 +12,7 @@ A comparison between [TypingMind Custom](https://custom.typingmind.com) and Libr
 
 ### <Icon icon="lock" /> Security & Privacy
 
-| Feature | TypingMind | LibreChat |
+| Feature | TypingMind Teams | LibreChat |
 | --- | :-: | :-: |
 | No training on business data or conversations | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
 | Self-host on your private server | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
@@ -27,7 +22,7 @@ A comparison between [TypingMind Custom](https://custom.typingmind.com) and Libr
 
 ### <Icon icon="paintbrush" /> Branding & Customization
 
-| Feature | TypingMind | LibreChat |
+| Feature | TypingMind Teams | LibreChat |
 | --- | --- | --- |
 | Custom domain | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
 | [Customize branding](https://custom.typingmind.com/features/custom-branding) (name, logo, tagline, theme, chat interface) | <Icon icon="check" color="#16a34a" /><br />More flexible | <Icon icon="check" color="#16a34a" /><br />Limited — custom UI components via configuration files |
@@ -37,7 +32,7 @@ A comparison between [TypingMind Custom](https://custom.typingmind.com) and Libr
 
 ### <Icon icon="message" /> Chat Model Support
 
-| Model | TypingMind | LibreChat |
+| Model | TypingMind Teams | LibreChat |
 | --- | :-: | :-: |
 | GPT models (GPT-4o, GPT-4 Turbo, GPT-3.5) | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
 | Anthropic Claude (Claude 3.5 Sonnet, Claude 3 Opus) | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
@@ -53,7 +48,7 @@ A comparison between [TypingMind Custom](https://custom.typingmind.com) and Libr
 
 ### <Icon icon="desktop" /> Admin Management
 
-| Feature | TypingMind | LibreChat |
+| Feature | TypingMind Teams | LibreChat |
 | --- | :-: | :-: |
 | [Dedicated Admin Dashboard](https://custom.typingmind.com/features/get-started-on-our-cloud) | <Icon icon="check" color="#16a34a" /> | — |
 | Pre-set API keys | <Icon icon="check" color="#16a34a" /> | — |
@@ -66,7 +61,7 @@ A comparison between [TypingMind Custom](https://custom.typingmind.com) and Libr
 
 ### <Icon icon="stars" /> End-User Chat Features
 
-| Feature | TypingMind | LibreChat |
+| Feature | TypingMind Teams | LibreChat |
 | --- | :-: | :-: |
 | Upload documents (chat with files) | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
 | Upload images (image analysis) | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
@@ -90,7 +85,7 @@ A comparison between [TypingMind Custom](https://custom.typingmind.com) and Libr
 
 ### <Icon icon="microphone" /> Voice
 
-| Feature | TypingMind | LibreChat |
+| Feature | TypingMind Teams | LibreChat |
 | --- | :-: | :-: |
 | Voice input / Text-to-Speech | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
 | Transcribe audio files | <Icon icon="check" color="#16a34a" /> | — |
@@ -99,7 +94,7 @@ A comparison between [TypingMind Custom](https://custom.typingmind.com) and Libr
 
 ### <Icon icon="puzzle-piece" /> Plugins
 
-| Feature | TypingMind | LibreChat |
+| Feature | TypingMind Teams | LibreChat |
 | --- | --- | --- |
 | Web search | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
 | Web browsing | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
@@ -112,7 +107,7 @@ A comparison between [TypingMind Custom](https://custom.typingmind.com) and Libr
 
 ### <Icon icon="users" /> Collaboration
 
-| Feature | TypingMind | LibreChat |
+| Feature | TypingMind Teams | LibreChat |
 | --- | :-: | :-: |
 | Shared prompt library | <Icon icon="check" color="#16a34a" /> | — |
 | Shared team AI agents | <Icon icon="check" color="#16a34a" /> | — |
@@ -122,7 +117,7 @@ A comparison between [TypingMind Custom](https://custom.typingmind.com) and Libr
 
 ### <Icon icon="plug" /> Integrations
 
-| Feature | TypingMind | LibreChat |
+| Feature | TypingMind Teams | LibreChat |
 | --- | :-: | :-: |
 | [API integration](https://api.typingmind.com/docs) with external systems | <Icon icon="check" color="#16a34a" /> | — |
 | Embed as website chatbot | <Icon icon="check" color="#16a34a" /> | — |
@@ -131,7 +126,7 @@ A comparison between [TypingMind Custom](https://custom.typingmind.com) and Libr
 
 ### <Icon icon="key" /> User Authentication
 
-| Feature | TypingMind | LibreChat |
+| Feature | TypingMind Teams | LibreChat |
 | --- | :-: | :-: |
 | Email login | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
 | OAuth 2.0 | <Icon icon="check" color="#16a34a" /> | <Icon icon="check" color="#16a34a" /> |
@@ -142,6 +137,6 @@ A comparison between [TypingMind Custom](https://custom.typingmind.com) and Libr
 
 ### <Icon icon="headset" /> Customer Support
 
-| Feature | TypingMind | LibreChat |
+| Feature | TypingMind Teams | LibreChat |
 | --- | --- | --- |
 | Support channels | Email support, 24/7 support bot | Email support |
