@@ -1,3 +1,7 @@
+---
+title: "TypingMind Teams vs Claude Team"
+---
+
 A comparison between [TypingMind Teams](https://www.typingmind.com/custom) and the [Claude Team Plan](https://www.anthropic.com/claude) to help you choose the right platform for your team.
 
 ## Feature Comparison

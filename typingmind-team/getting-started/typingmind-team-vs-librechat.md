@@ -1,3 +1,7 @@
+---
+title: "TypingMind Teams vs LibreChat"
+---
+
 A comparison between [TypingMind Teams](https://custom.typingmind.com) and LibreChat to help you choose the right platform for your team.
 
 ## Feature Comparison
