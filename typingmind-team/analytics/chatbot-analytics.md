@@ -1,5 +1,7 @@
 ---
-title: "Chatbot analytics"
+title: "Workspace Analytics"
+icon: "chart-no-axes-combined"
+sidebarTitle: "Workspace Analytics"
 ---
 
 TypingMind Team provides an Analytics dashboard to help admins monitor chatbot usage, user activity, and AI usage across the workspace.
