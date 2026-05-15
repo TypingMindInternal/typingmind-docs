@@ -288,10 +288,15 @@
           },
           {
             "group": "Training & Knowledge Base",
-            "icon": "book-down",
             "pages": [
-              "rag-knowledge-base",
-              "rag-knowledge-base/connect-to-llamaindex",
+              {
+                "group": "RAG",
+                "icon": "file-search",
+                "pages": [
+                  "rag-knowledge-base",
+                  "rag-knowledge-base/connect-to-llamaindex"
+                ]
+              },
               {
                 "group": "Upload and Chat with Files",
                 "icon": "arrow-big-up",
@@ -304,9 +309,8 @@
           },
           {
             "group": "Voice",
-            "icon": "speaker",
             "pages": [
-              "voice-input-(speech-to-text)",
+              "voice-input",
               "use-text-to-speech"
             ]
           },
@@ -385,26 +389,26 @@
               "support/referral-program",
               "general-faqs",
               "support",
-              "support/zero-tolerance-policy"
-            ]
-          },
-          {
-            "group": "TypingMind via SetApp",
-            "icon": "app-window",
-            "pages": [
-              "typingmind-via-setapp",
-              "typingmind-via-setapp/general-faqs",
-              "typingmind-via-setapp/setapp-limitation"
-            ]
-          },
-          {
-            "group": "Additional resources",
-            "icon": "external-link",
-            "pages": [
-              "app-translation",
-              "app-translation/translation-collaboration",
-              "app-translation/set-up-crowdin",
-              "affiliate-program-(closed)"
+              "support/zero-tolerance-policy",
+              {
+                "group": "TypingMind via SetApp",
+                "icon": "app-window",
+                "pages": [
+                  "typingmind-via-setapp",
+                  "typingmind-via-setapp/general-faqs",
+                  "typingmind-via-setapp/setapp-limitation"
+                ]
+              },
+              {
+                "group": "Additional resources",
+                "icon": "external-link",
+                "pages": [
+                  "app-translation",
+                  "app-translation/translation-collaboration",
+                  "app-translation/set-up-crowdin",
+                  "affiliate-program-(closed)"
+                ]
+              }
             ]
           }
         ]
@@ -556,6 +560,11 @@
     ]
   },
   "redirects": [
+    {
+      "source": "/voice-input-(speech-to-text)",
+      "destination": "/voice-input",
+      "permanent": true
+    },
     {
       "source": "/manage-and-connect-ai-models/local-ai-(llama-gpt4all-vicuna-falcon-etc.)",
       "destination": "/manage-and-connect-ai-models/local-ai",

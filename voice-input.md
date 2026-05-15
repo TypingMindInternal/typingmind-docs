@@ -1,5 +1,6 @@
 ---
 title: "Voice Input (Speech to Text)"
+icon: "voicemail"
 ---
 
 Voice input on TypingMind allows you to convert spoken language into written text, making it accessible and user-friendly for all users.
