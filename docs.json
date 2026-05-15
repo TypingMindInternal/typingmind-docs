@@ -479,6 +479,11 @@
   },
   "redirects": [
     {
+      "source": "/manage-and-connect-ai-models/openai-(gpt-5-gpt-4.1)",
+      "destination": "/manage-and-connect-ai-models/openai",
+      "permanent": true
+    },
+    {
       "source": "/getting-started/compare-typingmind-plans",
       "destination": "/quickstart/typingmind-license-plans",
       "permanent": true
