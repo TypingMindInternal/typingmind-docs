@@ -1,5 +1,6 @@
 ---
-title: "AI Agent Examples"
+title: "Agent Examples"
+sidebarTitle: "Agent Examples"
 ---
 
 Some ready-to-use AI Agents that are built by our team or collected from multiple sources
