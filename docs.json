@@ -470,16 +470,27 @@
           },
           {
             "group": "Branding & Customizations",
-            "icon": "paintbrush",
             "pages": [
               "typingmind-team/branding-and-customizations/branding-and-customizations",
-              "typingmind-team/branding-and-customizations/custom-branding",
-              "typingmind-team/branding-and-customizations/custom-domain",
-              "typingmind-team/branding-and-customizations/customize-the-chat-interface",
-              "typingmind-team/branding-and-customizations/custom-email-sender-via-smtp",
-              "typingmind-team/branding-and-customizations/build-a-shared-prompt-library",
-              "typingmind-team/branding-and-customizations/build-a-shared-ai-agent-collection",
-              "typingmind-team/branding-and-customizations/system-prompts-on-admin-panel",
+              {
+                "group": "Custom Branding",
+                "icon": "images",
+                "pages": [
+                  "typingmind-team/branding-and-customizations/custom-branding",
+                  "typingmind-team/branding-and-customizations/custom-domain",
+                  "typingmind-team/branding-and-customizations/customize-the-chat-interface",
+                  "typingmind-team/branding-and-customizations/custom-email-sender-via-smtp"
+                ]
+              },
+              {
+                "group": "Build Workspace Resources",
+                "icon": "share-2",
+                "pages": [
+                  "typingmind-team/branding-and-customizations/system-prompts-on-admin-panel",
+                  "typingmind-team/branding-and-customizations/build-a-shared-prompt-library",
+                  "typingmind-team/branding-and-customizations/build-a-shared-ai-agent-collection"
+                ]
+              },
               "typingmind-team/branding-and-customizations/enable-llms-to-cite-sources-when-using-rag"
             ]
           },
