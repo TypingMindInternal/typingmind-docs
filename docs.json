@@ -14,6 +14,7 @@
         "pages": [
           "index",
           "install-typingmind-app",
+          "feature-list",
           {
             "group": "Changelog",
             "icon": "newspaper",
@@ -25,221 +26,328 @@
           },
           {
             "group": "Get Started",
-            "icon": "rocket",
             "pages": [
               "quickstart",
               "quickstart/get-started-with-typingmind",
               "quickstart/typingmind-license-plans",
-              "feature-list",
               "quickstart/typingmind-vs-chatgpt-plus-vs-other-chatgpt-uis",
               "quickstart/typingmind-vs-typingmind-team"
             ]
           },
           {
-            "group": "Manage & Connect LLMs",
-            "icon": "brain-circuit",
+            "group": "AI Models",
             "pages": [
               "manage-and-connect-ai-models",
-              "manage-and-connect-ai-models/set-up-api-keys",
-              "manage-and-connect-ai-models/manage-ai-models",
-              "manage-and-connect-ai-models/activate-multi-model-responses",
-              "manage-and-connect-ai-models/which-ai-models-should-you-use",
-              "manage-and-connect-ai-models/model-context-length",
-              "manage-and-connect-ai-models/openai-(gpt-5-gpt-4.1)",
-              "manage-and-connect-ai-models/anthropic-claude",
-              "manage-and-connect-ai-models/google-gemini-(gemini-3.1-nano-banana)",
-              "manage-and-connect-ai-models/openrouter",
-              "manage-and-connect-ai-models/deepseek-ai",
-              "manage-and-connect-ai-models/novita-ai",
-              "manage-and-connect-ai-models/moonshot-ai",
-              "manage-and-connect-ai-models/azure-openai",
-              "manage-and-connect-ai-models/anthropic-models-via-azure",
-              "manage-and-connect-ai-models/chutes-ai",
-              "manage-and-connect-ai-models/fireworks-ai",
-              "manage-and-connect-ai-models/mistral-ai",
-              "manage-and-connect-ai-models/minimax",
-              "manage-and-connect-ai-models/perplexity-ai",
-              "manage-and-connect-ai-models/google-gemini-as-custom-model",
-              "manage-and-connect-ai-models/deepinfra",
-              "manage-and-connect-ai-models/hugging-face-models",
-              "manage-and-connect-ai-models/ollama",
-              "manage-and-connect-ai-models/groq-api-(llama-3-mixtral-8x7b-gemma-7b)",
-              "manage-and-connect-ai-models/lmstudio-(phi-3-llama-3-falcon-gemma-gpt-neo-x)",
-              "manage-and-connect-ai-models/aws-bedrock-anthropic",
-              "manage-and-connect-ai-models/local-ai-(llama-gpt4all-vicuna-falcon-etc.)",
-              "manage-and-connect-ai-models/xai-(grok-ai)",
-              "manage-and-connect-ai-models/z.ai",
-              "manage-and-connect-ai-models/jina-deep-research",
-              "manage-and-connect-ai-models/openai-fine-tuning-models"
+              {
+                "group": "Setup & Manage",
+                "icon": "settings",
+                "pages": [
+                  "manage-and-connect-ai-models/set-up-api-keys",
+                  "manage-and-connect-ai-models/manage-ai-models",
+                  "manage-and-connect-ai-models/which-ai-models-should-you-use",
+                  "manage-and-connect-ai-models/model-context-length"
+                ]
+              },
+              {
+                "group": "Supported Models",
+                "icon": "grid-2x2-check",
+                "pages": [
+                  "manage-and-connect-ai-models/openai",
+                  "manage-and-connect-ai-models/anthropic-claude",
+                  "manage-and-connect-ai-models/google-gemini",
+                  "manage-and-connect-ai-models/openrouter",
+                  "manage-and-connect-ai-models/deepseek-ai",
+                  "manage-and-connect-ai-models/moonshot-ai",
+                  "manage-and-connect-ai-models/mistral-ai",
+                  "manage-and-connect-ai-models/deepinfra",
+                  "manage-and-connect-ai-models/hugging-face-models",
+                  "manage-and-connect-ai-models/perplexity-ai",
+                  "manage-and-connect-ai-models/xai",
+                  "manage-and-connect-ai-models/z.ai"
+                ]
+              },
+              {
+                "group": "Custom Models",
+                "icon": "wrench",
+                "pages": [
+                  "manage-and-connect-ai-models/novita-ai",
+                  "manage-and-connect-ai-models/azure-openai",
+                  "manage-and-connect-ai-models/anthropic-models-via-azure",
+                  "manage-and-connect-ai-models/chutes-ai",
+                  "manage-and-connect-ai-models/fireworks-ai",
+                  "manage-and-connect-ai-models/minimax",
+                  "manage-and-connect-ai-models/google-gemini-as-custom-model",
+                  "manage-and-connect-ai-models/ollama",
+                  "manage-and-connect-ai-models/groq-api",
+                  "manage-and-connect-ai-models/lmstudio",
+                  "manage-and-connect-ai-models/aws-bedrock-anthropic",
+                  "manage-and-connect-ai-models/local-ai",
+                  "manage-and-connect-ai-models/jina-deep-research",
+                  "manage-and-connect-ai-models/openai-fine-tuning-models"
+                ]
+              },
+              "manage-and-connect-ai-models/activate-multi-model-responses"
             ]
           },
           {
             "group": "Prompts",
-            "icon": "message-square-share",
             "pages": [
               "prompts",
-              "prompts/use-prompt-library",
-              "prompts/prompt-examples",
+              {
+                "group": "Build Prompts",
+                "icon": "message-square-more",
+                "pages": [
+                  "prompts/use-prompt-library",
+                  "prompts/prompt-examples",
+                  "prompts/prompt-chaining"
+                ]
+              },
               "prompts/automatic-prompt-caching",
-              "prompts/prompt-chaining",
               "prompts/message-syntax"
             ]
           },
           {
             "group": "AI Agents",
-            "icon": "bot-message-square",
             "pages": [
               "ai-agents",
-              "ai-agents/ai-agents-overview",
-              "ai-agents/write-effective-instruction-for-ai-agent",
-              "ai-agents/ai-agent-examples",
-              "ai-agents/dynamic-context-via-api",
-              "ai-agents/dynamic-context-use-cases",
-              "ai-agents/build-multi-agent-workflow",
-              "ai-agents/train-agent-with-custom-knowledge"
+              {
+                "group": "Build Agents",
+                "icon": "bot",
+                "pages": [
+                  "ai-agents/ai-agents-overview",
+                  "ai-agents/write-effective-instruction-for-ai-agent",
+                  "ai-agents/ai-agent-examples"
+                ]
+              },
+              {
+                "group": "Agent Training",
+                "icon": "refresh-cw",
+                "pages": [
+                  "ai-agents/dynamic-context-via-api",
+                  "ai-agents/dynamic-context-use-cases",
+                  "ai-agents/train-agent-with-custom-knowledge"
+                ]
+              },
+              "ai-agents/build-multi-agent-workflow"
             ]
           },
           {
             "group": "Plugins",
-            "icon": "plug",
             "pages": [
               "plugins",
-              "plugins/use-typingmind-plugin",
-              "plugins/build-a-typingmind-plugin",
-              "plugins/user-contributed-plugins",
-              "plugins/share-import-plugins",
-              "plugins/server-side-vs.-client-side-plugin",
-              "plugins/oauth-2.0-authentication-for-plugins",
-              "plugins/create-a-plugin-server-url",
-              "plugins/create-a-plugin-server-url/how-to-deploy-plugins-server-on-render",
-              "plugins/typingmind-plugin-json-schema",
-              "plugins/deep-research",
-              "plugins/interactive-canvas-(artifacts)",
-              "plugins/web-search-and-image-search",
-              "plugins/perplexity-search",
-              "plugins/market-news",
-              "plugins/dall-e-3-(image-generation)",
-              "plugins/gpt-image-editor",
-              "plugins/stable-diffusion-(image-generation)",
-              "plugins/web-page-reader",
-              "plugins/firecrawl-web-page-reader",
-              "plugins/azure-ai-search-(rag)",
-              "plugins/openai-file-search-(rag)",
-              "plugins/send-emails-via-zapier",
-              "plugins/powerpoint-generator",
-              "plugins/word-generator",
-              "plugins/google-calendar",
-              "plugins/slack-message-notifier",
-              "plugins/spotify-song-suggestions"
+              {
+                "group": "Use & Build Plugins",
+                "icon": "blocks",
+                "pages": [
+                  "plugins/use-typingmind-plugin",
+                  "plugins/build-a-typingmind-plugin",
+                  "plugins/user-contributed-plugins",
+                  "plugins/share-import-plugins",
+                  "plugins/oauth-2.0-authentication-for-plugins",
+                  "plugins/typingmind-plugin-json-schema",
+                  "plugins/server-side-vs.-client-side-plugin",
+                  "plugins/create-a-plugin-server-url",
+                  "plugins/create-a-plugin-server-url/how-to-deploy-plugins-server-on-render"
+                ]
+              },
+              {
+                "group": "Search & Scrape",
+                "icon": "search",
+                "pages": [
+                  "plugins/firecrawl-web-page-reader",
+                  "plugins/web-page-reader",
+                  "plugins/market-news",
+                  "plugins/perplexity-search",
+                  "plugins/web-search-and-image-search",
+                  "plugins/deep-research"
+                ]
+              },
+              {
+                "group": "Image Generation",
+                "icon": "image",
+                "pages": [
+                  "plugins/gpt-image-editor",
+                  "plugins/dall-e-3-(image-generation)",
+                  "plugins/stable-diffusion-(image-generation)"
+                ]
+              },
+              {
+                "group": "Productivity",
+                "icon": "briefcase-business",
+                "pages": [
+                  "plugins/spotify-song-suggestions",
+                  "plugins/slack-message-notifier",
+                  "plugins/google-calendar",
+                  "plugins/word-generator",
+                  "plugins/powerpoint-generator",
+                  "plugins/send-emails-via-zapier"
+                ]
+              },
+              {
+                "group": "Visualize Outputs",
+                "icon": "wand-sparkles",
+                "pages": [
+                  "plugins/interactive-canvas-(artifacts)"
+                ]
+              },
+              {
+                "group": "RAG",
+                "icon": "file-search",
+                "pages": [
+                  "plugins/openai-file-search-(rag)",
+                  "plugins/azure-ai-search-(rag)"
+                ]
+              }
             ]
           },
           {
             "group": "Model Context Protocol (MCP)",
-            "icon": "link",
             "pages": [
-              "model-context-protocol-(mcp)-in-typingmind",
-              "model-context-protocol-(mcp)-in-typingmind/use-mcp-with-private-mcp-connector",
-              "model-context-protocol-(mcp)-in-typingmind/set-up-https-for-private-mcp-connector",
-              "model-context-protocol-(mcp)-in-typingmind/connect-multiple-mcp-servers",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-filesystem",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-github",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-figma",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-sequential-thinking",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-memory",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-context7",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-firecrawl",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-zapier",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-make.com",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-n8n",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-todoist",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-supabase",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-slack",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-airbnb"
+              {
+                "group": "Setup & Manage",
+                "icon": "settings-2",
+                "pages": [
+                  "model-context-protocol-(mcp)-in-typingmind",
+                  "model-context-protocol-(mcp)-in-typingmind/use-mcp-with-private-mcp-connector",
+                  "model-context-protocol-(mcp)-in-typingmind/set-up-https-for-private-mcp-connector",
+                  "model-context-protocol-(mcp)-in-typingmind/connect-multiple-mcp-servers"
+                ]
+              },
+              {
+                "group": "Connect MCP Servers",
+                "icon": "plug-zap",
+                "pages": [
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-filesystem",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-github",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-figma",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-sequential-thinking",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-memory",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-context7",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-firecrawl",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-zapier",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-make.com",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-n8n",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-todoist",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-supabase",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-slack",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-airbnb"
+                ]
+              }
             ]
           },
           {
             "group": "Chat Management",
-            "icon": "message-circle",
             "pages": [
-              "chat-management/organize-chats",
-              "chat-management/shareexport-chats",
+              {
+                "group": "Manage Chats",
+                "icon": "message-square-more",
+                "pages": [
+                  "chat-management/organize-chats",
+                  "chat-management/pin-chats-or-messages",
+                  "chat-management/fork-chats",
+                  "chat-management/edit-in-canvas",
+                  "chat-management/chat-thread",
+                  "chat-management/side-chat-(ask-or-quote)",
+                  "chat-management/context-summary",
+                  "chat-management/shareexport-chats"
+                ]
+              },
               "chat-management/project-folders",
-              "chat-management/pin-chats-or-messages",
-              "chat-management/fork-chats",
-              "chat-management/edit-in-canvas",
-              "chat-management/chat-thread",
-              "chat-management/side-chat-(ask-or-quote)",
-              "chat-management/context-summary"
+              {
+                "group": "System Prompt",
+                "icon": "text-cursor",
+                "pages": [
+                  "system-prompt",
+                  "system-prompt/custom-profiles-with-custom-api-keys",
+                  "system-prompt/system-instruction"
+                ]
+              },
+              {
+                "group": "Parameter settings",
+                "icon": "settings-2",
+                "pages": [
+                  "parameter-settings",
+                  "parameter-settings/parameter-settings",
+                  "parameter-settings/suggested-parameter-combinations",
+                  "parameter-settings/custom-parameters-for-each-model",
+                  "parameter-settings/custom-settings-for-specific-chats"
+                ]
+              }
             ]
           },
           {
-            "group": "General Settings",
-            "icon": "settings",
+            "group": "App Settings",
             "pages": [
               "general-settings",
-              "general-settings/general-settings",
-              "general-settings/customize-app-appearance",
-              "general-settings/keyboard-shortcuts",
-              "general-settings/proxy",
-              "general-settings/internal-prompts"
+              {
+                "group": "Settings",
+                "icon": "settings",
+                "pages": [
+                  "general-settings/general-settings",
+                  "general-settings/customize-app-appearance",
+                  "general-settings/keyboard-shortcuts"
+                ]
+              },
+              {
+                "group": "Cloud Sync & Backup",
+                "icon": "cloud",
+                "pages": [
+                  "cloud-sync-and-backup",
+                  "cloud-sync-and-backup/cloud-sync-and-backup-overview",
+                  "cloud-sync-and-backup/cloud-storage",
+                  "cloud-sync-and-backup/export-import-data"
+                ]
+              },
+              {
+                "group": "Advanced Settings",
+                "icon": "sliders-horizontal",
+                "pages": [
+                  "general-settings/proxy",
+                  "general-settings/internal-prompts"
+                ]
+              },
+              {
+                "group": "Voice",
+                "icon": "volume-2",
+                "pages": [
+                  "voice-input",
+                  "use-text-to-speech"
+                ]
+              },
+              {
+                "group": "Integrations",
+                "icon": "external-link",
+                "pages": [
+                  "integrations",
+                  "integrations/pre-fill-chat-data-via-url",
+                  "typingmind-extensions"
+                ]
+              }
             ]
           },
           {
-            "group": "System Prompt",
-            "icon": "text-cursor",
+            "group": "Training & Knowledge Base",
             "pages": [
-              "system-prompt",
-              "system-prompt/custom-profiles-with-custom-api-keys",
-              "system-prompt/system-instruction"
-            ]
-          },
-          {
-            "group": "Parameter settings",
-            "icon": "settings-2",
-            "pages": [
-              "parameter-settings",
-              "parameter-settings/parameter-settings",
-              "parameter-settings/suggested-parameter-combinations",
-              "parameter-settings/custom-parameters-for-each-model",
-              "parameter-settings/custom-settings-for-specific-chats"
-            ]
-          },
-          {
-            "group": "RAG Knowledge Base",
-            "icon": "book-down",
-            "pages": [
-              "rag-knowledge-base",
-              "rag-knowledge-base/connect-to-llamaindex"
-            ]
-          },
-          {
-            "group": "Upload and Chat with Files",
-            "icon": "arrow-big-up",
-            "pages": [
-              "upload-and-chat-with-files/chat-with-documents",
-              "upload-and-chat-with-files/chat-with-videos"
-            ]
-          },
-          {
-            "group": "Voice",
-            "icon": "speaker",
-            "pages": [
-              "voice-input-(speech-to-text)",
-              "use-text-to-speech"
-            ]
-          },
-          {
-            "group": "Integrations",
-            "icon": "link-2",
-            "pages": [
-              "integrations",
-              "integrations/pre-fill-chat-data-via-url",
-              "typingmind-extensions"
+              {
+                "group": "RAG",
+                "icon": "file-search",
+                "pages": [
+                  "rag-knowledge-base",
+                  "rag-knowledge-base/connect-to-llamaindex"
+                ]
+              },
+              {
+                "group": "Upload & Chat with Files",
+                "icon": "arrow-big-up",
+                "pages": [
+                  "upload-and-chat-with-files/chat-with-documents",
+                  "upload-and-chat-with-files/chat-with-videos"
+                ]
+              }
             ]
           },
           {
             "group": "Static Self-host",
-            "icon": "rocket",
             "pages": [
               "static-self-host",
               "static-self-host/static-self-host-package-and-updates",
@@ -248,81 +356,81 @@
           },
           {
             "group": "LLM Automated Workflows",
-            "icon": "workflow",
             "pages": [
               "llm-automated-workflows",
               "llm-automated-workflows/overview",
-              "llm-automated-workflows/landing-page-conversion-optimizer",
-              "llm-automated-workflows/meeting-summarizer",
-              "llm-automated-workflows/ad-creative-generator"
-            ]
-          },
-          {
-            "group": "Cloud Sync & Backup",
-            "icon": "cloud",
-            "pages": [
-              "cloud-sync-and-backup",
-              "cloud-sync-and-backup/cloud-sync-and-backup-overview",
-              "cloud-sync-and-backup/cloud-storage",
-              "cloud-sync-and-backup/export-import-data"
-            ]
-          },
-          {
-            "group": "Security & Compliance",
-            "icon": "shield-half",
-            "pages": [
-              "security-and-compliance/end-user-license-agreement",
-              "security-and-compliance/gdpr-statement",
-              "security-and-compliance/terms-of-service",
-              "security-and-compliance/privacy-policy",
-              "security-and-compliance/data-processing-agreement",
-              "security-and-compliance/data-usage-and-model-training-policy",
-              "security-and-compliance/outbound-ip-addresses"
-            ]
-          },
-          {
-            "group": "Troubleshooting",
-            "icon": "locate-fixed",
-            "pages": [
-              "troubleshooting",
-              "troubleshooting/get-har-file",
-              "troubleshooting/view-console-logs",
-              "troubleshooting/license-key-and-api-key-not-saving",
-              "troubleshooting/your-chat-data-is-lost-causes-and-solutions",
-              "troubleshooting/common-issues",
-              "troubleshooting/recent-updates-on-new-issues-troubleshooting-and-incidents",
-              "troubleshooting/does-typingmind-work-when-you-log-out",
-              "troubleshooting/error-429:-claude-rate-limit-exceeded"
+              {
+                "group": "Example Workflows",
+                "icon": "network",
+                "pages": [
+                  "llm-automated-workflows/ad-creative-generator",
+                  "llm-automated-workflows/meeting-summarizer",
+                  "llm-automated-workflows/landing-page-conversion-optimizer"
+                ]
+              }
             ]
           },
           {
             "group": "Account & support",
-            "icon": "phone-call",
             "pages": [
-              "manage-license-and-devices",
+              {
+                "group": "Help",
+                "icon": "info",
+                "pages": [
+                  "general-faqs",
+                  "manage-license-and-devices",
+                  "support",
+                  "support/zero-tolerance-policy"
+                ]
+              },
+              {
+                "group": "Security & Compliance",
+                "pages": [
+                  "security-and-compliance/end-user-license-agreement",
+                  "security-and-compliance/gdpr-statement",
+                  "security-and-compliance/terms-of-service",
+                  "security-and-compliance/privacy-policy",
+                  "security-and-compliance/data-processing-agreement",
+                  "security-and-compliance/data-usage-and-model-training-policy",
+                  "security-and-compliance/outbound-ip-addresses"
+                ],
+                "icon": "shield"
+              },
               "support/referral-program",
-              "general-faqs",
-              "support",
-              "support/zero-tolerance-policy"
-            ]
-          },
-          {
-            "group": "TypingMind via SetApp",
-            "icon": "app-window",
-            "pages": [
-              "typingmind-via-setapp",
-              "typingmind-via-setapp/general-faqs",
-              "typingmind-via-setapp/setapp-limitation"
-            ]
-          },
-          {
-            "group": "Additional resources",
-            "icon": "external-link",
-            "pages": [
-              "app-translation",
-              "app-translation/translation-collaboration",
-              "app-translation/set-up-crowdin",
-              "affiliate-program-(closed)"
+              {
+                "group": "Troubleshooting",
+                "icon": "locate-fixed",
+                "pages": [
+                  "troubleshooting",
+                  "troubleshooting/get-har-file",
+                  "troubleshooting/view-console-logs",
+                  "troubleshooting/license-key-and-api-key-not-saving",
+                  "troubleshooting/your-chat-data-is-lost-causes-and-solutions",
+                  "troubleshooting/common-issues",
+                  "troubleshooting/recent-updates-on-new-issues-troubleshooting-and-incidents",
+                  "troubleshooting/does-typingmind-work-when-you-log-out",
+                  "troubleshooting/error-429:-claude-rate-limit-exceeded"
+                ]
+              },
+              {
+                "group": "TypingMind via SetApp",
+                "icon": "app-window",
+                "pages": [
+                  "typingmind-via-setapp",
+                  "typingmind-via-setapp/general-faqs",
+                  "typingmind-via-setapp/setapp-limitation"
+                ]
+              },
+              {
+                "group": "Additional resources",
+                "icon": "external-link",
+                "pages": [
+                  "app-translation",
+                  "app-translation/translation-collaboration",
+                  "app-translation/set-up-crowdin",
+                  "affiliate-program-(closed)"
+                ]
+              }
             ]
           }
         ]
@@ -333,62 +441,120 @@
           "typingmind-teams",
           {
             "group": "Get started",
-            "icon": "rocket",
             "pages": [
-              "typingmind-team/getting-started/compare-typingmind-team-plans",
-              "typingmind-team/getting-started/getting-started-with-typingmind-team-(cloud-host)",
-              "typingmind-team/getting-started/typingmind-team:-cloud-host-vs-self-host",
-              "typingmind-team/getting-started/terminology",
-              "typingmind-team/getting-started/set-up-api-keys",
-              "typingmind-team/getting-started/self-host-typingmind-team",
-              "typingmind-team/getting-started/use-markdown",
-              "typingmind-team/getting-started/control-the-response-quality"
+              {
+                "group": "Quickstart",
+                "icon": "rocket",
+                "pages": [
+                  "typingmind-team/getting-started/cloud-host",
+                  "typingmind-team/getting-started/cloud-host-vs-self-host",
+                  "typingmind-team/getting-started/compare-typingmind-team-plans",
+                  "typingmind-team/getting-started/terminology",
+                  "typingmind-team/getting-started/set-up-api-keys",
+                  "typingmind-team/getting-started/use-markdown",
+                  "typingmind-team/getting-started/control-the-response-quality"
+                ]
+              },
+              {
+                "group": "Teams vs Other Solutions",
+                "icon": "columns-3",
+                "pages": [
+                  "typingmind-team/getting-started/typingmind-team-vs.-chatgpt-for-team",
+                  "typingmind-team/getting-started/typingmind-team-vs-claude-team",
+                  "typingmind-team/getting-started/typingmind-team-vs-librechat",
+                  "typingmind-team/getting-started/typingmind-team-vs-lobechat"
+                ]
+              },
+              {
+                "group": "Self-host",
+                "icon": "server",
+                "pages": [
+                  "typingmind-team/self-host-guides",
+                  "typingmind-team/getting-started/self-host-typingmind-team",
+                  "typingmind-team/self-host-guides/get-started-with-self-host-installation-instruct",
+                  "typingmind-team/self-host-guides/setup-external-connectors-for-knowledge-base"
+                ]
+              },
+              {
+                "group": "Use Cases",
+                "icon": "mouse-pointer",
+                "pages": [
+                  "typingmind-team/use-cases",
+                  "typingmind-team/use-cases/build-a-customer-support-bot-exactly-like-typingmi",
+                  "typingmind-team/use-cases/build-an-ai-coaching-agent-for-your-members"
+                ]
+              }
             ]
           },
           {
-            "group": "TypingMind vs Other Solutions",
-            "icon": "arrows-up-from-line",
-            "pages": [
-              "typingmind-team/getting-started/typingmind-team-vs.-chatgpt-for-team",
-              "typingmind-team/getting-started/typingmind-team-vs-claude-team",
-              "typingmind-team/getting-started/typingmind-team-vs-librechat",
-              "typingmind-team/getting-started/typingmind-team-vs-lobechat"
-            ]
-          },
-          {
-            "group": "Branding & Customizations",
-            "icon": "paintbrush",
+            "group": "Workspace Setup",
             "pages": [
               "typingmind-team/branding-and-customizations/branding-and-customizations",
-              "typingmind-team/branding-and-customizations/custom-branding",
-              "typingmind-team/branding-and-customizations/custom-domain",
-              "typingmind-team/branding-and-customizations/customize-the-chat-interface",
-              "typingmind-team/branding-and-customizations/custom-email-sender-via-smtp",
-              "typingmind-team/branding-and-customizations/build-a-shared-prompt-library",
-              "typingmind-team/branding-and-customizations/build-a-shared-ai-agent-collection",
-              "typingmind-team/branding-and-customizations/system-prompts-on-admin-panel",
+              {
+                "group": "Custom Branding",
+                "icon": "images",
+                "pages": [
+                  "typingmind-team/branding-and-customizations/custom-branding",
+                  "typingmind-team/branding-and-customizations/custom-domain",
+                  "typingmind-team/branding-and-customizations/customize-the-chat-interface",
+                  "typingmind-team/branding-and-customizations/custom-email-sender-via-smtp"
+                ]
+              },
+              {
+                "group": "Build Workspace Resources",
+                "icon": "share-2",
+                "pages": [
+                  "typingmind-team/branding-and-customizations/system-prompts-on-admin-panel",
+                  "typingmind-team/branding-and-customizations/build-a-shared-prompt-library",
+                  "typingmind-team/branding-and-customizations/build-a-shared-ai-agent-collection"
+                ]
+              },
+              {
+                "group": "Connect with Your Data",
+                "icon": "database-backup",
+                "pages": [
+                  "typingmind-team/branding-and-customizations/four-levels-of-data-integrations",
+                  "typingmind-team/branding-and-customizations/get-started-with-knowledge-base",
+                  "typingmind-team/branding-and-customizations/how-knowledge-base-works-in-typingmind-team",
+                  "typingmind-team/branding-and-customizations/connect-with-your-notion-pages",
+                  "typingmind-team/branding-and-customizations/connect-knowledge-base-to-your-ai-agents",
+                  "typingmind-team/branding-and-customizations/training-files-vs-knowledge-base"
+                ]
+              },
+              {
+                "group": "Integrations",
+                "icon": "bluetooth-connected",
+                "pages": [
+                  "typingmind-team/integrations",
+                  "typingmind-team/integrations/api-integration-overview",
+                  "typingmind-team/integrations/embed-a-chat-widget"
+                ]
+              },
               "typingmind-team/branding-and-customizations/enable-llms-to-cite-sources-when-using-rag"
             ]
           },
           {
-            "group": "Connect with Your Data",
-            "icon": "database-backup",
+            "group": "Analytics & Report",
             "pages": [
-              "typingmind-team/branding-and-customizations/four-levels-of-data-integrations",
-              "typingmind-team/branding-and-customizations/get-started-with-knowledge-base",
-              "typingmind-team/branding-and-customizations/how-knowledge-base-works-in-typingmind-team",
-              "typingmind-team/branding-and-customizations/connect-knowledge-base-to-your-ai-agents",
-              "typingmind-team/branding-and-customizations/connect-with-your-notion-pages",
-              "typingmind-team/branding-and-customizations/training-files-vs-knowledge-base"
+              "typingmind-team/analytics/analytics",
+              "typingmind-team/analytics/chatbot-analytics",
+              {
+                "group": "Chat Logs",
+                "icon": "logs",
+                "pages": [
+                  "typingmind-team/integrations/export-chat-logs",
+                  "typingmind-team/analytics/view-and-export-user-chat-logs"
+                ]
+              }
             ]
           },
           {
             "group": "User Management",
-            "icon": "circle-user",
             "pages": [
               "user-management",
               {
                 "group": "Users & Authentication",
+                "icon": "users",
                 "pages": [
                   "typingmind-team/user-management/invite-team-members",
                   "typingmind-team/user-management/create-and-manage-user-groups",
@@ -402,6 +568,7 @@
               },
               {
                 "group": "Access Control",
+                "icon": "lock-keyhole",
                 "pages": [
                   "typingmind-team/user-management/access-control:-private-and-authorized-mode",
                   "typingmind-team/user-management/usage-limits-set-limits-per-ai-model-agent-and-u",
@@ -413,60 +580,28 @@
             ]
           },
           {
-            "group": "Integrations",
-            "icon": "bluetooth-connected",
-            "pages": [
-              "typingmind-team/integrations",
-              "typingmind-team/integrations/api-integration-overview",
-              "typingmind-team/integrations/embed-a-chat-widget"
-            ]
-          },
-          {
             "group": "Account Management",
-            "icon": "user-pen",
             "pages": [
-              "typingmind-team/account-management/account-management",
-              "typingmind-team/account-management/manage-your-subscription",
-              "typingmind-team/account-management/change-the-owner-email",
-              "typingmind-team/account-management/eu-data-center",
-              "typingmind-team/account-management/purchase-training-characters"
-            ]
-          },
-          {
-            "group": "Analytics",
-            "icon": "arrow-up-narrow-wide",
-            "pages": [
-              "typingmind-team/analytics/analytics",
-              "typingmind-team/integrations/export-chat-logs",
-              "typingmind-team/analytics/view-and-export-user-chat-logs",
-              "typingmind-team/analytics/chatbot-analytics"
-            ]
-          },
-          {
-            "group": "Use Cases",
-            "icon": "mouse-pointer",
-            "pages": [
-              "typingmind-team/use-cases",
-              "typingmind-team/use-cases/build-a-customer-support-bot-exactly-like-typingmi",
-              "typingmind-team/use-cases/build-an-ai-coaching-agent-for-your-members"
-            ]
-          },
-          {
-            "group": "Self-host Guides",
-            "icon": "layout-template",
-            "pages": [
-              "typingmind-team/self-host-guides",
-              "typingmind-team/self-host-guides/get-started-with-self-host-installation-instruct",
-              "typingmind-team/self-host-guides/setup-external-connectors-for-knowledge-base"
-            ]
-          },
-          {
-            "group": "Reseller Program",
-            "icon": "binoculars",
-            "pages": [
-              "typingmind-team/reseller-program",
-              "typingmind-team/reseller-program/how-to-monetize-with-typingmind",
-              "typingmind-team/reseller-program/reseller-license-and-demo-chat-instance"
+              {
+                "group": "Account Management",
+                "icon": "user-pen",
+                "pages": [
+                  "typingmind-team/account-management/account-management",
+                  "typingmind-team/account-management/manage-your-subscription",
+                  "typingmind-team/account-management/purchase-training-characters",
+                  "typingmind-team/account-management/change-the-owner-email",
+                  "typingmind-team/account-management/eu-data-center"
+                ]
+              },
+              {
+                "group": "Reseller Program (Discontinued)",
+                "icon": "heart-handshake",
+                "pages": [
+                  "typingmind-team/reseller-program",
+                  "typingmind-team/reseller-program/how-to-monetize-with-typingmind",
+                  "typingmind-team/reseller-program/reseller-license-and-demo-chat-instance"
+                ]
+              }
             ]
           }
         ]
@@ -474,6 +609,51 @@
     ]
   },
   "redirects": [
+    {
+      "source": "/typingmind-team/getting-started/typingmind-team:-cloud-host-vs-self-host",
+      "destination": "/typingmind-team/getting-started/cloud-host-vs-self-host",
+      "permanent": true
+    },
+    {
+      "source": "/typingmind-team/getting-started/getting-started-with-typingmind-team-(cloud-host)",
+      "destination": "/typingmind-team/cloud-host",
+      "permanent": true
+    },
+    {
+      "source": "/voice-input-(speech-to-text)",
+      "destination": "/voice-input",
+      "permanent": true
+    },
+    {
+      "source": "/manage-and-connect-ai-models/local-ai-(llama-gpt4all-vicuna-falcon-etc.)",
+      "destination": "/manage-and-connect-ai-models/local-ai",
+      "permanent": true
+    },
+    {
+      "source": "/manage-and-connect-ai-models/lmstudio-(phi-3-llama-3-falcon-gemma-gpt-neo-x)",
+      "destination": "/manage-and-connect-ai-models/lmstudio",
+      "permanent": true
+    },
+    {
+      "source": "/manage-and-connect-ai-models/groq-api-(llama-3-mixtral-8x7b-gemma-7b)",
+      "destination": "/manage-and-connect-ai-models/groq-api",
+      "permanent": true
+    },
+    {
+      "source": "/manage-and-connect-ai-models/xai-(grok-ai)",
+      "destination": "/manage-and-connect-ai-models/xai",
+      "permanent": true
+    },
+    {
+      "source": "/manage-and-connect-ai-models/google-gemini-(gemini-3.1-nano-banana)",
+      "destination": "/manage-and-connect-ai-models/google-gemini",
+      "permanent": true
+    },
+    {
+      "source": "/manage-and-connect-ai-models/openai-(gpt-5-gpt-4.1)",
+      "destination": "/manage-and-connect-ai-models/openai",
+      "permanent": true
+    },
     {
       "source": "/getting-started/compare-typingmind-plans",
       "destination": "/quickstart/typingmind-license-plans",
@@ -586,8 +766,8 @@
     "drilldown": false
   },
   "logo": {
-    "light": "/images/logo-light(2).svg",
-    "dark": "/images/logo-dark(2).svg",
+    "light": "/images/logo-light(3).svg",
+    "dark": "/images/logo-dark(3).svg",
     "href": "https://www.typingmind.com/?utm_source=docs"
   },
   "navbar": {

@@ -1,5 +1,6 @@
 ---
-title: "Usage Limits: Set Limits Per AI Model, Agent, Plugin and User"
+title: "Usage Limits"
+sidebarTitle: "Usage Limits"
 ---
 
 Managing AI resources effectively for your chat instance is more important than ever.
@@ -159,7 +160,7 @@ To set limits for plugins:
 
 - Click on Plugin Limits
 - Select a plugin you want to set limit
-- Choose a Limit Group 
+- Choose a Limit Group
 - Apply these limits to the relevant user group
 
 <Frame>

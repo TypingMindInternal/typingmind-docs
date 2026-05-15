@@ -1,5 +1,5 @@
 ---
-title: "Local AI (LLama, GPT4All, Vicuna, Falcon, etc.)"
+title: "Local AI "
 ---
 
 ## Overview

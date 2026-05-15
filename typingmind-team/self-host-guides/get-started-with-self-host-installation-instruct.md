@@ -1,5 +1,6 @@
 ---
-title: 'Get started with self-host - Installation Instruction (Docker)'
+title: "Installation Instruction (Docker)"
+sidebarTitle: "Installation Instruction (Docker)"
 ---
 
 <Info>

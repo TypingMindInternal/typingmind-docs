@@ -1,7 +1,3 @@
----
-title: 'Proxy'
----
-
 In case you don’t want to send the API requests directly to OpenAI API or Anthropic Claude API due to privacy and security concerns, you can set up a Proxy for these endpoints.
 
 ## Access Proxy Setup
@@ -20,18 +16,21 @@ Custom proxy for OpenAI Chat Endpoint:
 
 - **Default Endpoint**: `https://api.openai.com/v1/chat/completions`
 - **Customize**: if you need to change this endpoint, enter the new URL in the provided field and click **Save**.
+
 2. **Anthropic Chat Completions Endpoint (V1)**:
 
 Custom proxy for Anthropic Chat Endpoint:
 
 - **Default Endpoint**: `https://api.anthropic.com/v1/messages`
 - **Customize**: enter a new URL if your setup requires a different endpoint, then click **Save**.
+
 3. **Google Gemini Endpoint**
 
 Custom proxy for Google Gemini Chat Endpoint:
 
 - **Default Endpoint**: `https://generativelanguage.googleapis.com/v1beta/models`
 - **Customize**: enter a new URL if your setup requires a different endpoint, then click **Save**.
+
 4. **OpenAI Whisper Endpoint (V1)**:
 
 This option allows you to set up your local whisper for voice input:

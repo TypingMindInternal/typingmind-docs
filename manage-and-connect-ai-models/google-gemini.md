@@ -1,7 +1,3 @@
----
-title: "Google Gemini (Gemini 3.1, Nano Banana)"
----
-
 TypingMind offers access to Google's Gemini AI models, including:
 
 - Gemini Pro

@@ -1,5 +1,6 @@
 ---
 title: "Cloud-host vs Self-host"
+sidebarTitle: "Cloud-host vs Self-host"
 ---
 
 |  | **Cloud-hosted** | **Self-hosted** |

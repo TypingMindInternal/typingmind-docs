@@ -1,5 +1,6 @@
 ---
-title: "Get started with TypingMind Teams (Cloud-host)"
+title: "Cloud-host"
+sidebarTitle: "Cloud-host"
 ---
 
 **TypingMind Teams** is an ultimate AI solution designed for teams, businesses, and communities.

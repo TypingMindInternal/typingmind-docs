@@ -1,5 +1,5 @@
 ---
-title: "LMStudio (Phi-3, LLaMA 3, Falcon, Gemma, GPT-Neo-X)"
+title: "LMStudio"
 ---
 
 You can set up LMStudio models as Custom models on [TypingMind.com](http://TypingMind.com) .

@@ -1,5 +1,6 @@
 ---
 title: "Static Self-host FAQs"
+icon: "cloud-cog"
 ---
 
 ## **What is self-hosting?**

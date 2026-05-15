@@ -1,7 +1,3 @@
----
-title: 'Customize the chat interface'
----
-
 TypingMind Custom lets you customize the appearance of your instance user-facing app to match your preferences.
 
 ## 1. Basic customization
@@ -25,7 +21,7 @@ For more granular control over your chat interface's appearance, you can add cus
 
 ![image.webp](customize-the-chat-interface/image%201.webp)
 
-There is a default template for you to use as an example. You can modify it, save it, and test it on your user-facing app website until you get it right. 
+There is a default template for you to use as an example. You can modify it, save it, and test it on your user-facing app website until you get it right.
 
 You can also take code from other built-in themes and modify only the parts you need.
 

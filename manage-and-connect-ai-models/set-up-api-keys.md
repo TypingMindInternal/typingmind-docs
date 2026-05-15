@@ -1,5 +1,6 @@
 ---
-title: "Set up API keys"
+title: "API Keys Setup"
+sidebarTitle: "API Keys Setup"
 ---
 
 ## For available models

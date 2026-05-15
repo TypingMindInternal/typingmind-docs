@@ -1,6 +1,8 @@
 ---
-title: 'Change the owner email'
+title: "Change Workspace Owner"
+sidebarTitle: "Change Workspace Owner"
 ---
+
 As of now, you can change the owner email following the steps below:
 
 - Log into the Admin Panel

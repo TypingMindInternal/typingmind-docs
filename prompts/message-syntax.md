@@ -1,5 +1,7 @@
 ---
 title: "Message Syntax"
+icon: "code-xml"
+sidebarTitle: "Message Syntax"
 ---
 
 When working on **TypingMind**, using **Message Syntax** provides a quick and efficient way to help you input your messages faster.

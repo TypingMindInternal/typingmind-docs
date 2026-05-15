@@ -1,7 +1,3 @@
----
-title: "General Settings"
----
-
 The General Settings allow you to enable or disable various enhanced features within the app to customize your experience.
 
 ## Access General Settings

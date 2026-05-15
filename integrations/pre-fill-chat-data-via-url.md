@@ -1,5 +1,5 @@
 ---
-title: 'Pre-Fill Chat Data via URL'
+title: "Pre-Fill Chat Data via URL"
 ---
 
 You can now pre-fill chat data on [TypingMind](http://typingmind.com/) using URL parameters. Follow the guide below to configure your chat sessions.
@@ -8,19 +8,19 @@ You can now pre-fill chat data on [TypingMind](http://typingmind.com/) using URL
 
 To set an initial system message for all chats upon opening the app, append the following query parameter to the URL:
 
-```
+```text
 https://typingmind.com?initialContextURL=<your-url-endpoint>
 ```
 
 For example:
 
-```
+```text
 https://typingmind.com?initialContextURL=https://example.com/system-message
 ```
 
 The system will retrieve data from the context URL and initialize a new chat using that data. Additionally, you can set a custom chat title by appending the `chatTitle` parameter:
 
-```
+```text
 https://typingmind.com?initialContextURL=https://example.com/system-message&chatTitle=Hello%20World
 ```
 
@@ -37,12 +37,10 @@ https://typingmind.com?initialContextURL=https://example.com/system-message&chat
 You can also set the initial agent for a new chat via the URL. To do so:
 
 1. Obtain the agent ID.
-    
-    ![image.png](pre-fill-chat-data-via-url/image.png)
-    
+   ![image.png](pre-fill-chat-data-via-url/image.png)
 2. Open the app with the following URL format:
 
-```
+```text
 https://typingmind.com?agent=<agent-id>
 ```
 
@@ -50,7 +48,7 @@ https://typingmind.com?agent=<agent-id>
 
 To set an initial message for a chat, use the `message` parameter in the URL as shown below:
 
-```
+```text
 https://typingmind.com?message=<your-message>
 ```
 

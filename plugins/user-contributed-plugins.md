@@ -1,5 +1,6 @@
 ---
-title: "User-contributed Plugins"
+title: "Community Plugins"
+sidebarTitle: "Community Plugins"
 ---
 
 <Tip>

@@ -1,5 +1,6 @@
 ---
 title: "Feature List"
+icon: "list-check"
 ---
 
 Below are all available features on [TypingMind.com](http://TypingMind.com)

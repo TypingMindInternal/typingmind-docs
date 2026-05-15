@@ -1,5 +1,6 @@
 ---
-title: "Compare TypingMind Teams Plans"
+title: "Compare Teams Plans"
+sidebarTitle: "Compare Teams Plans"
 ---
 
 TypingMind Teams offers **3 different plans** starting at **\$99/month**. Compare the plans below to find the best fit for your team.

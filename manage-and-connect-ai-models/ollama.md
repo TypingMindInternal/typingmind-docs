@@ -1,5 +1,5 @@
 ---
-title: "Ollama (local models: LLaVA, Llama2, Mistral, Orca, etc.)"
+title: "Ollama (Local)"
 ---
 
 [Ollama](https://ollama.com/) is an open-source project that allows you to run many LLM models locally on your device.

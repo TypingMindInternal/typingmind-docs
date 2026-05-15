@@ -1,5 +1,6 @@
 ---
-title: 'Setup external connectors for Knowledge Base'
+title: "External connectors for Knowledge Base"
+sidebarTitle: "External connectors for Knowledge Base"
 ---
 
 When you enabled the **Knowledge Base Module** for your TypingMind instance in the self-host environment, the only data source available is File Upload.
@@ -7,9 +8,7 @@ When you enabled the **Knowledge Base Module** for your TypingMind instance in t
 Here is how to enable external data source connectors like GitHub, Dropbox, Notion, etc.
 
 <Note>
-
   **Note:** This setup step requires technical skills to edit the database. We will make it easier to setup within the Admin Panel in the future.
-
 </Note>
 
 ## Updating configuration in the PostgreSQL database
@@ -58,7 +57,7 @@ Follow [this guide](https://developers.notion.com/docs/create-a-notion-integrati
 
 During creating the integration, you will be asked to provide a **Redirect URL**, use the value below:
 
-```
+```text
 https://{DEPLOYMENT_HOST_NAME}/kb-api/api/v1/webhook/integrations/notion/callback
 ```
 
@@ -102,20 +101,21 @@ Enable these APIs in your Google Cloud project:
 
 **3. Create OAuth2 Credentials**
 
-1. Go to **APIs & Credentials > Credentials**
-2. Click **"Create Credentials" > "OAuth 2.0 Client IDs"**
+1. Go to **APIs & Credentials \> Credentials**
+2. Click **"Create Credentials" \> "OAuth 2.0 Client IDs"**
 3. Choose **"Web application"** as application type
 4. Configure authorized redirect URIs:
 
-```
+```text
 https://{DEPLOYMENT_HOST_NAME}/kb-api/api/v1/webhook/integrations/google-drive/callback
 ```
 
 **4. Create API Key**
 
-1. Go to **APIs & Credentials > Credentials**
-2. Click **"Create Credentials" > "API Key"**
+1. Go to **APIs & Credentials \> Credentials**
+2. Click **"Create Credentials" \> "API Key"**
 3. Restrict the API key to:
+
 - **Google Drive API**
 - **Google Picker API**
 - Your domain/IP addresses
@@ -124,7 +124,7 @@ https://{DEPLOYMENT_HOST_NAME}/kb-api/api/v1/webhook/integrations/google-drive/c
 
 The application uses this scope:
 
-```
+```text
 https://www.googleapis.com/auth/drive.file
 ```
 

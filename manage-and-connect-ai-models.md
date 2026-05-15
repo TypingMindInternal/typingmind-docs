@@ -1,5 +1,6 @@
 ---
 title: "Overview"
+icon: "bot"
 ---
 
 TypingMind lets you access and manage multiple AI models from different providers in one unified workspace.

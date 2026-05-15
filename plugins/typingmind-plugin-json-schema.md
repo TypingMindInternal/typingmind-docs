@@ -1,5 +1,6 @@
 ---
-title: "TypingMind Plugin JSON Schema"
+title: "Plugin JSON Schema"
+sidebarTitle: "Plugin JSON Schema"
 ---
 
 ## Overview
