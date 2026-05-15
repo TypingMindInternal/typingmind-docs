@@ -202,26 +202,37 @@
           },
           {
             "group": "Model Context Protocol (MCP)",
-            "icon": "link",
             "pages": [
-              "model-context-protocol-(mcp)-in-typingmind",
-              "model-context-protocol-(mcp)-in-typingmind/use-mcp-with-private-mcp-connector",
-              "model-context-protocol-(mcp)-in-typingmind/set-up-https-for-private-mcp-connector",
-              "model-context-protocol-(mcp)-in-typingmind/connect-multiple-mcp-servers",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-filesystem",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-github",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-figma",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-sequential-thinking",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-memory",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-context7",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-firecrawl",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-zapier",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-make.com",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-n8n",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-todoist",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-supabase",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-slack",
-              "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-airbnb"
+              {
+                "group": "Setup & Manage",
+                "icon": "settings-2",
+                "pages": [
+                  "model-context-protocol-(mcp)-in-typingmind",
+                  "model-context-protocol-(mcp)-in-typingmind/use-mcp-with-private-mcp-connector",
+                  "model-context-protocol-(mcp)-in-typingmind/set-up-https-for-private-mcp-connector",
+                  "model-context-protocol-(mcp)-in-typingmind/connect-multiple-mcp-servers"
+                ]
+              },
+              {
+                "group": "Connect MCP Servers",
+                "icon": "plug-zap",
+                "pages": [
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-filesystem",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-github",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-figma",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-sequential-thinking",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-memory",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-context7",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-firecrawl",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-zapier",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-make.com",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-n8n",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-todoist",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-supabase",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-slack",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-airbnb"
+                ]
+              }
             ]
           },
           {
