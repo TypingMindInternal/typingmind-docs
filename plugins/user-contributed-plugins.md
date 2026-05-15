@@ -1,3 +1,8 @@
+---
+title: "Community Plugins"
+sidebarTitle: "Community Plugins"
+---
+
 <Tip>
   You can view more user-contributed plugins at [https://github.com/TypingMind/awesome-typingmind](https://github.com/TypingMind/awesome-typingmind)
 </Tip>

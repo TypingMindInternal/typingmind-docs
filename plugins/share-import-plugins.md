@@ -1,5 +1,6 @@
 ---
 title: "Share & Import plugins"
+sidebarTitle: "Share & Import plugins"
 ---
 
 Looking to share plugins or import shared plugins? This guide will provide the easiest steps to do so.

@@ -1,3 +1,8 @@
+---
+title: "OAuth 2.0 Auth"
+sidebarTitle: "OAuth 2.0 Auth"
+---
+
 TypingMind Plugins support OAuth 2.0 authentication type. This help plugin developers create plugins that act on behalf of the user using the user’s account.
 
 ![image.webp](image.webp)

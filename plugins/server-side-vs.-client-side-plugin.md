@@ -1,3 +1,8 @@
+---
+title: "Server vs. Client Plugin"
+sidebarTitle: "Server vs. Client Plugin"
+---
+
 Here is the difference between running a plugin on the **Server Side** and on the **Client Side**:
 
 ## What is a Server Plugin?
