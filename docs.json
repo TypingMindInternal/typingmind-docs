@@ -393,7 +393,8 @@
                   "security-and-compliance/data-processing-agreement",
                   "security-and-compliance/data-usage-and-model-training-policy",
                   "security-and-compliance/outbound-ip-addresses"
-                ]
+                ],
+                "icon": "shield"
               },
               "support/referral-program",
               {

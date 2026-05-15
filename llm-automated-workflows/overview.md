@@ -1,3 +1,8 @@
+---
+title: "Overview"
+icon: "arrow-down-right"
+---
+
 With TypingMind, every conversation with AI can launch workflows, update CRMs, resolve support tickets, publish content, or trigger reports — all automatically, across the tools you already use.
 
 ## Why Businesses Automate with TypingMind
