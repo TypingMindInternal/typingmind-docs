@@ -1,5 +1,6 @@
 ---
-title: "Set up API keys"
+title: "Settings"
+icon: "settings"
 ---
 
 ## For available models

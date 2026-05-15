@@ -1,5 +1,6 @@
 ---
-title: "Activate multi-model responses"
+title: "Multi-model Responses"
+icon: "workflow"
 ---
 
 On TypingMind, you can chat with multiple AI models and bring those models to one conversation.

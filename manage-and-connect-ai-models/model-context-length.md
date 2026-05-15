@@ -1,14 +1,13 @@
 ---
-title: "Model Context Length"
+title: "Context Length"
+icon: "scan-text"
 ---
 
 The context window of a large language model is the amount of text, in tokens, that the model can consider or "remember" at any one time. An LLM's context window can be thought of as the equivalent of its working memory - it determines how long of a conversation it can carry out without forgetting details, and the maximum size of documents or code samples it can process at once.
 
-<aside>
-  💡
-
+<Tip>
   **Token** estimation works as follows: 1 token ≈ 0.75 words in English, meaning 1,000 tokens ≈ 750 words. A million tokens is roughly 750,000 words, or the equivalent of 10–15 full-length novels processed at once
-</aside>
+</Tip>
 
 ## **Why it matters**
 

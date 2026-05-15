@@ -1,5 +1,6 @@
 ---
-title: "Manage AI models"
+title: "Manage Models"
+icon: "sliders-horizontal"
 ---
 
 An overview of how to manage AI Chat Models more effectively on TypingMind.

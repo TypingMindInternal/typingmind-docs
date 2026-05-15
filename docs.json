@@ -35,8 +35,7 @@
             ]
           },
           {
-            "group": "Manage & Connect LLMs",
-            "icon": "brain-circuit",
+            "group": "AI Models",
             "pages": [
               "manage-and-connect-ai-models",
               "manage-and-connect-ai-models/set-up-api-keys",
