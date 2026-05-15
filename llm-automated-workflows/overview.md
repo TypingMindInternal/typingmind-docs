@@ -1,7 +1,3 @@
----
-title: 'Overview'
----
-
 With TypingMind, every conversation with AI can launch workflows, update CRMs, resolve support tickets, publish content, or trigger reports — all automatically, across the tools you already use.
 
 ## Why Businesses Automate with TypingMind
@@ -26,10 +22,9 @@ On TypingMind, you can build use our available plugins or build custom plugins t
 **Impact:** Seamless integrations that bring your external tools into TypingMind → fewer context switches, faster workflows, and more powerful automations.
 
 <aside>
-💡
+  💡
 
-More information about plugin: [https://docs.typingmind.com/plugins](https://docs.typingmind.com/plugins)
-
+  More information about plugin: [https://docs.typingmind.com/plugins](https://docs.typingmind.com/plugins)
 </aside>
 
 How to implement plugins:
@@ -38,7 +33,7 @@ You can create plugins using one of the following methods:
 
 - [**JavaScript code**](https://docs.typingmind.com/plugins/build-a-typingmind-plugin) — write custom logic directly.
 - [**HTTP action**](https://docs.typingmind.com/plugins/build-a-typingmind-plugin) — connect to external APIs and services.
-- [**Model Context Protocols (MCP)**](https://docs.typingmind.com/model-context-protocol-(mcp)-in-typingmind) — integrate structured data and actions into your AI workflows.
+- [**Model Context Protocols (MCP)**](https://docs.typingmind.com/model-context-protocol-\(mcp\)-in-typingmind) — integrate structured data and actions into your AI workflows.
 
 ![image.png](overview/image.png)
 
@@ -73,8 +68,7 @@ You can create plugins using one of the following methods:
 **Impact**: no more manual dashboards—everyone stays informed automatically.
 
 <aside>
-💡
+  💡
 
-Detailed guidelines on how to implement these workflows and more will be updated soon.
-
+  Detailed guidelines on how to implement these workflows and more will be updated soon.
 </aside>
