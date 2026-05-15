@@ -1,5 +1,6 @@
 ---
-title: "How Knowledge Base works in TypingMind Team"
+title: "How Knowledge Base Works"
+sidebarTitle: "How Knowledge Base Works"
 ---
 
 <Note>
@@ -63,7 +64,7 @@ However, all LLM models are subject to [Prompt Injection](https://arxiv.org/abs/
 
 1. Use raw text in [Markdown](https://en.wikipedia.org/wiki/Markdown) format if you can. LLM model understands markdown very well and can make sense of the content much more efficient compare to PDFs, DOCX, etc.
 2. Use both Upload Files and [System Prompts](/system-prompt/system-instruction). A combination of a well-prompted system instruction and a clean knowledge base is proven to have the best result for the end users.
-3. Stay tuned for quality updates from us. We improve the knowledge base processing and handling all the time. We’re working on some approaches that will guarantee to provide much better quality overall for the AI assistant to lookup knowledge base. 
+3. Stay tuned for quality updates from us. We improve the knowledge base processing and handling all the time. We’re working on some approaches that will guarantee to provide much better quality overall for the AI assistant to lookup knowledge base.
 
 ## Notes
 
