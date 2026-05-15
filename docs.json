@@ -47,7 +47,7 @@
                 "group": "Supported Models",
                 "icon": "grid-2x2-check",
                 "pages": [
-                  "manage-and-connect-ai-models/openai-(gpt-5-gpt-4.1)",
+                  "manage-and-connect-ai-models/openai",
                   "manage-and-connect-ai-models/anthropic-claude"
                 ]
               },
