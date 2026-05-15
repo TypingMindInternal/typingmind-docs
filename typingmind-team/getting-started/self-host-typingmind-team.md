@@ -1,8 +1,4 @@
----
-title: "Self-host TypingMind Teams"
----
-
-Self-host Typing Mind Team allows you to host TypingMind Team on your infrastructure. 
+Self-host TypingMind Teams allows you to host TypingMind Team on your infrastructure.
 
 ## Features & Limitations
 
@@ -20,7 +16,7 @@ To see all the available features in the cloud-host version, you can register a 
 
 ### Step 1: Access our GitHub repo
 
-Once you complete purchase, you will be granted access to our GitHub Repo. 
+Once you complete purchase, you will be granted access to our GitHub Repo.
 
 ### **Step 2: Preparing Your Environment**
 
@@ -33,13 +29,13 @@ Start by setting up your digital environment to ensure a smooth installation. Th
 
 ### **Step 3: Launching Your App**
 
-Deploy your app with your selected hosting provider, ensuring it meets the minimal technical specifications for hardware and software. 
+Deploy your app with your selected hosting provider, ensuring it meets the minimal technical specifications for hardware and software.
 
 We’ll guide you through choosing the proper setup once you’re ready to start.
 
 ### **Step 4: Verification**
 
-Verify that the app is running properly by sending a request to the HTTP server. 
+Verify that the app is running properly by sending a request to the HTTP server.
 
 When you first open the app, you will be redirected to `/setup` URL to set up your instance.
 
@@ -73,7 +69,7 @@ All data are stored in your MySQL database and never sent anywhere else.
 
 There are only 3 types of external network requests that will be made from the self-host app:
 
-- Requests to OpenAI/Anthropic: this is the core functionality of the app, allowing you to chat with AI. **If you use an internal **private LLM**, no requests to OpenAI/Anthropic will be made.
+- Requests to OpenAI/Anthropic: this is the core functionality of the app, allowing you to chat with AI. \*\*If you use an internal **private LLM**, no requests to OpenAI/Anthropic will be made.
 - Requests to check for software updates: this is to notify you when there is a new update to upgrade. This request will be sent to Typing Mind's server and only contain minimal information needed to check for updates.
 - Requests to check for license: this is to verify the valid license of your self-host instance and ensure that you're using the correct amount of users as per your contract/subscribed plan. This request will be sent to Typing Mind's server and only contains minimal information needed to check for updates, with no user data included.
 
