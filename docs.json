@@ -26,7 +26,6 @@
           },
           {
             "group": "Get Started",
-            "icon": "rocket",
             "pages": [
               "quickstart",
               "quickstart/get-started-with-typingmind",

@@ -1,5 +1,6 @@
 ---
 title: "TypingMind vs TypingMind Teams"
+icon: "columns-2"
 ---
 
 ## Two main products
