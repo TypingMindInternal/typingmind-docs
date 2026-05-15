@@ -276,8 +276,7 @@
             ]
           },
           {
-            "group": "General Settings",
-            "icon": "settings",
+            "group": "App Settings",
             "pages": [
               "general-settings",
               "general-settings/general-settings",
@@ -288,19 +287,19 @@
             ]
           },
           {
-            "group": "RAG Knowledge Base",
+            "group": "Training & Knowledge Base",
             "icon": "book-down",
             "pages": [
               "rag-knowledge-base",
-              "rag-knowledge-base/connect-to-llamaindex"
-            ]
-          },
-          {
-            "group": "Upload and Chat with Files",
-            "icon": "arrow-big-up",
-            "pages": [
-              "upload-and-chat-with-files/chat-with-documents",
-              "upload-and-chat-with-files/chat-with-videos"
+              "rag-knowledge-base/connect-to-llamaindex",
+              {
+                "group": "Upload and Chat with Files",
+                "icon": "arrow-big-up",
+                "pages": [
+                  "upload-and-chat-with-files/chat-with-documents",
+                  "upload-and-chat-with-files/chat-with-videos"
+                ]
+              }
             ]
           },
           {
