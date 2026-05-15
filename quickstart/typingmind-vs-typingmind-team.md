@@ -1,5 +1,5 @@
 ---
-title: "TypingMind vs TypingMind Teams"
+title: "Personal vs Teams"
 icon: "columns-2"
 ---
 

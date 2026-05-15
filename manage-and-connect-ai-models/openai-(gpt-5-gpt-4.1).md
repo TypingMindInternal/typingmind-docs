@@ -1,7 +1,3 @@
----
-title: "OpenAI (GPT-5, GPT-4.1)"
----
-
 To use the ChatGPT models on TypingMind, you will need to have a paid API key from OpenAI.
 
 Follow the steps below to see how to do this.

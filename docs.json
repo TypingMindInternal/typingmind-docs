@@ -43,8 +43,14 @@
               "manage-and-connect-ai-models/activate-multi-model-responses",
               "manage-and-connect-ai-models/which-ai-models-should-you-use",
               "manage-and-connect-ai-models/model-context-length",
-              "manage-and-connect-ai-models/openai-(gpt-5-gpt-4.1)",
-              "manage-and-connect-ai-models/anthropic-claude",
+              {
+                "group": "Supported Models",
+                "icon": "grid-2x2-check",
+                "pages": [
+                  "manage-and-connect-ai-models/openai-(gpt-5-gpt-4.1)",
+                  "manage-and-connect-ai-models/anthropic-claude"
+                ]
+              },
               "manage-and-connect-ai-models/google-gemini-(gemini-3.1-nano-banana)",
               "manage-and-connect-ai-models/openrouter",
               "manage-and-connect-ai-models/deepseek-ai",
