@@ -1,5 +1,6 @@
 ---
-title: "Manage your subscription"
+title: "Manage Subscription"
+sidebarTitle: "Manage Subscription"
 ---
 
 This guide shows you how to update your subscription, manage add-ons, update your payment method, view past invoices, and add your business tax ID.
@@ -27,7 +28,7 @@ Upgrade your subscription / user seats / training characters as following:
 If you want to view past invoices, update your payment method, or add your business tax ID, go to the billing portal:
 
 - Go to **Billing**
-- Click on **Manage Billing** 
+- Click on **Manage Billing**
 - **Open Billing portal**
 
 <Frame>

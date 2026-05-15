@@ -549,47 +549,48 @@
             ]
           },
           {
-            "group": "Account & User Management",
+            "group": "User Management",
             "pages": [
+              "user-management",
               {
-                "group": "User Management",
-                "icon": "circle-user",
+                "group": "Users & Authentication",
+                "icon": "users",
                 "pages": [
-                  "user-management",
-                  {
-                    "group": "Users & Authentication",
-                    "pages": [
-                      "typingmind-team/user-management/invite-team-members",
-                      "typingmind-team/user-management/create-and-manage-user-groups",
-                      "typingmind-team/user-management/roles-and-permissions",
-                      "typingmind-team/user-management/o-auth-2-0",
-                      "typingmind-team/user-management/single-sign-on-(sso)",
-                      "typingmind-team/user-management/set-up-sso-via-jumpcloud",
-                      "typingmind-team/user-management/external-authentication-via-jwt",
-                      "typingmind-team/user-management/directory-sync-(scim-v2)"
-                    ]
-                  },
-                  {
-                    "group": "Access Control",
-                    "pages": [
-                      "typingmind-team/user-management/access-control:-private-and-authorized-mode",
-                      "typingmind-team/user-management/usage-limits-set-limits-per-ai-model-agent-and-u",
-                      "typingmind-team/branding-and-customizations/restrict-model-access",
-                      "typingmind-team/branding-and-customizations/restrict-prompt-access",
-                      "typingmind-team/branding-and-customizations/restrict-ai-agents-access"
-                    ]
-                  }
+                  "typingmind-team/user-management/invite-team-members",
+                  "typingmind-team/user-management/create-and-manage-user-groups",
+                  "typingmind-team/user-management/roles-and-permissions",
+                  "typingmind-team/user-management/o-auth-2-0",
+                  "typingmind-team/user-management/single-sign-on-(sso)",
+                  "typingmind-team/user-management/set-up-sso-via-jumpcloud",
+                  "typingmind-team/user-management/external-authentication-via-jwt",
+                  "typingmind-team/user-management/directory-sync-(scim-v2)"
                 ]
               },
+              {
+                "group": "Access Control",
+                "icon": "lock-keyhole",
+                "pages": [
+                  "typingmind-team/user-management/access-control:-private-and-authorized-mode",
+                  "typingmind-team/user-management/usage-limits-set-limits-per-ai-model-agent-and-u",
+                  "typingmind-team/branding-and-customizations/restrict-model-access",
+                  "typingmind-team/branding-and-customizations/restrict-prompt-access",
+                  "typingmind-team/branding-and-customizations/restrict-ai-agents-access"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Account Management",
+            "pages": [
               {
                 "group": "Account Management",
                 "icon": "user-pen",
                 "pages": [
                   "typingmind-team/account-management/account-management",
                   "typingmind-team/account-management/manage-your-subscription",
+                  "typingmind-team/account-management/purchase-training-characters",
                   "typingmind-team/account-management/change-the-owner-email",
-                  "typingmind-team/account-management/eu-data-center",
-                  "typingmind-team/account-management/purchase-training-characters"
+                  "typingmind-team/account-management/eu-data-center"
                 ]
               },
               {
