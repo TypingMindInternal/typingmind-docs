@@ -1,3 +1,8 @@
+---
+title: "Self-host"
+sidebarTitle: "Self-host"
+---
+
 Self-host TypingMind Teams allows you to host TypingMind Team on your infrastructure.
 
 ## Features & Limitations

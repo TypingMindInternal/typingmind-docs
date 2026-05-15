@@ -448,7 +448,7 @@
                 "pages": [
                   "typingmind-team/getting-started/cloud-host",
                   "typingmind-team/getting-started/self-host-typingmind-team",
-                  "typingmind-team/getting-started/typingmind-team:-cloud-host-vs-self-host",
+                  "typingmind-team/getting-started/cloud-host-vs-self-host",
                   "typingmind-team/getting-started/compare-typingmind-team-plans",
                   "typingmind-team/getting-started/terminology",
                   "typingmind-team/getting-started/set-up-api-keys",
@@ -457,7 +457,7 @@
                 ]
               },
               {
-                "group": "TypingMind vs Other Solutions",
+                "group": "Teams vs Other Solutions",
                 "icon": "columns-3",
                 "pages": [
                   "typingmind-team/getting-started/typingmind-team-vs.-chatgpt-for-team",
@@ -587,6 +587,11 @@
     ]
   },
   "redirects": [
+    {
+      "source": "/typingmind-team/getting-started/typingmind-team:-cloud-host-vs-self-host",
+      "destination": "/typingmind-team/getting-started/cloud-host-vs-self-host",
+      "permanent": true
+    },
     {
       "source": "/typingmind-team/getting-started/getting-started-with-typingmind-team-(cloud-host)",
       "destination": "/typingmind-team/cloud-host",
