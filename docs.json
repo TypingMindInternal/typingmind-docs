@@ -237,17 +237,42 @@
           },
           {
             "group": "Chat Management",
-            "icon": "message-circle",
             "pages": [
-              "chat-management/organize-chats",
-              "chat-management/shareexport-chats",
+              {
+                "group": "Manage Chats",
+                "icon": "message-square-more",
+                "pages": [
+                  "chat-management/organize-chats",
+                  "chat-management/pin-chats-or-messages",
+                  "chat-management/fork-chats",
+                  "chat-management/edit-in-canvas",
+                  "chat-management/chat-thread",
+                  "chat-management/side-chat-(ask-or-quote)",
+                  "chat-management/context-summary",
+                  "chat-management/shareexport-chats"
+                ]
+              },
               "chat-management/project-folders",
-              "chat-management/pin-chats-or-messages",
-              "chat-management/fork-chats",
-              "chat-management/edit-in-canvas",
-              "chat-management/chat-thread",
-              "chat-management/side-chat-(ask-or-quote)",
-              "chat-management/context-summary"
+              {
+                "group": "System Prompt",
+                "icon": "text-cursor",
+                "pages": [
+                  "system-prompt",
+                  "system-prompt/custom-profiles-with-custom-api-keys",
+                  "system-prompt/system-instruction"
+                ]
+              },
+              {
+                "group": "Parameter settings",
+                "icon": "settings-2",
+                "pages": [
+                  "parameter-settings",
+                  "parameter-settings/parameter-settings",
+                  "parameter-settings/suggested-parameter-combinations",
+                  "parameter-settings/custom-parameters-for-each-model",
+                  "parameter-settings/custom-settings-for-specific-chats"
+                ]
+              }
             ]
           },
           {
@@ -260,26 +285,6 @@
               "general-settings/keyboard-shortcuts",
               "general-settings/proxy",
               "general-settings/internal-prompts"
-            ]
-          },
-          {
-            "group": "System Prompt",
-            "icon": "text-cursor",
-            "pages": [
-              "system-prompt",
-              "system-prompt/custom-profiles-with-custom-api-keys",
-              "system-prompt/system-instruction"
-            ]
-          },
-          {
-            "group": "Parameter settings",
-            "icon": "settings-2",
-            "pages": [
-              "parameter-settings",
-              "parameter-settings/parameter-settings",
-              "parameter-settings/suggested-parameter-combinations",
-              "parameter-settings/custom-parameters-for-each-model",
-              "parameter-settings/custom-settings-for-specific-chats"
             ]
           },
           {
