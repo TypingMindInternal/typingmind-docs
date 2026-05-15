@@ -1,7 +1,3 @@
----
-title: "Server Side vs. Client Side Plugin"
----
-
 Here is the difference between running a plugin on the **Server Side** and on the **Client Side**:
 
 ## What is a Server Plugin?

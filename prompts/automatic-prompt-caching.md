@@ -1,3 +1,9 @@
+---
+title: "Automatic Prompt Caching"
+icon: "save"
+sidebarTitle: "Automatic Prompt Caching"
+---
+
 Prompt Caching allows users to make repeated API calls more efficiently by reusing context from recent prompts, resulting in a reduction in input token costs and faster response times.
 
 The Prompt Caching option is now available for Claude, OpenAI and Google Gemini models.

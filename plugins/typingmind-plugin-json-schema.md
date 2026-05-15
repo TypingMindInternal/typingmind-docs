@@ -1,7 +1,3 @@
----
-title: "TypingMind Plugin JSON Schema"
----
-
 ## Overview
 
 TypingMind plugin can be completely described using a JSON object. Below is the description of each feature of the plugin and their corresponding JSON schema.

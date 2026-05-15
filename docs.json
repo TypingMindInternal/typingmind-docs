@@ -133,36 +133,71 @@
           },
           {
             "group": "Plugins",
-            "icon": "plug",
             "pages": [
               "plugins",
-              "plugins/use-typingmind-plugin",
-              "plugins/build-a-typingmind-plugin",
-              "plugins/user-contributed-plugins",
-              "plugins/share-import-plugins",
-              "plugins/server-side-vs.-client-side-plugin",
-              "plugins/oauth-2.0-authentication-for-plugins",
-              "plugins/create-a-plugin-server-url",
-              "plugins/create-a-plugin-server-url/how-to-deploy-plugins-server-on-render",
-              "plugins/typingmind-plugin-json-schema",
-              "plugins/deep-research",
-              "plugins/interactive-canvas-(artifacts)",
-              "plugins/web-search-and-image-search",
-              "plugins/perplexity-search",
-              "plugins/market-news",
-              "plugins/dall-e-3-(image-generation)",
-              "plugins/gpt-image-editor",
-              "plugins/stable-diffusion-(image-generation)",
-              "plugins/web-page-reader",
-              "plugins/firecrawl-web-page-reader",
-              "plugins/azure-ai-search-(rag)",
-              "plugins/openai-file-search-(rag)",
-              "plugins/send-emails-via-zapier",
-              "plugins/powerpoint-generator",
-              "plugins/word-generator",
-              "plugins/google-calendar",
-              "plugins/slack-message-notifier",
-              "plugins/spotify-song-suggestions"
+              {
+                "group": "Use & Build Plugins",
+                "icon": "blocks",
+                "pages": [
+                  "plugins/use-typingmind-plugin",
+                  "plugins/build-a-typingmind-plugin",
+                  "plugins/user-contributed-plugins",
+                  "plugins/share-import-plugins",
+                  "plugins/oauth-2.0-authentication-for-plugins",
+                  "plugins/typingmind-plugin-json-schema",
+                  "plugins/server-side-vs.-client-side-plugin",
+                  "plugins/create-a-plugin-server-url",
+                  "plugins/create-a-plugin-server-url/how-to-deploy-plugins-server-on-render"
+                ]
+              },
+              {
+                "group": "Search & Scrape",
+                "icon": "search",
+                "pages": [
+                  "plugins/firecrawl-web-page-reader",
+                  "plugins/web-page-reader",
+                  "plugins/market-news",
+                  "plugins/perplexity-search",
+                  "plugins/web-search-and-image-search",
+                  "plugins/deep-research"
+                ]
+              },
+              {
+                "group": "Image Generation",
+                "icon": "image",
+                "pages": [
+                  "plugins/gpt-image-editor",
+                  "plugins/dall-e-3-(image-generation)",
+                  "plugins/stable-diffusion-(image-generation)"
+                ]
+              },
+              {
+                "group": "Productivity",
+                "icon": "briefcase-business",
+                "pages": [
+                  "plugins/spotify-song-suggestions",
+                  "plugins/slack-message-notifier",
+                  "plugins/google-calendar",
+                  "plugins/word-generator",
+                  "plugins/powerpoint-generator",
+                  "plugins/send-emails-via-zapier"
+                ]
+              },
+              {
+                "group": "Visualize Outputs",
+                "icon": "wand-sparkles",
+                "pages": [
+                  "plugins/interactive-canvas-(artifacts)"
+                ]
+              },
+              {
+                "group": "RAG",
+                "icon": "file-search",
+                "pages": [
+                  "plugins/openai-file-search-(rag)",
+                  "plugins/azure-ai-search-(rag)"
+                ]
+              }
             ]
           },
           {
