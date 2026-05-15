@@ -1,8 +1,3 @@
----
-title: "Settings"
-icon: "settings"
----
-
 ## For available models
 
 We provide chat models from the following providers:

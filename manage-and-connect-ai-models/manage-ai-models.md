@@ -1,8 +1,3 @@
----
-title: "Manage Models"
-icon: "sliders-horizontal"
----
-
 An overview of how to manage AI Chat Models more effectively on TypingMind.
 
 To access the Model Management page, navigate “Model” on the left panel and click on it.

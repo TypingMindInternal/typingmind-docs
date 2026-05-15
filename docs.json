@@ -38,11 +38,16 @@
             "group": "AI Models",
             "pages": [
               "manage-and-connect-ai-models",
-              "manage-and-connect-ai-models/set-up-api-keys",
-              "manage-and-connect-ai-models/manage-ai-models",
-              "manage-and-connect-ai-models/activate-multi-model-responses",
-              "manage-and-connect-ai-models/which-ai-models-should-you-use",
-              "manage-and-connect-ai-models/model-context-length",
+              {
+                "group": "Setup & Manage",
+                "icon": "settings",
+                "pages": [
+                  "manage-and-connect-ai-models/set-up-api-keys",
+                  "manage-and-connect-ai-models/manage-ai-models",
+                  "manage-and-connect-ai-models/which-ai-models-should-you-use",
+                  "manage-and-connect-ai-models/model-context-length"
+                ]
+              },
               {
                 "group": "Supported Models",
                 "icon": "grid-2x2-check",
@@ -80,7 +85,8 @@
                   "manage-and-connect-ai-models/jina-deep-research",
                   "manage-and-connect-ai-models/openai-fine-tuning-models"
                 ]
-              }
+              },
+              "manage-and-connect-ai-models/activate-multi-model-responses"
             ]
           },
           {
@@ -100,13 +106,25 @@
             "icon": "bot-message-square",
             "pages": [
               "ai-agents",
-              "ai-agents/ai-agents-overview",
-              "ai-agents/write-effective-instruction-for-ai-agent",
-              "ai-agents/ai-agent-examples",
-              "ai-agents/dynamic-context-via-api",
-              "ai-agents/dynamic-context-use-cases",
-              "ai-agents/build-multi-agent-workflow",
-              "ai-agents/train-agent-with-custom-knowledge"
+              {
+                "group": "Build Agents",
+                "icon": "bot",
+                "pages": [
+                  "ai-agents/ai-agents-overview",
+                  "ai-agents/write-effective-instruction-for-ai-agent",
+                  "ai-agents/ai-agent-examples"
+                ]
+              },
+              {
+                "group": "Agent Training",
+                "icon": "refresh-cw",
+                "pages": [
+                  "ai-agents/dynamic-context-via-api",
+                  "ai-agents/dynamic-context-use-cases",
+                  "ai-agents/train-agent-with-custom-knowledge"
+                ]
+              },
+              "ai-agents/build-multi-agent-workflow"
             ]
           },
           {
