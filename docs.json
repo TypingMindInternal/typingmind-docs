@@ -279,11 +279,50 @@
             "group": "App Settings",
             "pages": [
               "general-settings",
-              "general-settings/general-settings",
-              "general-settings/customize-app-appearance",
-              "general-settings/keyboard-shortcuts",
-              "general-settings/proxy",
-              "general-settings/internal-prompts"
+              {
+                "group": "Settings",
+                "icon": "settings",
+                "pages": [
+                  "general-settings/general-settings",
+                  "general-settings/customize-app-appearance",
+                  "general-settings/keyboard-shortcuts"
+                ]
+              },
+              {
+                "group": "Cloud Sync & Backup",
+                "icon": "cloud",
+                "pages": [
+                  "cloud-sync-and-backup",
+                  "cloud-sync-and-backup/cloud-sync-and-backup-overview",
+                  "cloud-sync-and-backup/cloud-storage",
+                  "cloud-sync-and-backup/export-import-data"
+                ]
+              },
+              {
+                "group": "Advanced Settings",
+                "icon": "sliders-horizontal",
+                "pages": [
+                  "general-settings/proxy",
+                  "general-settings/internal-prompts"
+                ]
+              },
+              {
+                "group": "Voice",
+                "icon": "volume-2",
+                "pages": [
+                  "voice-input",
+                  "use-text-to-speech"
+                ]
+              },
+              {
+                "group": "Integrations",
+                "icon": "external-link",
+                "pages": [
+                  "integrations",
+                  "integrations/pre-fill-chat-data-via-url",
+                  "typingmind-extensions"
+                ]
+              }
             ]
           },
           {
@@ -308,35 +347,11 @@
             ]
           },
           {
-            "group": "Voice",
-            "pages": [
-              "voice-input",
-              "use-text-to-speech"
-            ]
-          },
-          {
-            "group": "Integrations",
-            "pages": [
-              "integrations",
-              "integrations/pre-fill-chat-data-via-url",
-              "typingmind-extensions"
-            ]
-          },
-          {
             "group": "Static Self-host",
             "pages": [
               "static-self-host",
               "static-self-host/static-self-host-package-and-updates",
               "static-self-host/static-self-host-faqs"
-            ]
-          },
-          {
-            "group": "Cloud Sync & Backup",
-            "pages": [
-              "cloud-sync-and-backup",
-              "cloud-sync-and-backup/cloud-sync-and-backup-overview",
-              "cloud-sync-and-backup/cloud-storage",
-              "cloud-sync-and-backup/export-import-data"
             ]
           },
           {

@@ -1,13 +1,12 @@
 ---
 title: "TypingMind Extensions"
-icon: "puzzle"
 ---
 
 ## Overview
 
-<aside>
-  👋 Explore and share your awesome extensions here! 👉 [https://github.com/TypingMind/awesome-typingmind](https://github.com/TypingMind/awesome-typingmind)
-</aside>
+<Tip>
+  Explore and share your awesome extensions here! 👉 [https://github.com/TypingMind/awesome-typingmind](https://github.com/TypingMind/awesome-typingmind)
+</Tip>
 
 **Typing Mind Extensions** allows users to embed custom JavaScript code into Typing Mind. The JavaScript code will have access to all internal data and application state of Typing Mind, allowing the users to add custom logic and application behavior to fit their workflow.
 

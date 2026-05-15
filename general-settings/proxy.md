@@ -1,8 +1,3 @@
----
-title: "Proxy"
-icon: "shield"
----
-
 In case you don’t want to send the API requests directly to OpenAI API or Anthropic Claude API due to privacy and security concerns, you can set up a Proxy for these endpoints.
 
 ## Access Proxy Setup

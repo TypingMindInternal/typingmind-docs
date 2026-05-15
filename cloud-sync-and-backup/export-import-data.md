@@ -1,6 +1,5 @@
 ---
 title: "Export & import data"
-icon: "hard-drive-download"
 ---
 
 You can easily export / import your data for manual backup.

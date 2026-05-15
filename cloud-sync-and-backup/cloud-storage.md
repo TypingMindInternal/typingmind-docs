@@ -1,6 +1,5 @@
 ---
 title: "Cloud Storage"
-icon: "database"
 ---
 
 By default, you will have 50MB of free cloud storage (typically enough for 5000 chats).

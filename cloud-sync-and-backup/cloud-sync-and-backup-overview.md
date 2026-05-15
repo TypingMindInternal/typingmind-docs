@@ -1,6 +1,5 @@
 ---
 title: "Overview"
-icon: "cloud"
 ---
 
 ## What is Cloud Sync & Backup on TypingMind?
