@@ -1,5 +1,5 @@
 ---
-title: "Google Gemini as Custom Model"
+title: "Google Gemini (Custom)"
 ---
 
 By default, TypingMind supports Gemini models out of the box. However, if you prefer to set up a **Gemini model as a custom model**, follow the steps below:
@@ -24,8 +24,7 @@ By default, TypingMind supports Gemini models out of the box. However, if you pr
   gemini-2.5-flash
   ```
 - **Context Length:** Use the context length supported by Gemini model you chose.
-- Under **Custom Headers**, add:(Replace with your real Gemini API Key—get yours at: [**https://aistudio.google.com/app/apikey**](https://aistudio.google.com/app/apikey))
-  `apiKey` : `YOUR_GEMINI_API_KEY`
+- Under **Custom Headers**, add:(Replace with your real Gemini API Key—get yours at: [**https://aistudio.google.com/app/apikey**](https://aistudio.google.com/app/apikey)) `apiKey` : `YOUR_GEMINI_API_KEY`
 - **Test Connection:** Click **Test** to check if the endpoint works.
 - **Save** to add the model to your list
 

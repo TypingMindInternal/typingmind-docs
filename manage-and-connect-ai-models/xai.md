@@ -1,7 +1,3 @@
----
-title: "xAI (Grok AI)"
----
-
 You can now set up xAI models as custom models on TypingMind!
 
 ![image.png](xai-\(grok-ai\)/image.png)

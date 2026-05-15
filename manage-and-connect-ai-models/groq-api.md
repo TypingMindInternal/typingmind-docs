@@ -1,5 +1,5 @@
 ---
-title: "Groq API (LLaMA 3, Mixtral 8x7b, Gemma 7b)"
+title: "Groq API"
 ---
 
 You can use AI models through Groq API on TypingMind.

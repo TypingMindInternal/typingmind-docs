@@ -48,33 +48,39 @@
                 "icon": "grid-2x2-check",
                 "pages": [
                   "manage-and-connect-ai-models/openai",
-                  "manage-and-connect-ai-models/anthropic-claude"
+                  "manage-and-connect-ai-models/anthropic-claude",
+                  "manage-and-connect-ai-models/google-gemini",
+                  "manage-and-connect-ai-models/openrouter",
+                  "manage-and-connect-ai-models/deepseek-ai",
+                  "manage-and-connect-ai-models/moonshot-ai",
+                  "manage-and-connect-ai-models/mistral-ai",
+                  "manage-and-connect-ai-models/deepinfra",
+                  "manage-and-connect-ai-models/hugging-face-models",
+                  "manage-and-connect-ai-models/perplexity-ai",
+                  "manage-and-connect-ai-models/xai",
+                  "manage-and-connect-ai-models/z.ai"
                 ]
               },
-              "manage-and-connect-ai-models/google-gemini-(gemini-3.1-nano-banana)",
-              "manage-and-connect-ai-models/openrouter",
-              "manage-and-connect-ai-models/deepseek-ai",
-              "manage-and-connect-ai-models/novita-ai",
-              "manage-and-connect-ai-models/moonshot-ai",
-              "manage-and-connect-ai-models/azure-openai",
-              "manage-and-connect-ai-models/anthropic-models-via-azure",
-              "manage-and-connect-ai-models/chutes-ai",
-              "manage-and-connect-ai-models/fireworks-ai",
-              "manage-and-connect-ai-models/mistral-ai",
-              "manage-and-connect-ai-models/minimax",
-              "manage-and-connect-ai-models/perplexity-ai",
-              "manage-and-connect-ai-models/google-gemini-as-custom-model",
-              "manage-and-connect-ai-models/deepinfra",
-              "manage-and-connect-ai-models/hugging-face-models",
-              "manage-and-connect-ai-models/ollama",
-              "manage-and-connect-ai-models/groq-api-(llama-3-mixtral-8x7b-gemma-7b)",
-              "manage-and-connect-ai-models/lmstudio-(phi-3-llama-3-falcon-gemma-gpt-neo-x)",
-              "manage-and-connect-ai-models/aws-bedrock-anthropic",
-              "manage-and-connect-ai-models/local-ai-(llama-gpt4all-vicuna-falcon-etc.)",
-              "manage-and-connect-ai-models/xai-(grok-ai)",
-              "manage-and-connect-ai-models/z.ai",
-              "manage-and-connect-ai-models/jina-deep-research",
-              "manage-and-connect-ai-models/openai-fine-tuning-models"
+              {
+                "group": "Custom Models",
+                "icon": "wrench",
+                "pages": [
+                  "manage-and-connect-ai-models/novita-ai",
+                  "manage-and-connect-ai-models/azure-openai",
+                  "manage-and-connect-ai-models/anthropic-models-via-azure",
+                  "manage-and-connect-ai-models/chutes-ai",
+                  "manage-and-connect-ai-models/fireworks-ai",
+                  "manage-and-connect-ai-models/minimax",
+                  "manage-and-connect-ai-models/google-gemini-as-custom-model",
+                  "manage-and-connect-ai-models/ollama",
+                  "manage-and-connect-ai-models/groq-api",
+                  "manage-and-connect-ai-models/lmstudio",
+                  "manage-and-connect-ai-models/aws-bedrock-anthropic",
+                  "manage-and-connect-ai-models/local-ai",
+                  "manage-and-connect-ai-models/jina-deep-research",
+                  "manage-and-connect-ai-models/openai-fine-tuning-models"
+                ]
+              }
             ]
           },
           {
@@ -478,6 +484,31 @@
     ]
   },
   "redirects": [
+    {
+      "source": "/manage-and-connect-ai-models/local-ai-(llama-gpt4all-vicuna-falcon-etc.)",
+      "destination": "/manage-and-connect-ai-models/local-ai",
+      "permanent": true
+    },
+    {
+      "source": "/manage-and-connect-ai-models/lmstudio-(phi-3-llama-3-falcon-gemma-gpt-neo-x)",
+      "destination": "/manage-and-connect-ai-models/lmstudio",
+      "permanent": true
+    },
+    {
+      "source": "/manage-and-connect-ai-models/groq-api-(llama-3-mixtral-8x7b-gemma-7b)",
+      "destination": "/manage-and-connect-ai-models/groq-api",
+      "permanent": true
+    },
+    {
+      "source": "/manage-and-connect-ai-models/xai-(grok-ai)",
+      "destination": "/manage-and-connect-ai-models/xai",
+      "permanent": true
+    },
+    {
+      "source": "/manage-and-connect-ai-models/google-gemini-(gemini-3.1-nano-banana)",
+      "destination": "/manage-and-connect-ai-models/google-gemini",
+      "permanent": true
+    },
     {
       "source": "/manage-and-connect-ai-models/openai-(gpt-5-gpt-4.1)",
       "destination": "/manage-and-connect-ai-models/openai",
