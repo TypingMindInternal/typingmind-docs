@@ -1,3 +1,8 @@
+---
+title: "Context Length"
+sidebarTitle: "Context Length"
+---
+
 The context window of a large language model is the amount of text, in tokens, that the model can consider or "remember" at any one time. An LLM's context window can be thought of as the equivalent of its working memory - it determines how long of a conversation it can carry out without forgetting details, and the maximum size of documents or code samples it can process at once.
 
 <Tip>

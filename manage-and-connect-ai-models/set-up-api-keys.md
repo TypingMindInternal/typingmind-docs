@@ -1,3 +1,8 @@
+---
+title: "Settings"
+sidebarTitle: "Settings"
+---
+
 ## For available models
 
 We provide chat models from the following providers:
