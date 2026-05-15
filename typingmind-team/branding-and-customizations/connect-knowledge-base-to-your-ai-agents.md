@@ -1,5 +1,5 @@
 ---
-title: 'Connect knowledge base to your AI Agents'
+title: "Agents with Knowledge Base"
 ---
 
 Connect knowledge base to your AI Agents allows you to create multiple AI agents within a single chat instance with its own domain-specific knowledge.

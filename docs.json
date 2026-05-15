@@ -447,7 +447,6 @@
                 "icon": "rocket",
                 "pages": [
                   "typingmind-team/getting-started/cloud-host",
-                  "typingmind-team/getting-started/self-host-typingmind-team",
                   "typingmind-team/getting-started/cloud-host-vs-self-host",
                   "typingmind-team/getting-started/compare-typingmind-team-plans",
                   "typingmind-team/getting-started/terminology",
@@ -465,11 +464,30 @@
                   "typingmind-team/getting-started/typingmind-team-vs-librechat",
                   "typingmind-team/getting-started/typingmind-team-vs-lobechat"
                 ]
+              },
+              {
+                "group": "Self-host",
+                "icon": "server",
+                "pages": [
+                  "typingmind-team/self-host-guides",
+                  "typingmind-team/getting-started/self-host-typingmind-team",
+                  "typingmind-team/self-host-guides/get-started-with-self-host-installation-instruct",
+                  "typingmind-team/self-host-guides/setup-external-connectors-for-knowledge-base"
+                ]
+              },
+              {
+                "group": "Use Cases",
+                "icon": "mouse-pointer",
+                "pages": [
+                  "typingmind-team/use-cases",
+                  "typingmind-team/use-cases/build-a-customer-support-bot-exactly-like-typingmi",
+                  "typingmind-team/use-cases/build-an-ai-coaching-agent-for-your-members"
+                ]
               }
             ]
           },
           {
-            "group": "Branding & Customizations",
+            "group": "Workspace Setup",
             "pages": [
               "typingmind-team/branding-and-customizations/branding-and-customizations",
               {
@@ -491,106 +509,98 @@
                   "typingmind-team/branding-and-customizations/build-a-shared-ai-agent-collection"
                 ]
               },
+              {
+                "group": "Connect with Your Data",
+                "icon": "database-backup",
+                "pages": [
+                  "typingmind-team/branding-and-customizations/four-levels-of-data-integrations",
+                  "typingmind-team/branding-and-customizations/get-started-with-knowledge-base",
+                  "typingmind-team/branding-and-customizations/how-knowledge-base-works-in-typingmind-team",
+                  "typingmind-team/branding-and-customizations/connect-knowledge-base-to-your-ai-agents",
+                  "typingmind-team/branding-and-customizations/connect-with-your-notion-pages",
+                  "typingmind-team/branding-and-customizations/training-files-vs-knowledge-base"
+                ]
+              },
+              {
+                "group": "Integrations",
+                "icon": "bluetooth-connected",
+                "pages": [
+                  "typingmind-team/integrations",
+                  "typingmind-team/integrations/api-integration-overview",
+                  "typingmind-team/integrations/embed-a-chat-widget"
+                ]
+              },
               "typingmind-team/branding-and-customizations/enable-llms-to-cite-sources-when-using-rag"
             ]
           },
           {
-            "group": "Connect with Your Data",
-            "icon": "database-backup",
+            "group": "Analytics & Report",
             "pages": [
-              "typingmind-team/branding-and-customizations/four-levels-of-data-integrations",
-              "typingmind-team/branding-and-customizations/get-started-with-knowledge-base",
-              "typingmind-team/branding-and-customizations/how-knowledge-base-works-in-typingmind-team",
-              "typingmind-team/branding-and-customizations/connect-knowledge-base-to-your-ai-agents",
-              "typingmind-team/branding-and-customizations/connect-with-your-notion-pages",
-              "typingmind-team/branding-and-customizations/training-files-vs-knowledge-base"
-            ]
-          },
-          {
-            "group": "User Management",
-            "icon": "circle-user",
-            "pages": [
-              "user-management",
+              "typingmind-team/analytics/analytics",
+              "typingmind-team/analytics/chatbot-analytics",
               {
-                "group": "Users & Authentication",
+                "group": "Chat Logs",
+                "icon": "logs",
                 "pages": [
-                  "typingmind-team/user-management/invite-team-members",
-                  "typingmind-team/user-management/create-and-manage-user-groups",
-                  "typingmind-team/user-management/roles-and-permissions",
-                  "typingmind-team/user-management/o-auth-2-0",
-                  "typingmind-team/user-management/single-sign-on-(sso)",
-                  "typingmind-team/user-management/set-up-sso-via-jumpcloud",
-                  "typingmind-team/user-management/external-authentication-via-jwt",
-                  "typingmind-team/user-management/directory-sync-(scim-v2)"
-                ]
-              },
-              {
-                "group": "Access Control",
-                "pages": [
-                  "typingmind-team/user-management/access-control:-private-and-authorized-mode",
-                  "typingmind-team/user-management/usage-limits-set-limits-per-ai-model-agent-and-u",
-                  "typingmind-team/branding-and-customizations/restrict-model-access",
-                  "typingmind-team/branding-and-customizations/restrict-prompt-access",
-                  "typingmind-team/branding-and-customizations/restrict-ai-agents-access"
+                  "typingmind-team/integrations/export-chat-logs",
+                  "typingmind-team/analytics/view-and-export-user-chat-logs"
                 ]
               }
             ]
           },
           {
-            "group": "Integrations",
-            "icon": "bluetooth-connected",
+            "group": "Account & User Management",
             "pages": [
-              "typingmind-team/integrations",
-              "typingmind-team/integrations/api-integration-overview",
-              "typingmind-team/integrations/embed-a-chat-widget"
-            ]
-          },
-          {
-            "group": "Account Management",
-            "icon": "user-pen",
-            "pages": [
-              "typingmind-team/account-management/account-management",
-              "typingmind-team/account-management/manage-your-subscription",
-              "typingmind-team/account-management/change-the-owner-email",
-              "typingmind-team/account-management/eu-data-center",
-              "typingmind-team/account-management/purchase-training-characters"
-            ]
-          },
-          {
-            "group": "Analytics",
-            "icon": "arrow-up-narrow-wide",
-            "pages": [
-              "typingmind-team/analytics/analytics",
-              "typingmind-team/integrations/export-chat-logs",
-              "typingmind-team/analytics/view-and-export-user-chat-logs",
-              "typingmind-team/analytics/chatbot-analytics"
-            ]
-          },
-          {
-            "group": "Use Cases",
-            "icon": "mouse-pointer",
-            "pages": [
-              "typingmind-team/use-cases",
-              "typingmind-team/use-cases/build-a-customer-support-bot-exactly-like-typingmi",
-              "typingmind-team/use-cases/build-an-ai-coaching-agent-for-your-members"
-            ]
-          },
-          {
-            "group": "Self-host Guides",
-            "icon": "layout-template",
-            "pages": [
-              "typingmind-team/self-host-guides",
-              "typingmind-team/self-host-guides/get-started-with-self-host-installation-instruct",
-              "typingmind-team/self-host-guides/setup-external-connectors-for-knowledge-base"
-            ]
-          },
-          {
-            "group": "Reseller Program",
-            "icon": "binoculars",
-            "pages": [
-              "typingmind-team/reseller-program",
-              "typingmind-team/reseller-program/how-to-monetize-with-typingmind",
-              "typingmind-team/reseller-program/reseller-license-and-demo-chat-instance"
+              {
+                "group": "User Management",
+                "icon": "circle-user",
+                "pages": [
+                  "user-management",
+                  {
+                    "group": "Users & Authentication",
+                    "pages": [
+                      "typingmind-team/user-management/invite-team-members",
+                      "typingmind-team/user-management/create-and-manage-user-groups",
+                      "typingmind-team/user-management/roles-and-permissions",
+                      "typingmind-team/user-management/o-auth-2-0",
+                      "typingmind-team/user-management/single-sign-on-(sso)",
+                      "typingmind-team/user-management/set-up-sso-via-jumpcloud",
+                      "typingmind-team/user-management/external-authentication-via-jwt",
+                      "typingmind-team/user-management/directory-sync-(scim-v2)"
+                    ]
+                  },
+                  {
+                    "group": "Access Control",
+                    "pages": [
+                      "typingmind-team/user-management/access-control:-private-and-authorized-mode",
+                      "typingmind-team/user-management/usage-limits-set-limits-per-ai-model-agent-and-u",
+                      "typingmind-team/branding-and-customizations/restrict-model-access",
+                      "typingmind-team/branding-and-customizations/restrict-prompt-access",
+                      "typingmind-team/branding-and-customizations/restrict-ai-agents-access"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Account Management",
+                "icon": "user-pen",
+                "pages": [
+                  "typingmind-team/account-management/account-management",
+                  "typingmind-team/account-management/manage-your-subscription",
+                  "typingmind-team/account-management/change-the-owner-email",
+                  "typingmind-team/account-management/eu-data-center",
+                  "typingmind-team/account-management/purchase-training-characters"
+                ]
+              },
+              {
+                "group": "Reseller Program (Discontinued)",
+                "icon": "heart-handshake",
+                "pages": [
+                  "typingmind-team/reseller-program",
+                  "typingmind-team/reseller-program/how-to-monetize-with-typingmind",
+                  "typingmind-team/reseller-program/reseller-license-and-demo-chat-instance"
+                ]
+              }
             ]
           }
         ]
