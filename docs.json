@@ -14,6 +14,7 @@
         "pages": [
           "index",
           "install-typingmind-app",
+          "feature-list",
           {
             "group": "Changelog",
             "icon": "newspaper",
@@ -30,7 +31,6 @@
               "quickstart",
               "quickstart/get-started-with-typingmind",
               "quickstart/typingmind-license-plans",
-              "feature-list",
               "quickstart/typingmind-vs-chatgpt-plus-vs-other-chatgpt-uis",
               "quickstart/typingmind-vs-typingmind-team"
             ]
