@@ -1,6 +1,6 @@
 ---
-title: "Settings"
-sidebarTitle: "Settings"
+title: "API Keys Setup"
+sidebarTitle: "API Keys Setup"
 ---
 
 ## For available models
