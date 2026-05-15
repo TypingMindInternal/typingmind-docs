@@ -1,5 +1,6 @@
 ---
-title: 'Cloud Sync & Backup Overview'
+title: "Overview"
+icon: "cloud"
 ---
 
 ## What is Cloud Sync & Backup on TypingMind?
@@ -10,14 +11,12 @@ title: 'Cloud Sync & Backup Overview'
 - Share your data with friends via a link that is publicly accessible from the internet.
 - Backup your lost data
 
-By default, you will have 50MB of free cloud storage (typically enough for 5000 chats). If you find that your default cloud storage is not sufficient, you have the options to upgrade your storage capacity. 
+By default, you will have 50MB of free cloud storage (typically enough for 5000 chats). If you find that your default cloud storage is not sufficient, you have the options to upgrade your storage capacity.
 
 <Note>
-
   **Using TypingMind Cloud is completely optional.**
 
   If you don’t sign in with your email, all of your data will be stored locally on your device, and you can continue using the app with full functionality as usual.
-
 </Note>
 
 ## Enable Cloud Sync
@@ -60,12 +59,11 @@ So **as long as you use the same email account for Cloud,** when you make some c
 
 <Tip>
   You can also uncheck on the settings that you don’t want to sync across devices so when you make changes on one device, it won’t affect the others.
-
 </Tip>
 
 ### 2. Share your data via a unique link
 
-Similarly, when you **Share** your data with TypingMind Cloud, we will store the data you shared on our server. 
+Similarly, when you **Share** your data with TypingMind Cloud, we will store the data you shared on our server.
 
 Data can be shared includes:
 
@@ -79,7 +77,6 @@ And it will become publicly available on the internet with a secret link. These 
 
 <Note>
   Note that you can use other services to share your chat. TypingMind Cloud is just one of the options and is not mandatory.
-
 </Note>
 
 ### **3. Recover your deleted data**
@@ -92,9 +89,9 @@ When you delete a chat/AI Agents/Prompts/Plugins/Folders, they won’t disappear
 
 ### 4. Recover your lost data
 
-While Cloud Sync allows you to sync your data across devices, TypingMind Cloud Backup takes a copy of your data and stores them safely in the cloud, ready to be retrieved if the original is lost or damaged.  
+While Cloud Sync allows you to sync your data across devices, TypingMind Cloud Backup takes a copy of your data and stores them safely in the cloud, ready to be retrieved if the original is lost or damaged.
 
-Click “**Re-sync everything**” or Re log into your Cloud account within Cloud Sync settings in case you lost any of your data while syncing. 
+Click “**Re-sync everything**” or Re log into your Cloud account within Cloud Sync settings in case you lost any of your data while syncing.
 
 ![image.png](cloud-sync-and-backup-overview/image%206.png)
 
@@ -105,7 +102,5 @@ All communication with TypingMind Cloud server are encrypted using HTTPS, all of
 If you enable TypingMind Cloud for Sync and Backup, we will use Cookie to store your logged in state in order to provide you a seamless sync experience without having to login again. Our cookie will expires after 30 days without any sync activities.
 
 <Note>
-
-  Want to turn off Cloud sync? Click on your Profile on the bottom left of the app and click on the log out logo (next to your email) to sign out. 
-
+  Want to turn off Cloud sync? Click on your Profile on the bottom left of the app and click on the log out logo (next to your email) to sign out.
 </Note>

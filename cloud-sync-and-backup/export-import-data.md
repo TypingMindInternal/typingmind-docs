@@ -1,8 +1,9 @@
 ---
-title: 'Export / import data'
+title: "Export & import data"
+icon: "hard-drive-download"
 ---
 
-You can easily export / import your data for manual backup. 
+You can easily export / import your data for manual backup.
 
 - Go to Settings on the left side panel
 - Select App data & storage and you will see the Export/Import option right at the top of the page
@@ -18,10 +19,9 @@ You will have the option to choose which kind of data you would like to export. 
 
 ![image.png](export-import-data/image%201.png)
 
-Once you've selected the relevant data, click on the “**Download File**” button. The system will then generate a json file that will contain your selected data. 
+Once you've selected the relevant data, click on the “**Download File**” button. The system will then generate a json file that will contain your selected data.
 
 <Tip>
-
   You can also export selected chats:
 
   - Hover to the chat you want to export
@@ -29,7 +29,6 @@ Once you've selected the relevant data, click on the “**Download File**” but
   - Click Export to export that specific chat as JSON
 
   ![image.png](export-import-data/image%202.png)
-
 </Tip>
 
 ## **Importing Your Data**
@@ -40,7 +39,6 @@ Once you've selected the relevant data, click on the “**Download File**” but
 
 <Tip>
   If you import data from ChatGPT Plus / OpenAI,  please click on Import from OpenAI option.
-
 </Tip>
 
 For further assistance with exporting and importing data, or with any other technical issues, please contact our support team.

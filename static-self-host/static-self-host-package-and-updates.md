@@ -1,5 +1,6 @@
 ---
-title: 'Static Self-host Package & Updates'
+title: "Static Self-host Package & Updates"
+icon: "server-crash"
 ---
 
 ## Latest Feature Update:

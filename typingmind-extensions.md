@@ -1,5 +1,6 @@
 ---
 title: "TypingMind Extensions"
+icon: "puzzle"
 ---
 
 ## Overview
