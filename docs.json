@@ -91,19 +91,23 @@
           },
           {
             "group": "Prompts",
-            "icon": "message-square-share",
             "pages": [
               "prompts",
-              "prompts/use-prompt-library",
-              "prompts/prompt-examples",
+              {
+                "group": "Build Prompts",
+                "icon": "message-square-more",
+                "pages": [
+                  "prompts/use-prompt-library",
+                  "prompts/prompt-examples",
+                  "prompts/prompt-chaining"
+                ]
+              },
               "prompts/automatic-prompt-caching",
-              "prompts/prompt-chaining",
               "prompts/message-syntax"
             ]
           },
           {
             "group": "AI Agents",
-            "icon": "bot-message-square",
             "pages": [
               "ai-agents",
               {

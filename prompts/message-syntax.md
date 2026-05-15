@@ -1,7 +1,3 @@
----
-title: "Message Syntax"
----
-
 When working on **TypingMind**, using **Message Syntax** provides a quick and efficient way to help you input your messages faster.
 
 These syntaxes act as shortcuts to help reduce manual effort and streamline the process of feeding inputs to the AI.
