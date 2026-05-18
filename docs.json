@@ -60,7 +60,6 @@
                   "manage-and-connect-ai-models/moonshot-ai",
                   "manage-and-connect-ai-models/mistral-ai",
                   "manage-and-connect-ai-models/deepinfra",
-                  "manage-and-connect-ai-models/hugging-face-models",
                   "manage-and-connect-ai-models/perplexity-ai",
                   "manage-and-connect-ai-models/xai",
                   "manage-and-connect-ai-models/z.ai"
@@ -83,7 +82,8 @@
                   "manage-and-connect-ai-models/aws-bedrock-anthropic",
                   "manage-and-connect-ai-models/local-ai",
                   "manage-and-connect-ai-models/jina-deep-research",
-                  "manage-and-connect-ai-models/openai-fine-tuning-models"
+                  "manage-and-connect-ai-models/openai-fine-tuning-models",
+                  "manage-and-connect-ai-models/hugging-face-models"
                 ]
               },
               "manage-and-connect-ai-models/activate-multi-model-responses"
@@ -610,6 +610,61 @@
   },
   "redirects": [
     {
+      "source": "/chat-models-settings/use-with-lmstudio-(phi-3-llama-3-falcon-gemma-gpt-neo-x)",
+      "destination": "/manage-and-connect-ai-models/lmstudio",
+      "permanent": true
+    },
+    {
+      "source": "/getting-started/get-started-with-typingmind",
+      "destination": "/quickstart/get-started-with-typingmind",
+      "permanent": true
+    },
+    {
+      "source": "/plugins/set-up-perplexity-search",
+      "destination": "/plugins/perplexity-search",
+      "permanent": true
+    },
+    {
+      "source": "/typingmind-custom/getting-started/typingmind-vs.-chatgpt-for-team",
+      "destination": "/typingmind-team/getting-started/typingmind-team-vs.-chatgpt-for-team",
+      "permanent": true
+    },
+    {
+      "source": "/typingmind-team/self-host-guides/get-started-with-self-host-installation-instruction-(docker)",
+      "destination": "/typingmind-team/self-host-guides/get-started-with-self-host-installation-instruct",
+      "permanent": true
+    },
+    {
+      "source": "/manage-and-connect-ai-models/openrouter-models",
+      "destination": "/manage-and-connect-ai-models/openrouter",
+      "permanent": true
+    },
+    {
+      "source": "/chat-models-settings/set-up-api-keys-on-typingmind",
+      "destination": "/manage-and-connect-ai-models/set-up-api-keys",
+      "permanent": true
+    },
+    {
+      "source": "/chat-models-settings/use-with-gemini",
+      "destination": "/manage-and-connect-ai-models/google-gemini",
+      "permanent": true
+    },
+    {
+      "source": "//typingmind-custom/getting-started/typingmind-vs.-chatgpt-for-team",
+      "destination": "/typingmind-team/getting-started/typingmind-team-vs.-chatgpt-for-team",
+      "permanent": true
+    },
+    {
+      "source": "/manage-and-connect-ai-models/openai-api-(gpt-5-gpt-4.1)",
+      "destination": "/manage-and-connect-ai-models/openai",
+      "permanent": true
+    },
+    {
+      "source": "/chat-models-settings/use-with-hugging-face-models",
+      "destination": "/manage-and-connect-ai-models/hugging-face-models",
+      "permanent": true
+    },
+    {
       "source": "/model-context-protocol-in-typingmind",
       "destination": "/model-context-protocol-(mcp)-in-typingmind",
       "permanent": true
@@ -708,10 +763,6 @@
     {
       "source": "/typingmind-custom/compare-with-chatgpt-team",
       "destination": "/typingmind-team/getting-started/typingmind-team-vs.-chatgpt-for-team"
-    },
-    {
-      "source": "/manage-and-connect-ai-models/xai",
-      "destination": "/manage-and-connect-ai-models/xai-(grok-ai)"
     },
     {
       "source": "/typingmind-custom/eu-data-center",
