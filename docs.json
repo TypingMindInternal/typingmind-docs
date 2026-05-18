@@ -610,6 +610,11 @@
   },
   "redirects": [
     {
+      "source": "/model-context-protocol-in-typingmind",
+      "destination": "/model-context-protocol-(mcp)-in-typingmind",
+      "permanent": true
+    },
+    {
       "source": "/typingmind-team/getting-started/typingmind-team:-cloud-host-vs-self-host",
       "destination": "/typingmind-team/getting-started/cloud-host-vs-self-host",
       "permanent": true
