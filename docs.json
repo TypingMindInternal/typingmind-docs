@@ -610,6 +610,11 @@
   },
   "redirects": [
     {
+      "source": "/other-resources/how-tos/build-a-typingmind-plugin",
+      "destination": "/plugins/build-a-typingmind-plugin",
+      "permanent": true
+    },
+    {
       "source": "/chat-models-settings/use-with-lmstudio-(phi-3-llama-3-falcon-gemma-gpt-neo-x)",
       "destination": "/manage-and-connect-ai-models/lmstudio",
       "permanent": true
