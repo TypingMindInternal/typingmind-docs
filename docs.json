@@ -610,6 +610,31 @@
   },
   "redirects": [
     {
+      "source": "/typingmind-custom/user-management/setup-oauth-2.0",
+      "destination": "/typingmind-team/user-management/o-auth-2-0",
+      "permanent": true
+    },
+    {
+      "source": "/set-up-system-message/initial-system-instruction",
+      "destination": "/system-prompt/system-instruction",
+      "permanent": true
+    },
+    {
+      "source": "/ai-characters/dynamic-context-via-api",
+      "destination": "/ai-agents/dynamic-context-via-api",
+      "permanent": true
+    },
+    {
+      "source": "/other-resources/affiliate-program",
+      "destination": "/affiliate-program-(closed)",
+      "permanent": true
+    },
+    {
+      "source": "/other-resources/translations",
+      "destination": "/app-translation/translation-collaboration",
+      "permanent": true
+    },
+    {
       "source": "/other-resources/how-tos/build-a-typingmind-plugin",
       "destination": "/plugins/build-a-typingmind-plugin",
       "permanent": true
