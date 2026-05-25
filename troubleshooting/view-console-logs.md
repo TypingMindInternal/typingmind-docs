@@ -2,22 +2,28 @@
 title: "View Console Logs"
 ---
 
-When working with TypingMind, we may sometimes ask you to capture a screenshot of your Console logs for troubleshooting to figure out what's causing the problem.
+When using TypingMind, we may occasionally ask you to provide a screenshot or a saved copy of your Console logs. This helps us identify the cause of an issue and troubleshoot it more effectively.
 
 ## On Web App
 
 Here are the steps on how to do it using Google Chrome Developer Tool:
 
-1. **Go to [TypingMind.com](http://TypingMind.com)** and reproduce the issue
-2. **Open Developer Tools**: right-click anywhere on the webpage and select `Inspect` from the context menu.
+1. Go to [**TypingMind.com**](http://TypingMind.com) and repeat the steps that caused the issue.
+2. **Open Developer Tools**: Right-click anywhere on the webpage and select **Inspect** from the context menu.
 
 ![Untitled](view-console-logs/Untitled.png)
 
-3. **Select the Console Tab**: a pane will appear either at the side or the bottom of your screen. In this pane, locate and select the `Console` tab.
+3. **Select the Console Tab**: a Developer Tools panel will appear on the side or at the bottom of your screen. Click the **Console** tab.
 
 ![Untitled](view-console-logs/Untitled%201.png)
 
-4. Right-click anywhere in the console output area and select **"Save as..."** from the context menu.
+**Note: Make sure all Console logs are visible -** If the Console sidebar is open on the left, click the **Console sidebar** icon in the top-left corner to close it.
+
+<Frame>
+  ![Console](/images/console.webp)
+</Frame>
+
+4. Right-click anywhere in the Console output area and select **Save as...** to save the logs to your computer.
 5. Send to [**support@typingmind.com**](mailto:support@typingmind.com)
 
 ## On SetApp
@@ -40,7 +46,7 @@ Here are steps to get Console log info if you are using the app through MacApp o
 
 ![Untitled](get-har-file/Untitled%202.png)
 
-5. Click on **Develop** \> **Select your Macbook** \> click on [**setapp.typingcloud.com**](http://setapp.typingcloud.com)** i**f you are using SetApp or click on [\*\*typingmind.com](http://typingmind.com)\*\* if you are using TypingMind Mac App
+5. Click on **Develop** \> **Select your Macbook** \> click on [**setapp.typingcloud.com**](http://setapp.typingcloud.com)\*\* i\*\*f you are using SetApp or click on [\*\*typingmind.com](http://typingmind.com)\*\* if you are using TypingMind Mac App
 
 ![Untitled](get-har-file/Untitled%204.png)
 
