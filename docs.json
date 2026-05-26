@@ -35,6 +35,12 @@
             ]
           },
           {
+            "group": "Switch to TypingMind",
+            "pages": [
+              "migrate-from-chat-gpt"
+            ]
+          },
+          {
             "group": "AI Models",
             "pages": [
               "manage-and-connect-ai-models",
