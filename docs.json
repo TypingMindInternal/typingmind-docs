@@ -37,7 +37,8 @@
           {
             "group": "Switch to TypingMind",
             "pages": [
-              "migrate-from-chat-gpt"
+              "migrate-from-chat-gpt",
+              "migrate-from-claude"
             ]
           },
           {

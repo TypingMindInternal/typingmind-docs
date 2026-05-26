@@ -1,0 +1,245 @@
+---
+title: "Migrate from Claude"
+icon: "arrow-right-left"
+---
+
+With **TypingMind**, you can continue using Claude models through your Anthropic API key while building a more flexible workspace around them.
+
+This guide explains how to move your Claude-based workflows into TypingMind and expand what you can do with them.
+
+## 1. Using Claude Models in TypingMind
+
+Switching to TypingMind does not mean giving up Claude.
+
+TypingMind supports Anthropic Claude models through your own Anthropic API key. Once your API key is added, you can enable available Claude models and continue using them directly in TypingMind.
+
+Go to **Models** → **API keys** to enter Anthropic API keys to use Claude models on TypingMind.
+
+<Frame>
+  ![Claude Anthropic](/images/claude-anthropic.webp)
+</Frame>
+
+Learn how to [set up Anthropic API key on TypingMind](/manage-and-connect-ai-models/anthropic-claude).
+
+## 2. Bring Claude Projects to TypingMind Project Folders
+
+If you previously used Claude Projects to organize work by topic, client, product, or knowledge source, the closest equivalent in TypingMind is [**Project Folders**](/chat-management/project-folders).
+
+TypingMind Project Folders are dedicated workspaces where you can configure:
+
+- A specific AI model or AI Agent.
+- Custom system instructions.
+- Relevant project documents.
+- Dynamic Context connected to your own data sources.
+- Related chats and tasks.
+
+![Project Folder](/images/project-folder.webp)
+
+For example, you can create individual Project Folders for:
+
+- Product Documentation.
+- Customer Support.
+- Marketing Content.
+- Research.
+- Software Development.
+- Internal Knowledge.
+
+Each new chat created inside a Project Folder can automatically use the model, AI Agent, instructions, and resources configured for that project. This helps you maintain the right context without repeatedly adding the same instructions or files to every conversation.
+
+## 4. Turn Reusable Claude Workflows into AI Agents
+
+If you often use Claude for a particular role, such as documentation writing, support replies, research, onboarding, or technical troubleshooting, you can turn that workflow into a reusable [**TypingMind AI Agent**](/ai-agents/ai-agents-overview).
+
+TypingMind AI Agents can be configured with:
+
+- Custom instructions and behavior.
+- A selected base AI model, including Claude models.
+- Custom model parameters.
+- Plugins and external tools.
+- Text-to-speech capabilities.
+- Uploaded training files.
+- Knowledge Base access for RAG workflows.
+- Dynamic Context through APIs.
+- Few-shot examples, welcome messages, and conversation starters.
+
+![Ai Agent](/images/ai-agent.webp)
+
+For example, you could create:
+
+- A **Claude-powered Documentation Writer** trained on your product terminology and preferred structure.
+- A **Customer Support Agent** with help center files, reply rules, and a web search plugin.
+- A **Research Agent** with browsing and external data tools enabled.
+- A **Developer Assistant** connected to technical documentation and API references.
+
+Your AI Agent can continue using Claude as its underlying model, while gaining dedicated instructions, knowledge, and tools for the task it was designed to handle. 
+
+## 5. Recreate Your Preferred Writing Style and Instructions
+
+Many Claude users develop repeatable ways of working, such as:
+
+- Always writing in a specific tone.
+- Following a documentation format.
+- Using particular terminology.
+- Returning answers in a structured output.
+
+In TypingMind, you can recreate these behaviors through
+
+- **System Instructions** for general response preferences.
+
+<Frame>
+  ![System Instruction](/images/system-instruction.webp)
+</Frame>
+
+- **Project Folder Instructions** for context limited to a specific project.
+
+<Frame>
+  ![Project Folder](/images/project-folder.webp)
+</Frame>
+
+- **Profiles** for different working identities or use cases.
+
+<Frame>
+  ![Chat Profiles](/images/chat-profiles.webp)
+</Frame>
+
+## 6. Continue Creating Artifacts and Structured Outputs
+
+If you use Claude to create documents, code, dashboards, UI prototypes, or other structured outputs, TypingMind also provides an **Artifacts** workspace.
+
+[TypingMind Artifacts](/plugins/interactive-canvas-\(artifacts\)) can be used to create, edit, and view outputs such as:
+
+- Documents.
+- Code snippets.
+- Dashboards.
+- Interactive prototypes.
+- Web pages and visual interfaces.
+
+<Frame>
+  ![Web App Builder](/images/web-app-builder.webp)
+</Frame>
+
+<Frame>
+  ![Web App Build](/images/web-app-build.webp)
+</Frame>
+
+This gives you a dedicated space for outputs that are better developed outside a standard chat reply, such as drafting a document, refining code, or building an interactive prototype.
+
+TypingMind also includes [**Canvas Editor**](/chat-management/edit-in-canvas) for revising AI-generated text or code directly, adjusting tone and style, and formatting content without repeatedly copying text between tools.
+
+## 7. Add Web Search, Images, Plugins and External Tools
+
+TypingMind extends your AI models through plugins and integrations.
+
+You can enable tools for workflows such as:
+
+- Searching the web for current information: Web Browsing
+- Reading content from a webpage: Firecrawl Web Page Reader
+- Generating images: GPT Image Editor, Dall-E, Stable Diffusion
+- Connecting external apps and services: Slack, Zapier
+- Connecting Model Context Protocol (MCP) servers: Notion, Github, Atlassian, Make, etc.
+
+Learn how to [use plugins on TypingMind](/plugins/use-typingmind-plugin).
+
+![Web Browsing](/images/web-browsing.webp)
+
+You can also build your own tools through HTTP actions, JavaScript code, or MCP. This lets you keep using Claude while adding the live information, image generation, business integrations, or custom tools required by your workflow.
+
+## 8. Work with Documents and Knowledge Sources
+
+TypingMind supports document-based workflows for both projects and AI Agents.
+
+You can:
+
+- Upload documents directly to a Project Folder or an AI Agent.
+- Connect a [Knowledge Base for RAG-based retrieval](/rag-knowledge-base).
+- Use [Dynamic Context](/ai-agents/dynamic-context-via-api) to retrieve data from an API or external knowledge source.
+
+This is useful when your Claude workflows depend on resources such as:
+
+- Product documentation.
+- Support guides.
+- Company policies.
+- Brand guidelines.
+- Technical specifications.
+- Research notes.
+- Internal knowledge sources.
+
+Instead of manually adding context in each new conversation, you can configure the required knowledge at the project or agent level so it is available throughout that workflow.
+
+## 9. Continue Using Voice Features
+
+TypingMind supports voice-based interactions for users who prefer speaking prompts or listening to responses.
+
+<Frame>
+  ![Stt](/images/stt.webp)
+</Frame>
+
+You can also assign text-to-speech capabilities directly to an AI Agent, giving specialized assistants their own voice output configuration.
+
+<Frame>
+  ![Tts 2](/images/tts-2.webp)
+</Frame>
+
+## 10. Go Beyond a Single AI Provider
+
+Claude may be your preferred model for many tasks, but it does not need to be your only option.
+
+TypingMind supports AI models from multiple providers, including:
+
+- Anthropic Claude.
+- OpenAI.
+- Google Gemini.
+- OpenRouter.
+- DeepSeek.
+- Moonshot / Kimi.
+- Mistral.
+- Groq.
+- Perplexity.
+- xAI.
+- [Z.ai](http://Z.ai).
+- Custom models and compatible endpoints.
+
+Instead of maintaining separate workflows across multiple AI apps, you can access different providers from one workspace. For example, you may continue using Claude for long-form writing, try Gemini for another type of file or multimodal task, or select another model based on cost, speed, availability, or output quality.
+
+TypingMind also supports [multi-model responses](https://docs.typingmind.com/manage-and-connect-ai-models/activate-multi-model-responses), allowing you to bring multiple AI models into the same conversation when you want to compare answers or explore different approaches.
+
+## 11. Keep Control of Your Data and API Keys
+
+TypingMind is designed as a local-first interface for AI APIs.
+
+By default:
+
+- Your chats, settings, and API keys are stored locally in your browser.
+- API requests go directly from your browser to the AI provider you connect.
+- Optional AES encryption can be enabled for your API key.
+- Cloud Sync for backup is optional.
+- Licensed users can use the static self-hosted package on their own private server and domain.
+
+When you use Claude models in TypingMind, your prompts and responses are processed through Anthropic’s API according to Anthropic’s applicable API policies. TypingMind provides the interface and workspace layer without receiving your chats by default.
+
+## 12. Use Skills for Specialized Tasks
+
+If you use **Skills** in Claude for specialized tasks and reusable workflows, TypingMind Skills are coming soon.
+
+With Skills, you will be able to extend your AI workflow with dedicated capabilities for specific tasks, making it easier to reuse specialized instructions and workflows across your workspace.
+
+## Claude to TypingMind Workflow Mapping
+
+| If You Used Claude For... | You Can Use in TypingMind... |
+| :-- | :-- |
+| Chatting with Claude models | Claude models through your Anthropic API key |
+| Project-based work | Project Folders |
+| Custom project instructions | Project Folder system instructions |
+| Reusable task-specific assistants | AI Agents |
+| Knowledge-based answers | Uploaded files, Knowledge Base or Dynamic Context |
+| Documents, code or prototypes | Artifacts and Canvas Editor |
+| Current web information | Web Browser, Perplexity Search or web-reading plugins |
+| Image generation | GPT Image Editor, DALL·E or Stable Diffusion plugins |
+| Custom integrations | HTTP actions, JavaScript tools or MCP |
+| Voice workflows | Voice Input and Text-to-Speech |
+| Working with other AI providers | GPT, Gemini, DeepSeek, Kimi, Mistral, xAI and more |
+| Claude Skills | Coming soon on TypingMind. |
+
+## Build More Around Claude with TypingMind
+
+Instead of choosing between Claude and other models, TypingMind lets you bring them together in one workspace where you can do more configuration and get more personalized responses.
