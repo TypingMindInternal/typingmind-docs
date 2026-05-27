@@ -2,8 +2,6 @@
 title: "Stable Diffusion (Image Generation)"
 ---
 
-Beside [Dall-E](Dall-E%203%20\(Image%20Generation\)%204f154f4e198e469d88b76b2c199f7cb4.md), you can also use Stable Diffusion v2 and v3 to generate images.
-
 Here are some quick steps to use Stable Diffusion to generate images on TypingMind:
 
 ## Step 1: Get Stable Diffusion API Key

@@ -2,6 +2,10 @@
 title: "Dall-E 3 (Image Generation)"
 ---
 
+<Warning>
+  This plugin uses the DALL-E 3 model, which is deprecated by OpenAI. We recommend switching to the GPT Image Editor plugin for image generation and editing.
+</Warning>
+
 Dall-E 3 works as a plugin on TypingMind.
 
 Please follow the steps below to use Dall-3 plugin on TypingMind
