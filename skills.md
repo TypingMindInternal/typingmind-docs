@@ -15,13 +15,7 @@ title: "Skills in TypingMind"
 In TypingMind, Skills sit next to **Plugins**, **MCP connectors**, and **model tools** under **Plugins** in the sidebar. You install them once, then turn them on or off per chat when you need them. Skills load on demand — the model only reads full instructions when your task matches a skill you've enabled.
 
 <Frame>
-  <video
-    controls
-    className="w-full aspect-video"
-    src="skills/using-skills-in-typingmind.mp4"
-  >
-    Your browser does not support the video tag.
-  </video>
+  ![using-skills-in-typingmind.gif](skills/using-skills-in-typingmind.gif)
 </Frame>
 
 ## Browse and install from the Skills store
