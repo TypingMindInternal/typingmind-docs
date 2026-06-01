@@ -75,7 +75,8 @@
                   "manage-and-connect-ai-models/fireworks-ai",
                   "manage-and-connect-ai-models/minimax",
                   "manage-and-connect-ai-models/groq-api",
-                  "manage-and-connect-ai-models/xiaomi"
+                  "manage-and-connect-ai-models/xiaomi",
+                  "manage-and-connect-ai-models/vercel"
                 ]
               },
               {
@@ -244,6 +245,12 @@
             ]
           },
           {
+            "group": "Skills",
+            "pages": [
+              "skills"
+            ]
+          },
+          {
             "group": "Chat Management",
             "pages": [
               {
@@ -376,12 +383,6 @@
                   "llm-automated-workflows/landing-page-conversion-optimizer"
                 ]
               }
-            ]
-          },
-          {
-            "group": "Skills",
-            "pages": [
-              "skills"
             ]
           },
           {

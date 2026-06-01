@@ -1,5 +1,6 @@
 ---
 title: "Agent Skills"
+icon: "sparkles"
 ---
 
 <Frame>
