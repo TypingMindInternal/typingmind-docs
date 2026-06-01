@@ -4,7 +4,7 @@ title: "Chutes AI"
 
 Chutes is the leading open-source, decentralized compute provider for deploying, scaling and running open-source models in production.
 
-This guide will walk you through connecting your Chutes AI models to TypingMind using a custom model setup.
+This guide will walk you through connecting your Chutes AI models to TypingMind!
 
 ## Step 1: Set up Chutes AI account
 
@@ -26,7 +26,26 @@ Go to [https://chutes.ai/app/api](https://chutes.ai/app/api) to create an API ke
 
 Copy your API key and keep it in a secure place - you will need it in the next step.
 
-## Step 3: Set up custom model on TypingMind
+## Step 3: Use Chutes AI models on TypingMind
+
+### 1. Use available Chutes AI models 
+
+- Go to [typingmind.com](http://typingmind.com) 
+- Go to Models → Switch to API keys tab and enter the API key for Chutes
+
+<Frame>
+  ![Chutes Api Key](/images/chutes_api_key.webp)
+</Frame>
+
+After that, switch back to Models tab → Select Chutes and enable the models you want to chat with.
+
+<Frame>
+  ![Chutes Models](/images/chutes_models.webp)
+</Frame>
+
+### 2. Use Chutes AI models as custom models
+
+This is usually helpful when a new model is released and the app has not been updated yet.
 
 1. Open TypingMind
 2. Go to **Models → Add Custom Model**

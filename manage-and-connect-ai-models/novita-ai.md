@@ -2,7 +2,7 @@
 title: "Novita AI"
 ---
 
-It’s easy to setup Typing Mind for using the available models on Novita AI ([https://novita.ai/](https://novita.ai/)). Here is a quick guide.
+It’s easy to set up TypingMind to use the models available on Novita AI ([https://novita.ai/](https://novita.ai/)). Here’s a quick guide.
 
 ## Get a Novita AI account
 
@@ -10,11 +10,30 @@ You can sign up from [https://novita.ai/user/login](https://novita.ai/user/login
 
 ![image.webp](novita-ai/image.webp)
 
-## Add a custom model in Typing Mind:
+## Set up Novita Models on TypingMind
 
-Go to [typingmind.com](http://typingmind.com) and create a new Custom Model as follow:
+You have two options to set up Novita Models on TypingMind:
 
-- Go to Models → Click Add Custom Model
+### 1. Use available Novita models 
+
+- Go to [typingmind.com](http://typingmind.com) 
+- Go to Models → Switch to API keys tab and enter the API key for Novita
+
+<Frame>
+  ![Novita Api Key](/images/novita_api_key.webp)
+</Frame>
+
+After that, switch back to Models tab → Select Novita and enable the models you want to chat with.
+
+<Frame>
+  ![Novita Models](/images/novita_models.webp)
+</Frame>
+
+### 2. Use Novita models as custom models
+
+This is usually helpful when a new model is released and the app has not been updated yet.
+
+- Go to Models → Click Add Custom Models
 - Enter any model name.
 - Enter the exact endpoint from the [API document](https://novita.ai/docs/guides/llm-api): [`https://api.novita.ai/v3/openai/chat/completions`](https://api.novita.ai/v3/openai/chat/completions)
 - Enter the Model ID and context length: for example, `deepseek/deepseek-r1-0528`, `meta-llama/llama-4-scout-17b-16e-instruct` . You can view all available models here: [https://novita.ai/models-console](https://novita.ai/models-console)
@@ -24,7 +43,7 @@ Go to [typingmind.com](http://typingmind.com) and create a new Custom Model as f
 
 ![image.webp](novita-ai/image%201.webp)
 
-## Use Novita AI Models in Typing Mind
+## Use Novita AI Models in TypingMind
 
 You can now select the newly created custom model and chat with it.
 

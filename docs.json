@@ -69,18 +69,18 @@
                   "manage-and-connect-ai-models/deepinfra",
                   "manage-and-connect-ai-models/perplexity-ai",
                   "manage-and-connect-ai-models/xai",
-                  "manage-and-connect-ai-models/z.ai"
+                  "manage-and-connect-ai-models/z.ai",
+                  "manage-and-connect-ai-models/novita-ai",
+                  "manage-and-connect-ai-models/chutes-ai",
+                  "manage-and-connect-ai-models/fireworks-ai"
                 ]
               },
               {
                 "group": "Custom Models",
                 "icon": "wrench",
                 "pages": [
-                  "manage-and-connect-ai-models/novita-ai",
                   "manage-and-connect-ai-models/azure-openai",
                   "manage-and-connect-ai-models/anthropic-models-via-azure",
-                  "manage-and-connect-ai-models/chutes-ai",
-                  "manage-and-connect-ai-models/fireworks-ai",
                   "manage-and-connect-ai-models/minimax",
                   "manage-and-connect-ai-models/google-gemini-as-custom-model",
                   "manage-and-connect-ai-models/ollama",
