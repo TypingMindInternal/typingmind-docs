@@ -72,7 +72,9 @@
                   "manage-and-connect-ai-models/z.ai",
                   "manage-and-connect-ai-models/novita-ai",
                   "manage-and-connect-ai-models/chutes-ai",
-                  "manage-and-connect-ai-models/fireworks-ai"
+                  "manage-and-connect-ai-models/fireworks-ai",
+                  "manage-and-connect-ai-models/minimax",
+                  "manage-and-connect-ai-models/groq-api"
                 ]
               },
               {
@@ -81,10 +83,8 @@
                 "pages": [
                   "manage-and-connect-ai-models/azure-openai",
                   "manage-and-connect-ai-models/anthropic-models-via-azure",
-                  "manage-and-connect-ai-models/minimax",
                   "manage-and-connect-ai-models/google-gemini-as-custom-model",
                   "manage-and-connect-ai-models/ollama",
-                  "manage-and-connect-ai-models/groq-api",
                   "manage-and-connect-ai-models/lmstudio",
                   "manage-and-connect-ai-models/aws-bedrock-anthropic",
                   "manage-and-connect-ai-models/local-ai",

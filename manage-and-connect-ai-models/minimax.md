@@ -16,7 +16,28 @@ You can go to [https://platform.minimax.io/user-center/basic-information/interfa
 
 ![image.webp](minimax/image%201.webp)
 
-## Step 3: Set up MiniMax as custom model on TypingMind
+## Step 3: Use MiniMax models on TypingMind
+
+You have two options for setting up Minimax models on TypingMind:
+
+### 1. Use available Minimax models
+
+- Go to [typingmind.com](http://typingmind.com)
+- Go to Models → Switch to API keys tab and enter the API key for Minimax
+
+<Frame>
+  ![Minimax Api](/images/minimax_api.webp)
+</Frame>
+
+After that, switch back to Models tab → Select Minimax and enable the models you want to chat with.
+
+<Frame>
+  ![Minimax Models](/images/minimax_models.webp)
+</Frame>
+
+### 2. Use Minimax as custom models
+
+This option is useful when a new model is released but hasn’t been added to the app yet.
 
 On TypingMind, go to Models → Add Custom Models and enter the following details:
 
@@ -30,15 +51,7 @@ On TypingMind, go to Models → Add Custom Models and enter the following detail
 
 ![image.webp](minimax/image%202.webp)
 
-<aside>
-  💡
-
-  MiniMax M2 is currently available for free, so you don’t need to top up any API credits at this time.
-
-  In the future, you may need to add credits at [https://platform.minimax.io/user-center/payment/balance](https://platform.minimax.io/user-center/payment/balance) to continue using the models via API.
-</aside>
-
-## Step 4: Use MiniMax M2 via TypingMind
+## Step 4: Use MiniMax models via TypingMind
 
 Start a conversation with MiniMax on TypingMind!
 
