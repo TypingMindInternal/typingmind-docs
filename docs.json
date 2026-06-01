@@ -74,7 +74,8 @@
                   "manage-and-connect-ai-models/chutes-ai",
                   "manage-and-connect-ai-models/fireworks-ai",
                   "manage-and-connect-ai-models/minimax",
-                  "manage-and-connect-ai-models/groq-api"
+                  "manage-and-connect-ai-models/groq-api",
+                  "manage-and-connect-ai-models/xiaomi"
                 ]
               },
               {
@@ -438,6 +439,12 @@
                   "affiliate-program-(closed)"
                 ]
               }
+            ]
+          },
+          {
+            "group": "Skills",
+            "pages": [
+              "use-skills"
             ]
           }
         ]
