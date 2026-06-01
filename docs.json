@@ -379,6 +379,12 @@
             ]
           },
           {
+            "group": "Skills",
+            "pages": [
+              "skills"
+            ]
+          },
+          {
             "group": "Account & support",
             "pages": [
               {
@@ -439,12 +445,6 @@
                   "affiliate-program-(closed)"
                 ]
               }
-            ]
-          },
-          {
-            "group": "Skills",
-            "pages": [
-              "use-skills"
             ]
           }
         ]
