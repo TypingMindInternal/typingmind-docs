@@ -2,7 +2,9 @@
 title: "Skills in TypingMind"
 ---
 
-![skills-typingmind.webp](skills/skills-typingmind.webp)
+<Frame>
+  ![skills-typingmind.webp](skills/skills-typingmind.webp)
+</Frame>
 
 **Skills** are bundled procedural knowledge for specific tasks — SEO audits, copywriting, code reviews, brainstorming, and more. Each skill is a package built around a `SKILL.md` file (instructions plus optional reference files), following the open [Agent Skills](https://agentskills.io) standard.
 
@@ -12,7 +14,15 @@ title: "Skills in TypingMind"
 
 In TypingMind, Skills sit next to **Plugins**, **MCP connectors**, and **model tools** under **Plugins** in the sidebar. You install them once, then turn them on or off per chat when you need them. Skills load on demand — the model only reads full instructions when your task matches a skill you've enabled.
 
-[using-skills-in-typingmind.mov](skills/using-skills-in-typingmind.mov)
+<Frame>
+  <video
+    controls
+    className="w-full aspect-video"
+    src="skills/using-skills-in-typingmind.mp4"
+  >
+    Your browser does not support the video tag.
+  </video>
+</Frame>
 
 ## Browse and install from the Skills store
 
@@ -24,15 +34,21 @@ To open it:
 - Under **Store**, select **Skills**
 - Search or scroll the grid, then click **Install** on any skill
 
-![browse-install-skills.webp](skills/browse-install-skills.webp)
+<Frame>
+  ![browse-install-skills.webp](skills/browse-install-skills.webp)
+</Frame>
 
 To install several skills at once, use **Select multiple** (checklist icon), pick the skills you want, then confirm **Install N skills**.
 
-![install-multiple-skills.webp](skills/install-multiple-skills.webp)
+<Frame>
+  ![install-multiple-skills.webp](skills/install-multiple-skills.webp)
+</Frame>
 
 After installation, skills appear under **Installed → Skills**. Each install is a **frozen snapshot** from the source — it does not auto-update when the store listing changes. To get a newer version, uninstall and install again.
 
-![installed-skills.webp](skills/installed-skills.webp)
+<Frame>
+  ![installed-skills.webp](skills/installed-skills.webp)
+</Frame>
 
 
 ## Add skills from GitHub or a .zip file
@@ -44,7 +60,9 @@ You can import community skill packs or your own private skills.
 - For GitHub: paste a public repo URL, folder URL, or shorthand like `owner/repo` (single skill folder or a folder with many skills, e.g. `skills/`)
 - Click **Continue**, select which skills to install, then **Install skill** or **Install N skills**
 
-![upload-skill-zip-files.webp](skills/upload-skill-zip-files.webp)
+<Frame>
+  ![upload-skill-zip-files.webp](skills/upload-skill-zip-files.webp)
+</Frame>
 
 <Info>
   Installing from GitHub requires you to be signed in to **TypingMind Cloud Sync** (free account). If you are not signed in, use the **From .zip file** tab instead. Only **public** GitHub repositories are supported.
@@ -72,11 +90,15 @@ Skills only run when **plugins** are enabled for the current chat.
 3. Expand **Skills** and toggle on the skills you want for this conversation
 4. Send your message — you do not need to type the skill name
 
-![use-skills-with-multi-ai-models.webp](skills/use-skills-with-multi-ai-models.webp)
+<Frame>
+  ![use-skills-with-multi-ai-models.webp](skills/use-skills-with-multi-ai-models.webp)
+</Frame>
 
 If your request matches a skill’s description, the model loads it and you will see a line like **Skills → Load skill `seo-programmatic`** before the detailed answer:
 
-![skills-are-used-in-chats.webp](skills/skills-are-used-in-chats.webp)
+<Frame>
+  ![skills-are-used-in-chats.webp](skills/skills-are-used-in-chats.webp)
+</Frame>
 
 Use **Manage plugins** at the bottom of the menu to open the full Plugins page.
 
