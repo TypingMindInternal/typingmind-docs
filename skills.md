@@ -1,5 +1,5 @@
 ---
-title: "Skills in TypingMind"
+title: "Agent Skills"
 ---
 
 <Frame>
@@ -48,12 +48,11 @@ After installation, skills appear under **Installed → Skills**. Each install i
   ![installed-skills.webp](skills/installed-skills.webp)
 </Frame>
 
-
 ## Add skills from GitHub or a .zip file
 
 You can import community skill packs or your own private skills.
 
-- On the Skills store page, click **+ Add skill**
+- On the Skills store page, click **\+ Add skill**
 - Choose **From GitHub URL** or **From .zip file**
 - For GitHub: paste a public repo URL, folder URL, or shorthand like `owner/repo` (single skill folder or a folder with many skills, e.g. `skills/`)
 - Click **Continue**, select which skills to install, then **Install skill** or **Install N skills**
@@ -104,7 +103,7 @@ Use **Manage plugins** at the bottom of the menu to open the full Plugins page.
 
 Skills use **progressive disclosure** — TypingMind does not inject every skill’s full instructions into every message.
 
-1. **Catalog (always on when skills are enabled)** — For each skill you turned on in the current chat, TypingMind adds a short entry (name + when to use it) to the system context.
+1. **Catalog (always on when skills are enabled)** — For each skill you turned on in the current chat, TypingMind adds a short entry (name \+ when to use it) to the system context.
 2. **Load on demand** — When your request matches a skill, the model calls **Load skill** (for example `seo-programmatic`). You see a **Skills → Load skill** line in the conversation.
 3. **Follow instructions** — The model receives the full `SKILL.md` body and follows it for the rest of the reply.
 4. **Optional files** — If the skill bundles templates, examples, or data files, the model can read them via **Read skill resource** (you do not open these files yourself).
