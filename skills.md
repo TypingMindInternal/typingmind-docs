@@ -63,8 +63,6 @@ Select any skill under **Installed → Skills** to open its detail page:
 
 Click **Uninstall** to remove a skill. Unlike custom JavaScript plugins, skills cannot be edited inside TypingMind — reinstall or re-import an updated package if you need changes.
 
-![manage-skills.webp](skills/manage-skills.webp)
-
 ## Use skills in a chat
 
 Skills only run when **plugins** are enabled for the current chat.
