@@ -15,7 +15,11 @@ title: "Skills in TypingMind"
 In TypingMind, Skills sit next to **Plugins**, **MCP connectors**, and **model tools** under **Plugins** in the sidebar. You install them once, then turn them on or off per chat when you need them. Skills load on demand — the model only reads full instructions when your task matches a skill you've enabled.
 
 <Frame>
-  ![using-skills-in-typingmind.gif](skills/using-skills-in-typingmind.gif)
+  <img
+    src="/images/using-skills-in-typingmind.gif"
+    alt="Using skills in TypingMind to generate a bento grid design"
+    noZoom
+  />
 </Frame>
 
 ## Browse and install from the Skills store
