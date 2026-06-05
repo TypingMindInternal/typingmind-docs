@@ -1,10 +1,10 @@
 ---
-title: 'Data Processing Agreement'
+title: "Data Processing Agreement"
 ---
 
-This Data Protection Agreement (« Agreement ») is entered into between Devuap LLC and the undersigned Customer identified in the applicable Appendix I at Controller section and the signature block below (« Customer ») as of the last date beneath Customer’s and Devuap LLC’s signature blocks below (« Addendum Effective Date »). This Agreement forms part of the agreement between Customer and Devuap LLC covering Customer’s use of the Services (as defined below).
+This Data Protection Agreement (« Agreement ») is entered into between Typing Technology Co. Ltd. and the undersigned Customer identified in the applicable Appendix I at Controller section and the signature block below (« Customer ») as of the last date beneath Customer’s and Typing Technology Co. Ltd.’s signature blocks below (« Addendum Effective Date »). This Agreement forms part of the agreement between Customer and Typing Technology Co. Ltd. covering Customer’s use of the Services (as defined below).
 
-### ***Clause 1: Purpose and scope***
+### **_Clause 1: Purpose and scope_**
 
 (a)    The purpose of this Agreement is to ensure compliance with Article 28(3) and (4) of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data.
 
@@ -18,13 +18,13 @@ This Data Protection Agreement (« Agreement ») is entered into between Devua
 
 (f)    These Clauses do not by themselves ensure compliance with obligations related to international transfers in accordance with Chapter V of Regulation (EU) 2016/679. They are herein completed by Standard Contractual Clauses for personal data transfers outside the European Union/European Economic Area (EU/EEA) if needed.
 
-### ***Clause 2: Invariability of the Clauses***
+### **_Clause 2: Invariability of the Clauses_**
 
 (a)    The Parties undertake not to modify the Clauses, except for adding information to the Appendixes or updating information in them.
 
 (b)    This does not prevent the Parties from including these Clauses in a broader contract, or from adding other clauses or additional safeguards provided that they do not directly or indirectly contradict  the Clauses or detract from the fundamental rights or freedoms of data subjects.
 
-### ***Clause 3: Interpretation***
+### **_Clause 3: Interpretation_**
 
 (a)    Where these Clauses use the terms defined in Regulation (EU) 2016/679, those terms have the same meaning as in that Regulation.
 
@@ -32,11 +32,11 @@ This Data Protection Agreement (« Agreement ») is entered into between Devua
 
 (c)    These Clauses are not to be interpreted in a way that runs counter to the rights and obligations provided for in Regulation (EU) 2016/679 or in a way that prejudices the fundamental rights or freedoms of the data subjects.
 
-### ***Clause 4: Hierarchy***
+### **_Clause 4: Hierarchy_**
 
 In the event of a contradiction between these Clauses and the provisions of related agreements between the Parties existing at the time when these Clauses are agreed or entered into thereafter, these Clauses will prevail.
 
-### ***Clause 5: Docking clause***
+### **_Clause 5: Docking clause_**
 
 (a)    Any entity that is not a Party to these Clauses may, with the agreement of all the Parties, accede to these Clauses at any time as a controller or a processor by completing the Appendixes and signing Appendix I.
 
@@ -44,106 +44,106 @@ In the event of a contradiction between these Clauses and the provisions of rela
 
 (c)    The acceding entity will have no rights or obligations resulting from these Clauses from the period prior to becoming a Party.
 
-### ***Clause 6: Description of processing(s)***
+### **_Clause 6: Description of processing(s)_**
 
 The details of the processing operations, in particular the categories of personal data and the purposes of processing for which the personal data is processed on behalf of the Customer, are specified in Appendix II.
 
-### ***Clause 7: Roles of the Parties***
+### **_Clause 7: Roles of the Parties_**
 
 **7.1. Instructions**
 
-(a)    Devuap LLC processes personal data only on documented instructions from the Customer, unless required to do so by Union or Member State law to which Devuap LLC is subject. In this case, Devuap LLC will inform the Customer of that legal requirement before processing, unless the law prohibits this on important grounds of public interest. Subsequent instructions may also be given by the Customer throughout the duration of the processing of personal data. These instructions are always to be documented.
+(a)    Typing Technology Co. Ltd. processes personal data only on documented instructions from the Customer, unless required to do so by Union or Member State law to which Typing Technology Co. Ltd. is subject. In this case, Typing Technology Co. Ltd. will inform the Customer of that legal requirement before processing, unless the law prohibits this on important grounds of public interest. Subsequent instructions may also be given by the Customer throughout the duration of the processing of personal data. These instructions are always to be documented.
 
-(b)    Devuap LLC immediately informs the Customer if, in Devuap LLC’s opinion, instructions given by the Customer infringe Regulation (EU) 2016/679 or the applicable Union or Member State data protection provisions.
+(b)    Typing Technology Co. Ltd. immediately informs the Customer if, in Typing Technology Co. Ltd.’s opinion, instructions given by the Customer infringe Regulation (EU) 2016/679 or the applicable Union or Member State data protection provisions.
 
 **7.2. Purpose limitation**
 
-Devuap LLC processes the personal data only for the specific purpose(s) of the processing, as set out in Appendix II, unless it receives further instructions from the Customer.
+Typing Technology Co. Ltd. processes the personal data only for the specific purpose(s) of the processing, as set out in Appendix II, unless it receives further instructions from the Customer.
 
 **7.3. Duration of the processing of personal data**
 
-Processing by Devuap LLC only takes place for the duration specified in Appendix II.
+Processing by Typing Technology Co. Ltd. only takes place for the duration specified in Appendix II.
 
 **7.4. Security of processing**
 
-(a)    Devuap LLC implements the technical and organizational measures specified in Appendix III to ensure the security of the personal data. This includes protecting the data against a breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access to the data (personal data breach). In assessing the appropriate level of security, the Parties shall take due account of the state of the art, the costs of implementation, the nature, scope, context and purposes of processing and the risks involved for the data subjects.
+(a)    Typing Technology Co. Ltd. implements the technical and organizational measures specified in Appendix III to ensure the security of the personal data. This includes protecting the data against a breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access to the data (personal data breach). In assessing the appropriate level of security, the Parties shall take due account of the state of the art, the costs of implementation, the nature, scope, context and purposes of processing and the risks involved for the data subjects.
 
 (b)    No provision of this Agreement includes the right to, and Customer may not, directly or indirectly, enable any person or entity other than authorized users to access or use the Services, or use (or permit others to use) the Services other than as described in the applicable Agreement.
 
-(c)    Devuap LLC grants access to the personal data undergoing processing to members of its personnel only to the extent strictly necessary for implementing, managing and monitoring the contract. Devuap LLC ensures that persons authorized to process the personal data received have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.
+(c)    Typing Technology Co. Ltd. grants access to the personal data undergoing processing to members of its personnel only to the extent strictly necessary for implementing, managing and monitoring the contract. Typing Technology Co. Ltd. ensures that persons authorized to process the personal data received have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.
 
 **7.5. Sensitive data**
 
-(a)    If the processing involves personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data or biometric data for the purpose of uniquely identifying a natural person, data concerning health or a person’s sex life or sexual orientation, or data relating to criminal convictions and offences (“sensitive data”), Devuap LLC applies specific restrictions and/or additional safeguards.
+(a)    If the processing involves personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data or biometric data for the purpose of uniquely identifying a natural person, data concerning health or a person’s sex life or sexual orientation, or data relating to criminal convictions and offences (“sensitive data”), Typing Technology Co. Ltd. applies specific restrictions and/or additional safeguards.
 
-(b)    Without limiting its responsibilities under this Agreement, Customer is responsible for ensuring that no sensitive data is submitted to Devuap LLC when not necessary for the processing activities available in Appendix II.
+(b)    Without limiting its responsibilities under this Agreement, Customer is responsible for ensuring that no sensitive data is submitted to Typing Technology Co. Ltd. when not necessary for the processing activities available in Appendix II.
 
 **7.6 Compliance with documented instructions**
 
 (a)    The Parties are able to demonstrate compliance with these Clauses.
 
-(b)    Devuap LLC deals promptly and adequately with inquiries from the Customer about the processing of data in accordance with these Clauses.
+(b)    Typing Technology Co. Ltd. deals promptly and adequately with inquiries from the Customer about the processing of data in accordance with these Clauses.
 
 **7.7 Audit**
 
-(a)    Upon request, Devuap LLC makes available to the Customer all information necessary to demonstrate compliance with the obligations that are set out in these Clauses and stem directly from Regulation (EU) 2016/679. At the Customer’s request, Devuap LLC also permits and contributes to audits of the processing activities covered by these Clauses.
+(a)    Upon request, Typing Technology Co. Ltd. makes available to the Customer all information necessary to demonstrate compliance with the obligations that are set out in these Clauses and stem directly from Regulation (EU) 2016/679. At the Customer’s request, Typing Technology Co. Ltd. also permits and contributes to audits of the processing activities covered by these Clauses.
 
-(b)    For any intended audit or inspection, the Customer undertakes to notify Devuap LLC by providing a reasonable prior written notice at least fourteen (14) business days before the audit or the inspection.
+(b)    For any intended audit or inspection, the Customer undertakes to notify Typing Technology Co. Ltd. by providing a reasonable prior written notice at least fourteen (14) business days before the audit or the inspection.
 
-(c)    The Customer may choose to conduct the audit by itself or mandate an independent auditor. In deciding on a review or an audit, the Customer may take into account relevant certifications held by Devuap LLC.
+(c)    The Customer may choose to conduct the audit by itself or mandate an independent auditor. In deciding on a review or an audit, the Customer may take into account relevant certifications held by Typing Technology Co. Ltd..
 
 (d)    The Parties makes the information referred to in this Clause, including the results of any audits, available to the competent supervisory authority/ies on request.
 
 **7.8. General authorization for the use of sub-processors**
 
-(a)    Devuap LLC has the Customer’s general authorization for the engagement of sub-processors from an agreed list available below in Appendix II.
+(a)    Typing Technology Co. Ltd. has the Customer’s general authorization for the engagement of sub-processors from an agreed list available below in Appendix II.
 
-(b)    Devuap LLC will endeavor to give the Customer written notice of any intended changes of that list through the addition or replacement of sub-processors at least thirty (30) days in advance, thereby giving the Customer fifteen (15) days to object on reasonable grounds to such changes prior to the engagement of the concerned sub-processor(s) by sending an email to support@typingmind.com.
+(b)    Typing Technology Co. Ltd. will endeavor to give the Customer written notice of any intended changes of that list through the addition or replacement of sub-processors at least thirty (30) days in advance, thereby giving the Customer fifteen (15) days to object on reasonable grounds to such changes prior to the engagement of the concerned sub-processor(s) by sending an email to [support@typingmind.com](mailto:support@typingmind.com).
 
-(c)    The Customer acknowledges that certain sub-processors are essential to providing the Services and that objecting to the use of a sub-processor may prevent Devuap LLC from offering the Services to the Customer. If the Customer does not object to the engagement of a sub-processor in accordance within fifteen (15) days of notice by Devuap LLC, that sub-processor will be deemed an authorised sub-processor for the purposes of this Agreement.
+(c)    The Customer acknowledges that certain sub-processors are essential to providing the Services and that objecting to the use of a sub-processor may prevent Typing Technology Co. Ltd. from offering the Services to the Customer. If the Customer does not object to the engagement of a sub-processor in accordance within fifteen (15) days of notice by Typing Technology Co. Ltd., that sub-processor will be deemed an authorised sub-processor for the purposes of this Agreement.
 
-(d)    Where Devuap LLC engages a sub-processor for carrying out specific processing activities (on behalf of the Customer), it will do so by way of a contract which imposes on the sub-processor, in substance, the same data protection obligations as the ones imposed on Devuap LLC in accordance with these Clauses. Devuap LLC will ensure that the sub-processor complies with the obligations to which Devuap LLC is subject pursuant to these Clauses and to Regulation (EU) 2016/679.
+(d)    Where Typing Technology Co. Ltd. engages a sub-processor for carrying out specific processing activities (on behalf of the Customer), it will do so by way of a contract which imposes on the sub-processor, in substance, the same data protection obligations as the ones imposed on Typing Technology Co. Ltd. in accordance with these Clauses. Typing Technology Co. Ltd. will ensure that the sub-processor complies with the obligations to which Typing Technology Co. Ltd. is subject pursuant to these Clauses and to Regulation (EU) 2016/679.
 
-(e)    At the Customer’s request, Devuap LLC provides a copy of such a sub-processor agreement and any subsequent amendments to the Customer. To the extent necessary to protect business secret or other confidential information, including personal data, Devuap LLC may redact the text of the agreement prior to sharing the copy.
+(e)    At the Customer’s request, Typing Technology Co. Ltd. provides a copy of such a sub-processor agreement and any subsequent amendments to the Customer. To the extent necessary to protect business secret or other confidential information, including personal data, Typing Technology Co. Ltd. may redact the text of the agreement prior to sharing the copy.
 
-(f)    Devuap LLC remains fully responsible to the Customer for the performance of the sub-processor’s obligations in accordance with its contract with Devuap LLC. Devuap LLC will notify the Customer of any failure by the sub-processor to fulfill its contractual obligations.
+(f)    Typing Technology Co. Ltd. remains fully responsible to the Customer for the performance of the sub-processor’s obligations in accordance with its contract with Typing Technology Co. Ltd. Typing Technology Co. Ltd. will notify the Customer of any failure by the sub-processor to fulfill its contractual obligations.
 
 **7.9. Personal data transfers outside the EU/EEA**
 
-(a)    Any transfer of personal data to a country or an international organization outside the EU/EEA by Devuap LLC is operated only on the basis of performing the services for and to the Customer or in order to fulfill a specific requirement under Union or Member State law to which Devuap LLC is subject and shall take place in compliance with Chapter V of Regulation (EU) 2016/679.
+(a)    Any transfer of personal data to a country or an international organization outside the EU/EEA by Typing Technology Co. Ltd. is operated only on the basis of performing the services for and to the Customer or in order to fulfill a specific requirement under Union or Member State law to which Typing Technology Co. Ltd. is subject and shall take place in compliance with Chapter V of Regulation (EU) 2016/679.
 
-(b)    If the storage and/or processing of Personal Data as described in Appendix II involves a transfer of personal data to Devuap LLC outside of the EU/EEA, and Regulation (EU) 2016/679 applies to the transfer, then Standard Contractual Clauses for the transfer of personal data to third countries (hereinafter “SCCs”) are to be incorporated into and form a part of this Agreement in accordance.
+(b)    If the storage and/or processing of Personal Data as described in Appendix II involves a transfer of personal data to Typing Technology Co. Ltd. outside of the EU/EEA, and Regulation (EU) 2016/679 applies to the transfer, then Standard Contractual Clauses for the transfer of personal data to third countries (hereinafter “SCCs”) are to be incorporated into and form a part of this Agreement in accordance.
 
-(c)    The Customer agrees that where Devuap LLC engages a sub-processor in accordance with Clause 7.7. for carrying out specific processing activities (on behalf of the Customer) and those processing activities involve a transfer of personal data within the meaning of Chapter V of Regulation (EU) 2016/679, Devuap LLC and the sub-processor can ensure compliance with Chapter V of Regulation (EU) 2016/679 by, in particular:
+(c)    The Customer agrees that where Typing Technology Co. Ltd. engages a sub-processor in accordance with Clause 7.7. for carrying out specific processing activities (on behalf of the Customer) and those processing activities involve a transfer of personal data within the meaning of Chapter V of Regulation (EU) 2016/679, Typing Technology Co. Ltd. and the sub-processor can ensure compliance with Chapter V of Regulation (EU) 2016/679 by, in particular:
 
 1. implementing appropriate safeguards such as SCCs adopted by the Commission in accordance with Article 46(2) of Regulation (EU) 2016/679, provided the conditions for the use of those SCCs are met, or
 2. being subject to binding corporate rules in accordance with Article 47 of Regulation (EU) 2016/679, or
 3. ensuring that such transfer is covered by a decision of adequacy by the European Commission in accordance with Article 45 of Regulation (EU) 2016/679, or
 4. complying to the derogations for specific situations in accordance with Article 49 of Regulation (EU) 2016/679.
 
-### ***Clause 8: Assistance to the Customer***
+### **_Clause 8: Assistance to the Customer_**
 
 **8.1 Data subjects rights**
 
-(a)    Devuap LLC promptly notifies the Customer of any request it has received from the data subject. It will not respond to the request itself, unless authorized to do so by the Customer.
+(a)    Typing Technology Co. Ltd. promptly notifies the Customer of any request it has received from the data subject. It will not respond to the request itself, unless authorized to do so by the Customer.
 
-(b)    Devuap LLC assists the Customer in fulfilling its obligations to respond to data subjects’ requests to exercise their rights, taking into account the nature of the processing. In fulfilling its obligations in accordance with (a) and (b), Devuap LLC complies with the Customer’s instructions.
+(b)    Typing Technology Co. Ltd. assists the Customer in fulfilling its obligations to respond to data subjects’ requests to exercise their rights, taking into account the nature of the processing. In fulfilling its obligations in accordance with (a) and (b), Typing Technology Co. Ltd. complies with the Customer’s instructions.
 
 **8.2 Cooperation with the Customer**
 
-Devuap LLC furthermore assists the Customer in ensuring compliance with the following obligations, taking into account the nature of the data processing and the information available to Devuap LLC:
+Typing Technology Co. Ltd. furthermore assists the Customer in ensuring compliance with the following obligations, taking into account the nature of the data processing and the information available to Typing Technology Co. Ltd.:
 
 (a)    the obligation to carry out an assessment of the impact of the envisaged processing operations on the protection of personal data (a ‘data protection impact assessment’) where a type of processing is likely to result in a high risk to the rights and freedoms of natural persons;
 
 (b)    the obligation to consult the competent supervisory authority/ies prior to processing where a data protection impact assessment indicates that the processing would result in a high risk in the absence of measures taken by the Customer to mitigate the risk;
 
-(c)    the obligation to ensure that personal data is accurate and up to date, by informing the Customer without delay if Devuap LLC becomes aware that the personal data it is processing is inaccurate or has become outdated;
+(c)    the obligation to ensure that personal data is accurate and up to date, by informing the Customer without delay if Typing Technology Co. Ltd. becomes aware that the personal data it is processing is inaccurate or has become outdated;
 
 (d)    the obligations under Article 32 Regulation (EU) 2016/679.
 
-### ***Clause 9: Notification of personal data breach***
+### **_Clause 9: Notification of personal data breach_**
 
-In the event of a personal data breach concerning data processed by Devuap LLC, Devuap LLC notifies the Customer without undue delay after having become aware of the breach. Such notification shall contain, at least:
+In the event of a personal data breach concerning data processed by Typing Technology Co. Ltd., Typing Technology Co. Ltd. notifies the Customer without undue delay after having become aware of the breach. Such notification shall contain, at least:
 
 (a)    a description of the nature of the breach (including, where possible, the categories and approximate number of data subjects and data records concerned);
 
@@ -153,53 +153,53 @@ In the event of a personal data breach concerning data processed by Devuap LLC, 
 
 Where, and insofar as, it is not possible to provide all this information at the same time, the initial notification will contain the information then available and further information will, as it becomes available, subsequently be provided without undue delay.
 
-Devuap LLC cooperates with and assists the Customer for the Customer to comply with its obligations under Articles 33 and 34 Regulation (EU) 2016/679, where applicable, taking into account the nature of processing and the information available to Devuap LLC.
+Typing Technology Co. Ltd. cooperates with and assists the Customer for the Customer to comply with its obligations under Articles 33 and 34 Regulation (EU) 2016/679, where applicable, taking into account the nature of processing and the information available to Typing Technology Co. Ltd.
 
-### ***Clause 10: Non-compliance with the Clauses and termination***
+### **_Clause 10: Non-compliance with the Clauses and termination_**
 
 **10.1 Suspension of the processing activity**
 
-(a)    Without prejudice to any provisions of Regulation (EU) 2016/679, in the event that Devuap LLC is in breach of its obligations under these Clauses, the Customer may instruct Devuap LLC to suspend the processing of personal data until the latter complies with these Clauses or the contract is terminated. Devuap LLC promptly informs the Customer in case it is unable to comply with these Clauses, for whatever reason.
+(a)    Without prejudice to any provisions of Regulation (EU) 2016/679, in the event that Typing Technology Co. Ltd. is in breach of its obligations under these Clauses, the Customer may instruct Typing Technology Co. Ltd. to suspend the processing of personal data until the latter complies with these Clauses or the contract is terminated. Typing Technology Co. Ltd. promptly informs the Customer in case it is unable to comply with these Clauses, for whatever reason.
 
 (b)    The Customer shall be entitled to terminate the contract insofar as it concerns processing of personal data in accordance with these Clauses if:
 
-(1)    the processing of personal data by Devuap LLC has been suspended by the Customer pursuant to point (a) and if compliance with these Clauses is not restored within a reasonable time and in any event within one month following suspension;
+(1)    the processing of personal data by Typing Technology Co. Ltd. has been suspended by the Customer pursuant to point (a) and if compliance with these Clauses is not restored within a reasonable time and in any event within one month following suspension;
 
-(2)    Devuap LLC is in substantial or persistent breach of these Clauses or its obligations under Regulation (EU) 2016/679 ;
+(2)    Typing Technology Co. Ltd. is in substantial or persistent breach of these Clauses or its obligations under Regulation (EU) 2016/679 ;
 
-(3)    Devuap LLC fails to comply with a binding decision of a competent court or the competent supervisory authority/ies regarding its obligations pursuant to these Clauses or to Regulation (EU) 2016/679.
+(3)    Typing Technology Co. Ltd. fails to comply with a binding decision of a competent court or the competent supervisory authority/ies regarding its obligations pursuant to these Clauses or to Regulation (EU) 2016/679.
 
-(c)    Devuap LLC shall be entitled to terminate the contract insofar as it concerns processing of personal data under these Clauses where, after having informed the Customer that its instructions infringe applicable legal requirements in accordance with Clause 7.1 (b), the Customer insists on compliance with the instructions.
+(c)    Typing Technology Co. Ltd. shall be entitled to terminate the contract insofar as it concerns processing of personal data under these Clauses where, after having informed the Customer that its instructions infringe applicable legal requirements in accordance with Clause 7.1 (b), the Customer insists on compliance with the instructions.
 
 **10.2 Destruction or return of the Customer’s personal data**
 
-Following termination of the Services, Devuap LLC, at the choice of the Customer, deletes all personal data processed on behalf of the Customer and certify to the Customer that it has done so on request, or, returns all the personal data to the Customer and deletes existing copies unless Union or Member State law requires storage of the personal data. Until the data is deleted or returned, Devuap LLC shall continue to ensure compliance with these Clauses.
+Following termination of the Services, Typing Technology Co. Ltd., at the choice of the Customer, deletes all personal data processed on behalf of the Customer and certify to the Customer that it has done so on request, or, returns all the personal data to the Customer and deletes existing copies unless Union or Member State law requires storage of the personal data. Until the data is deleted or returned, Typing Technology Co. Ltd. shall continue to ensure compliance with these Clauses.
 
 ### **Appendix I: List of parties**
 
-**Controller(s):** [Identity and contact details of the Customer(s), and, where applicable, of the Customer’s data protection officer]
+**Controller(s):** \[Identity and contact details of the Customer(s), and, where applicable, of the Customer’s data protection officer\]
 
-1. Name: __________
+1. Name: \_\_\_\_\_\_\_\_\_\_
 
-Address: __________
+Address: \_\_\_\_\_\_\_\_\_\_
 
-Contact person’s name, position, and contact details: __________
+Contact person’s name, position, and contact details: \_\_\_\_\_\_\_\_\_\_
 
-Signature: __________
+Signature: \_\_\_\_\_\_\_\_\_\_
 
-Accession date: __________
+Accession date: \_\_\_\_\_\_\_\_\_\_
 
 **Processor(s):**
 
-1. Name: Devuap LLC
+1. Name: Typing Technology Co. Ltd.
 
-Address: Ste 1200, 1309 Coffeen Avenue, 82801 Sheridan, United States
+Address: 3rd Floor, PVcomBank Building, No. 2 30/4 Street, Hoa Cuong Ward, Da Nang City, Vietnam
 
-Contact person’s name, position, and contact details: Tony Dinh, CEO (tony@typingmind.com)
+Contact person’s name, position, and contact details: Tony Dinh, CEO ([tony@typingmind.com](mailto:tony@typingmind.com))
 
-Signature: __________
+Signature: \_\_\_\_\_\_\_\_\_\_
 
-Accession date: __________
+Accession date: \_\_\_\_\_\_\_\_\_\_
 
 ### **Appendix II: Description of the processing**
 
@@ -273,7 +273,7 @@ Accession date: __________
 
 ### **Appendix III: Technical and organizational measures including technical and organizational measures to ensure the security of the data and assistance to the customer**
 
-### ***A: Security measures taken by Devuap LLC***
+### **_A: Security measures taken by Typing Technology Co. Ltd._**
 
 Measures for user identification and authorisation
 
@@ -351,11 +351,11 @@ Measures for allowing data portability and ensuring erasure
 - Secured device destruction
 - Issuance of destruction certificate
 
-Devuap LLC may update or modify such measures from time to time, provided that such updates and modifications do not materially decrease the overall security of the Service.
+Typing Technology Co. Ltd. may update or modify such measures from time to time, provided that such updates and modifications do not materially decrease the overall security of the Service.
 
 # **Standard Contractual Clauses**
 
-For the purposes of these Standard Contractual Clauses for the transfer of personal data to third countries pursuant to the European Commission’s decision (EU) 2021/914 of 4 June 2021 (hereinafter “SCCs”) available at [https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32021D0914&from=EN](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32021D0914&from=EN), the Customer is the controller of the personal data received and Devuap LLC is the processor of such data.
+For the purposes of these Standard Contractual Clauses for the transfer of personal data to third countries pursuant to the European Commission’s decision (EU) 2021/914 of 4 June 2021 (hereinafter “SCCs”) available at [https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32021D0914&from=EN](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32021D0914&from=EN), the Customer is the controller of the personal data received and Typing Technology Co. Ltd. is the processor of such data.
 
 For the purposes of the SCCs, the following shall apply:
 
@@ -379,7 +379,7 @@ For the purposes of the SCCs, the following shall apply:
 
 A. List of parties
 
-Devuap LLC is the “data importer” and the Customer is the “data exporter” as set out in this Agreement.
+Typing Technology Co. Ltd. is the “data importer” and the Customer is the “data exporter” as set out in this Agreement.
 
 B. Description of transfer
 
