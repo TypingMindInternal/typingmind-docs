@@ -586,7 +586,7 @@
                 "icon": "lock-keyhole",
                 "pages": [
                   "typingmind-team/user-management/access-control:-private-and-authorized-mode",
-                  "typingmind-team/user-management/usage-limits-set-limits-per-ai-model-agent-and-u",
+                  "typingmind-team/user-management/usage-limits",
                   "typingmind-team/branding-and-customizations/restrict-model-access",
                   "typingmind-team/branding-and-customizations/restrict-prompt-access",
                   "typingmind-team/branding-and-customizations/restrict-ai-agents-access"
