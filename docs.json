@@ -891,13 +891,5 @@
       "website": "https://www.typingmind.com/?utm_source=docs"
     }
   },
-  "favicon": "/images/logotypingmind3.png",
-  "banner": {
-    "content": "[We’re live on Product Hunt — support our launch today! 🚀](https://www.producthunt.com/products/typing-mind?launch=typingmind-ai-chat-with-api-keys)",
-    "dismissible": true,
-    "color": {
-      "light": "#FF6154",
-      "dark": "#FF7A66"
-    }
-  }
+  "favicon": "/images/logotypingmind3.png"
 }
