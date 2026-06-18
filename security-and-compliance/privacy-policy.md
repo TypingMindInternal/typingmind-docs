@@ -85,7 +85,3 @@ If we modify this Privacy Policy, we will post the revised statement on this pag
 If you have comments, questions, or concerns regarding our collection and use of your personal data, please email us at [**support@typingmind.com**](mailto:support@typingmind.com). We treat your concerns confidentially and will aim to resolve them in a timely and appropriate manner.
 
 Should you wish to report a complaint or feel that we have not addressed your concern in a satisfactory manner, you retain the right to lodge a complaint with your national or local Data Protection Authority (DPA).
-
-**Data Subject Requests from EU Data Subjects according to the GDPR**
-
-We value your Data Subject Rights under EU GDPR and have therefore appointed Prighter as representative according to Art 27 EU GDPR.  We provide you with an easy way to submit a privacy related request like a request to access or erase your personal data by visiting: [https://app.prighter.com/portal/18105413056](https://app.prighter.com/portal/18105413056)
