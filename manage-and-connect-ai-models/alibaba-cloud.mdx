@@ -1,0 +1,52 @@
+---
+title: "Alibaba Cloud"
+---
+
+Use Qwen models from Alibaba Cloud in TypingMind!
+
+## Step 1. Sign up for an Alibaba Cloud account
+
+Go to [Alibaba Cloud](https://account.alibabacloud.com/login/login.htm) and log in or sign up for an account.
+
+Follow the steps on screen to set up your account.
+
+## Step 2. Get Alibaba Cloud API key
+
+1. Go to the [Alibaba Cloud Model Studio console](https://modelstudio.console.alibabacloud.com/cn-hongkong?spm=a2c63.p38356.0.0.79ea422fSFZ8QS) and switch to your target region in the upper-right corner. 
+2. On the **Dashboard** tab, choose **API Key** from the left-side navigation pane and then click **Create API Key**.
+3. In the dialog box that appears, configure the following information and click **OK**:
+   - **Workspace**: We recommend that you select the default workspace.
+   - **Description**: Enter a description to identify the API key's purpose.
+4. After the key is created, the dialog box displays the full API key. Immediately copy or download and save it in a secure location. 
+5. Also save your workspace endpoint if your selected region is not **US**, as you will need to enter it in TypingMind.
+
+<Frame>
+  ![Alibaba Cloud Api](/images/alibaba-cloud-api.png)
+</Frame>
+
+## Step 3. Enter Alibaba Cloud API key to TypingMind
+
+Go to **TypingMind → Models → API Keys**, then find **Alibaba Cloud API Key** and enter your API key.
+
+If your selected region is not **US**, click the three-dot icon next to the API key input box and enter your workspace endpoint. 
+
+Below is the base workspace endpoint for your API key's region:
+
+- **Singapore**: `https://{WorkspaceId}.ap-southeast-1.maas.aliyuncs.com/compatible-mode/v1/responses`
+- **China (Beijing)**: `https://{WorkspaceId}.cn-beijing.maas.aliyuncs.com/compatible-mode/v1/responses`
+- **China (Hong Kong)**: `https://{WorkspaceId}.cn-hongkong.maas.aliyuncs.com/compatible-mode/v1/responses`
+- **Germany (Frankfurt)**: `https://{WorkspaceId}.eu-central-1.maas.aliyuncs.com/compatible-mode/v1/responses`
+- **Japan (Tokyo)**: `https://{WorkspaceId}.ap-northeast-1.maas.aliyuncs.com/compatible-mode/v1/responses`
+- **US (Virginia)**: `https://dashscope-us.aliyuncs.com/compatible-mode/v1/responses`
+
+Replace `WorkspaceId` with your actual [workspace ID](https://www.alibabacloud.com/help/en/model-studio/obtain-the-app-id-and-workspace-id#d3eb3cd37b7fu) that you copied in step 2 (if any)
+
+<Frame>
+  ![Alibaba Cloud Endpoint](/images/alibaba-cloud-endpoint.webp)
+</Frame>
+
+Switch back to models tab → select Alibaba Cloud as the provider and enable the model you want to chat with.
+
+<Frame>
+  ![Alibaba Models](/images/alibaba-models.webp)
+</Frame>
