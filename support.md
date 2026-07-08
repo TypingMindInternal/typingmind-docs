@@ -22,7 +22,7 @@ You will probably find answers to most of your questions from:
 - [Suggest New Features](https://www.typingmind.com/ideas)
 - [Privacy Policy, Data, & Terms of Service](https://www.typingmind.com/privacy)
 - [Invoice/VAT/Tax Requests](https://www.typingmind.com/invoice)
-- [IT Security & Compliance Documents (SOC2, HIPAA, GDPR, etc.)](https://trust.typingmind.com/)
+- [IT Security & Compliance Documents (SOC2 Type II, GDPR, etc.)](https://trust.typingmind.com/)
 - [Change License Email](https://typingmind.com/change-license-email)
 - [Request Instant Refund](https://typingmind.com/refund)
 

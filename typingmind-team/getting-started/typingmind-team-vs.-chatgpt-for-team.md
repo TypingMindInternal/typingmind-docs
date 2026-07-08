@@ -59,7 +59,7 @@ Let’s jump into each aspect separately:
 Data privacy is critical for businesses dealing with proprietary or sensitive information. Both TypingMind and ChatGPT claim to protect your data, but their approaches differ:
 
 - **Data Usage**: TypingMind ensures **no training on business data**, keeping your conversations and information private. Similarly, ChatGPT does not use your data to improve its models, offering a comparable level of assurance.
-- **Compliance Standards**: TypingMind is **SOC 2 Certified** and complies with **GDPR** and **HIPAA**, making it suitable for regulated industries. ChatGPT also meets these standards but lacks additional flexibility.
+- **Compliance Standards**: TypingMind is **SOC 2 Certified** and complies with **GDPR**, making it suitable for regulated industries. ChatGPT also meets these standards but lacks additional flexibility.
 - **Hosting Options**: TypingMind supports **self-hosting**, allowing businesses to deploy the platform on private servers and retain complete control over their data. ChatGPT does not offer self-hosting, relying entirely on OpenAI’s infrastructure for data management.
 
 In summary, TypingMind’s self-hosting option and regulatory compliance make it the better choice for businesses that prioritize full control and privacy of their data.
