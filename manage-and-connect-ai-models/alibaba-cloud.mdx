@@ -32,3 +32,14 @@ Switch back to models tab → select Alibaba Cloud as the provider and enable th
 <Frame>
   ![Alibaba Models](/images/alibaba-models.webp)
 </Frame>
+
+<Info>
+  **For TypingMind License users:**
+
+  Currently, Alibaba Cloud only supports browser-based API requests for resources hosted in the **US region**. If your API key or endpoint is configured in another region, the request may be blocked by CORS, which can result in the error you're seeing.
+
+  You can resolve this in one of two ways:
+
+  1. If you want to keep using the endpoint in your current region, you’ll need to manually configure a proxy for this model on your end.
+  2. Switch your Alibaba Cloud Model Studio region to the US and create a new API key there.
+</Info>

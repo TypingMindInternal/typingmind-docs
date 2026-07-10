@@ -1,3 +1,7 @@
+---
+title: "Google Gemini"
+---
+
 TypingMind offers access to Google's Gemini AI models, including:
 
 - Gemini Pro
