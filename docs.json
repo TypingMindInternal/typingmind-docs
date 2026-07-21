@@ -77,7 +77,9 @@
                   "manage-and-connect-ai-models/groq-api",
                   "manage-and-connect-ai-models/xiaomi",
                   "manage-and-connect-ai-models/vercel",
-                  "manage-and-connect-ai-models/alibaba-cloud"
+                  "manage-and-connect-ai-models/alibaba-cloud",
+                  "manage-and-connect-ai-models/open-code-go",
+                  "manage-and-connect-ai-models/ollama-cloud"
                 ]
               },
               {
