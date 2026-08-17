@@ -628,6 +628,11 @@
   },
   "redirects": [
     {
+      "source": "/knowledge-base-(rag)",
+      "destination": "/rag-knowledge-base",
+      "permanent": true
+    },
+    {
       "source": "/typingmind-custom/user-management/setup-oauth-2.0",
       "destination": "/typingmind-team/user-management/o-auth-2-0",
       "permanent": true
@@ -878,7 +883,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:support@typindmind.com"
+        "href": "mailto:support@typingmind.com"
       },
       {
         "label": "Changelog",
