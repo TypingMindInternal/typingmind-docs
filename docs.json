@@ -230,6 +230,7 @@
                 "icon": "plug-zap",
                 "pages": [
                   "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-filesystem",
+                  "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-filesystem-2",
                   "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-github",
                   "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-figma",
                   "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-sequential-thinking",
