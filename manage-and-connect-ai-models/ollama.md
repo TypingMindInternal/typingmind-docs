@@ -25,16 +25,16 @@ Go to [https://ollama.com/](https://ollama.com/) and download Ollama to your dev
 Run the following commands so that Ollama allows connection from Typing Mind.
 
 ```bash
-launchctl setenv OLLAMA_HOST "0.0.0.0"
+launchctl setenv OLLAMA_HOST "0.0.0.0:11434"
 launchctl setenv OLLAMA_ORIGINS "*"
 ```
 
-After that, you need to restart Ollama for the changes to take effect.
+**Important:** After running the commands, **completely kill the Ollama app and reopen/restart it** for the changes to take effect — **not just close and reopen it**.
 
-Once the set up is done, run the following command to start a model (in this example: `llama2` )
+Once the set up is done, run the following command to start a model (in this example: `phimini-4` )
 
 ```bash
-ollama run llama2
+ollama run phi4-mini
 
 # Output:
 >>> 
@@ -43,20 +43,22 @@ ollama run llama2
 
 ## Add Ollama models to Typing Mind
 
-Open Typing Mind and open the Model Setting button, then click “Add Custom Model”. Then enter the details as show in the screenshot below:
+Open Typing Mind and open the Model Setting button, then click “Add Custom Model” on the top right corner. Enter the details as following: (in this example, we use phi4-mini)
+
+- Model Name: Phi 4 Mini
+- Model ID: phi4-mini
+- Endpoint: [http://localhost:11434/v1/chat/completions](http://localhost:11434/v1/chat/completions)
+- Click Test & Save so the app can automatically check the model's capabilities.
+- Click Confirm & Proceed to add model.
 
 <Frame>
-  ![Untitled 1](/images/Untitled-1.png)
+  ![Ollama Local 1](/images/ollama-local-1.webp "Ollama Local 1")
 </Frame>
 
 ## Chat with Ollama
 
-Once the model is tested and added successfully, you can select the custom model and chat with it normally.
+Once the model is tested and added successfully, you can enable the model in model list. Then select the custom model and chat with it normally.
 
-<Frame>
-  ![Xnapper 2024 02 11 10 25 18](/images/Xnapper-2024-02-11-10.25.18.png)
-</Frame>
+![Enable Models](/images/enable-models.webp "Enable Models")
 
-<Frame>
-  ![Untitled 2](/images/Untitled-2.png)
-</Frame>
+![Chat Ollama](/images/chat-ollama.webp "Chat Ollama")
