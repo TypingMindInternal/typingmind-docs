@@ -231,6 +231,7 @@
                 "pages": [
                   "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-filesystem",
                   "mcp/typingmind-mcp-chrome-devtools",
+                  "mcp/typingmind-mcp-blender",
                   "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-github",
                   "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-figma",
                   "model-context-protocol-(mcp)-in-typingmind/typingmind-mcp-sequential-thinking",
