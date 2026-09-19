@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 ---
 
-**Last Updated:** March 30, 2026
+**Last Updated:** September 19, 2026
 
 ## 1. Introduction
 
@@ -76,11 +76,19 @@ Cookies are small text files placed on your device to collect standard internet 
 - **How we use them:** If you enable TypingMind Cloud for Sync and Backup, we use cookies strictly to store your logged-in state. This provides a seamless sync experience without requiring you to repeatedly log in. Our authentication cookie expires after 30 days of inactivity.
 - **Managing Cookies:** You can set your browser to refuse cookies. However, if you do so, the TypingMind Cloud Sync features will not function properly.
 
-## 9. Changes to This Privacy Policy
+## 9. Representative
+
+We value your privacy and your rights as a data subject and have therefore appointed Prighter Group with its local partners as our privacy representative and your point of contact for the following regions:
+
+- European Union (EU)
+
+Prighter gives you an easy way to exercise your privacy-related rights (e.g. requests to access or erase personal data). If you want to contact us via our representative, Prighter or make use of your data subject rights, please visit the following website: https://app.prighter.com/portal/15850336186
+
+## 10. Changes to This Privacy Policy
 
 If we modify this Privacy Policy, we will post the revised statement on this page with an updated revision date. If we make significant changes that materially alter our privacy practices, we may also notify you by other means, such as an email or an in-app notice. Your continued use of the Services after changes take effect indicates your acceptance of the updated policy.
 
-## 10. Contact Us
+## 11. Contact Us
 
 If you have comments, questions, or concerns regarding our collection and use of your personal data, please email us at [**support@typingmind.com**](mailto:support@typingmind.com). We treat your concerns confidentially and will aim to resolve them in a timely and appropriate manner.
 
