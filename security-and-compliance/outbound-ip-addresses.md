@@ -15,10 +15,14 @@ These are the stable IP addresses that TypingMind uses for outbound requests (fo
 Requests from MCP, Dynamic Context, and HTTP Action in Plugins:
 
 ```jsx
-52.8.212.232
-52.52.65.190
-44.253.104.13
-52.38.181.139
+155.121.192.4
+155.121.192.5
+155.121.192.0
+155.121.192.2
+155.121.192.3
+155.121.192.1
+155.121.216.1
+155.121.216.0
 ```
 
 Requests from plugins JavaScript execution:
@@ -36,12 +40,12 @@ Requests from plugins JavaScript execution:
 Requests from MCP, Dynamic Context, and HTTP Action in Plugins:
 
 ```jsx
-18.158.148.130
-18.158.212.6
-16.171.120.10
-13.62.116.151
-18.130.23.16
-18.175.73.206
+155.121.236.5
+155.121.236.3
+155.121.236.4
+155.121.244.0
+155.121.244.1
+155.121.244.2
 ```
 
 Requests from plugins JavaScript execution:
