@@ -365,6 +365,8 @@ You can implement your plugin using JavaScript code. The code will be run direct
 
 Write the function implementation in JavaScript. You can use `async` functions if necessary.
 
+When hosting your plugin on GitHub, you can set `codeFile` on a JavaScript entry in `pluginFunctions` to keep its implementation in a separate `.js` file. TypingMind loads that file during GitHub import. See [JavaScript source files](/plugins/typingmind-plugin-json-schema#javascript-source-files) for the format and an example.
+
 **Make sure the function name match**
 
 It’s important that you define a function with the exact same name as defined in the JSON spec at the top level. For example, if you have `"name": "get_calculation_result"` in your JSON spec, then the code must have a function named `get_calculation_result` defined at the top level.
