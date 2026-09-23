@@ -271,17 +271,23 @@ async function create_image(params, userSettings, resources) {
 }
 ```
 
-**2. Read output from the previous run of the plugin**
+**2. Read the latest rendered output from the plugin**
 
-All plugins can read their own output from the previous run by default. There is no permission required for this resource.
+All plugins can read their own latest output whose type is not `respond_to_ai`. This includes `render_html`, `render_markdown`, `cards`, and legacy HTML/Markdown output types. There is no permission required for this resource.
 
 - Permission ID: (No permission needed)
 - Resource variable name: `previousRunOutput`
-- Example data: exactly the return value of the plugin in its last execution.
+- Example data: the output value from the most recent qualifying run, or `undefined` if there is no qualifying output.
 
 <Note>
-  Note: the plugin can only read its own output, not other plugins' output. It also can only access the immediate previous run's output, not the entire output of the chat history.
+  TypingMind searches backward through the current chat for the latest qualifying output from the same plugin, including its other functions. Calls with output type `respond_to_ai` are skipped. This resource returns one output, not the entire chat history or another plugin's output.
 </Note>
+
+<Warning>
+  **Breaking change:** Previously, `previousRunOutput` returned the immediate previous run's output, including `respond_to_ai` results. It now skips `respond_to_ai` results, so it can return an older rendered output or `undefined`. Plugins that use AI-only results to pass state between calls must pass that state explicitly in function parameters or store it separately.
+</Warning>
+
+For example, after a plugin renders HTML, its Read Source or Search Source functions can return `respond_to_ai` results without replacing the HTML available to the next read or update call.
 
 This is useful if the plugin needs to make edits to its previous output. For example, the [**GPT Image Editor**](http://github.com/TypingMind/plugin-gpt-image-editor) uses this to access its previous image and make modifications without requiring the user to upload the image to the chat conversation again.
 
