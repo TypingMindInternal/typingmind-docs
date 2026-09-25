@@ -1,0 +1,97 @@
+---
+title: "Restrict Plugin Access "
+---
+
+With TypingMind Teams, you can restrict the visibility and usage of specific Plugins for certain groups of users.
+
+Here's how to do that:
+
+## Step 1: Create user groups for your team members
+
+Creating Groups for your team members allows you to categorize them into different groups of users, for example, Private group, Public group, BOD group, etc.
+
+Please follow these steps to create groups for your members:
+
+- Go to the **Admin Panel** in your workspace.
+- Navigate to the **Groups** section under **User Management**.
+- Click on **Add New Group**.
+
+![image.png](../getting-started/getting-started-with-typingmind-team-\(cloud-host\)/image%2020.png)
+
+- Enter a **Group Name** that reflects the purpose or role of the group.
+- _(Optional)_ Enable **Admin Access** for this group if they can have access to the admin panel.
+  - If you enable this option, ensure you assign appropriate **Admin Roles** to the group. These roles should align with the permissions you’ve defined in the [**Roles and Permissions**](/typingmind-team/user-management/roles-and-permissions) settings.
+
+![image.png](restrict-model-access/image.png)
+
+- Click **Manage** next to the created group
+- Click **Add Members**
+
+![image.png](restrict-model-access/image%201.png)
+
+- Select the users you want to include in this group from the list.
+
+![image.png](restrict-model-access/image%202.png)
+
+<Tip>
+  Learn more on [User Groups](/typingmind-team/user-management/create-and-manage-user-groups)
+</Tip>
+
+## Step 2: Assign user groups to a specific Plugin
+
+You can manage the Plugin visibility and usage limit using User Groups following the below guidelines:
+
+### **Option 1: Manage via Usage Limits**
+
+- Navigate to the "**Usage & Limit**" under the **Access & Limits** section in the Admin Panel.
+- Click on **Plugin Limits** and select **Add Limit**.
+
+![Plugin Limit 1](/images/plugin-limit-1.webp "Plugin Limit 1")
+
+- Select the AI Agents you want to set the limit
+- Click to **Limit Group** → scroll down to **Add New Limit Group** → Add limits for messages/characters/tokens
+
+![New Limit](/images/new-limit.webp "New Limit")
+
+- In the **Apply for User** section, select the user groups you want to apply the limits to by choosing **Users in specific groups / All users except users from specific groups.**
+
+### **Option 2: Manage limit directly within Plugin Settings**
+
+- Go to **Plugins** section
+- Toggle your current plugin 
+- Switch to Access & Limit tab:
+  - **Set up Visibility**: choose the user group that can access to the Plugin
+  - **Set up Usage limits**: create a new limit group or select from existing limit groups as Option 1 to manage messages/characters/tokens users can send while using the Plugin.
+
+<Tip>
+  For example, if you want only Marketing group to use the Web Browser tool, here are the steps:
+
+  - Add marketing team members to a user group “Marketing”
+  - Assign the "Marketing" group to the Web Browser tool:
+    - Set its visibility to the "Marketing" group.
+    - Apply usage limits as needed for messages and characters.
+
+  ![Web Browser Limit](/images/web-browser-limit.webp "Web Browser Limit")
+</Tip>
+
+## Use Cases
+
+### Restrict Plugin Access for Different Departments
+
+With TypingMind Teams, you can control which plugins each department can access based on their specific needs and responsibilities.
+
+This helps ensure that:
+
+- Employees only have access to plugins relevant to their work.
+- Sensitive integrations are available only to authorized teams.
+- Your workspace stays organized without unnecessary plugins.
+
+For example, you can allow the Marketing team to use web search and content creation plugins, while the Sales team can access CRM integrations to retrieve customer information and manage leads.
+
+### Control Plugin Access Based on User Roles
+
+Not every employee needs access to every plugin, especially those connected to sensitive company data or external services.
+
+For example, interns and guests can be limited to basic plugins, while managers and authorized employees can access advanced plugins connected to internal databases, financial reports, or business applications.
+
+This allows companies to provide employees with the tools they need while maintaining better control over plugin access and protecting sensitive business information.

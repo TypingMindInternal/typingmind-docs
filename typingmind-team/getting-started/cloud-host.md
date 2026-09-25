@@ -312,7 +312,7 @@ Learn how to restrict user access to certain:
 - [Chat models](/typingmind-team/branding-and-customizations/restrict-model-access)
 - [Prompts](/typingmind-team/branding-and-customizations/restrict-prompt-access)
 - [AI Agents](/typingmind-team/branding-and-customizations/restrict-ai-agents-access)
-- Plugins
+- [Plugins](/typingmind-team/branding-and-customizations/restrict-plugin-access)
 
 ### Step 10: Access control
 

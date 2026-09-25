@@ -594,7 +594,8 @@
                   "typingmind-team/user-management/usage-limits",
                   "typingmind-team/branding-and-customizations/restrict-model-access",
                   "typingmind-team/branding-and-customizations/restrict-prompt-access",
-                  "typingmind-team/branding-and-customizations/restrict-ai-agents-access"
+                  "typingmind-team/branding-and-customizations/restrict-ai-agents-access",
+                  "typingmind-team/branding-and-customizations/restrict-plugin-access"
                 ]
               }
             ]

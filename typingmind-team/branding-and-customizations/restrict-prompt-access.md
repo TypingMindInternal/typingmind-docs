@@ -2,7 +2,7 @@
 title: "Restrict Prompt Access"
 ---
 
-With TypingMind Team, you can restrict the visibility of prompts for certain user groups. This allows you to control which prompts each user group can be used.
+With TypingMind Teams, you can restrict the visibility of prompts for certain user groups. This allows you to control which prompts each user group can be used.
 
 You can restrict their access to specific prompts by grouping your team members into different groups and assigning these groups to specific prompts, here's the details.
 

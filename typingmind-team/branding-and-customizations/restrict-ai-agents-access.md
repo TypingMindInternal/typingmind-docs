@@ -2,7 +2,7 @@
 title: "Restrict AI Agents Access"
 ---
 
-With TypingMind Custom, you can restrict the visibility and usage of specific AI Agents for certain groups of users.
+With TypingMind Teams, you can restrict the visibility and usage of specific AI Agents for certain groups of users.
 
 Here's how to do that:
 
