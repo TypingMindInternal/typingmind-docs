@@ -326,19 +326,9 @@ However, we provide another additional access option:
 
 ### Step 11: Integrate your chat instance into your existing workflow
 
-You can connect your chat instance to your existing workflow as follows:
+You can connect your chat instance to your existing workflow using our API.
 
-#### 1. Embed as a chat widget on your website
-
-- Go to the **Chat Widget** section
-- Customize the widget appearance
-- Click "**Copy code**" and paste it after the opening `<head>` tag on the page you want to add this widget.
-
-![chat-widget.webp](getting-started-with-typingmind-team-\(cloud-host\)/chat-widget.webp)
-
-#### 2. Use our API
-
-**TypingMind Custom API** is a REST API that lets you interact with data in the TypingMind system. It uses JSON-formatted data for requests and responses.
+**TypingMind Teams API** is a REST API that lets you interact with data in the TypingMind system. It uses JSON-formatted data for requests and responses.
 
 The API allows you to:
 
