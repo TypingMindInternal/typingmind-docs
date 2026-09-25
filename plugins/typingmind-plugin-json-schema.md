@@ -286,6 +286,56 @@ Here is an example for a function with MCP implementation type.
 }
 ```
 
+## JavaScript source files
+
+For plugins hosted on GitHub, a JavaScript entry in `pluginFunctions` can use `codeFile` instead of an inline `code` string. This keeps the implementation in a separate `.js` file.
+
+`codeFile` is a path relative to the repository root, where `plugin.json` is stored. For example, `"codeFile": "functions/add-numbers.js"` loads that file from the same repository and branch as `plugin.json`.
+
+Example function configuration in `plugin.json`:
+
+```json
+{
+  "pluginFunctions": [
+    {
+      "id": "add-numbers",
+      "name": "Add Numbers",
+      "implementationType": "javascript",
+      "codeFile": "functions/add-numbers.js",
+      "openaiSpec": {
+        "name": "add_numbers",
+        "description": "Add two numbers.",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "a": { "type": "number" },
+            "b": { "type": "number" }
+          },
+          "required": ["a", "b"]
+        }
+      },
+      "outputType": "respond_to_ai"
+    }
+  ]
+}
+```
+
+Contents of `functions/add-numbers.js`:
+
+```javascript
+function add_numbers({ a, b }) {
+  return a + b;
+}
+```
+
+The file must define a top-level function with the same name as `openaiSpec.name`.
+
+- `codeFile` applies to JavaScript entries in `pluginFunctions`.
+- Existing inline `code` strings are still supported. If both `codeFile` and `code` are set, the file contents take precedence.
+- TypingMind reads the file during GitHub import and stores its contents as `code`. The file is not fetched on each function call.
+- Import fails if the referenced file cannot be fetched; it does not fall back to inline `code`.
+- For standalone JSON imports or the JSON Editor, include the implementation in `code`. File references are resolved by the GitHub importer.
+
 ## Complete example
 
 Below is a complete example JSON source for the “Web Search (Serp)” plugin:

@@ -28,9 +28,10 @@ Looking to share plugins or import shared plugins? This guide will provide the e
 To share a plugin via GitHub (check [this repo](https://github.com/TypingMind/plugin-stable-diffusion-v2-image) as an example):
 
 1. Create a public repo on GitHub
-2. Create 3 files: `README.md` , `implementation.js` and `plugin.json`:
+2. Create `README.md`, `plugin.json`, and any JavaScript implementation files:
    - `README.md`: plugin overview
-   - `implementation.js`: this file contains the JS code, it is only required if you use Javascript code implementation. It must contain a function with the name as same as the id in plugin.json file
+   - `implementation.js`: used for the legacy top-level JavaScript implementation. It is not required when each JavaScript entry in `pluginFunctions` supplies `code` or `codeFile`.
+   - Files referenced by `pluginFunctions[].codeFile`: store each function's JavaScript in a separate file, such as `functions/add-numbers.js`. Paths are relative to the repository root. See the [codeFile example](/plugins/typingmind-plugin-json-schema#javascript-source-files).
    - `plugin.json`: a JSON file containing all configs of the plugin, please check [this guide](https://docs.typingmind.com/plugins/build-a-typingmind-plugin) to understand more. It has the following properties:
      - `version`: number, for other users to notice to update
      - `uuid`: string, this is the unique id to distinguish plugins
